@@ -6,34 +6,65 @@
   <title>StakeWatch</title>
 
   <style>
+    :root{
+      --bg:#ffffff; --text:#111; --muted:#6b7280; --line:#e5e7eb;
+      --pill:#f3f4f6; --head:#fafafa;
+      --strong:#111827; --soft:#9ca3af;
+    }
     body{
       font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
       margin: 18px;
-      color: #111;
+      background: var(--bg);
+      color: var(--text);
     }
     h1{ margin: 0 0 6px 0; }
-    .sub{ color:#555; font-size:14px; margin-bottom:14px; }
+    .sub{ color:var(--muted); font-size:14px; margin-bottom:14px; line-height:1.35; }
     .controls{
       display:flex; gap:10px; flex-wrap:wrap; align-items:center;
-      margin: 12px 0 14px 0;
+      margin: 12px 0 10px 0;
     }
-    select,input,button{
-      padding:8px 10px; border-radius:10px; border:1px solid #ccc; font-size:14px;
+    select,input,button,label{
+      padding:8px 10px; border-radius:10px; border:1px solid #d1d5db; font-size:14px;
       background: #fff;
     }
     button{ cursor:pointer; }
-    .status{ color:#666; font-size:13px; margin: 6px 0 10px 0; }
+    .status{ color:var(--muted); font-size:13px; margin: 6px 0 10px 0; }
+
     table{ width:100%; border-collapse:collapse; }
-    th,td{ padding:10px; border-bottom:1px solid #eee; vertical-align:top; text-align:left; }
-    th{ background:#fafafa; position:sticky; top:0; z-index:1; }
+    th,td{ padding:10px; border-bottom:1px solid var(--line); vertical-align:top; text-align:left; }
+    th{ background:var(--head); position:sticky; top:0; z-index:1; }
     .pill{
-      display:inline-block; padding:3px 8px; border-radius:999px; border:1px solid #ddd;
-      font-size:12px; background:#f6f6f6;
+      display:inline-block; padding:3px 8px; border-radius:999px; border:1px solid #e5e7eb;
+      font-size:12px; background:var(--pill);
       white-space:nowrap;
     }
-    .muted{ color:#666; font-size:12px; }
-    a{ word-break:break-all; }
+    .muted{ color:var(--muted); font-size:12px; }
     .nowrap{ white-space:nowrap; }
+    a{ word-break:break-all; }
+
+    /* Signal styles */
+    .sig{ font-weight:600; }
+    .sig-strong{ color:#111; }
+    .sig-mid{ color:#111; }
+    .sig-info{ color:var(--soft); }
+
+    /* Make 8-K rows visually quieter */
+    tr.row-8k td{
+      color: var(--soft);
+    }
+    tr.row-8k td a{
+      color: #6b7280;
+    }
+
+    .ktext{
+      font-weight:600;
+      color: var(--strong);
+      line-height:1.25;
+    }
+    tr.row-8k .ktext{
+      font-weight:500;
+      color: var(--soft);
+    }
   </style>
 </head>
 
@@ -41,7 +72,8 @@
   <h1>StakeWatch</h1>
   <div class="sub">
     Übersicht über Meldungen (USA: SEC 13D/13G/8-K, Deutschland: EQS-Stimmrechte).<br>
-    Ziel: <b>WER</b> macht <b>WAS</b> mit <b>WEM</b> – inkl. Prozent (wenn verfügbar).
+    Ziel: <b>WER</b> macht <b>WAS</b> mit <b>WEM</b> – inkl. Prozent (wenn verfügbar).<br>
+    <span class="muted">Hinweis: Zeiten sind UTC.</span>
   </div>
 
   <div class="controls">
@@ -53,19 +85,25 @@
 
     <select id="event">
       <option value="">Alle Ereignisse</option>
-      <option value="SC 13D">SC 13D (oft strategisch >5%)</option>
-      <option value="SC 13G">SC 13G (oft passiv >5%)</option>
-      <option value="8-K">8-K (wichtige Meldung)</option>
+      <option value="SC 13D">SC 13D (strategisch)</option>
+      <option value="SC 13G">SC 13G (passiv)</option>
+      <option value="8-K">8-K (Info)</option>
       <option value="Stimmrechte">DE Stimmrechte</option>
     </select>
 
     <input id="q" placeholder="Suche: Firma / Name / Text …" size="28">
+
     <select id="limit">
       <option value="50">50</option>
       <option value="100" selected>100</option>
       <option value="250">250</option>
       <option value="1000">1000</option>
     </select>
+
+    <label style="display:flex;gap:8px;align-items:center;border:1px solid #d1d5db;border-radius:10px;padding:6px 10px;">
+      <input id="onlySignals" type="checkbox" style="padding:0;margin:0;">
+      nur Signale (🔥/⚠️)
+    </label>
 
     <button id="reload">Neu laden</button>
   </div>
@@ -75,13 +113,14 @@
   <table>
     <thead>
       <tr>
+        <th>Signal</th>
+        <th>Klartext</th>
         <th class="nowrap">Zeit (UTC)</th>
         <th>Region</th>
         <th>Ereignis</th>
         <th>WER (Buyer / Melder)</th>
         <th>WEM (Target / Emittent)</th>
         <th class="nowrap">%</th>
-        <th>Titel</th>
         <th>Quelle</th>
       </tr>
     </thead>
@@ -96,14 +135,77 @@ async function loadData(){
   status.textContent = "Lade Daten…";
   const res = await fetch("./data.json?x=" + Date.now());
   all = await res.json();
-  status.textContent = `Geladen: ${all.length} Einträge. (Hinweis: Zeiten sind UTC)`;
+  status.textContent = `Geladen: ${all.length} Einträge.`;
   render();
 }
 
 function norm(s){ return (s || "").toString().toLowerCase(); }
+function pill(text){ return `<span class="pill">${text || "—"}</span>`; }
 
-function pill(text){
-  return `<span class="pill">${text || ""}</span>`;
+function getSignal(x){
+  const ev = (x.event || "").toUpperCase();
+  if(ev === "SC 13D" || (x.region === "DE" && x.event === "Stimmrechte")) return {icon:"🔥", cls:"sig-strong", label:"Stark"};
+  if(ev === "SC 13G") return {icon:"⚠️", cls:"sig-mid", label:"Beobachten"};
+  return {icon:"ℹ️", cls:"sig-info", label:"Info"};
+}
+
+function fmtPercent(p){
+  if(p === null || p === undefined || p === "") return "";
+  const s = String(p).trim();
+  // keep as-is if already has comma/dot
+  return s;
+}
+
+function issuerFromTitleDE(title){
+  // fallback: "EQS-Stimmrechte: XYZ - ..."
+  const t = title || "";
+  const m = t.match(/Stimmrechte\s*:\s*(.+?)(?:\s+-\s+|\||$)/i);
+  return m ? m[1].trim() : "";
+}
+
+function companyFromSecTitle(title){
+  // "8-K - COMPANY NAME (0000...) (Filer)"
+  const t = title || "";
+  const m = t.match(/-\s*(.+?)\s*\(\d{6,}\)/);
+  return m ? m[1].trim() : "";
+}
+
+function buildKlartext(x){
+  const reg = x.region || "";
+  const ev  = x.event || "";
+  const buyer = (x.buyer || "").trim();
+  let target = (x.target || "").trim();
+  const pct = fmtPercent(x.percent);
+
+  if(reg === "DE" && ev === "Stimmrechte"){
+    if(!target) target = issuerFromTitleDE(x.title);
+    const who = buyer || "Ein Meldepflichtiger";
+    const what = pct ? `meldet ${pct} %` : "meldet eine Stimmrechtsänderung";
+    const whom = target ? `an ${target}` : "bei einem Emittenten";
+    return `${who} ${what} ${whom} (DE)`;
+  }
+
+  if(ev === "SC 13D"){
+    const t = target || companyFromSecTitle(x.title) || "ein Unternehmen";
+    const who = buyer || "Ein Investor";
+    const what = pct ? `steigt strategisch mit ${pct} % ein` : "reicht eine strategische Beteiligungsmeldung (13D) ein";
+    return `${who} ${what} bei ${t} (US)`;
+  }
+
+  if(ev === "SC 13G"){
+    const t = target || companyFromSecTitle(x.title) || "ein Unternehmen";
+    const who = buyer || "Ein Investor";
+    const what = pct ? `meldet passiv ${pct} %` : "reicht eine passive Beteiligungsmeldung (13G) ein";
+    return `${who} ${what} bei ${t} (US)`;
+  }
+
+  if(ev === "8-K"){
+    const t = companyFromSecTitle(x.title) || "ein Unternehmen";
+    return `8-K Unternehmensmeldung von ${t} (US)`;
+  }
+
+  // fallback
+  return `${ev || "Meldung"} (${reg || "—"})`;
 }
 
 function render(){
@@ -111,16 +213,25 @@ function render(){
   const event = document.getElementById("event").value.trim();
   const q = norm(document.getElementById("q").value.trim());
   const limit = parseInt(document.getElementById("limit").value, 10);
+  const onlySignals = document.getElementById("onlySignals").checked;
 
   let data = all;
 
   if(region) data = data.filter(x => (x.region || "") === region);
   if(event) data = data.filter(x => (x.event || "") === event);
 
+  if(onlySignals){
+    data = data.filter(x => {
+      const ev = (x.event || "").toUpperCase();
+      return ev === "SC 13D" || ev === "SC 13G" || (x.region === "DE" && x.event === "Stimmrechte");
+    });
+  }
+
   if(q){
     data = data.filter(x => {
+      const klar = buildKlartext(x);
       const hay = [
-        x.title, x.event, x.region, x.source, x.buyer, x.target, x.percent, x.link
+        x.title, x.event, x.region, x.source, x.buyer, x.target, x.percent, x.link, klar
       ].map(norm).join(" | ");
       return hay.includes(q);
     });
@@ -134,25 +245,33 @@ function render(){
   for(const x of data){
     const tr = document.createElement("tr");
 
+    const sig = getSignal(x);
+    const klar = buildKlartext(x);
+
     const time = x.time_utc || "";
     const reg = x.region || "";
     const ev  = x.event || "";
-    const buyer = x.buyer || "";
-    const target = x.target || "";
-    const percent = (x.percent === null || x.percent === undefined) ? "" : String(x.percent);
+    const buyer = (x.buyer || "").trim();
+    const target = (x.target || "").trim();
+    const percent = fmtPercent(x.percent);
+
+    if(ev === "8-K") tr.classList.add("row-8k");
 
     tr.innerHTML = `
+      <td class="nowrap sig ${sig.cls}" title="${sig.label}">${sig.icon}</td>
+      <td class="ktext">${klar}</td>
       <td class="nowrap">${time}</td>
-      <td>${pill(reg || "—")}</td>
-      <td>${pill(ev || "—")}</td>
+      <td>${pill(reg)}</td>
+      <td>${pill(ev)}</td>
       <td>${buyer ? buyer : `<span class="muted">—</span>`}</td>
       <td>${target ? target : `<span class="muted">—</span>`}</td>
       <td class="nowrap">${percent ? percent : `<span class="muted">—</span>`}</td>
-      <td>${x.title ? x.title : ""}</td>
       <td><a href="${x.link}" target="_blank" rel="noopener">Öffnen</a></td>
     `;
     tbody.appendChild(tr);
   }
+
+  document.getElementById("status").textContent = `Anzeige: ${data.length} von ${all.length} Einträgen.`;
 }
 
 document.getElementById("reload").onclick = loadData;
@@ -160,6 +279,7 @@ document.getElementById("region").onchange = render;
 document.getElementById("event").onchange = render;
 document.getElementById("limit").onchange = render;
 document.getElementById("q").oninput = render;
+document.getElementById("onlySignals").onchange = render;
 
 loadData();
 </script>
