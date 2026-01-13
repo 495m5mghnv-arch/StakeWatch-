@@ -9,21 +9,19 @@ import feedparser
 
 USER_AGENT = os.getenv("SEC_USER_AGENT", "Leonard Klauss leonard@example.com")
 
-# USA (SEC current filings feed)
 SEC_RSS_URL = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&output=atom"
 SEC_FORMS = {"SC 13D", "SC 13G", "8-K"}
 
-# Deutschland (Deutsche Börse / Börse Frankfurt News RSS, enthält EQS-Meldungen)
 DE_NEWS_RSS = "https://api.boerse-frankfurt.de/v1/feeds/news.rss"
 
 MAX_EVENTS = 2000
 
 
-def now_utc_iso() -> str:
+def now_utc_iso():
     return datetime.now(timezone.utc).isoformat()
 
 
-def load_json(path: str, default):
+def load_json(path, default):
     if not os.path.exists(path):
         return default
     try:
@@ -33,12 +31,12 @@ def load_json(path: str, default):
         return default
 
 
-def save_json(path: str, data):
+def save_json(path, data):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def save_csv(path: str, events):
+def save_csv(path, events):
     cols = ["time_utc", "region", "source", "event", "buyer", "target", "percent", "title", "link"]
     with open(path, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=cols)
@@ -47,14 +45,12 @@ def save_csv(path: str, events):
             w.writerow({k: e.get(k, "") for k in cols})
 
 
-def extract_sec_form(title: str) -> str:
-    # z.B. "8-K - COMPANY NAME (CIK...)"
+def extract_sec_form(title):
     m = re.match(r"^([A-Z0-9/\- ]+?)\s+-\s+", (title or "").strip())
     return m.group(1).strip() if m else ""
 
 
-def html_to_text(html: str) -> str:
-    # Minimaler HTML->Text (ohne externe Libraries)
+def html_to_text(html):
     txt = re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", html, flags=re.I | re.S)
     txt = re.sub(r"<br\s*/?>", "\n", txt, flags=re.I)
     txt = re.sub(r"</p\s*>", "\n", txt, flags=re.I)
@@ -65,38 +61,28 @@ def html_to_text(html: str) -> str:
     return txt.strip()
 
 
-def de_extract_issuer_from_title(title: str) -> str:
-    # Häufig: "EQS-Stimmrechte: <Issuer> - ..."
+def de_extract_issuer_from_title(title):
     t = title or ""
     m = re.search(r"Stimmrechte\s*:\s*(.+?)(?:\s+-\s+|\s+\||$)", t)
     return (m.group(1).strip() if m else "").strip()
 
 
-def de_parse_percent_from_text(text: str):
-    # Sucht nach Zeile "neu ..." und nimmt die letzte Prozentzahl
-    def last_percent_in_line(line: str):
-        perc = re.findall(r"(\d+(?:[.,]\d+)?)\s*%", line)
-        if not perc:
-            return None
-        s = perc[-1].replace(",", ".")
-        try:
-            return float(s)
-        except Exception:
-            return None
-
-    percent_new = None
-    percent_old = None
+def de_parse_percent_new(text):
+    # Nimmt aus der Zeile "neu ..." die letzte Prozentzahl
     for line in text.splitlines():
         l = line.strip().lower()
         if l.startswith("neu "):
-            percent_new = last_percent_in_line(line)
-        if l.startswith("letzte "):
-            percent_old = last_percent_in_line(line)
+            perc = re.findall(r"(\d+(?:[.,]\d+)?)\s*%", line)
+            if perc:
+                s = perc[-1].replace(",", ".")
+                try:
+                    return float(s)
+                except Exception:
+                    return None
+    return None
 
-    return percent_new, percent_old
 
-
-def de_parse_notifier_from_text(text: str) -> str:
+def de_parse_notifier(text):
     m = re.search(r"Juristische Person\s*:\s*(.+)", text)
     if m:
         return m.group(1).strip()
@@ -117,7 +103,6 @@ def collect_sec():
         title = (getattr(entry, "title", "") or "").strip()
         link = (getattr(entry, "link", "") or "").strip()
         form = extract_sec_form(title)
-
         if form not in SEC_FORMS:
             continue
 
@@ -146,24 +131,64 @@ def collect_de():
         title = (getattr(entry, "title", "") or "").strip()
         link = (getattr(entry, "link", "") or "").strip()
 
-        # Filter: EQS Stimmrechte / Stimmrechtsmitteilung
         if "EQS" not in title:
             continue
         if ("Stimmrechte" not in title) and ("Stimmrechtsmitteilung" not in title):
             continue
 
         issuer = de_extract_issuer_from_title(title)
+
+        # Best effort: Artikel laden, wenn möglich
         notifier = ""
         percent_new = ""
-
-        # Optional: Artikel holen und Prozent + Melder extrahieren (best effort)
-        try:
-            rr = requests.get(link, headers={"User-Agent": USER_AGENT}, timeout=30)
-            rr.raise_for_status()
+        rr = requests.get(link, headers={"User-Agent": USER_AGENT}, timeout=30)
+        if rr.ok:
             text = html_to_text(rr.text)
-
-            pn, _po = de_parse_percent_from_text(text)
+            pn = de_parse_percent_new(text)
             if pn is not None:
                 percent_new = str(pn)
+            notifier = de_parse_notifier(text)
 
-            notifier = de_parse_notifier_from_text(text)
+        out.append({
+            "time_utc": now_utc_iso(),
+            "region": "DE",
+            "source": "DeutscheBoerseRSS",
+            "event": "Stimmrechte",
+            "buyer": notifier,
+            "target": issuer,
+            "percent": percent_new,
+            "title": title,
+            "link": link
+        })
+
+    return out
+
+
+def main():
+    seen = set(load_json("seen.json", []))
+    events = load_json("data.json", [])
+
+    new_items = []
+    items = collect_sec() + collect_de()
+
+    for item in items:
+        key = item.get("link") or item.get("title")
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        new_items.append(item)
+
+    if new_items:
+        events = new_items + events
+
+    events = events[:MAX_EVENTS]
+
+    save_json("seen.json", sorted(list(seen)))
+    save_json("data.json", events)
+    save_csv("events.csv", events)
+
+    print(f"Done. New: {len(new_items)} | Total: {len(events)}")
+
+
+if __name__ == "__main__":
+    main()
