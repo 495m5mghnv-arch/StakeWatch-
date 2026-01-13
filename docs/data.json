@@ -1,5 +1,113 @@
 [
   {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - Pagaya Technologies Ltd. (0001883085) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1883085/000188308526000004/0001883085-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - AVITA Medical, Inc. (0001762303) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1762303/000119312526011167/0001193125-26-011167-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - PureCycle Technologies, Inc. (0001830033) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1830033/000119312526011168/0001193125-26-011168-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - Nukkleus Inc. (0001787518) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026003686/0001213900-26-003686-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - Expion360 Inc. (0001894954) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000008/0001903596-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - PHOTRONICS INC (0000810136) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/810136/000114036126001053/0001140361-26-001053-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - Worksport Ltd (0001096275) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226001956/0001493152-26-001956-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - Beeline Holdings, Inc. (0001534708) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1534708/000149315226001957/0001493152-26-001957-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - TruGolf Holdings, Inc. (0001857086) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226001958/0001493152-26-001958-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - Pelthos Therapeutics Inc. (0001919246) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1919246/000175392626000097/0001753926-26-000097-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - IDEXX LABORATORIES INC /DE (0000874716) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/874716/000110465926003103/0001104659-26-003103-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - Biofrontera Inc. (0001858685) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1858685/000149315226001959/0001493152-26-001959-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - SS Innovations International, Inc. (0001676163) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1676163/000121390026003688/0001213900-26-003688-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - AUDIOEYE INC (0001362190) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1362190/000110465926003108/0001104659-26-003108-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - NLIGHT, INC. (0001124796) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1124796/000112479626000006/0001124796-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - Trump Media & Technology Group Corp. (0001849635) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1849635/000114036126001056/0001140361-26-001056-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000007/0001331754-26-000007-index.htm"
+  },
+  {
+    "time_utc": "2026-01-13T13:54:29.014456+00:00",
+    "form": "8-K",
+    "title": "8-K - Picard Medical, Inc. (0002030617) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2030617/000182912626000265/0001829126-26-000265-index.htm"
+  },
+  {
     "time_utc": "2026-01-13T11:53:03.768783+00:00",
     "form": "8-K",
     "title": "8-K - JPMORGAN CHASE & CO (0000019617) (Filer)",
