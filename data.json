@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-13T21:00:43.451362+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ACADIA PHARMACEUTICALS INC (0001070494) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1070494/000119312526011706/0001193125-26-011706-index.htm"
+  },
+  {
     "time_utc": "2026-01-13T19:34:15.770856+00:00",
     "form": "8-K",
     "title": "8-K - LAKELAND FINANCIAL CORP (0000721994) (Filer)",
