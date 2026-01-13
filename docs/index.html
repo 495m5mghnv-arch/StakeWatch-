@@ -3,137 +3,165 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>StakeWatch – Übersicht</title>
+  <title>StakeWatch</title>
 
   <style>
-    body {
+    body{
       font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-      margin: 20px;
+      margin: 18px;
+      color: #111;
     }
-    h1 {
-      margin-bottom: 5px;
+    h1{ margin: 0 0 6px 0; }
+    .sub{ color:#555; font-size:14px; margin-bottom:14px; }
+    .controls{
+      display:flex; gap:10px; flex-wrap:wrap; align-items:center;
+      margin: 12px 0 14px 0;
     }
-    .info {
-      color: #555;
-      font-size: 14px;
-      margin-bottom: 15px;
+    select,input,button{
+      padding:8px 10px; border-radius:10px; border:1px solid #ccc; font-size:14px;
+      background: #fff;
     }
-    .controls {
-      margin-bottom: 15px;
-      display: flex;
-      gap: 10px;
-      flex-wrap: wrap;
+    button{ cursor:pointer; }
+    .status{ color:#666; font-size:13px; margin: 6px 0 10px 0; }
+    table{ width:100%; border-collapse:collapse; }
+    th,td{ padding:10px; border-bottom:1px solid #eee; vertical-align:top; text-align:left; }
+    th{ background:#fafafa; position:sticky; top:0; z-index:1; }
+    .pill{
+      display:inline-block; padding:3px 8px; border-radius:999px; border:1px solid #ddd;
+      font-size:12px; background:#f6f6f6;
+      white-space:nowrap;
     }
-    select, input, button {
-      padding: 8px 10px;
-      border-radius: 6px;
-      border: 1px solid #ccc;
-      font-size: 14px;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-    th, td {
-      border-bottom: 1px solid #eee;
-      padding: 10px;
-      text-align: left;
-      vertical-align: top;
-    }
-    th {
-      background: #fafafa;
-      position: sticky;
-      top: 0;
-    }
-    .badge {
-      display: inline-block;
-      padding: 4px 8px;
-      border-radius: 12px;
-      font-size: 12px;
-      border: 1px solid #ccc;
-      background: #f5f5f5;
-    }
-    a {
-      word-break: break-all;
-    }
+    .muted{ color:#666; font-size:12px; }
+    a{ word-break:break-all; }
+    .nowrap{ white-space:nowrap; }
   </style>
 </head>
 
 <body>
+  <h1>StakeWatch</h1>
+  <div class="sub">
+    Übersicht über Meldungen (USA: SEC 13D/13G/8-K, Deutschland: EQS-Stimmrechte).<br>
+    Ziel: <b>WER</b> macht <b>WAS</b> mit <b>WEM</b> – inkl. Prozent (wenn verfügbar).
+  </div>
 
-<h1>StakeWatch</h1>
-<div class="info">
-  Automatische Übersicht über neue SEC-Meldungen<br>
-  <strong>SC 13D</strong> = oft strategische Beteiligung &gt; 5 %<br>
-  <strong>SC 13G</strong> = meist passive Beteiligung &gt; 5 %<br>
-  <strong>8-K</strong> = wichtige Unternehmensmeldung (z. B. Verträge, M&A)
-</div>
+  <div class="controls">
+    <select id="region">
+      <option value="">Alle Regionen</option>
+      <option value="US">USA</option>
+      <option value="DE">Deutschland</option>
+    </select>
 
-<div class="controls">
-  <select id="formFilter">
-    <option value="">Alle Typen</option>
-    <option value="SC 13D">SC 13D</option>
-    <option value="SC 13G">SC 13G</option>
-    <option value="8-K">8-K</option>
-  </select>
+    <select id="event">
+      <option value="">Alle Ereignisse</option>
+      <option value="SC 13D">SC 13D (oft strategisch >5%)</option>
+      <option value="SC 13G">SC 13G (oft passiv >5%)</option>
+      <option value="8-K">8-K (wichtige Meldung)</option>
+      <option value="Stimmrechte">DE Stimmrechte</option>
+    </select>
 
-  <input id="search" placeholder="Firma oder Text suchen …" size="30">
+    <input id="q" placeholder="Suche: Firma / Name / Text …" size="28">
+    <select id="limit">
+      <option value="50">50</option>
+      <option value="100" selected>100</option>
+      <option value="250">250</option>
+      <option value="1000">1000</option>
+    </select>
 
-  <button onclick="reload()">Neu laden</button>
-</div>
+    <button id="reload">Neu laden</button>
+  </div>
 
-<table>
-  <thead>
-    <tr>
-      <th>Zeit (UTC)</th>
-      <th>Typ</th>
-      <th>Titel</th>
-      <th>Original-Link</th>
-    </tr>
-  </thead>
-  <tbody id="tableBody"></tbody>
-</table>
+  <div id="status" class="status"></div>
+
+  <table>
+    <thead>
+      <tr>
+        <th class="nowrap">Zeit (UTC)</th>
+        <th>Region</th>
+        <th>Ereignis</th>
+        <th>WER (Buyer / Melder)</th>
+        <th>WEM (Target / Emittent)</th>
+        <th class="nowrap">%</th>
+        <th>Titel</th>
+        <th>Quelle</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
 
 <script>
-let allData = [];
+let all = [];
 
-async function loadData() {
-  const response = await fetch("data.json?x=" + Date.now());
-  allData = await response.json();
+async function loadData(){
+  const status = document.getElementById("status");
+  status.textContent = "Lade Daten…";
+  const res = await fetch("./data.json?x=" + Date.now());
+  all = await res.json();
+  status.textContent = `Geladen: ${all.length} Einträge. (Hinweis: Zeiten sind UTC)`;
   render();
 }
 
-function render() {
-  const filter = document.getElementById("formFilter").value;
-  const search = document.getElementById("search").value.toLowerCase();
-  const body = document.getElementById("tableBody");
-  body.innerHTML = "";
+function norm(s){ return (s || "").toString().toLowerCase(); }
 
-  allData.forEach(item => {
-    if (filter && item.form !== filter) return;
-    if (search && !item.title.toLowerCase().includes(search)) return;
+function pill(text){
+  return `<span class="pill">${text || ""}</span>`;
+}
 
-    const row = document.createElement("tr");
+function render(){
+  const region = document.getElementById("region").value.trim();
+  const event = document.getElementById("event").value.trim();
+  const q = norm(document.getElementById("q").value.trim());
+  const limit = parseInt(document.getElementById("limit").value, 10);
 
-    row.innerHTML = `
-      <td>${item.time_utc}</td>
-      <td><span class="badge">${item.form}</span></td>
-      <td>${item.title}</td>
-      <td><a href="${item.link}" target="_blank">SEC-Dokument öffnen</a></td>
+  let data = all;
+
+  if(region) data = data.filter(x => (x.region || "") === region);
+  if(event) data = data.filter(x => (x.event || "") === event);
+
+  if(q){
+    data = data.filter(x => {
+      const hay = [
+        x.title, x.event, x.region, x.source, x.buyer, x.target, x.percent, x.link
+      ].map(norm).join(" | ");
+      return hay.includes(q);
+    });
+  }
+
+  data = data.slice(0, limit);
+
+  const tbody = document.getElementById("rows");
+  tbody.innerHTML = "";
+
+  for(const x of data){
+    const tr = document.createElement("tr");
+
+    const time = x.time_utc || "";
+    const reg = x.region || "";
+    const ev  = x.event || "";
+    const buyer = x.buyer || "";
+    const target = x.target || "";
+    const percent = (x.percent === null || x.percent === undefined) ? "" : String(x.percent);
+
+    tr.innerHTML = `
+      <td class="nowrap">${time}</td>
+      <td>${pill(reg || "—")}</td>
+      <td>${pill(ev || "—")}</td>
+      <td>${buyer ? buyer : `<span class="muted">—</span>`}</td>
+      <td>${target ? target : `<span class="muted">—</span>`}</td>
+      <td class="nowrap">${percent ? percent : `<span class="muted">—</span>`}</td>
+      <td>${x.title ? x.title : ""}</td>
+      <td><a href="${x.link}" target="_blank" rel="noopener">Öffnen</a></td>
     `;
-    body.appendChild(row);
-  });
+    tbody.appendChild(tr);
+  }
 }
 
-function reload() {
-  loadData();
-}
-
-document.getElementById("formFilter").onchange = render;
-document.getElementById("search").oninput = render;
+document.getElementById("reload").onclick = loadData;
+document.getElementById("region").onchange = render;
+document.getElementById("event").onchange = render;
+document.getElementById("limit").onchange = render;
+document.getElementById("q").oninput = render;
 
 loadData();
 </script>
-
 </body>
 </html>
