@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-14T14:56:28.080492+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IF Bancorp, Inc. (0001514743) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1514743/000094337426000011/0000943374-26-000011-index.htm"
+  },
+  {
     "time_utc": "2026-01-14T13:53:47.043755+00:00",
     "region": "US",
     "source": "SEC",
