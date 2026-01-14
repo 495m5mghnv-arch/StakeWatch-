@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-14T19:50:36.119930+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CNL Healthcare Properties, Inc. (0001496454) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1496454/000119312526012803/0001193125-26-012803-index.htm"
+  },
+  {
     "time_utc": "2026-01-14T18:59:49.048621+00:00",
     "region": "US",
     "source": "SEC",
