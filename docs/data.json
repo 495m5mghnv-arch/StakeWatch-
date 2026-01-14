@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-14T11:56:10.043841+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LABCORP HOLDINGS INC. (0000920148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/920148/000092014826000009/0000920148-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T11:56:10.043869+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BANK OF AMERICA CORP /DE/ (0000070858) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000020/0000070858-26-000020-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T11:56:10.043879+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MAGNACHIP SEMICONDUCTOR Corp (0001325702) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1325702/000119312526012251/0001193125-26-012251-index.htm"
+  },
+  {
     "time_utc": "2026-01-14T11:40:15.176066+00:00",
     "region": "US",
     "source": "SEC",
