@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-14T21:56:59.883497+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIRST CITIZENS BANCSHARES INC /DE/ (0000798941) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/798941/000079894126000007/0000798941-26-000007-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T21:56:59.883552+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Orchid Island Capital, Inc. (0001518621) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1518621/000143774926001277/0001437749-26-001277-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T21:56:59.883558+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rainmaker Worldwide Inc. (0001872292) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226002277/0001493152-26-002277-index.htm"
+  },
+  {
     "time_utc": "2026-01-14T19:50:36.119930+00:00",
     "region": "US",
     "source": "SEC",
