@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-01-14T13:53:47.043755+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ARMSTRONG WORLD INDUSTRIES INC (0000007431) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/7431/000119312526012306/0001193125-26-012306-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T13:53:47.043794+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ImmunityBio, Inc. (0001326110) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000004/0001326110-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T13:53:47.043813+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LivaNova PLC (0001639691) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1639691/000163969126000002/0001639691-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T13:53:47.043819+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CLOVER HEALTH INVESTMENTS, CORP. /DE (0001801170) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1801170/000180117026000020/0001801170-26-000020-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T13:53:47.043829+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KULR Technology Group, Inc. (0001662684) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1662684/000110465926003564/0001104659-26-003564-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T13:53:47.043836+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aveanna Healthcare Holdings, Inc. (0001832332) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1832332/000119312526012301/0001193125-26-012301-index.htm"
+  },
+  {
     "time_utc": "2026-01-14T11:56:10.043841+00:00",
     "region": "US",
     "source": "SEC",
