@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-01-14T11:40:15.176066+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nuvalent, Inc. (0001861560) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1861560/000119312526012243/0001193125-26-012243-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T11:40:15.176085+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WELLS FARGO & COMPANY/MN (0000072971) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000009/0000072971-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T11:40:15.176100+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Palladyne AI Corp. (0001826681) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1826681/000119312526012228/0001193125-26-012228-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T11:40:15.176111+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000149315226002113/0001493152-26-002113-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T11:40:15.176130+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SemiLEDs Corp (0001333822) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1333822/000119312526012216/0001193125-26-012216-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T11:40:15.176140+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Funko, Inc. (0001704711) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1704711/000119312526012212/0001193125-26-012212-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T11:40:15.176145+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Playtika Holding Corp. (0001828016) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801626000003/0001828016-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-01-14T11:40:15.176149+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SharonAI Holdings, Inc. (0002068385) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2068385/000182912626000288/0001829126-26-000288-index.htm"
+  },
+  {
     "time_utc": "2026-01-13T21:56:15.843172+00:00",
     "region": "US",
     "source": "SEC",
