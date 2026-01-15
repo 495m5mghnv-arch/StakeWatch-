@@ -383,6 +383,10 @@
             <input id="onlySignals" type="checkbox">
             nur Signale (🔥/⚠️)
           </label>
+          <label class="toggle">
+  <input id="important8k" type="checkbox" checked>
+  8-K: nur wichtig
+</label>
 
           <button class="btnPrimary" id="reload">Neu laden</button>
         </div>
@@ -434,10 +438,81 @@ function norm(s){ return (s || "").toString().toLowerCase(); }
 function pill(text){ return `<span class="pill">${text || "—"}</span>`; }
 
 function getSignal(x){
+  function prettyEvent(ev, reg){
+  if(reg === "DE" && ev === "Stimmrechte") return "Stimmrechtsmeldung (DE)";
+  if(ev === "SC 13D") return "Strategischer Einstieg >5% (US)";
+  if(ev === "SC 13G") return "Passiver Einstieg >5% (US)";
+  if(ev === "8-K") return "Unternehmens-News (US)";
+  return ev || "—";
+}
+
+function score8kTitle(title){
+  const t = norm(title);
+
+  const strong = [
+    "merger", "acquisition", "acquire", "tender offer", "business combination",
+    "definitive agreement", "purchase agreement", "sale of", "strategic transaction"
+  ];
+
+  const medium = [
+    "agreement", "credit", "loan", "financing", "notes", "offering",
+    "private placement", "registered direct", "warrant", "equity", "shelf",
+    "bankruptcy", "restructuring", "delisting", "nasdaq", "nyse",
+    "litigation", "investigation", "settlement"
+  ];
+
+  const earnings = [
+    "earnings", "guidance", "results", "quarter", "fiscal", "outlook",
+    "preliminary", "unaudited"
+  ];
+
+  const weak = [
+    "bylaws", "certificate of", "charter", "amendment",
+    "10b5-1", "trading plan",
+    "press release", "presentation", "investor presentation",
+    "regulation fd", "reg fd",
+    "other events", "other"
+  ];
+
+  let score = 0;
+  for(const k of strong) if(t.includes(k)) score += 4;
+  for(const k of medium) if(t.includes(k)) score += 2;
+  for(const k of earnings) if(t.includes(k)) score += 2;
+  for(const k of weak) if(t.includes(k)) score -= 1;
+
+  if(t.includes("item ") && t.match(/item\s+\d+\.\d+/)) score -= 1;
+  return score;
+}
+
+function isImportant8k(x){
+  if((x.event || "") !== "8-K") return true;
+  const s = score8kTitle(x.title || "");
+  return s >= 2;
+}
   const ev = (x.event || "").toUpperCase();
   if(ev === "SC 13D" || (x.region === "DE" && x.event === "Stimmrechte")) return {icon:"🔥", cls:"sig-strong", label:"Stark"};
   if(ev === "SC 13G") return {icon:"⚠️", cls:"sig-mid", label:"Beobachten"};
   return {icon:"ℹ️", cls:"sig-info", label:"Info"};
+}
+function category8k(title){
+  const t = norm(title);
+
+  if(t.includes("merger") || t.includes("acquisition") || t.includes("tender offer") || t.includes("business combination"))
+    return "M&A";
+
+  if(t.includes("offering") || t.includes("financing") || t.includes("credit") || t.includes("loan") || t.includes("notes") || t.includes("private placement") || t.includes("registered direct") || t.includes("warrant"))
+    return "Finanzierung";
+
+  if(t.includes("earnings") || t.includes("results") || t.includes("guidance") || t.includes("outlook") || t.includes("quarter") || t.includes("fiscal") || t.includes("preliminary") || t.includes("unaudited"))
+    return "Earnings";
+
+  if(t.includes("litigation") || t.includes("investigation") || t.includes("settlement"))
+    return "Recht";
+
+  if(t.includes("bylaws") || t.includes("charter") || t.includes("amendment") || t.includes("board") || t.includes("director") || t.includes("officer") || t.includes("resignation") || t.includes("appointment"))
+    return "Governance";
+
+  return "News";
 }
 
 function fmtPercent(p){
@@ -487,9 +562,10 @@ function buildKlartext(x){
   }
 
   if(ev === "8-K"){
-    const t = companyFromSecTitle(x.title) || "ein Unternehmen";
-    return `8-K Unternehmensmeldung von ${t} (US)`;
-  }
+  const t = companyFromSecTitle(x.title) || "ein Unternehmen";
+  const cat = category8k(x.title || "");
+  return `${cat}: 8-K Meldung von ${t} (US)`;
+}
 
   return `${ev || "Meldung"} (${reg || "—"})`;
 }
@@ -500,6 +576,7 @@ function render(){
   const q = norm(document.getElementById("q").value.trim());
   const limit = parseInt(document.getElementById("limit").value, 10);
   const onlySignals = document.getElementById("onlySignals").checked;
+  const important8k = document.getElementById("important8k").checked;
 
   let data = all;
 
@@ -512,6 +589,9 @@ function render(){
       return ev === "SC 13D" || ev === "SC 13G" || (x.region === "DE" && x.event === "Stimmrechte");
     });
   }
+  if(important8k){
+  data = data.filter(x => isImportant8k(x));
+}
 
   if(q){
     data = data.filter(x => {
