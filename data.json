@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-01-15T13:53:46.177555+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GENUINE PARTS CO (0000040987) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/40987/000119312526013595/0001193125-26-013595-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T13:53:46.177594+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - QUANTUM CORP /DE/ (0000709283) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/709283/000162828026002121/0001628280-26-002121-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T13:53:46.177619+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GENERAL ELECTRIC CO (0000040545) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/40545/000004054526000002/0000040545-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T13:53:46.177630+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Philip Morris International Inc. (0001413329) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026002116/0001628280-26-002116-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T13:53:46.177640+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ImmunityBio, Inc. (0001326110) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000008/0001326110-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T13:53:46.177645+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Strive, Inc. (0001920406) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026002115/0001628280-26-002115-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T13:53:46.177654+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MORGAN STANLEY (0000895421) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000007/0000895421-26-000007-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T13:53:46.177658+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Inuvo, Inc. (0000829323) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/829323/000165495426000372/0001654954-26-000372-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T13:53:46.177671+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GBT Technologies Inc. (0001471781) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1471781/000173112226000064/0001731122-26-000064-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T13:53:46.177679+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ocugen, Inc. (0001372299) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1372299/000110465926003900/0001104659-26-003900-index.htm"
+  },
+  {
     "time_utc": "2026-01-15T11:53:27.932256+00:00",
     "region": "US",
     "source": "SEC",
