@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-01-15T11:38:36.378676+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BlackRock, Inc. (0002012383) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526013503/0001193125-26-013503-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T11:38:36.378694+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIRST HORIZON CORP (0000036966) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/36966/000003696626000012/0000036966-26-000012-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T11:38:36.378705+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INSTEEL INDUSTRIES INC (0000764401) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/764401/000143774926001309/0001437749-26-001309-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T11:38:36.378728+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aspire Biopharma Holdings, Inc. (0001847345) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1847345/000149315226002326/0001493152-26-002326-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T11:38:36.378733+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - VAALCO ENERGY INC /DE/ (0000894627) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/894627/000089462726000002/0000894627-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T11:38:36.378770+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000149315226002315/0001493152-26-002315-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T11:38:36.378776+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Compass Diversified Holdings (0001345126) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1345126/000134512626000014/0001345126-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T11:38:36.378780+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Compass Group Diversified Holdings LLC (0001345122) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1345122/000134512626000014/0001345126-26-000014-index.htm"
+  },
+  {
     "time_utc": "2026-01-14T21:56:59.883497+00:00",
     "region": "US",
     "source": "SEC",
