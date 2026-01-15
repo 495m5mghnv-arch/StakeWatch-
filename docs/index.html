@@ -547,7 +547,7 @@ function render(){
       <td class="ktext">${klar}</td>
       <td class="nowrap">${time}</td>
       <td>${pill(reg)}</td>
-      <td>${pill(ev)}</td>
+      <td>${pill(prettyEvent(ev, reg))}</td>
       <td>${buyer ? buyer : `<span class="muted">—</span>`}</td>
       <td>${target ? target : `<span class="muted">—</span>`}</td>
       <td class="nowrap">${percent ? percent : `<span class="muted">—</span>`}</td>
