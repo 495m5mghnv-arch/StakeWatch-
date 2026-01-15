@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-15T21:53:35.786881+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SunCoke Energy, Inc. (0001514705) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1514705/000151470526000002/0001514705-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-01-15T21:53:35.786961+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FiEE, Inc. (0001467761) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1467761/000182912626000331/0001829126-26-000331-index.htm"
+  },
+  {
     "time_utc": "2026-01-15T21:40:02.605390+00:00",
     "region": "US",
     "source": "SEC",
