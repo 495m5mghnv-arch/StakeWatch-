@@ -6,136 +6,427 @@
   <title>StakeWatch</title>
 
   <style>
+    /* =========================
+       THEME (Dark default)
+       ========================= */
     :root{
-      --bg:#ffffff; --text:#111; --muted:#6b7280; --line:#e5e7eb;
-      --pill:#f3f4f6; --head:#fafafa;
-      --strong:#111827; --soft:#9ca3af;
+      --bg: #0b1220;
+      --panel: rgba(255,255,255,0.06);
+      --panel2: rgba(255,255,255,0.04);
+      --text: rgba(255,255,255,0.92);
+      --muted: rgba(255,255,255,0.62);
+      --muted2: rgba(255,255,255,0.45);
+      --line: rgba(255,255,255,0.10);
+      --shadow: 0 20px 60px rgba(0,0,0,0.45);
+
+      --pillBg: rgba(255,255,255,0.08);
+      --pillBorder: rgba(255,255,255,0.12);
+
+      --accent: rgba(120, 153, 255, 0.95);
+      --accent2: rgba(160, 120, 255, 0.95);
+
+      --strong: rgba(255,255,255,0.95);
+
+      --sigStrong: rgba(255,255,255,0.95); /* keep neutral, premium */
+      --sigMid: rgba(255,255,255,0.85);
+      --sigInfo: rgba(255,255,255,0.55);
+      --row8k: rgba(255,255,255,0.45);
     }
+
+    /* Light theme */
+    body[data-theme="light"]{
+      --bg: #f6f7fb;
+      --panel: #ffffff;
+      --panel2: #fbfbfe;
+      --text: rgba(17,24,39,0.95);
+      --muted: rgba(17,24,39,0.60);
+      --muted2: rgba(17,24,39,0.45);
+      --line: rgba(17,24,39,0.10);
+      --shadow: 0 18px 45px rgba(17,24,39,0.08);
+
+      --pillBg: rgba(17,24,39,0.06);
+      --pillBorder: rgba(17,24,39,0.12);
+
+      --accent: rgba(59, 130, 246, 1);
+      --accent2: rgba(139, 92, 246, 1);
+
+      --strong: rgba(17,24,39,0.96);
+
+      --sigStrong: rgba(17,24,39,0.95);
+      --sigMid: rgba(17,24,39,0.85);
+      --sigInfo: rgba(17,24,39,0.55);
+      --row8k: rgba(17,24,39,0.45);
+    }
+
+    /* =========================
+       Base layout
+       ========================= */
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
     body{
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-      margin: 18px;
-      background: var(--bg);
+      margin:0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      background:
+        radial-gradient(1200px 700px at 15% -10%, rgba(120,153,255,0.22), transparent 55%),
+        radial-gradient(900px 520px at 85% 0%, rgba(160,120,255,0.18), transparent 60%),
+        radial-gradient(900px 650px at 50% 120%, rgba(120,153,255,0.12), transparent 60%),
+        var(--bg);
       color: var(--text);
     }
-    h1{ margin: 0 0 6px 0; }
-    .sub{ color:var(--muted); font-size:14px; margin-bottom:14px; line-height:1.35; }
-    .controls{
-      display:flex; gap:10px; flex-wrap:wrap; align-items:center;
-      margin: 12px 0 10px 0;
-    }
-    select,input,button,label{
-      padding:8px 10px; border-radius:10px; border:1px solid #d1d5db; font-size:14px;
-      background: #fff;
-    }
-    button{ cursor:pointer; }
-    .status{ color:var(--muted); font-size:13px; margin: 6px 0 10px 0; }
 
-    table{ width:100%; border-collapse:collapse; }
-    th,td{ padding:10px; border-bottom:1px solid var(--line); vertical-align:top; text-align:left; }
-    th{ background:var(--head); position:sticky; top:0; z-index:1; }
-    .pill{
-      display:inline-block; padding:3px 8px; border-radius:999px; border:1px solid #e5e7eb;
-      font-size:12px; background:var(--pill);
+    .wrap{
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 18px 16px 30px;
+    }
+
+    /* Top header card */
+    .top{
+      background: linear-gradient(135deg, rgba(255,255,255,0.08), rgba(255,255,255,0.03));
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 16px 16px 14px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+
+    .topbar{
+      display:flex;
+      gap:12px;
+      align-items:flex-start;
+      justify-content:space-between;
+      flex-wrap:wrap;
+    }
+
+    h1{
+      margin: 0;
+      font-size: 22px;
+      letter-spacing: 0.2px;
+      line-height: 1.1;
+    }
+
+    .subtitle{
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.35;
+      max-width: 880px;
+    }
+
+    .actions{
+      display:flex;
+      gap:10px;
+      align-items:center;
+      flex-wrap:wrap;
+    }
+
+    .chipBtn{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding: 9px 12px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,0.06);
+      color: var(--text);
+      cursor: pointer;
+      font-size: 13px;
+      user-select:none;
+    }
+    .chipBtn:hover{
+      border-color: rgba(255,255,255,0.18);
+      transform: translateY(-1px);
+      transition: 120ms ease;
+    }
+    body[data-theme="light"] .chipBtn:hover{
+      border-color: rgba(17,24,39,0.18);
+    }
+
+    .dot{
+      width:10px;height:10px;border-radius:999px;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      box-shadow: 0 0 0 4px rgba(120,153,255,0.12);
+      margin-top: 3px;
+    }
+
+    /* Controls panel */
+    .panel{
+      margin-top: 14px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 12px;
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+    }
+
+    .controls{
+      display:grid;
+      grid-template-columns: 170px 220px 1fr 120px auto;
+      gap: 10px;
+      align-items:center;
+    }
+
+    @media (max-width: 900px){
+      .controls{
+        grid-template-columns: 1fr 1fr;
+      }
+      .controls .wide{ grid-column: 1 / -1; }
+    }
+
+    select, input{
+      width: 100%;
+      padding: 10px 11px;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: var(--panel2);
+      color: var(--text);
+      outline: none;
+      font-size: 14px;
+    }
+    select:focus, input:focus{
+      border-color: rgba(120,153,255,0.45);
+      box-shadow: 0 0 0 4px rgba(120,153,255,0.14);
+    }
+    body[data-theme="light"] select:focus,
+    body[data-theme="light"] input:focus{
+      box-shadow: 0 0 0 4px rgba(59,130,246,0.14);
+    }
+
+    .toggle{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      padding: 10px 11px;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: var(--panel2);
+      color: var(--text);
+      font-size:14px;
+      user-select:none;
       white-space:nowrap;
     }
-    .muted{ color:var(--muted); font-size:12px; }
-    .nowrap{ white-space:nowrap; }
-    a{ word-break:break-all; }
-
-    /* Signal styles */
-    .sig{ font-weight:600; }
-    .sig-strong{ color:#111; }
-    .sig-mid{ color:#111; }
-    .sig-info{ color:var(--soft); }
-
-    /* Make 8-K rows visually quieter */
-    tr.row-8k td{
-      color: var(--soft);
+    .toggle input{
+      width:auto;
+      margin:0;
+      accent-color: var(--accent);
     }
-    tr.row-8k td a{
-      color: #6b7280;
+
+    .btnPrimary{
+      padding: 10px 12px;
+      border-radius: 12px;
+      border: 1px solid rgba(120,153,255,0.40);
+      background: linear-gradient(135deg, rgba(120,153,255,0.25), rgba(160,120,255,0.20));
+      color: var(--text);
+      cursor: pointer;
+      font-size: 14px;
+      white-space:nowrap;
+    }
+    .btnPrimary:hover{
+      border-color: rgba(120,153,255,0.60);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+      transition: 140ms ease;
+    }
+
+    .status{
+      margin-top: 10px;
+      font-size: 13px;
+      color: var(--muted);
+      display:flex;
+      justify-content:space-between;
+      gap:10px;
+      flex-wrap:wrap;
+    }
+
+    /* Table card */
+    .tableCard{
+      margin-top: 14px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+    }
+
+    table{
+      width:100%;
+      border-collapse: collapse;
+      font-size: 14px;
+    }
+    thead th{
+      text-align:left;
+      padding: 12px 12px;
+      background: rgba(255,255,255,0.05);
+      color: var(--muted);
+      letter-spacing: 0.2px;
+      position: sticky;
+      top: 0;
+      z-index: 1;
+      border-bottom: 1px solid var(--line);
+      white-space: nowrap;
+    }
+    body[data-theme="light"] thead th{
+      background: #f5f6fb;
+    }
+
+    tbody td{
+      padding: 12px 12px;
+      border-bottom: 1px solid var(--line);
+      vertical-align: top;
+    }
+    tbody tr:hover{
+      background: rgba(255,255,255,0.03);
+    }
+    body[data-theme="light"] tbody tr:hover{
+      background: rgba(17,24,39,0.03);
+    }
+
+    .pill{
+      display:inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--pillBorder);
+      background: var(--pillBg);
+      font-size: 12px;
+      color: var(--muted);
+      white-space: nowrap;
     }
 
     .ktext{
-      font-weight:600;
+      font-weight: 650;
       color: var(--strong);
-      line-height:1.25;
+      line-height: 1.25;
     }
-    tr.row-8k .ktext{
-      font-weight:500;
-      color: var(--soft);
+
+    .nowrap{ white-space: nowrap; }
+    .muted{ color: var(--muted2); font-size: 12px; }
+
+    a{
+      color: var(--accent);
+      text-decoration: none;
+      word-break: break-all;
+    }
+    a:hover{ text-decoration: underline; }
+
+    /* Signals */
+    .sig{ font-weight: 700; letter-spacing: 0.2px; }
+    .sig-strong{ color: var(--sigStrong); }
+    .sig-mid{ color: var(--sigMid); }
+    .sig-info{ color: var(--sigInfo); }
+
+    /* 8-K de-emphasis */
+    tr.row-8k td{ color: var(--row8k); }
+    tr.row-8k .ktext{ color: var(--row8k); font-weight: 600; }
+    tr.row-8k a{ color: var(--muted); }
+
+    /* Small footer */
+    .foot{
+      margin-top: 12px;
+      color: var(--muted2);
+      font-size: 12px;
+      text-align:center;
     }
   </style>
 </head>
 
-<body>
-  <h1>StakeWatch</h1>
-  <div class="sub">
-    Übersicht über Meldungen (USA: SEC 13D/13G/8-K, Deutschland: EQS-Stimmrechte).<br>
-    Ziel: <b>WER</b> macht <b>WAS</b> mit <b>WEM</b> – inkl. Prozent (wenn verfügbar).<br>
-    <span class="muted">Hinweis: Zeiten sind UTC.</span>
+<body data-theme="dark">
+  <div class="wrap">
+
+    <div class="top">
+      <div class="topbar">
+        <div style="display:flex;gap:10px;align-items:flex-start;">
+          <div class="dot" aria-hidden="true"></div>
+          <div>
+            <h1>StakeWatch</h1>
+            <div class="subtitle">
+              USA: SEC 13D/13G/8-K • Deutschland: EQS-Stimmrechte.<br>
+              Fokus: <b>WER</b> macht <b>WAS</b> mit <b>WEM</b> – inkl. Prozent (wenn verfügbar). Zeiten: UTC.
+            </div>
+          </div>
+        </div>
+
+        <div class="actions">
+          <button class="chipBtn" id="themeBtn" title="Theme wechseln">🌙 Dark</button>
+          <button class="chipBtn" id="openSignals" title="Nur Signale anzeigen">🔥/⚠️ Fokus</button>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="controls">
+          <select id="region">
+            <option value="">Alle Regionen</option>
+            <option value="US">USA</option>
+            <option value="DE">Deutschland</option>
+          </select>
+
+          <select id="event">
+            <option value="">Alle Ereignisse</option>
+            <option value="SC 13D">SC 13D (strategisch)</option>
+            <option value="SC 13G">SC 13G (passiv)</option>
+            <option value="8-K">8-K (Info)</option>
+            <option value="Stimmrechte">DE Stimmrechte</option>
+          </select>
+
+          <input class="wide" id="q" placeholder="Suche: Firma / Name / Text …">
+
+          <select id="limit">
+            <option value="50">50</option>
+            <option value="100" selected>100</option>
+            <option value="250">250</option>
+            <option value="1000">1000</option>
+          </select>
+
+          <label class="toggle">
+            <input id="onlySignals" type="checkbox">
+            nur Signale (🔥/⚠️)
+          </label>
+
+          <button class="btnPrimary" id="reload">Neu laden</button>
+        </div>
+
+        <div class="status">
+          <div id="status">Lade Daten…</div>
+          <div id="status2" class="muted"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="tableCard">
+      <table>
+        <thead>
+          <tr>
+            <th>Signal</th>
+            <th>Klartext</th>
+            <th class="nowrap">Zeit (UTC)</th>
+            <th>Region</th>
+            <th>Ereignis</th>
+            <th>WER (Buyer / Melder)</th>
+            <th>WEM (Target / Emittent)</th>
+            <th class="nowrap">%</th>
+            <th>Quelle</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+
+    <div class="foot">StakeWatch • läuft automatisch über GitHub Actions • 8-K ist bewusst dezent dargestellt</div>
   </div>
-
-  <div class="controls">
-    <select id="region">
-      <option value="">Alle Regionen</option>
-      <option value="US">USA</option>
-      <option value="DE">Deutschland</option>
-    </select>
-
-    <select id="event">
-      <option value="">Alle Ereignisse</option>
-      <option value="SC 13D">SC 13D (strategisch)</option>
-      <option value="SC 13G">SC 13G (passiv)</option>
-      <option value="8-K">8-K (Info)</option>
-      <option value="Stimmrechte">DE Stimmrechte</option>
-    </select>
-
-    <input id="q" placeholder="Suche: Firma / Name / Text …" size="28">
-
-    <select id="limit">
-      <option value="50">50</option>
-      <option value="100" selected>100</option>
-      <option value="250">250</option>
-      <option value="1000">1000</option>
-    </select>
-
-    <label style="display:flex;gap:8px;align-items:center;border:1px solid #d1d5db;border-radius:10px;padding:6px 10px;">
-      <input id="onlySignals" type="checkbox" style="padding:0;margin:0;">
-      nur Signale (🔥/⚠️)
-    </label>
-
-    <button id="reload">Neu laden</button>
-  </div>
-
-  <div id="status" class="status"></div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>Signal</th>
-        <th>Klartext</th>
-        <th class="nowrap">Zeit (UTC)</th>
-        <th>Region</th>
-        <th>Ereignis</th>
-        <th>WER (Buyer / Melder)</th>
-        <th>WEM (Target / Emittent)</th>
-        <th class="nowrap">%</th>
-        <th>Quelle</th>
-      </tr>
-    </thead>
-    <tbody id="rows"></tbody>
-  </table>
 
 <script>
 let all = [];
 
 async function loadData(){
-  const status = document.getElementById("status");
-  status.textContent = "Lade Daten…";
+  const s = document.getElementById("status");
+  const s2 = document.getElementById("status2");
+  s.textContent = "Lade Daten…";
+  s2.textContent = "";
   const res = await fetch("./data.json?x=" + Date.now());
   all = await res.json();
-  status.textContent = `Geladen: ${all.length} Einträge.`;
+  s.textContent = `Geladen: ${all.length} Einträge.`;
   render();
 }
 
@@ -151,20 +442,16 @@ function getSignal(x){
 
 function fmtPercent(p){
   if(p === null || p === undefined || p === "") return "";
-  const s = String(p).trim();
-  // keep as-is if already has comma/dot
-  return s;
+  return String(p).trim();
 }
 
 function issuerFromTitleDE(title){
-  // fallback: "EQS-Stimmrechte: XYZ - ..."
   const t = title || "";
   const m = t.match(/Stimmrechte\s*:\s*(.+?)(?:\s+-\s+|\||$)/i);
   return m ? m[1].trim() : "";
 }
 
 function companyFromSecTitle(title){
-  // "8-K - COMPANY NAME (0000...) (Filer)"
   const t = title || "";
   const m = t.match(/-\s*(.+?)\s*\(\d{6,}\)/);
   return m ? m[1].trim() : "";
@@ -204,7 +491,6 @@ function buildKlartext(x){
     return `8-K Unternehmensmeldung von ${t} (US)`;
   }
 
-  // fallback
   return `${ev || "Meldung"} (${reg || "—"})`;
 }
 
@@ -230,9 +516,8 @@ function render(){
   if(q){
     data = data.filter(x => {
       const klar = buildKlartext(x);
-      const hay = [
-        x.title, x.event, x.region, x.source, x.buyer, x.target, x.percent, x.link, klar
-      ].map(norm).join(" | ");
+      const hay = [x.title, x.event, x.region, x.source, x.buyer, x.target, x.percent, x.link, klar]
+        .map(norm).join(" | ");
       return hay.includes(q);
     });
   }
@@ -272,6 +557,14 @@ function render(){
   }
 
   document.getElementById("status").textContent = `Anzeige: ${data.length} von ${all.length} Einträgen.`;
+  document.getElementById("status2").textContent = onlySignals ? "Filter: nur Signale aktiv" : "";
+}
+
+function setTheme(theme){
+  document.body.setAttribute("data-theme", theme);
+  localStorage.setItem("stakewatch_theme", theme);
+  const btn = document.getElementById("themeBtn");
+  btn.textContent = (theme === "light") ? "☀️ Light" : "🌙 Dark";
 }
 
 document.getElementById("reload").onclick = loadData;
@@ -281,7 +574,23 @@ document.getElementById("limit").onchange = render;
 document.getElementById("q").oninput = render;
 document.getElementById("onlySignals").onchange = render;
 
-loadData();
+document.getElementById("openSignals").onclick = () => {
+  const cb = document.getElementById("onlySignals");
+  cb.checked = !cb.checked;
+  render();
+};
+
+document.getElementById("themeBtn").onclick = () => {
+  const cur = document.body.getAttribute("data-theme") || "dark";
+  setTheme(cur === "dark" ? "light" : "dark");
+};
+
+(() => {
+  const saved = localStorage.getItem("stakewatch_theme");
+  if(saved === "light" || saved === "dark") setTheme(saved);
+  else setTheme("dark");
+  loadData();
+})();
 </script>
 </body>
 </html>
