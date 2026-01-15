@@ -27,13 +27,12 @@
 
       --strong: rgba(255,255,255,0.95);
 
-      --sigStrong: rgba(255,255,255,0.95); /* keep neutral, premium */
+      --sigStrong: rgba(255,255,255,0.95);
       --sigMid: rgba(255,255,255,0.85);
       --sigInfo: rgba(255,255,255,0.55);
       --row8k: rgba(255,255,255,0.45);
     }
 
-    /* Light theme */
     body[data-theme="light"]{
       --bg: #f6f7fb;
       --panel: #ffffff;
@@ -58,9 +57,6 @@
       --row8k: rgba(17,24,39,0.45);
     }
 
-    /* =========================
-       Base layout
-       ========================= */
     *{ box-sizing:border-box; }
     html,body{ height:100%; }
     body{
@@ -80,7 +76,6 @@
       padding: 18px 16px 30px;
     }
 
-    /* Top header card */
     .top{
       background: linear-gradient(135deg, rgba(255,255,255,0.08), rgba(255,255,255,0.03));
       border: 1px solid var(--line);
@@ -150,7 +145,6 @@
       margin-top: 3px;
     }
 
-    /* Controls panel */
     .panel{
       margin-top: 14px;
       background: var(--panel);
@@ -163,7 +157,7 @@
 
     .controls{
       display:grid;
-      grid-template-columns: 170px 220px 1fr 120px auto;
+      grid-template-columns: 170px 220px 1fr 120px auto auto;
       gap: 10px;
       align-items:center;
     }
@@ -239,7 +233,6 @@
       flex-wrap:wrap;
     }
 
-    /* Table card */
     .tableCard{
       margin-top: 14px;
       background: var(--panel);
@@ -311,18 +304,15 @@
     }
     a:hover{ text-decoration: underline; }
 
-    /* Signals */
     .sig{ font-weight: 700; letter-spacing: 0.2px; }
     .sig-strong{ color: var(--sigStrong); }
     .sig-mid{ color: var(--sigMid); }
     .sig-info{ color: var(--sigInfo); }
 
-    /* 8-K de-emphasis */
     tr.row-8k td{ color: var(--row8k); }
     tr.row-8k .ktext{ color: var(--row8k); font-weight: 600; }
     tr.row-8k a{ color: var(--muted); }
 
-    /* Small footer */
     .foot{
       margin-top: 12px;
       color: var(--muted2);
@@ -383,10 +373,11 @@
             <input id="onlySignals" type="checkbox">
             nur Signale (🔥/⚠️)
           </label>
+
           <label class="toggle">
-  <input id="important8k" type="checkbox" checked>
-  8-K: nur wichtig
-</label>
+            <input id="important8k" type="checkbox" checked>
+            8-K: nur wichtig
+          </label>
 
           <button class="btnPrimary" id="reload">Neu laden</button>
         </div>
@@ -438,7 +429,13 @@ function norm(s){ return (s || "").toString().toLowerCase(); }
 function pill(text){ return `<span class="pill">${text || "—"}</span>`; }
 
 function getSignal(x){
-  function prettyEvent(ev, reg){
+  const ev = (x.event || "").toUpperCase();
+  if(ev === "SC 13D" || (x.region === "DE" && x.event === "Stimmrechte")) return {icon:"🔥", cls:"sig-strong", label:"Stark"};
+  if(ev === "SC 13G") return {icon:"⚠️", cls:"sig-mid", label:"Beobachten"};
+  return {icon:"ℹ️", cls:"sig-info", label:"Info"};
+}
+
+function prettyEvent(ev, reg){
   if(reg === "DE" && ev === "Stimmrechte") return "Stimmrechtsmeldung (DE)";
   if(ev === "SC 13D") return "Strategischer Einstieg >5% (US)";
   if(ev === "SC 13G") return "Passiver Einstieg >5% (US)";
@@ -489,11 +486,7 @@ function isImportant8k(x){
   const s = score8kTitle(x.title || "");
   return s >= 2;
 }
-  const ev = (x.event || "").toUpperCase();
-  if(ev === "SC 13D" || (x.region === "DE" && x.event === "Stimmrechte")) return {icon:"🔥", cls:"sig-strong", label:"Stark"};
-  if(ev === "SC 13G") return {icon:"⚠️", cls:"sig-mid", label:"Beobachten"};
-  return {icon:"ℹ️", cls:"sig-info", label:"Info"};
-}
+
 function category8k(title){
   const t = norm(title);
 
@@ -562,10 +555,10 @@ function buildKlartext(x){
   }
 
   if(ev === "8-K"){
-  const t = companyFromSecTitle(x.title) || "ein Unternehmen";
-  const cat = category8k(x.title || "");
-  return `${cat}: 8-K Meldung von ${t} (US)`;
-}
+    const t = companyFromSecTitle(x.title) || "ein Unternehmen";
+    const cat = category8k(x.title || "");
+    return `${cat}: 8-K Meldung von ${t} (US)`;
+  }
 
   return `${ev || "Meldung"} (${reg || "—"})`;
 }
@@ -589,9 +582,10 @@ function render(){
       return ev === "SC 13D" || ev === "SC 13G" || (x.region === "DE" && x.event === "Stimmrechte");
     });
   }
+
   if(important8k){
-  data = data.filter(x => isImportant8k(x));
-}
+    data = data.filter(x => isImportant8k(x));
+  }
 
   if(q){
     data = data.filter(x => {
@@ -637,7 +631,9 @@ function render(){
   }
 
   document.getElementById("status").textContent = `Anzeige: ${data.length} von ${all.length} Einträgen.`;
-  document.getElementById("status2").textContent = onlySignals ? "Filter: nur Signale aktiv" : "";
+  document.getElementById("status2").textContent =
+    (document.getElementById("onlySignals").checked ? "Filter: nur Signale aktiv. " : "") +
+    (document.getElementById("important8k").checked ? "8-K: nur wichtige News." : "8-K: alle News.");
 }
 
 function setTheme(theme){
@@ -653,6 +649,7 @@ document.getElementById("event").onchange = render;
 document.getElementById("limit").onchange = render;
 document.getElementById("q").oninput = render;
 document.getElementById("onlySignals").onchange = render;
+document.getElementById("important8k").onchange = render;
 
 document.getElementById("openSignals").onclick = () => {
   const cb = document.getElementById("onlySignals");
