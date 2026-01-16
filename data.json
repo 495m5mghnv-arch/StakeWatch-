@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-01-16T13:51:39.998931+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BCB BANCORP INC (0001228454) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1228454/000119312526014695/0001193125-26-014695-index.htm"
+  },
+  {
+    "time_utc": "2026-01-16T13:51:39.998970+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BASSETT FURNITURE INDUSTRIES INC (0000010329) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/10329/000143774926001385/0001437749-26-001385-index.htm"
+  },
+  {
+    "time_utc": "2026-01-16T13:51:39.999014+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TransDigm Group INC (0001260221) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000002/0001260221-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-01-16T13:51:39.999034+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nukkleus Inc. (0001787518) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026004905/0001213900-26-004905-index.htm"
+  },
+  {
+    "time_utc": "2026-01-16T13:51:39.999039+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - STAAR SURGICAL CO (0000718937) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/718937/000119312526014681/0001193125-26-014681-index.htm"
+  },
+  {
     "time_utc": "2026-01-16T11:52:37.388152+00:00",
     "region": "US",
     "source": "SEC",
