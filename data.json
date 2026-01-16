@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-16T17:50:03.122215+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Via Renewables, Inc. (0001606268) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1606268/000160626826000008/0001606268-26-000008-index.htm"
+  },
+  {
     "time_utc": "2026-01-16T17:00:01.841328+00:00",
     "region": "US",
     "source": "SEC",
