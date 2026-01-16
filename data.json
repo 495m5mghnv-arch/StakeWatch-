@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-16T15:48:21.954271+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Enertopia Corp. (0001346022) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1346022/000106299326000310/0001062993-26-000310-index.htm"
+  },
+  {
     "time_utc": "2026-01-16T13:51:39.998931+00:00",
     "region": "US",
     "source": "SEC",
