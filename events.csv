@@ -1,4 +1,11 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-01-16T11:37:52.505601+00:00,US,SEC,8-K,,,,"8-K - PNC FINANCIAL SERVICES GROUP, INC. (0000713676) (Filer)",https://www.sec.gov/Archives/edgar/data/713676/000071367626000006/0000713676-26-000006-index.htm
+2026-01-16T11:37:52.505635+00:00,US,SEC,8-K,,,,8-K - Primo Brands Corp (0002042694) (Filer),https://www.sec.gov/Archives/edgar/data/2042694/000119312526014611/0001193125-26-014611-index.htm
+2026-01-16T11:37:52.505675+00:00,US,SEC,8-K,,,,8-K - Uniti Group Inc. (0002020795) (Filer),https://www.sec.gov/Archives/edgar/data/2020795/000095010326000585/0000950103-26-000585-index.htm
+2026-01-16T11:37:52.505687+00:00,US,SEC,8-K,,,,8-K - Callaway Golf Co (0000837465) (Filer),https://www.sec.gov/Archives/edgar/data/837465/000119312526014581/0001193125-26-014581-index.htm
+2026-01-16T11:37:52.505692+00:00,US,SEC,8-K,,,,8-K - M&T BANK CORP (0000036270) (Filer),https://www.sec.gov/Archives/edgar/data/36270/000003627026000004/0000036270-26-000004-index.htm
+2026-01-16T11:37:52.505710+00:00,US,SEC,8-K,,,,"8-K - Tvardi Therapeutics, Inc. (0001346830) (Filer)",https://www.sec.gov/Archives/edgar/data/1346830/000110465926004273/0001104659-26-004273-index.htm
+2026-01-16T11:37:52.505717+00:00,US,SEC,8-K,,,,8-K - Data Storage Corp (0001419951) (Filer),https://www.sec.gov/Archives/edgar/data/1419951/000173112226000067/0001731122-26-000067-index.htm
 2026-01-15T21:53:35.786881+00:00,US,SEC,8-K,,,,"8-K - SunCoke Energy, Inc. (0001514705) (Filer)",https://www.sec.gov/Archives/edgar/data/1514705/000151470526000002/0001514705-26-000002-index.htm
 2026-01-15T21:53:35.786961+00:00,US,SEC,8-K,,,,"8-K - FiEE, Inc. (0001467761) (Filer)",https://www.sec.gov/Archives/edgar/data/1467761/000182912626000331/0001829126-26-000331-index.htm
 2026-01-15T21:40:02.605390+00:00,US,SEC,8-K,,,,"8-K - Woodward, Inc. (0000108312) (Filer)",https://www.sec.gov/Archives/edgar/data/108312/000117184326000295/0001171843-26-000295-index.htm
