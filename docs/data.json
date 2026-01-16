@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-16T21:39:42.083766+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMERICAN AXLE & MANUFACTURING HOLDINGS INC (0001062231) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1062231/000110465926004579/0001104659-26-004579-index.htm"
+  },
+  {
+    "time_utc": "2026-01-16T21:39:42.083795+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Coeur Mining, Inc. (0000215466) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/215466/000114036126001500/0001140361-26-001500-index.htm"
+  },
+  {
+    "time_utc": "2026-01-16T21:39:42.083801+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rainmaker Worldwide Inc. (0001872292) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226002594/0001493152-26-002594-index.htm"
+  },
+  {
     "time_utc": "2026-01-16T20:56:38.241505+00:00",
     "region": "US",
     "source": "SEC",
