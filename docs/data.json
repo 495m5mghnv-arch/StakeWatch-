@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-16T21:52:50.756565+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - New Mountain Guardian IV Income Fund, L.L.C. (0001976719) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1976719/000158064226000288/0001580642-26-000288-index.htm"
+  },
+  {
+    "time_utc": "2026-01-16T21:52:50.756585+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Jefferies Financial Group Inc. (0000096223) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/96223/000114036126001506/0001140361-26-001506-index.htm"
+  },
+  {
     "time_utc": "2026-01-16T21:39:42.083766+00:00",
     "region": "US",
     "source": "SEC",
