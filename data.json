@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-16T20:40:38.558508+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2035428/000203542826000004/0002035428-26-000004-index.htm"
+  },
+  {
     "time_utc": "2026-01-16T17:50:03.122215+00:00",
     "region": "US",
     "source": "SEC",
