@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-20T16:01:13.712231+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PERMIAN BASIN ROYALTY TRUST (0000319654) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/319654/000119312526016178/0001193125-26-016178-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T16:01:13.712265+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tharimmune, Inc. (0001861657) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1861657/000149315226002787/0001493152-26-002787-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T16:01:13.712291+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Dalrada Technology Group, Inc. (0000725394) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/725394/000168316826000410/0001683168-26-000410-index.htm"
+  },
+  {
     "time_utc": "2026-01-20T15:02:14.048847+00:00",
     "region": "US",
     "source": "SEC",
