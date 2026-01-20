@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-01-20T21:43:44.661750+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ONE Gas, Inc. (0001587732) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1587732/000158773226000002/0001587732-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T21:43:44.661810+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2026738/000119312526016694/0001193125-26-016694-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T21:43:44.661820+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COMMUNITY HEALTH SYSTEMS INC (0001108109) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1108109/000119312526016693/0001193125-26-016693-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T21:43:44.661827+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DoorDash, Inc. (0001792789) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1792789/000179278926000003/0001792789-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T21:43:44.661836+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Infinite Eagle Acquisition Corp. (0002084396) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2084396/000121390026005697/0001213900-26-005697-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T21:43:44.661840+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - D-Wave Quantum Inc. (0001907982) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1907982/000162828026002652/0001628280-26-002652-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T21:43:44.661857+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kraft Heinz Co (0001637459) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1637459/000110465926005094/0001104659-26-005094-index.htm"
+  },
+  {
     "time_utc": "2026-01-20T21:02:18.681550+00:00",
     "region": "US",
     "source": "SEC",
