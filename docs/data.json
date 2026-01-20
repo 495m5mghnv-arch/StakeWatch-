@@ -1,5 +1,104 @@
 [
   {
+    "time_utc": "2026-01-20T11:45:12.576178+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MAGNACHIP SEMICONDUCTOR Corp (0001325702) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1325702/000119312526015926/0001193125-26-015926-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T11:45:12.576200+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SOMNIGROUP INTERNATIONAL INC. (0001206264) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1206264/000120626426000002/0001206264-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T11:45:12.576217+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COLUMBUS MCKINNON CORP (0001005229) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1005229/000119312526015918/0001193125-26-015918-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T11:45:12.576229+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - 3M CO (0000066740) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000003/0000066740-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T11:45:12.576233+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COMERICA INC (0000028412) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/28412/000002841226000007/0000028412-26-000007-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T11:45:12.576238+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NIOCORP DEVELOPMENTS LTD (0001512228) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1512228/000153949726000076/0001539497-26-000076-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T11:45:12.576242+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ROCKWELL MEDICAL, INC. (0001041024) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1041024/000162828026002478/0001628280-26-002478-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T11:45:12.576249+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KEYCORP /NEW/ (0000091576) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/91576/000009157626000006/0000091576-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T11:45:12.576253+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIFTH THIRD BANCORP (0000035527) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000013/0000035527-26-000013-index.htm"
+  },
+  {
     "time_utc": "2026-01-16T21:52:50.756565+00:00",
     "region": "US",
     "source": "SEC",
