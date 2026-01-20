@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-20T20:35:46.323008+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SAN JUAN BASIN ROYALTY TRUST (0000319655) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/319655/000119312526016501/0001193125-26-016501-index.htm"
+  },
+  {
     "time_utc": "2026-01-20T16:01:13.712231+00:00",
     "region": "US",
     "source": "SEC",
