@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-01-20T13:59:20.851929+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MEDICAL PROPERTIES TRUST INC (0001287865) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1287865/000119312526016037/0001193125-26-016037-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T13:59:20.851955+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Chilean Cobalt Corp. (0001727255) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1727255/000168316826000397/0001683168-26-000397-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T13:59:20.851985+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226002762/0001493152-26-002762-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T13:59:20.851990+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PUBLIC CO MANAGEMENT CORP (0001141964) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1141964/000121465926000622/0001214659-26-000622-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T13:59:20.851997+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PIXELWORKS, INC (0001040161) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1040161/000104016126000012/0001040161-26-000012-index.htm"
+  },
+  {
     "time_utc": "2026-01-20T11:58:26.918589+00:00",
     "region": "US",
     "source": "SEC",
