@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-20T11:58:26.918589+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Otis Worldwide Corp (0001781335) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1781335/000114036126001569/0001140361-26-001569-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T11:58:26.918607+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - US BANCORP \\DE\\ (0000036104) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/36104/000003610426000005/0000036104-26-000005-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T11:58:26.918620+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Trinseo PLC (0001519061) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1519061/000110465926004782/0001104659-26-004782-index.htm"
+  },
+  {
     "time_utc": "2026-01-20T11:45:12.576178+00:00",
     "region": "US",
     "source": "SEC",
