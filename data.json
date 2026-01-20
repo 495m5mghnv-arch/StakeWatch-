@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-01-20T21:02:18.681550+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Astera Labs, Inc. (0001736297) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1736297/000110465926005022/0001104659-26-005022-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T21:02:18.681578+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PMGC Holdings Inc. (0001840563) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1840563/000121390026005641/0001213900-26-005641-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T21:02:18.681586+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HARVARD BIOSCIENCE INC (0001123494) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1123494/000117184326000343/0001171843-26-000343-index.htm"
+  },
+  {
+    "time_utc": "2026-01-20T21:02:18.681631+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HANCOCK WHITNEY CORP (0000750577) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/750577/000119312526016535/0001193125-26-016535-index.htm"
+  },
+  {
     "time_utc": "2026-01-20T20:35:46.323008+00:00",
     "region": "US",
     "source": "SEC",
