@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-01-21T13:59:57.689635+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LISATA THERAPEUTICS, INC. (0000320017) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/320017/000032001726000006/0000320017-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T13:59:57.689693+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Linkhome Holdings Inc. (0002017758) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2017758/000121390026005922/0001213900-26-005922-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T13:59:57.689719+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Five9, Inc. (0001288847) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1288847/000128884726000006/0001288847-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T13:59:57.689723+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Uniti Group Inc. (0002020795) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2020795/000095010326000725/0000950103-26-000725-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T13:59:57.689728+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nano Dimension Ltd. (0001643303) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1643303/000110465926005254/0001104659-26-005254-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T13:59:57.689733+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CION Investment Corp (0001534254) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926005253/0001104659-26-005253-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T13:59:57.689737+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UMeWorld Inc. (0001114936) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1114936/000147793226000290/0001477932-26-000290-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T13:59:57.689749+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COMMUNITY TRUST BANCORP INC /KY/ (0000350852) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/350852/000035085226000015/0000350852-26-000015-index.htm"
+  },
+  {
     "time_utc": "2026-01-21T11:58:53.365964+00:00",
     "region": "US",
     "source": "SEC",
