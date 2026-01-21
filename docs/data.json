@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-01-21T11:58:53.365964+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SMITHFIELD FOODS INC (0000091388) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/91388/000121390026005905/0001213900-26-005905-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T11:58:53.365985+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HALLIBURTON CO (0000045012) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/45012/000004501226000008/0000045012-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T11:58:53.365996+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BankUnited, Inc. (0001504008) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1504008/000150400826000002/0001504008-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T11:58:53.366004+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Dime Community Bancshares, Inc. /NY/ (0000846617) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/846617/000084661726000004/0000846617-26-000004-index.htm"
+  },
+  {
     "time_utc": "2026-01-21T11:47:13.014786+00:00",
     "region": "US",
     "source": "SEC",
