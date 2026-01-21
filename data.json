@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-21T11:47:13.014786+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TRUIST FINANCIAL CORP (0000092230) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000023/0000092230-26-000023-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T11:47:13.014813+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CITIZENS FINANCIAL GROUP INC/RI (0000759944) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/759944/000075994426000017/0000759944-26-000017-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T11:47:13.014839+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TE Connectivity plc (0001385157) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1385157/000110465926005219/0001104659-26-005219-index.htm"
+  },
+  {
     "time_utc": "2026-01-20T21:56:12.495645+00:00",
     "region": "US",
     "source": "SEC",
