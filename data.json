@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-21T21:54:16.334957+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ares Core Infrastructure Fund (0002031750) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2031750/000203175026000006/0002031750-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T21:54:16.334994+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KKR Infrastructure Conglomerate LLC (0001948056) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1948056/000194805626000006/0001948056-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T21:54:16.335013+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Terra Innovatum Global N.V. (0002067627) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2067627/000121390026006262/0001213900-26-006262-index.htm"
+  },
+  {
     "time_utc": "2026-01-21T20:59:35.144926+00:00",
     "region": "US",
     "source": "SEC",
