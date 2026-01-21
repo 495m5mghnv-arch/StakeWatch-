@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-21T15:02:26.677348+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Twin Vee PowerCats, Co. (0001855509) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1855509/000173112226000096/0001731122-26-000096-index.htm"
+  },
+  {
     "time_utc": "2026-01-21T13:59:57.689635+00:00",
     "region": "US",
     "source": "SEC",
