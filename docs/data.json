@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-21T20:59:35.144926+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Mercedes-Benz Auto Lease Trust 2026-A (0002096965) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2096965/000114036126001836/0001140361-26-001836-index.htm"
+  },
+  {
+    "time_utc": "2026-01-21T20:59:35.144956+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LGAM Private Credit LLC (0001983514) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1983514/000119312526017895/0001193125-26-017895-index.htm"
+  },
+  {
     "time_utc": "2026-01-21T19:43:19.769335+00:00",
     "region": "US",
     "source": "SEC",
