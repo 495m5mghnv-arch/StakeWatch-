@@ -1,4 +1,14 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-01-22T11:45:38.917617+00:00,US,SEC,8-K,,,,8-K - GENERAL ELECTRIC CO (0000040545) (Filer),https://www.sec.gov/Archives/edgar/data/40545/000004054526000005/0000040545-26-000005-index.htm
+2026-01-22T11:45:38.917658+00:00,US,SEC,8-K,,,,8-K - Amalgamated Financial Corp. (0001823608) (Filer),https://www.sec.gov/Archives/edgar/data/1823608/000182360826000006/0001823608-26-000006-index.htm
+2026-01-22T11:45:38.917671+00:00,US,SEC,8-K,,,,8-K - Anteris Technologies Global Corp. (0002011514) (Filer),https://www.sec.gov/Archives/edgar/data/2011514/000114036126001938/0001140361-26-001938-index.htm
+2026-01-22T11:45:38.917696+00:00,US,SEC,8-K,,,,8-K - CVB FINANCIAL CORP (0000354647) (Filer),https://www.sec.gov/Archives/edgar/data/354647/000119312526018599/0001193125-26-018599-index.htm
+2026-01-22T11:45:38.917705+00:00,US,SEC,8-K,,,,"8-K - UMH PROPERTIES, INC. (0000752642) (Filer)",https://www.sec.gov/Archives/edgar/data/752642/000149315226003166/0001493152-26-003166-index.htm
+2026-01-22T11:45:38.917712+00:00,US,SEC,8-K,,,,"8-K - SharonAI Holdings, Inc. (0002068385) (Filer)",https://www.sec.gov/Archives/edgar/data/2068385/000182912626000444/0001829126-26-000444-index.htm
+2026-01-22T11:45:38.917723+00:00,US,SEC,8-K,,,,"8-K - SharonAI Holdings, Inc. (0002068385) (Filer)",https://www.sec.gov/Archives/edgar/data/2068385/000182912626000443/0001829126-26-000443-index.htm
+2026-01-22T11:45:38.917728+00:00,US,SEC,8-K,,,,8-K - Mawson Infrastructure Group Inc. (0001218683) (Filer),https://www.sec.gov/Archives/edgar/data/1218683/000121390026006423/0001213900-26-006423-index.htm
+2026-01-22T11:45:38.917738+00:00,US,SEC,8-K,,,,8-K - CVB FINANCIAL CORP (0000354647) (Filer),https://www.sec.gov/Archives/edgar/data/354647/000119312526018584/0001193125-26-018584-index.htm
+2026-01-22T11:45:38.917743+00:00,US,SEC,8-K,,,,8-K - Uniti Group Inc. (0002020795) (Filer),https://www.sec.gov/Archives/edgar/data/2020795/000095010326000809/0000950103-26-000809-index.htm
 2026-01-21T21:54:16.334957+00:00,US,SEC,8-K,,,,8-K - Ares Core Infrastructure Fund (0002031750) (Filer),https://www.sec.gov/Archives/edgar/data/2031750/000203175026000006/0002031750-26-000006-index.htm
 2026-01-21T21:54:16.334994+00:00,US,SEC,8-K,,,,8-K - KKR Infrastructure Conglomerate LLC (0001948056) (Filer),https://www.sec.gov/Archives/edgar/data/1948056/000194805626000006/0001948056-26-000006-index.htm
 2026-01-21T21:54:16.335013+00:00,US,SEC,8-K,,,,8-K - Terra Innovatum Global N.V. (0002067627) (Filer),https://www.sec.gov/Archives/edgar/data/2067627/000121390026006262/0001213900-26-006262-index.htm
