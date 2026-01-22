@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-22T11:58:27.855045+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HUNTINGTON BANCSHARES INC /MD/ (0000049196) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000006/0000049196-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-01-22T11:58:27.855065+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Life Time Group Holdings, Inc. (0001869198) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1869198/000186919826000003/0001869198-26-000003-index.htm"
+  },
+  {
     "time_utc": "2026-01-22T11:45:38.917617+00:00",
     "region": "US",
     "source": "SEC",
