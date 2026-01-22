@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-22T13:59:54.676293+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PDS Biotechnology Corp (0001472091) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126001958/0001140361-26-001958-index.htm"
+  },
+  {
+    "time_utc": "2026-01-22T13:59:54.676340+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Esquire Financial Holdings, Inc. (0001531031) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1531031/000110465926005642/0001104659-26-005642-index.htm"
+  },
+  {
+    "time_utc": "2026-01-22T13:59:54.676348+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NORWOOD FINANCIAL CORP (0001013272) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1013272/000119312526018738/0001193125-26-018738-index.htm"
+  },
+  {
     "time_utc": "2026-01-22T11:58:27.855045+00:00",
     "region": "US",
     "source": "SEC",
