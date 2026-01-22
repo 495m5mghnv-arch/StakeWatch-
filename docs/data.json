@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-01-22T21:59:43.280853+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMC Networks Inc. (0001514991) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1514991/000151499126000003/0001514991-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-01-22T21:59:43.280871+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EKSO BIONICS HOLDINGS, INC. (0001549084) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1549084/000143774926001774/0001437749-26-001774-index.htm"
+  },
+  {
+    "time_utc": "2026-01-22T21:59:43.280877+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - H&R BLOCK INC (0000012659) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/12659/000001265926000003/0000012659-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-01-22T21:59:43.280885+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OCEANFIRST FINANCIAL CORP (0001004702) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1004702/000100470226000005/0001004702-26-000005-index.htm"
+  },
+  {
+    "time_utc": "2026-01-22T21:59:43.280909+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - APOGEE ENTERPRISES, INC. (0000006845) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/6845/000162828026003113/0001628280-26-003113-index.htm"
+  },
+  {
     "time_utc": "2026-01-22T21:47:41.582685+00:00",
     "region": "US",
     "source": "SEC",
