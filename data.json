@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-22T19:02:49.245405+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HERITAGE FINANCIAL CORP /WA/ (0001046025) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1046025/000162828026003035/0001628280-26-003035-index.htm"
+  },
+  {
     "time_utc": "2026-01-22T15:02:22.189248+00:00",
     "region": "US",
     "source": "SEC",
