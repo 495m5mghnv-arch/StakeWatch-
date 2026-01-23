@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-23T21:53:13.527969+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RLI CORP (0000084246) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/84246/000008424626000002/0000084246-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-01-23T21:53:13.527989+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FuboTV Inc. (0001484769) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1484769/000149315226003429/0001493152-26-003429-index.htm"
+  },
+  {
+    "time_utc": "2026-01-23T21:53:13.528022+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bain Capital Specialty Finance, Inc. (0001655050) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1655050/000119312526021189/0001193125-26-021189-index.htm"
+  },
+  {
     "time_utc": "2026-01-23T19:40:50.451022+00:00",
     "region": "US",
     "source": "SEC",
