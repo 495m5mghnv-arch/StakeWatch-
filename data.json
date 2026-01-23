@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-23T17:02:05.047904+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SB FINANCIAL GROUP, INC. (0000767405) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/767405/000121390026007034/0001213900-26-007034-index.htm"
+  },
+  {
     "time_utc": "2026-01-23T15:52:33.919368+00:00",
     "region": "US",
     "source": "SEC",
