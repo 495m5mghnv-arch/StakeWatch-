@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-01-23T11:40:22.145069+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIRST CITIZENS BANCSHARES INC /DE/ (0000798941) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/798941/000079894126000010/0000798941-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-01-23T11:40:22.145094+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - McEwen Inc. (0000314203) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/314203/000110465926005999/0001104659-26-005999-index.htm"
+  },
+  {
+    "time_utc": "2026-01-23T11:40:22.145114+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blackstone Private Credit Fund (0001803498) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1803498/000180349826000003/0001803498-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-01-23T11:40:22.145121+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COLUMBUS MCKINNON CORP (0001005229) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1005229/000119312526020111/0001193125-26-020111-index.htm"
+  },
+  {
+    "time_utc": "2026-01-23T11:40:22.145145+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DAXOR CORP (0000027367) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/27367/000149315226003302/0001493152-26-003302-index.htm"
+  },
+  {
+    "time_utc": "2026-01-23T11:40:22.145187+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Corvus Pharmaceuticals, Inc. (0001626971) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1626971/000110465926005968/0001104659-26-005968-index.htm"
+  },
+  {
+    "time_utc": "2026-01-23T11:40:22.145207+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Super League Enterprise, Inc. (0001621672) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1621672/000143774926001802/0001437749-26-001802-index.htm"
+  },
+  {
     "time_utc": "2026-01-22T21:59:43.280853+00:00",
     "region": "US",
     "source": "SEC",
