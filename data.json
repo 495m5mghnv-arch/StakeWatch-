@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-23T13:55:10.653116+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HUNTINGTON BANCSHARES INC /MD/ (0000049196) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/49196/000114036126002118/0001140361-26-002118-index.htm"
+  },
+  {
+    "time_utc": "2026-01-23T13:55:10.653135+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EGH Acquisition Corp. (0002052547) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2052547/000110465926006046/0001104659-26-006046-index.htm"
+  },
+  {
+    "time_utc": "2026-01-23T13:55:10.653166+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LENDWAY, INC. (0000875355) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/875355/000110465926006044/0001104659-26-006044-index.htm"
+  },
+  {
     "time_utc": "2026-01-23T11:57:37.358510+00:00",
     "region": "US",
     "source": "SEC",
