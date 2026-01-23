@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-23T19:40:50.451022+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FRANKLIN COVEY CO (0000886206) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/886206/000119312526020856/0001193125-26-020856-index.htm"
+  },
+  {
     "time_utc": "2026-01-23T17:50:21.197628+00:00",
     "region": "US",
     "source": "SEC",
