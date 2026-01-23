@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-23T15:52:33.919368+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CNH Equipment Trust 2026-A (0002102532) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2102532/000110465926006120/0001104659-26-006120-index.htm"
+  },
+  {
+    "time_utc": "2026-01-23T15:52:33.919383+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CNH CAPITAL RECEIVABLES LLC (0001115252) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1115252/000110465926006120/0001104659-26-006120-index.htm"
+  },
+  {
     "time_utc": "2026-01-23T13:55:10.653116+00:00",
     "region": "US",
     "source": "SEC",
