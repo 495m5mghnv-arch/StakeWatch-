@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-26T17:57:09.609763+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - VISTA CREDIT STRATEGIC LENDING CORP. (0001919369) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1919369/000119312526022208/0001193125-26-022208-index.htm"
+  },
+  {
+    "time_utc": "2026-01-26T17:57:09.609797+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Inland Real Estate Income Trust, Inc. (0001528985) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1528985/000119312526022199/0001193125-26-022199-index.htm"
+  },
+  {
+    "time_utc": "2026-01-26T17:57:09.609825+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TransMontaigne Partners LLC (0001319229) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1319229/000110465926006532/0001104659-26-006532-index.htm"
+  },
+  {
     "time_utc": "2026-01-26T14:59:55.420599+00:00",
     "region": "US",
     "source": "SEC",
