@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-26T19:04:55.645125+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - River Financial Corp (0001641601) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526022299/0001193125-26-022299-index.htm"
+  },
+  {
     "time_utc": "2026-01-26T17:57:09.609763+00:00",
     "region": "US",
     "source": "SEC",
