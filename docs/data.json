@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-26T11:54:06.319334+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GOLD RESOURCE CORP (0001160791) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1160791/000110465926006404/0001104659-26-006404-index.htm"
+  },
+  {
+    "time_utc": "2026-01-26T11:54:06.319351+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Eaton Corp plc (0001551182) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1551182/000114036126002286/0001140361-26-002286-index.htm"
+  },
+  {
     "time_utc": "2026-01-26T11:39:12.787616+00:00",
     "region": "US",
     "source": "SEC",
