@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-26T19:57:37.778290+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PEOPLES BANCORP INC (0000318300) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/318300/000031830026000034/0000318300-26-000034-index.htm"
+  },
+  {
+    "time_utc": "2026-01-26T19:57:37.778380+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ENERGY RESOURCES 12, L.P. (0001696088) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1696088/000143774926002058/0001437749-26-002058-index.htm"
+  },
+  {
     "time_utc": "2026-01-26T19:45:53.011984+00:00",
     "region": "US",
     "source": "SEC",
