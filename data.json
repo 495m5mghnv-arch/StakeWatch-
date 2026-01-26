@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-26T13:56:43.694204+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Opendoor Technologies Inc. (0001801169) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1801169/000180116926000004/0001801169-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-01-26T13:56:43.694241+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tharimmune, Inc. (0001861657) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1861657/000149315226003539/0001493152-26-003539-index.htm"
+  },
+  {
     "time_utc": "2026-01-26T11:54:06.319334+00:00",
     "region": "US",
     "source": "SEC",
