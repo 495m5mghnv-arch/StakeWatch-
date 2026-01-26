@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-26T21:59:39.697315+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DAXOR CORP (0000027367) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/27367/000149315226003615/0001493152-26-003615-index.htm"
+  },
+  {
+    "time_utc": "2026-01-26T21:59:39.697380+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Customers Bancorp, Inc. (0001488813) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1488813/000148881326000015/0001488813-26-000015-index.htm"
+  },
+  {
+    "time_utc": "2026-01-26T21:59:39.697406+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Infinite Eagle Acquisition Corp. (0002084396) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2084396/000121390026007758/0001213900-26-007758-index.htm"
+  },
+  {
     "time_utc": "2026-01-26T21:48:26.641675+00:00",
     "region": "US",
     "source": "SEC",
