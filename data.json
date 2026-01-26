@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-26T21:48:26.641675+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GERMAN AMERICAN BANCORP, INC. (0000714395) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/714395/000071439526000003/0000714395-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-01-26T21:48:26.641697+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LINKBANCORP, Inc. (0001756701) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1756701/000119312526022725/0001193125-26-022725-index.htm"
+  },
+  {
+    "time_utc": "2026-01-26T21:48:26.641740+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Liberty Live Holdings, Inc. (0002078416) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2078416/000207841626000002/0002078416-26-000002-index.htm"
+  },
+  {
     "time_utc": "2026-01-26T20:53:58.700297+00:00",
     "region": "US",
     "source": "SEC",
