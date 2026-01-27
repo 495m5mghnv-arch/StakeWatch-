@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-01-27T11:47:15.449960+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EON Resources Inc. (0001842556) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1842556/000121390026007933/0001213900-26-007933-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T11:47:15.449982+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NORTHROP GRUMMAN CORP /DE/ (0001133421) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000002/0001133421-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T11:47:15.449994+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KIMBERLY CLARK CORP (0000055785) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/55785/000162828026003514/0001628280-26-003514-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T11:47:15.450004+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - JETBLUE AIRWAYS CORP (0001158463) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1158463/000115846326000004/0001158463-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T11:47:15.450020+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Twin Hospitality Group Inc. (0002011954) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2011954/000149315226003699/0001493152-26-003699-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T11:47:15.450024+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Fat Brands, Inc (0001705012) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1705012/000149315226003696/0001493152-26-003696-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T11:47:15.450069+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UNITED PARCEL SERVICE INC (0001090727) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1090727/000162828026003510/0001628280-26-003510-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T11:47:15.450077+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blue Water Acquisition Corp. III (0002050501) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2050501/000110465926006779/0001104659-26-006779-index.htm"
+  },
+  {
     "time_utc": "2026-01-26T21:59:39.697315+00:00",
     "region": "US",
     "source": "SEC",
