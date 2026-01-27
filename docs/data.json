@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-27T17:01:33.726497+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Mag Magna Corp (0001949864) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1949864/000168316826000554/0001683168-26-000554-index.htm"
+  },
+  {
     "time_utc": "2026-01-27T14:01:07.654438+00:00",
     "region": "US",
     "source": "SEC",
