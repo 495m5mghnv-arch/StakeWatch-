@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-01-27T14:01:07.654438+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ingredion Inc (0001046257) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1046257/000104625726000010/0001046257-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T14:01:07.654465+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TRUIST FINANCIAL CORP (0000092230) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/92230/000119312526023420/0001193125-26-023420-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T14:01:07.654498+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bristow Group Inc. (0001525221) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1525221/000119312526023418/0001193125-26-023418-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T14:01:07.654514+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OMNIQ Corp. (0000278165) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/278165/000117184326000430/0001171843-26-000430-index.htm"
+  },
+  {
     "time_utc": "2026-01-27T11:59:25.751141+00:00",
     "region": "US",
     "source": "SEC",
