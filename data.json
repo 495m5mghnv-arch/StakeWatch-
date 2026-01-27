@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-27T19:17:31.088369+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIRST NORTHERN COMMUNITY BANCORP (0001114927) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1114927/000111492726000004/0001114927-26-000004-index.htm"
+  },
+  {
     "time_utc": "2026-01-27T17:57:20.620361+00:00",
     "region": "US",
     "source": "SEC",
