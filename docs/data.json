@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-01-27T21:56:14.073827+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Satellogic Inc. (0001874315) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1874315/000143774926002213/0001437749-26-002213-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T21:56:14.073845+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tectonic Financial, Inc. (0001766526) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1766526/000118518526000305/0001185185-26-000305-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T21:56:14.073878+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FARMERS & MERCHANTS BANCORP INC (0000792966) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/792966/000119312526024773/0001193125-26-024773-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T21:56:14.073897+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Streamex Corp. (0001530766) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1530766/000149315226003820/0001493152-26-003820-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T21:56:14.073902+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Coeur Mining, Inc. (0000215466) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/215466/000114036126002524/0001140361-26-002524-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T21:56:14.073926+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Horizon Space Acquisition I Corp. (0001946021) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1946021/000192998026000021/0001929980-26-000021-index.htm"
+  },
+  {
     "time_utc": "2026-01-27T21:42:11.061230+00:00",
     "region": "US",
     "source": "SEC",
