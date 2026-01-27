@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-27T11:59:25.751141+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RTX Corp (0000101829) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000003/0000101829-26-000003-index.htm"
+  },
+  {
     "time_utc": "2026-01-27T11:47:15.449960+00:00",
     "region": "US",
     "source": "SEC",
