@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-27T17:57:20.620361+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AI Era Corp. (0001605331) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1605331/000166357726000022/0001663577-26-000022-index.htm"
+  },
+  {
+    "time_utc": "2026-01-27T17:57:20.620408+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PROVIDENT FINANCIAL HOLDINGS INC (0001010470) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000018/0000939057-26-000018-index.htm"
+  },
+  {
     "time_utc": "2026-01-27T17:01:33.726497+00:00",
     "region": "US",
     "source": "SEC",
