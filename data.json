@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-01-28T21:57:49.664742+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Qorvo, Inc. (0001604778) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1604778/000095010326001106/0000950103-26-001106-index.htm"
+  },
+  {
+    "time_utc": "2026-01-28T21:57:49.664802+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Concentra Group Holdings Parent, Inc. (0002014596) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2014596/000201459626000015/0002014596-26-000015-index.htm"
+  },
+  {
+    "time_utc": "2026-01-28T21:57:49.664828+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MVB FINANCIAL CORP (0001277902) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1277902/000127790226000003/0001277902-26-000003-index.htm"
+  },
+  {
     "time_utc": "2026-01-28T21:02:24.093636+00:00",
     "region": "US",
     "source": "SEC",
