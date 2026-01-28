@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-28T19:54:40.324916+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PROGRESSIVE CORP/OH/ (0000080661) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000071/0000080661-26-000071-index.htm"
+  },
+  {
     "time_utc": "2026-01-28T14:00:52.432266+00:00",
     "region": "US",
     "source": "SEC",
