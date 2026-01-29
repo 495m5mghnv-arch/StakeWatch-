@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-29T19:44:14.124687+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TRUSTCO BANK CORP N Y (0000357301) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/357301/000114036126002778/0001140361-26-002778-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T19:44:14.124710+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COMMUNITY BANCORP /VT (0000718413) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/718413/000165495426000702/0001654954-26-000702-index.htm"
+  },
+  {
     "time_utc": "2026-01-29T17:59:05.881572+00:00",
     "region": "US",
     "source": "SEC",
