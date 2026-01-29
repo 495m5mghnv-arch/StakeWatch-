@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-29T16:04:45.946343+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - STRYVE FOODS, INC. (0001691936) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1691936/000149315226004166/0001493152-26-004166-index.htm"
+  },
+  {
     "time_utc": "2026-01-29T14:11:10.911917+00:00",
     "region": "US",
     "source": "SEC",
