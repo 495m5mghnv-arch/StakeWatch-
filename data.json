@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-29T20:55:51.633572+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UNITED STATES ANTIMONY CORP (0000101538) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/101538/000110465926007951/0001104659-26-007951-index.htm"
+  },
+  {
     "time_utc": "2026-01-29T19:44:14.124687+00:00",
     "region": "US",
     "source": "SEC",
