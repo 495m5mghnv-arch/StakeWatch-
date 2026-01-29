@@ -1,5 +1,148 @@
 [
   {
+    "time_utc": "2026-01-29T11:47:02.145074+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GROUP 1 AUTOMOTIVE INC (0001031203) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000041/0001031203-26-000041-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T11:47:02.145091+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EAGLE MATERIALS INC (0000918646) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/918646/000119312526028131/0001193125-26-028131-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T11:47:02.145100+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CSW INDUSTRIALS, INC. (0001624794) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1624794/000162479426000016/0001624794-26-000016-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T11:47:02.145108+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WESTWATER RESOURCES, INC. (0000839470) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/839470/000110465926007664/0001104659-26-007664-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T11:47:02.145121+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Xerox Holdings Corp (0001770450) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1770450/000177045026000003/0001770450-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T11:47:02.145125+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - XEROX CORP (0000108772) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/108772/000177045026000003/0001770450-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T11:47:02.145136+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CATERPILLAR FINANCIAL SERVICES CORP (0000764764) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/764764/000076476426000003/0000764764-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T11:47:02.145147+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Lazard, Inc. (0001311370) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1311370/000162828026003958/0001628280-26-003958-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T11:47:02.145151+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ROYAL CARIBBEAN CRUISES LTD (0000884887) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000003/0000884887-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T11:47:02.145164+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMERIPRISE FINANCIAL INC (0000820027) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/820027/000082002726000004/0000820027-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T11:47:02.145177+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CATERPILLAR INC (0000018230) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000003/0000018230-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T11:47:02.145181+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Solid Power, Inc. (0001844862) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1844862/000110465926007651/0001104659-26-007651-index.htm"
+  },
+  {
+    "time_utc": "2026-01-29T11:47:02.145186+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kosmos Energy Ltd. (0001509991) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1509991/000095010326001145/0000950103-26-001145-index.htm"
+  },
+  {
     "time_utc": "2026-01-28T21:57:49.664742+00:00",
     "region": "US",
     "source": "SEC",
