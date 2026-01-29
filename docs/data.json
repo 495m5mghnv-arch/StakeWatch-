@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-29T21:54:57.734593+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CAVCO INDUSTRIES, INC. (0000278166) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/278166/000162828026004168/0001628280-26-004168-index.htm"
+  },
+  {
     "time_utc": "2026-01-29T20:55:51.633572+00:00",
     "region": "US",
     "source": "SEC",
