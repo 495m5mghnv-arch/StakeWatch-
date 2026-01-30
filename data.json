@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-30T11:55:50.226286+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - REGENERON PHARMACEUTICALS, INC. (0000872589) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/872589/000087258926000004/0000872589-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-01-30T11:55:50.226313+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Designer Brands Inc. (0001319947) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1319947/000131994726000004/0001319947-26-000004-index.htm"
+  },
+  {
     "time_utc": "2026-01-29T21:54:57.734593+00:00",
     "region": "US",
     "source": "SEC",
