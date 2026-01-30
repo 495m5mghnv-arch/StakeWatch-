@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-30T22:00:29.920624+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Comstock Inc. (0001120970) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1120970/000121390026010287/0001213900-26-010287-index.htm"
+  },
+  {
+    "time_utc": "2026-01-30T22:00:29.920689+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Marquie Group, Inc. (0001434601) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1434601/000168316826000642/0001683168-26-000642-index.htm"
+  },
+  {
     "time_utc": "2026-01-30T21:49:44.894634+00:00",
     "region": "US",
     "source": "SEC",
