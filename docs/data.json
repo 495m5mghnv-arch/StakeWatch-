@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-01-30T14:07:22.387360+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ILLUMINA, INC. (0001110803) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000014/0001110803-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-01-30T14:07:22.387397+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Hancock Park Corporate Income, Inc. (0001661306) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000008/0001661306-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-01-30T14:07:22.387422+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Apollo Realty Income Solutions, Inc. (0001882850) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1882850/000119312526030625/0001193125-26-030625-index.htm"
+  },
+  {
+    "time_utc": "2026-01-30T14:07:22.387434+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Starwood Credit Real Estate Income Trust (0001986395) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1986395/000119312526030623/0001193125-26-030623-index.htm"
+  },
+  {
+    "time_utc": "2026-01-30T14:07:22.387443+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - North Haven Net REIT (0001999784) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000009/0001999784-26-000009-index.htm"
+  },
+  {
     "time_utc": "2026-01-30T11:55:50.226286+00:00",
     "region": "US",
     "source": "SEC",
