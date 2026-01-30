@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-01-30T21:49:44.894634+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PENNANTPARK INVESTMENT CORP (0001383414) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1383414/000119312526031964/0001193125-26-031964-index.htm"
+  },
+  {
     "time_utc": "2026-01-30T15:54:50.646960+00:00",
     "region": "US",
     "source": "SEC",
