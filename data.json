@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-01-30T15:54:50.646960+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ENERGY RESOURCES 12, L.P. (0001696088) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1696088/000143774926002493/0001437749-26-002493-index.htm"
+  },
+  {
+    "time_utc": "2026-01-30T15:54:50.646986+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Energy 11, L.P. (0001581552) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1581552/000143774926002492/0001437749-26-002492-index.htm"
+  },
+  {
     "time_utc": "2026-01-30T14:07:22.387360+00:00",
     "region": "US",
     "source": "SEC",
