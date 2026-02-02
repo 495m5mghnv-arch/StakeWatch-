@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-02-02T11:58:27.047057+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COMERICA INC (0000028412) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/28412/000119312526032627/0001193125-26-032627-index.htm"
+  },
+  {
+    "time_utc": "2026-02-02T11:58:27.047082+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ESAB Corp (0001877322) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1877322/000121390026010528/0001213900-26-010528-index.htm"
+  },
+  {
+    "time_utc": "2026-02-02T11:58:27.047116+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIFTH THIRD BANCORP (0000035527) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/35527/000119312526032625/0001193125-26-032625-index.htm"
+  },
+  {
+    "time_utc": "2026-02-02T11:58:27.047122+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aptiv PLC (0001521332) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1521332/000152133226000004/0001521332-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-02-02T11:58:27.047133+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TENET HEALTHCARE CORP (0000070318) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/70318/000007031826000003/0000070318-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-02-02T11:58:27.047145+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Walt Disney Co (0001744489) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000018/0001744489-26-000018-index.htm"
+  },
+  {
+    "time_utc": "2026-02-02T11:58:27.047162+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IDEXX LABORATORIES INC /DE (0000874716) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/874716/000110465926008904/0001104659-26-008904-index.htm"
+  },
+  {
+    "time_utc": "2026-02-02T11:58:27.047177+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - McEwen Inc. (0000314203) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/314203/000110465926008897/0001104659-26-008897-index.htm"
+  },
+  {
+    "time_utc": "2026-02-02T11:58:27.047191+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Venture Global, Inc. (0002007855) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2007855/000200785526000006/0002007855-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-02-02T11:58:27.047217+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Planet Green Holdings Corp. (0001117057) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1117057/000121390026010509/0001213900-26-010509-index.htm"
+  },
+  {
     "time_utc": "2026-01-30T22:00:29.920624+00:00",
     "region": "US",
     "source": "SEC",
