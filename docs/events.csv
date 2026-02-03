@@ -1,4 +1,14 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-02-03T11:52:09.834743+00:00,US,SEC,8-K,,,,8-K - PJT Partners Inc. (0001626115) (Filer),https://www.sec.gov/Archives/edgar/data/1626115/000119312526034409/0001193125-26-034409-index.htm
+2026-02-03T11:52:09.834764+00:00,US,SEC,8-K,,,,8-K - Capri Holdings Ltd (0001530721) (Filer),https://www.sec.gov/Archives/edgar/data/1530721/000153072126000009/0001530721-26-000009-index.htm
+2026-02-03T11:52:09.834772+00:00,US,SEC,8-K,,,,8-K - Rithm Capital Corp. (0001556593) (Filer),https://www.sec.gov/Archives/edgar/data/1556593/000155659326000007/0001556593-26-000007-index.htm
+2026-02-03T11:52:09.834777+00:00,US,SEC,8-K,,,,8-K - RPC INC (0000742278) (Filer),https://www.sec.gov/Archives/edgar/data/742278/000110465926009496/0001104659-26-009496-index.htm
+2026-02-03T11:52:09.834787+00:00,US,SEC,8-K,,,,"8-K - Utz Brands, Inc. (0001739566) (Filer)",https://www.sec.gov/Archives/edgar/data/1739566/000162828026004786/0001628280-26-004786-index.htm
+2026-02-03T11:52:09.834796+00:00,US,SEC,8-K,,,,"8-K - Merck & Co., Inc. (0000310158) (Filer)",https://www.sec.gov/Archives/edgar/data/310158/000110465926009495/0001104659-26-009495-index.htm
+2026-02-03T11:52:09.834802+00:00,US,SEC,8-K,,,,8-K - MPLX LP (0001552000) (Filer),https://www.sec.gov/Archives/edgar/data/1552000/000155200026000004/0001552000-26-000004-index.htm
+2026-02-03T11:52:09.834807+00:00,US,SEC,8-K,,,,8-K - Marathon Petroleum Corp (0001510295) (Filer),https://www.sec.gov/Archives/edgar/data/1510295/000151029526000003/0001510295-26-000003-index.htm
+2026-02-03T11:52:09.834813+00:00,US,SEC,8-K,,,,8-K - ARKO Corp. (0001823794) (Filer),https://www.sec.gov/Archives/edgar/data/1823794/000119312526034392/0001193125-26-034392-index.htm
+2026-02-03T11:52:09.834824+00:00,US,SEC,8-K,,,,8-K - SemiLEDs Corp (0001333822) (Filer),https://www.sec.gov/Archives/edgar/data/1333822/000119312526034388/0001193125-26-034388-index.htm
 2026-02-02T18:06:22.817297+00:00,US,SEC,8-K,,,,8-K - E-Smart Corp. (0001995920) (Filer),https://www.sec.gov/Archives/edgar/data/1995920/000199592026000005/0001995920-26-000005-index.htm
 2026-02-02T18:06:22.817333+00:00,US,SEC,8-K,,,,8-K - SLM Student Loan Trust 2006-7 (0001370218) (Filer),https://www.sec.gov/Archives/edgar/data/1370218/000114036126003134/0001140361-26-003134-index.htm
 2026-02-02T14:27:43.618378+00:00,US,SEC,8-K,,,,"8-K - PACIFIC BIOSCIENCES OF CALIFORNIA, INC. (0001299130) (Filer)",https://www.sec.gov/Archives/edgar/data/1299130/000110465926009014/0001104659-26-009014-index.htm
