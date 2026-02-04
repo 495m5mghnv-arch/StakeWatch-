@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-02-04T17:12:45.720135+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TYLER TECHNOLOGIES INC (0000860731) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000009/0000860731-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-02-04T17:12:45.720150+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ONCOLYTICS BIOTECH INC (0001129928) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000004/0001129928-26-000004-index.htm"
+  },
+  {
     "time_utc": "2026-02-04T14:28:06.929163+00:00",
     "region": "US",
     "source": "SEC",
