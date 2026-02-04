@@ -1,5 +1,126 @@
 [
   {
+    "time_utc": "2026-02-04T11:49:03.242634+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KENNAMETAL INC (0000055242) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/55242/000162828026005264/0001628280-26-005264-index.htm"
+  },
+  {
+    "time_utc": "2026-02-04T11:49:03.242661+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Avery Dennison Corp (0000008818) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/8818/000000881826000004/0000008818-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-02-04T11:49:03.242671+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Evercore Inc. (0001360901) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1360901/000162828026005263/0001628280-26-005263-index.htm"
+  },
+  {
+    "time_utc": "2026-02-04T11:49:03.242683+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BOSTON SCIENTIFIC CORP (0000885725) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000006/0000885725-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-02-04T11:49:03.242688+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EQUIFAX INC (0000033185) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000004/0000033185-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-02-04T11:49:03.242693+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COGNIZANT TECHNOLOGY SOLUTIONS CORP (0001058290) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000003/0001058290-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-02-04T11:49:03.242698+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cencora, Inc. (0001140859) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1140859/000114085926000004/0001140859-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-02-04T11:49:03.242708+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BIO-TECHNE Corp (0000842023) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/842023/000110465926009994/0001104659-26-009994-index.htm"
+  },
+  {
+    "time_utc": "2026-02-04T11:49:03.242718+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GE HealthCare Technologies Inc. (0001932393) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1932393/000193239326000006/0001932393-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-02-04T11:49:03.242725+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bunge Global SA (0001996862) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996862/000162828026005261/0001628280-26-005261-index.htm"
+  },
+  {
+    "time_utc": "2026-02-04T11:49:03.242729+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Eva Live Inc (0001983736) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1983736/000149315226005003/0001493152-26-005003-index.htm"
+  },
+  {
     "time_utc": "2026-02-03T17:40:13.438832+00:00",
     "region": "US",
     "source": "SEC",
