@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-02-05T14:33:38.872357+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FOCUS UNIVERSAL INC. (0001590418) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1590418/000168316826000776/0001683168-26-000776-index.htm"
+  },
+  {
+    "time_utc": "2026-02-05T14:33:38.872418+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIDELITY D & D BANCORP INC (0001098151) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1098151/000143774926003109/0001437749-26-003109-index.htm"
+  },
+  {
+    "time_utc": "2026-02-05T14:33:38.872436+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMN HEALTHCARE SERVICES INC (0001142750) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1142750/000095014226000299/0000950142-26-000299-index.htm"
+  },
+  {
+    "time_utc": "2026-02-05T14:33:38.872493+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RBC Bearings INC (0001324948) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1324948/000121390026012574/0001213900-26-012574-index.htm"
+  },
+  {
+    "time_utc": "2026-02-05T14:33:38.872504+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Gemini Space Station, Inc. (0002055592) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2055592/000205559226000008/0002055592-26-000008-index.htm"
+  },
+  {
     "time_utc": "2026-02-05T11:54:04.180842+00:00",
     "region": "US",
     "source": "SEC",
