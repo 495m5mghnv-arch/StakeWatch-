@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-02-06T11:50:04.257812+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GRAFTECH INTERNATIONAL LTD (0000931148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/931148/000093114826000014/0000931148-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-02-06T11:50:04.257830+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - nVent Electric plc (0001720635) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1720635/000162828026005930/0001628280-26-005930-index.htm"
+  },
+  {
+    "time_utc": "2026-02-06T11:50:04.257836+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GRAHAM CORP (0000716314) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/716314/000119312526040276/0001193125-26-040276-index.htm"
+  },
+  {
+    "time_utc": "2026-02-06T11:50:04.257858+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blackstone Private Credit Fund (0001803498) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1803498/000180349826000007/0001803498-26-000007-index.htm"
+  },
+  {
+    "time_utc": "2026-02-06T11:50:04.257865+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RXO, Inc. (0001929561) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1929561/000192956126000006/0001929561-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-02-06T11:50:04.257870+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MARKETAXESS HOLDINGS INC (0001278021) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1278021/000119312526040253/0001193125-26-040253-index.htm"
+  },
+  {
+    "time_utc": "2026-02-06T11:50:04.257874+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEWELL BRANDS INC. (0000814453) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/814453/000081445326000004/0000814453-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-02-06T11:50:04.257905+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Qorvo, Inc. (0001604778) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1604778/000095010326001762/0000950103-26-001762-index.htm"
+  },
+  {
     "time_utc": "2026-02-05T21:58:26.525898+00:00",
     "region": "US",
     "source": "SEC",
