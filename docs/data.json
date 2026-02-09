@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-02-09T14:39:58.215984+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000012/0001018164-26-000012-index.htm"
+  },
+  {
+    "time_utc": "2026-02-09T14:39:58.216027+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COVENANT LOGISTICS GROUP, INC. (0000928658) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/928658/000100888626000022/0001008886-26-000022-index.htm"
+  },
+  {
+    "time_utc": "2026-02-09T14:39:58.216033+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Biofrontera Inc. (0001858685) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1858685/000149315226005717/0001493152-26-005717-index.htm"
+  },
+  {
+    "time_utc": "2026-02-09T14:39:58.216042+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TransDigm Group INC (0001260221) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000020/0001260221-26-000020-index.htm"
+  },
+  {
     "time_utc": "2026-02-09T11:13:19.026909+00:00",
     "region": "US",
     "source": "SEC",
