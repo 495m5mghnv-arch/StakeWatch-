@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-02-09T11:13:19.026909+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CNA FINANCIAL CORP (0000021175) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/21175/000002117526000008/0000021175-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-02-09T11:13:19.026940+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NXP Semiconductors N.V. (0001413447) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000005/0001413447-26-000005-index.htm"
+  },
+  {
+    "time_utc": "2026-02-09T11:13:19.026970+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aeries Technology, Inc. (0001853044) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1853044/000182912626001093/0001829126-26-001093-index.htm"
+  },
+  {
+    "time_utc": "2026-02-09T11:13:19.026975+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LOEWS CORP (0000060086) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/60086/000006008626000005/0000060086-26-000005-index.htm"
+  },
+  {
+    "time_utc": "2026-02-09T11:13:19.026980+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ProCap Financial, Inc. (0002076163) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2076163/000149315226005670/0001493152-26-005670-index.htm"
+  },
+  {
+    "time_utc": "2026-02-09T11:13:19.027004+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326000685/0001062993-26-000685-index.htm"
+  },
+  {
+    "time_utc": "2026-02-09T11:13:19.027013+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BioAtla, Inc. (0001826892) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1826892/000119312526041852/0001193125-26-041852-index.htm"
+  },
+  {
     "time_utc": "2026-02-06T21:55:38.271604+00:00",
     "region": "US",
     "source": "SEC",
