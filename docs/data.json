@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-02-10T11:32:04.533794+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CVS HEALTH Corp (0000064803) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000009/0000064803-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-02-10T11:32:04.533817+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ZIMMER BIOMET HOLDINGS, INC. (0001136869) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1136869/000119312526043620/0001193125-26-043620-index.htm"
+  },
+  {
+    "time_utc": "2026-02-10T11:32:04.533826+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Oscar Health, Inc. (0001568651) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865126000008/0001568651-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-02-10T11:32:04.533918+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DuPont de Nemours, Inc. (0001666700) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1666700/000166670026000007/0001666700-26-000007-index.htm"
+  },
+  {
     "time_utc": "2026-02-09T22:05:09.367485+00:00",
     "region": "US",
     "source": "SEC",
