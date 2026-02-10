@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-10T19:41:49.971736+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UWHARRIE CAPITAL CORP (0000898171) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/898171/000119312526044340/0001193125-26-044340-index.htm"
+  },
+  {
     "time_utc": "2026-02-10T11:32:04.533794+00:00",
     "region": "US",
     "source": "SEC",
