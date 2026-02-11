@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-02-11T21:47:21.303402+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MID PENN BANCORP INC (0000879635) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/879635/000087963526000018/0000879635-26-000018-index.htm"
+  },
+  {
+    "time_utc": "2026-02-11T21:47:21.303431+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aeluma, Inc. (0001828805) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1828805/000121390026014960/0001213900-26-014960-index.htm"
+  },
+  {
+    "time_utc": "2026-02-11T21:47:21.303448+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GROUP 1 AUTOMOTIVE INC (0001031203) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000043/0001031203-26-000043-index.htm"
+  },
+  {
+    "time_utc": "2026-02-11T21:47:21.303457+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Anterix Inc. (0001304492) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1304492/000130449226000009/0001304492-26-000009-index.htm"
+  },
+  {
     "time_utc": "2026-02-11T21:04:09.979713+00:00",
     "region": "US",
     "source": "SEC",
