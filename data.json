@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-02-11T14:38:17.901991+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ondas Inc. (0001646188) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026014622/0001213900-26-014622-index.htm"
+  },
+  {
+    "time_utc": "2026-02-11T14:38:17.902009+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Evolution Metals & Technologies Corp. (0001866226) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026014621/0001213900-26-014621-index.htm"
+  },
+  {
+    "time_utc": "2026-02-11T14:38:17.902020+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SIFCO INDUSTRIES INC (0000090168) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/90168/000009016826000012/0000090168-26-000012-index.htm"
+  },
+  {
+    "time_utc": "2026-02-11T14:38:17.902035+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ADDENTAX GROUP CORP. (0001650101) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1650101/000149315226006130/0001493152-26-006130-index.htm"
+  },
+  {
+    "time_utc": "2026-02-11T14:38:17.902047+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Upstream Bio, Inc. (0002022626) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2022626/000119312526045649/0001193125-26-045649-index.htm"
+  },
+  {
     "time_utc": "2026-02-10T22:03:25.217326+00:00",
     "region": "US",
     "source": "SEC",
