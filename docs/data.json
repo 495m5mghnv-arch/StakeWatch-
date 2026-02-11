@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-02-11T21:04:09.979713+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMC Networks Inc. (0001514991) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1514991/000151499126000008/0001514991-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-02-11T21:04:09.979760+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tamboran Resources Corp (0001997652) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1997652/000162828026007252/0001628280-26-007252-index.htm"
+  },
+  {
+    "time_utc": "2026-02-11T21:04:09.979766+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MCDONALDS CORP (0000063908) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000032/0000063908-26-000032-index.htm"
+  },
+  {
+    "time_utc": "2026-02-11T21:04:09.979788+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Atomera Inc (0001420520) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1420520/000168316826000919/0001683168-26-000919-index.htm"
+  },
+  {
+    "time_utc": "2026-02-11T21:04:09.979797+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Dakota Gold Corp. (0001852353) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1852353/000110465926013353/0001104659-26-013353-index.htm"
+  },
+  {
     "time_utc": "2026-02-11T14:38:17.901991+00:00",
     "region": "US",
     "source": "SEC",
