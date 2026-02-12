@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-12T17:29:07.068029+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CANADIAN PACIFIC KANSAS CITY LTD/CN (0000016875) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/16875/000119312526048127/0001193125-26-048127-index.htm"
+  },
+  {
     "time_utc": "2026-02-12T13:10:33.318760+00:00",
     "region": "US",
     "source": "SEC",
