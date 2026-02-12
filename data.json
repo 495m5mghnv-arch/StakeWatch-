@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-02-12T21:58:00.480426+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bain Capital Specialty Finance, Inc. (0001655050) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1655050/000119312526048956/0001193125-26-048956-index.htm"
+  },
+  {
+    "time_utc": "2026-02-12T21:58:00.480469+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GEO GROUP INC (0000923796) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/923796/000119312526048953/0001193125-26-048953-index.htm"
+  },
+  {
+    "time_utc": "2026-02-12T21:58:00.480500+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Keurig Dr Pepper Inc. (0001418135) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000007/0001418135-26-000007-index.htm"
+  },
+  {
     "time_utc": "2026-02-12T21:20:35.749602+00:00",
     "region": "US",
     "source": "SEC",
