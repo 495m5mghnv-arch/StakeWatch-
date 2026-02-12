@@ -1,4 +1,20 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-02-12T13:10:33.318760+00:00,US,SEC,8-K,,,,8-K - Benitec Biopharma Inc. (0001808898) (Filer),https://www.sec.gov/Archives/edgar/data/1808898/000119312526047742/0001193125-26-047742-index.htm
+2026-02-12T13:10:33.318777+00:00,US,SEC,8-K,,,,8-K - Xerox Holdings Corp (0001770450) (Filer),https://www.sec.gov/Archives/edgar/data/1770450/000119312526047741/0001193125-26-047741-index.htm
+2026-02-12T13:10:33.318784+00:00,US,SEC,8-K,,,,8-K - XEROX CORP (0000108772) (Filer),https://www.sec.gov/Archives/edgar/data/108772/000119312526047741/0001193125-26-047741-index.htm
+2026-02-12T13:10:33.318796+00:00,US,SEC,8-K,,,,"8-K - Theriva Biologics, Inc. (0000894158) (Filer)",https://www.sec.gov/Archives/edgar/data/894158/000110465926013907/0001104659-26-013907-index.htm
+2026-02-12T13:10:33.318807+00:00,US,SEC,8-K,,,,"8-K - ALNYLAM PHARMACEUTICALS, INC. (0001178670) (Filer)",https://www.sec.gov/Archives/edgar/data/1178670/000162828026007491/0001628280-26-007491-index.htm
+2026-02-12T13:10:33.318825+00:00,US,SEC,8-K,,,,"8-K - Bloomin' Brands, Inc. (0001546417) (Filer)",https://www.sec.gov/Archives/edgar/data/1546417/000154641726000002/0001546417-26-000002-index.htm
+2026-02-12T13:10:33.318830+00:00,US,SEC,8-K,,,,8-K - Solidion Technology Inc. (0001881551) (Filer),https://www.sec.gov/Archives/edgar/data/1881551/000121390026015206/0001213900-26-015206-index.htm
+2026-02-12T13:10:33.318835+00:00,US,SEC,8-K,,,,"8-K - Grace Therapeutics, Inc. (0001444192) (Filer)",https://www.sec.gov/Archives/edgar/data/1444192/000114036126004927/0001140361-26-004927-index.htm
+2026-02-12T13:10:33.318839+00:00,US,SEC,8-K,,,,8-K - CONDUENT Inc (0001677703) (Filer),https://www.sec.gov/Archives/edgar/data/1677703/000167770326000018/0001677703-26-000018-index.htm
+2026-02-12T13:10:33.318843+00:00,US,SEC,8-K,,,,8-K - FEDERAL HOME LOAN MORTGAGE CORP (0001026214) (Filer),https://www.sec.gov/Archives/edgar/data/1026214/000102621426000022/0001026214-26-000022-index.htm
+2026-02-12T13:10:33.318847+00:00,US,SEC,8-K,,,,8-K - IPG PHOTONICS CORP (0001111928) (Filer),https://www.sec.gov/Archives/edgar/data/1111928/000111192826000015/0001111928-26-000015-index.htm
+2026-02-12T13:10:33.318852+00:00,US,SEC,8-K,,,,"8-K - Voyager Therapeutics, Inc. (0001640266) (Filer)",https://www.sec.gov/Archives/edgar/data/1640266/000110465926013897/0001104659-26-013897-index.htm
+2026-02-12T13:10:33.318858+00:00,US,SEC,8-K,,,,"8-K - Cue Biopharma, Inc. (0001645460) (Filer)",https://www.sec.gov/Archives/edgar/data/1645460/000119312526047717/0001193125-26-047717-index.htm
+2026-02-12T13:10:33.318869+00:00,US,SEC,8-K,,,,8-K - BELDEN INC. (0000913142) (Filer),https://www.sec.gov/Archives/edgar/data/913142/000091314226000005/0000913142-26-000005-index.htm
+2026-02-12T13:10:33.318889+00:00,US,SEC,8-K,,,,"8-K - ENTERGY TEXAS, INC. (0001427437) (Filer)",https://www.sec.gov/Archives/edgar/data/1427437/000006598426000164/0000065984-26-000164-index.htm
+2026-02-12T13:10:33.318893+00:00,US,SEC,8-K,,,,"8-K - ENTERGY LOUISIANA, LLC (0001348952) (Filer)",https://www.sec.gov/Archives/edgar/data/1348952/000006598426000164/0000065984-26-000164-index.htm
 2026-02-12T11:52:55.617858+00:00,US,SEC,8-K,,,,8-K - IRON MOUNTAIN INC (0001020569) (Filer),https://www.sec.gov/Archives/edgar/data/1020569/000102056926000009/0001020569-26-000009-index.htm
 2026-02-12T11:52:55.617880+00:00,US,SEC,8-K,,,,8-K - MATERION Corp (0001104657) (Filer),https://www.sec.gov/Archives/edgar/data/1104657/000110465726000006/0001104657-26-000006-index.htm
 2026-02-12T11:52:55.617885+00:00,US,SEC,8-K,,,,8-K - US Foods Holding Corp. (0001665918) (Filer),https://www.sec.gov/Archives/edgar/data/1665918/000166591826000005/0001665918-26-000005-index.htm
