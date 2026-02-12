@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-02-12T20:01:49.585531+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIRST US BANCSHARES, INC. (0000717806) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/717806/000119312526048523/0001193125-26-048523-index.htm"
+  },
+  {
+    "time_utc": "2026-02-12T20:01:49.585573+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Honda Auto Receivables 2026-1 Owner Trust (0002100818) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2100818/000110465926014190/0001104659-26-014190-index.htm"
+  },
+  {
+    "time_utc": "2026-02-12T20:01:49.585579+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMERICAN HONDA RECEIVABLES LLC (0000890975) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/890975/000110465926014190/0001104659-26-014190-index.htm"
+  },
+  {
+    "time_utc": "2026-02-12T20:01:49.585604+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Momentus Inc. (0001781162) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1781162/000114036126004972/0001140361-26-004972-index.htm"
+  },
+  {
     "time_utc": "2026-02-12T19:37:03.174828+00:00",
     "region": "US",
     "source": "SEC",
