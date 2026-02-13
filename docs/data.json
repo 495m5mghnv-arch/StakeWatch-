@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-02-13T21:19:44.090270+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Huntsman CORP (0001307954) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1307954/000110465926015235/0001104659-26-015235-index.htm"
+  },
+  {
+    "time_utc": "2026-02-13T21:19:44.090291+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HUNTSMAN INTERNATIONAL LLC (0001089748) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1089748/000110465926015235/0001104659-26-015235-index.htm"
+  },
+  {
+    "time_utc": "2026-02-13T21:19:44.090296+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Live Oak Bancshares, Inc. (0001462120) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1462120/000146212026000009/0001462120-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-02-13T21:19:44.090351+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - New Mountain Private Credit Fund (0002037804) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2037804/000158064226001082/0001580642-26-001082-index.htm"
+  },
+  {
     "time_utc": "2026-02-13T19:08:18.846961+00:00",
     "region": "US",
     "source": "SEC",
