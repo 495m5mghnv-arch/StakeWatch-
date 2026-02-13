@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-02-13T13:02:29.432220+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Dauch Corp (0001062231) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1062231/000106223126000017/0001062231-26-000017-index.htm"
+  },
+  {
+    "time_utc": "2026-02-13T13:02:29.432250+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Evommune, Inc. (0002044725) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2044725/000119312526049888/0001193125-26-049888-index.htm"
+  },
+  {
+    "time_utc": "2026-02-13T13:02:29.432258+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bloomin' Brands, Inc. (0001546417) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1546417/000154641726000004/0001546417-26-000004-index.htm"
+  },
+  {
     "time_utc": "2026-02-13T11:54:21.471505+00:00",
     "region": "US",
     "source": "SEC",
