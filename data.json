@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-02-13T11:54:21.471505+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Atmus Filtration Technologies Inc. (0001921963) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1921963/000192196326000012/0001921963-26-000012-index.htm"
+  },
+  {
+    "time_utc": "2026-02-13T11:54:21.471530+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rithm Property Trust Inc. (0001614806) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1614806/000161480626000007/0001614806-26-000007-index.htm"
+  },
+  {
+    "time_utc": "2026-02-13T11:54:21.471536+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - T3 Defense Inc. (0001787518) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026015834/0001213900-26-015834-index.htm"
+  },
+  {
+    "time_utc": "2026-02-13T11:54:21.471589+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ADVANCE AUTO PARTS INC (0001158449) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1158449/000119312526049776/0001193125-26-049776-index.htm"
+  },
+  {
     "time_utc": "2026-02-13T11:21:14.449273+00:00",
     "region": "US",
     "source": "SEC",
