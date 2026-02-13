@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-13T21:55:07.657555+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TIMKEN CO (0000098362) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/98362/000009836226000014/0000098362-26-000014-index.htm"
+  },
+  {
     "time_utc": "2026-02-13T21:19:44.090270+00:00",
     "region": "US",
     "source": "SEC",
