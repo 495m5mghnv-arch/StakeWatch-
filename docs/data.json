@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-17T20:39:31.773025+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Golub Capital Private Credit Fund (0001930087) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1930087/000110465926016299/0001104659-26-016299-index.htm"
+  },
+  {
     "time_utc": "2026-02-17T19:14:59.935791+00:00",
     "region": "US",
     "source": "SEC",
