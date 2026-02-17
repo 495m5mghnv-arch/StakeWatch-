@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-02-17T21:51:16.939839+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Celanese Corp (0001306830) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1306830/000130683026000016/0001306830-26-000016-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T21:51:16.939877+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Toll Brothers, Inc. (0000794170) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/794170/000079417026000050/0000794170-26-000050-index.htm"
+  },
+  {
     "time_utc": "2026-02-17T21:19:06.271108+00:00",
     "region": "US",
     "source": "SEC",
