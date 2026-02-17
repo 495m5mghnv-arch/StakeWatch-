@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-02-17T11:13:52.712382+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HONEYWELL INTERNATIONAL INC (0000773840) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/773840/000077384026000015/0000773840-26-000015-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T11:13:52.712415+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MODINE MANUFACTURING CO (0000067347) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/67347/000110465926015568/0001104659-26-015568-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T11:13:52.712438+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DAILY JOURNAL CORP (0000783412) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/783412/000143774926004210/0001437749-26-004210-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T11:13:52.712454+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rise Companies Corp (0001640967) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1640967/000110465926015557/0001104659-26-015557-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T11:13:52.712462+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PORTLAND GENERAL ELECTRIC CO /OR/ (0000784977) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/784977/000119312526052759/0001193125-26-052759-index.htm"
+  },
+  {
     "time_utc": "2026-02-13T21:55:07.657555+00:00",
     "region": "US",
     "source": "SEC",
