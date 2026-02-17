@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-02-17T13:11:56.812361+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Invech Holdings, Inc. (0001009919) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1009919/000168316826001055/0001683168-26-001055-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T13:11:56.812388+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Turn Therapeutics Inc. (0002023016) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2023016/000121390026016916/0001213900-26-016916-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T13:11:56.812399+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cingulate Inc. (0001862150) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1862150/000149315226006942/0001493152-26-006942-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T13:11:56.812429+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DANAHER CORP /DE/ (0000313616) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/313616/000119312526053124/0001193125-26-053124-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T13:11:56.812445+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tianci International, Inc. (0001557798) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1557798/000168316826001050/0001683168-26-001050-index.htm"
+  },
+  {
     "time_utc": "2026-02-17T11:56:05.958049+00:00",
     "region": "US",
     "source": "SEC",
