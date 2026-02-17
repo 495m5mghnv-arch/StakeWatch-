@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-02-17T11:56:05.958049+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kennedy-Wilson Holdings, Inc. (0001408100) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1408100/000114036126005601/0001140361-26-005601-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T11:56:05.958076+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LABCORP HOLDINGS INC. (0000920148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/920148/000092014826000098/0000920148-26-000098-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T11:56:05.958093+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TRINITY INDUSTRIES INC (0000099780) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/99780/000009978026000011/0000099780-26-000011-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T11:56:05.958098+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WESCO INTERNATIONAL INC (0000929008) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/929008/000092900826000010/0000929008-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T11:56:05.958139+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Medtronic plc (0001613103) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1613103/000162828026008300/0001628280-26-008300-index.htm"
+  },
+  {
+    "time_utc": "2026-02-17T11:56:05.958157+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Waystar Holding Corp. (0001990354) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1990354/000199035426000010/0001990354-26-000010-index.htm"
+  },
+  {
     "time_utc": "2026-02-17T11:13:52.712382+00:00",
     "region": "US",
     "source": "SEC",
