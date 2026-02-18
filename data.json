@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-02-18T22:02:00.398581+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Outlook Therapeutics, Inc. (0001649989) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1649989/000110465926017118/0001104659-26-017118-index.htm"
+  },
+  {
+    "time_utc": "2026-02-18T22:02:00.398642+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMERICAN FINANCIAL GROUP INC (0001042046) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1042046/000114036126006031/0001140361-26-006031-index.htm"
+  },
+  {
+    "time_utc": "2026-02-18T22:02:00.398648+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Pearl Diver Credit Co Inc. (0001998043) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1998043/000121465926002137/0001214659-26-002137-index.htm"
+  },
+  {
+    "time_utc": "2026-02-18T22:02:00.398661+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ARKO Corp. (0001823794) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1823794/000119312526057348/0001193125-26-057348-index.htm"
+  },
+  {
     "time_utc": "2026-02-18T16:07:09.822312+00:00",
     "region": "US",
     "source": "SEC",
