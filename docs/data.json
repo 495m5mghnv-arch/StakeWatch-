@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-02-18T13:06:50.296331+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TLGY ACQUISITION CORP (0001879814) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1879814/000121390026017683/0001213900-26-017683-index.htm"
+  },
+  {
+    "time_utc": "2026-02-18T13:06:50.296373+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ankam, Inc. (0001781629) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1781629/000168316826001149/0001683168-26-001149-index.htm"
+  },
+  {
     "time_utc": "2026-02-18T11:51:44.587583+00:00",
     "region": "US",
     "source": "SEC",
