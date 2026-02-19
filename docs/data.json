@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-19T16:29:24.020541+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sports Entertainment Gaming Global Corp (0001673481) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1673481/000149315226007446/0001493152-26-007446-index.htm"
+  },
+  {
     "time_utc": "2026-02-19T14:37:50.361059+00:00",
     "region": "US",
     "source": "SEC",
