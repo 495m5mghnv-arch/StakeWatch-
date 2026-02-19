@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-02-19T17:31:49.643103+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2026738/000119312526058765/0001193125-26-058765-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T17:31:49.643147+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TRAVELZOO (0001133311) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1133311/000113331126000002/0001133311-26-000002-index.htm"
+  },
+  {
     "time_utc": "2026-02-19T16:29:24.020541+00:00",
     "region": "US",
     "source": "SEC",
