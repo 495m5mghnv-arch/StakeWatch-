@@ -1,5 +1,126 @@
 [
   {
+    "time_utc": "2026-02-19T21:17:16.709792+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COPART INC (0000900075) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/900075/000119312526059440/0001193125-26-059440-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:17:16.709818+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CASELLA WASTE SYSTEMS INC (0000911177) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/911177/000091117726000006/0000911177-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:17:16.709846+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SharonAI Holdings Inc. (0002068385) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2068385/000182912626001479/0001829126-26-001479-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:17:16.709851+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BALCHEM CORP (0000009326) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/9326/000114036126006184/0001140361-26-006184-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:17:16.709861+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AXT INC (0001051627) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1051627/000143774926004731/0001437749-26-004731-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:17:16.709874+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SYNOPSYS INC (0000883241) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/883241/000119312526059438/0001193125-26-059438-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:17:16.709880+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AKAMAI TECHNOLOGIES INC (0001086222) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000017/0001086222-26-000017-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:17:16.709887+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RE/MAX Holdings, Inc. (0001581091) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1581091/000110465926017550/0001104659-26-017550-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:17:16.709895+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BIO-RAD LABORATORIES, INC. (0000012208) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/12208/000001220826000012/0000012208-26-000012-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:17:16.709899+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CHEETAH NET SUPPLY CHAIN SERVICE INC. (0001951667) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1951667/000110465926017549/0001104659-26-017549-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:17:16.709911+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HARMONIC INC. (0000851310) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/851310/000119312526059434/0001193125-26-059434-index.htm"
+  },
+  {
     "time_utc": "2026-02-19T20:43:07.759215+00:00",
     "region": "US",
     "source": "SEC",
