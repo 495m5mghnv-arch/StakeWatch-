@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-19T19:59:43.901509+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Quarta-Rad, Inc. (0001549631) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1549631/000149315226007458/0001493152-26-007458-index.htm"
+  },
+  {
     "time_utc": "2026-02-19T17:31:49.643103+00:00",
     "region": "US",
     "source": "SEC",
