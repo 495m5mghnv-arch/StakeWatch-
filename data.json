@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-02-19T21:53:01.256936+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1893262/000119312526059605/0001193125-26-059605-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:53:01.256967+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DOMO, INC. (0001505952) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1505952/000162828026009841/0001628280-26-009841-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:53:01.256997+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Fidelity National Financial, Inc. (0001331875) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331875/000133187526000021/0001331875-26-000021-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T21:53:01.257015+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIRST CAPITAL INC (0001070296) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1070296/000117184326000944/0001171843-26-000944-index.htm"
+  },
+  {
     "time_utc": "2026-02-19T21:17:16.709792+00:00",
     "region": "US",
     "source": "SEC",
