@@ -1,5 +1,104 @@
 [
   {
+    "time_utc": "2026-02-19T13:40:57.503500+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Lucky Strike Entertainment Corp (0001840572) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1840572/000162828026009493/0001628280-26-009493-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T13:40:57.503528+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GATX CORP (0000040211) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/40211/000004021126000014/0000040211-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T13:40:57.503533+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cocrystal Pharma, Inc. (0001412486) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1412486/000149315226007430/0001493152-26-007430-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T13:40:57.503539+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Microbot Medical Inc. (0000883975) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/883975/000149315226007429/0001493152-26-007429-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T13:40:57.503554+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MEDICAL PROPERTIES TRUST INC (0001287865) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1287865/000119312526058167/0001193125-26-058167-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T13:40:57.503561+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GLOBAL PAYMENTS INC (0001123360) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926017297/0001104659-26-017297-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T13:40:57.503587+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Worksport Ltd (0001096275) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226007428/0001493152-26-007428-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T13:40:57.503593+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IDACORP INC (0001057877) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1057877/000105787726000029/0001057877-26-000029-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T13:40:57.503597+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IDAHO POWER CO (0000049648) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/49648/000105787726000029/0001057877-26-000029-index.htm"
+  },
+  {
     "time_utc": "2026-02-19T12:04:42.894087+00:00",
     "region": "US",
     "source": "SEC",
