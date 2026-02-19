@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-02-19T14:37:50.361059+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - POOL CORP (0000945841) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/945841/000119312526058288/0001193125-26-058288-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T14:37:50.361121+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PMGC Holdings Inc. (0001840563) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1840563/000121390026018189/0001213900-26-018189-index.htm"
+  },
+  {
     "time_utc": "2026-02-19T13:40:57.503500+00:00",
     "region": "US",
     "source": "SEC",
