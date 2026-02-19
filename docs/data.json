@@ -1,5 +1,137 @@
 [
   {
+    "time_utc": "2026-02-19T11:38:47.669579+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DONEGAL GROUP INC (0000800457) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/800457/000117184326000917/0001171843-26-000917-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T11:38:47.669603+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DEERE JOHN CAPITAL CORP (0000027673) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/27673/000110465926017264/0001104659-26-017264-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T11:38:47.669611+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Hims & Hers Health, Inc. (0001773751) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1773751/000177375126000010/0001773751-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T11:38:47.669618+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ADDENTAX GROUP CORP. (0001650101) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1650101/000149315226007405/0001493152-26-007405-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T11:38:47.669623+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Targa Resources Corp. (0001389170) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1389170/000119312526058040/0001193125-26-058040-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T11:38:47.669628+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CENTERPOINT ENERGY INC (0001130310) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1130310/000113031026000010/0001130310-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T11:38:47.669632+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KEEMO Fashion Group Ltd (0001935033) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1935033/000149315226007402/0001493152-26-007402-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T11:38:47.669636+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Gentherm Inc (0000903129) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/903129/000119312526058037/0001193125-26-058037-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T11:38:47.669642+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - YETI Holdings, Inc. (0001670592) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1670592/000167059226000004/0001670592-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T11:38:47.669662+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - YETI Holdings, Inc. (0001670592) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1670592/000110465926017245/0001104659-26-017245-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T11:38:47.669672+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DEERE & CO (0000315189) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/315189/000110465926017239/0001104659-26-017239-index.htm"
+  },
+  {
+    "time_utc": "2026-02-19T11:38:47.669691+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001059/0001062993-26-001059-index.htm"
+  },
+  {
     "time_utc": "2026-02-18T22:02:00.398581+00:00",
     "region": "US",
     "source": "SEC",
