@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-20T15:10:09.493994+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WESTERN ALLIANCE BANCORPORATION (0001212545) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1212545/000162828026010050/0001628280-26-010050-index.htm"
+  },
+  {
     "time_utc": "2026-02-20T14:29:02.633630+00:00",
     "region": "US",
     "source": "SEC",
