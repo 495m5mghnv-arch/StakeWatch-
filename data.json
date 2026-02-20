@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-02-20T12:26:32.773549+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COGENT COMMUNICATIONS HOLDINGS, INC. (0001158324) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1158324/000110465926017862/0001104659-26-017862-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T12:26:32.773578+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blackstone Private Credit Fund (0001803498) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1803498/000180349826000010/0001803498-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T12:26:32.773601+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Green Thumb Industries Inc. (0001795139) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1795139/000119312526060325/0001193125-26-060325-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T12:26:32.773611+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OIL STATES INTERNATIONAL, INC (0001121484) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1121484/000112148426000004/0001121484-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T12:26:32.773617+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Western Union CO (0001365135) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1365135/000119312526060322/0001193125-26-060322-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T12:26:32.773624+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DNOW Inc. (0001599617) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1599617/000119312526060320/0001193125-26-060320-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T12:26:32.773628+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Citi Trends Inc (0001318484) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1318484/000110465926017849/0001104659-26-017849-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T12:26:32.773636+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LAMAR ADVERTISING CO/NEW (0001090425) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1090425/000109042526000006/0001090425-26-000006-index.htm"
+  },
+  {
     "time_utc": "2026-02-20T11:49:01.507143+00:00",
     "region": "US",
     "source": "SEC",
