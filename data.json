@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-20T19:03:43.817795+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CHOICE HOTELS INTERNATIONAL INC /DE (0001046311) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1046311/000162828026010118/0001628280-26-010118-index.htm"
+  },
+  {
     "time_utc": "2026-02-20T18:02:39.857282+00:00",
     "region": "US",
     "source": "SEC",
