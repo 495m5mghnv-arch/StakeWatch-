@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-20T21:59:22.327842+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - U S GLOBAL INVESTORS INC (0000754811) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/754811/000143774926004929/0001437749-26-004929-index.htm"
+  },
+  {
     "time_utc": "2026-02-20T21:10:40.782051+00:00",
     "region": "US",
     "source": "SEC",
