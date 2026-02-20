@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-02-20T20:01:45.690648+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Alternus Clean Energy, Inc. (0001883984) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1883984/000143774926004881/0001437749-26-004881-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T20:01:45.690671+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nissan Auto Lease Trust 2026-A (0002105816) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2105816/000119312526061118/0001193125-26-061118-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T20:01:45.690677+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NISSAN AUTO LEASING LLC II (0001244832) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1244832/000119312526061118/0001193125-26-061118-index.htm"
+  },
+  {
     "time_utc": "2026-02-20T19:45:50.050664+00:00",
     "region": "US",
     "source": "SEC",
