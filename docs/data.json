@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-02-20T11:49:01.507143+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ESAB Corp (0001877322) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1877322/000187732226000008/0001877322-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T11:49:01.507187+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AUTOLIV INC (0001034670) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1034670/000119312526060246/0001193125-26-060246-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T11:49:01.507193+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AdvanSix Inc. (0001673985) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1673985/000167398526000004/0001673985-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T11:49:01.507203+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MEDICINOVA INC (0001226616) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1226616/000119312526060232/0001193125-26-060232-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T11:49:01.507208+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IAC Inc. (0001800227) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1800227/000162828026009996/0001628280-26-009996-index.htm"
+  },
+  {
     "time_utc": "2026-02-20T11:18:17.544750+00:00",
     "region": "US",
     "source": "SEC",
