@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-02-20T13:40:46.470100+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PDS Biotechnology Corp (0001472091) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126006229/0001140361-26-006229-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T13:40:46.470134+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OFF THE HOOK YS INC. (0002067767) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226007531/0001493152-26-007531-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T13:40:46.470141+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - JAKKS PACIFIC INC (0001009829) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1009829/000118518526000629/0001185185-26-000629-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T13:40:46.470150+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - National Healthcare Properties, Inc. (0001561032) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1561032/000156103226000010/0001561032-26-000010-index.htm"
+  },
+  {
     "time_utc": "2026-02-20T12:26:32.773549+00:00",
     "region": "US",
     "source": "SEC",
