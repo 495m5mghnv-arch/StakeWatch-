@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-02-20T14:29:02.633630+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SAN JUAN BASIN ROYALTY TRUST (0000319655) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/319655/000119312526060515/0001193125-26-060515-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T14:29:02.633720+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000034/0001527541-26-000034-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T14:29:02.633729+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LCI INDUSTRIES (0000763744) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000009/0000763744-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T14:29:02.633734+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CMS ENERGY CORP (0000811156) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/811156/000110465926017913/0001104659-26-017913-index.htm"
+  },
+  {
+    "time_utc": "2026-02-20T14:29:02.633739+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CONSUMERS ENERGY CO (0000201533) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/201533/000110465926017913/0001104659-26-017913-index.htm"
+  },
+  {
     "time_utc": "2026-02-20T13:40:46.470100+00:00",
     "region": "US",
     "source": "SEC",
