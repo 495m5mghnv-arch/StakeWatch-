@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-20T20:47:00.885716+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Fidelity Private Credit Fund (0001920453) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1920453/000119312526061231/0001193125-26-061231-index.htm"
+  },
+  {
     "time_utc": "2026-02-20T20:01:45.690648+00:00",
     "region": "US",
     "source": "SEC",
