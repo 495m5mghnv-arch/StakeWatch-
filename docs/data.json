@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-20T21:10:40.782051+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KKR Infrastructure Conglomerate LLC (0001948056) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1948056/000194805626000013/0001948056-26-000013-index.htm"
+  },
+  {
     "time_utc": "2026-02-20T20:47:00.885716+00:00",
     "region": "US",
     "source": "SEC",
