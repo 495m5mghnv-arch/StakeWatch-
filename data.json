@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-20T19:45:50.050664+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sigyn Therapeutics, Inc. (0001642159) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1642159/000149315226007574/0001493152-26-007574-index.htm"
+  },
+  {
     "time_utc": "2026-02-20T19:03:43.817795+00:00",
     "region": "US",
     "source": "SEC",
