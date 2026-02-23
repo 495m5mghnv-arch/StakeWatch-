@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-02-23T11:52:15.164302+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GILEAD SCIENCES, INC. (0000882095) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/882095/000110465926018314/0001104659-26-018314-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:52:15.164336+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Easterly Government Properties, Inc. (0001622194) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1622194/000119312526062369/0001193125-26-062369-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:52:15.164346+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Zura Bio Ltd (0001855644) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1855644/000110465926018312/0001104659-26-018312-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:52:15.164357+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Freshpet, Inc. (0001611647) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1611647/000161164726000002/0001611647-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:52:15.164371+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ovintiv Inc. (0001792580) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1792580/000119312526062356/0001193125-26-062356-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:52:15.164386+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SHOREPOWER TECHNOLOGIES INC. (0000764630) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/764630/000149315226007669/0001493152-26-007669-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:52:15.164397+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Enertopia Corp. (0001346022) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1346022/000106299326001104/0001062993-26-001104-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:52:15.164401+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Miluna Acquisition Corp (0002077033) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2077033/000149315226007667/0001493152-26-007667-index.htm"
+  },
+  {
     "time_utc": "2026-02-23T11:07:03.934654+00:00",
     "region": "US",
     "source": "SEC",
