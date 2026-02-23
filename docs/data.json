@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-02-23T14:13:07.677991+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blue Foundry Bancorp (0001846017) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1846017/000162828026010394/0001628280-26-010394-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T14:13:07.678023+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ALLURION TECHNOLOGIES, INC. (0001964979) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1964979/000119312526062599/0001193125-26-062599-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T14:13:07.678038+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE (0000310522) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/310522/000031052226000030/0000310522-26-000030-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T14:13:07.678047+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SOUTH PLAINS FINANCIAL, INC. (0001163668) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1163668/000114036126006370/0001140361-26-006370-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T14:13:07.678053+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CADENCE DESIGN SYSTEMS INC (0000813672) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000019/0000813672-26-000019-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T14:13:07.678068+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Inhibrx Biosciences, Inc. (0002007919) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2007919/000200791926000002/0002007919-26-000002-index.htm"
+  },
+  {
     "time_utc": "2026-02-23T13:07:17.129487+00:00",
     "region": "US",
     "source": "SEC",
