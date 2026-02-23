@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-02-23T21:10:49.456723+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Great Lakes Dredge & Dock CORP (0001372020) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1372020/000117184326001020/0001171843-26-001020-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T21:10:49.456740+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Oric Pharmaceuticals, Inc. (0001796280) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1796280/000119312526063974/0001193125-26-063974-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T21:10:49.456761+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Allison Transmission Holdings Inc (0001411207) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1411207/000119312526063975/0001193125-26-063975-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T21:10:49.456804+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MediaAlpha, Inc. (0001818383) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1818383/000181838326000047/0001818383-26-000047-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T21:10:49.456809+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Angel Studios, Inc. (0001865200) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1865200/000186520026000016/0001865200-26-000016-index.htm"
+  },
+  {
     "time_utc": "2026-02-23T14:13:07.677991+00:00",
     "region": "US",
     "source": "SEC",
