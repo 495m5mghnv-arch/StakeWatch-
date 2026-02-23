@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-02-23T11:07:03.934654+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DOMINOS PIZZA INC (0001286681) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1286681/000119312526062313/0001193125-26-062313-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:07:03.934680+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Atomera Inc (0001420520) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1420520/000168316826001242/0001683168-26-001242-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:07:03.934686+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MoonLake Immunotherapeutics (0001821586) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1821586/000121390026018967/0001213900-26-018967-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:07:03.934693+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CENTERPOINT ENERGY INC (0001130310) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1130310/000113031026000013/0001130310-26-000013-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:07:03.934697+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CENTERPOINT ENERGY RESOURCES CORP (0001042773) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1042773/000113031026000013/0001130310-26-000013-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:07:03.934702+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CENTERPOINT ENERGY HOUSTON ELECTRIC LLC (0000048732) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/48732/000113031026000013/0001130310-26-000013-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:07:03.934714+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Barinthus Biotherapeutics plc. (0001828185) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1828185/000110465926018283/0001104659-26-018283-index.htm"
+  },
+  {
+    "time_utc": "2026-02-23T11:07:03.934723+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001102/0001062993-26-001102-index.htm"
+  },
+  {
     "time_utc": "2026-02-20T21:59:22.327842+00:00",
     "region": "US",
     "source": "SEC",
