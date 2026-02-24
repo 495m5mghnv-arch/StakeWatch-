@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-02-24T14:16:09.028173+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ONCOLYTICS BIOTECH INC (0001129928) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000006/0001129928-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T14:16:09.028197+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PIONEER POWER SOLUTIONS, INC. (0001449792) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1449792/000149315226007832/0001493152-26-007832-index.htm"
+  },
+  {
     "time_utc": "2026-02-24T13:08:50.009970+00:00",
     "region": "US",
     "source": "SEC",
