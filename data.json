@@ -1,5 +1,126 @@
 [
   {
+    "time_utc": "2026-02-24T11:52:55.206527+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ferguson Enterprises Inc. /DE/ (0002011641) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000002/0002011641-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:52:55.206549+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Life Time Group Holdings, Inc. (0001869198) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1869198/000186919826000009/0001869198-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:52:55.206579+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INTERFACE INC (0000715787) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/715787/000071578726000002/0000715787-26-000002-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:52:55.206587+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CECO ENVIRONMENTAL CORP (0000003197) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/3197/000119312526065166/0001193125-26-065166-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:52:55.206594+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Xenia Hotels & Resorts, Inc. (0001616000) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1616000/000162828026010860/0001628280-26-010860-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:52:55.206602+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Planet Fitness, Inc. (0001637207) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1637207/000163720726000009/0001637207-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:52:55.206620+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PALVELLA THERAPEUTICS, INC. (0001583648) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1583648/000119312526065159/0001193125-26-065159-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:52:55.206625+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - InfuSystem Holdings, Inc (0001337013) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1337013/000162828026010859/0001628280-26-010859-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:52:55.206637+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Elanco Animal Health Inc (0001739104) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1739104/000173910426000008/0001739104-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:52:55.206648+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Pelican Acquisition Corp (0002037431) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2037431/000182912626001595/0001829126-26-001595-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:52:55.206661+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HENRY SCHEIN INC (0001000228) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1000228/000100022826000010/0001000228-26-000010-index.htm"
+  },
+  {
     "time_utc": "2026-02-24T11:05:44.054802+00:00",
     "region": "US",
     "source": "SEC",
