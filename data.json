@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-24T21:36:13.302369+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DENTSPLY SIRONA Inc. (0000818479) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/818479/000081847926000058/0000818479-26-000058-index.htm"
+  },
+  {
     "time_utc": "2026-02-24T20:02:50.371449+00:00",
     "region": "US",
     "source": "SEC",
