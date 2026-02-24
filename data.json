@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-02-24T11:05:44.054802+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CLARIVATE PLC (0001764046) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1764046/000176404626000018/0001764046-26-000018-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:05:44.054816+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001123/0001062993-26-001123-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:05:44.054822+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Atomera Inc (0001420520) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1420520/000168316826001269/0001683168-26-001269-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:05:44.054842+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ARMSTRONG WORLD INDUSTRIES INC (0000007431) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/7431/000119312526064950/0001193125-26-064950-index.htm"
+  },
+  {
+    "time_utc": "2026-02-24T11:05:44.054849+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aebi Schmidt Holding AG (0002048519) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2048519/000117184326001034/0001171843-26-001034-index.htm"
+  },
+  {
     "time_utc": "2026-02-23T22:04:51.653026+00:00",
     "region": "US",
     "source": "SEC",
