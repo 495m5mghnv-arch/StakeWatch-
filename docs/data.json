@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-02-25T14:14:37.509053+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TJX COMPANIES INC /DE/ (0000109198) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000004/0000109198-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T14:14:37.509124+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Agassi Sports Entertainment Corp. (0000930245) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/930245/000147237526000054/0001472375-26-000054-index.htm"
+  },
+  {
     "time_utc": "2026-02-25T13:07:35.805605+00:00",
     "region": "US",
     "source": "SEC",
