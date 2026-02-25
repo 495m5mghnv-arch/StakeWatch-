@@ -1,5 +1,104 @@
 [
   {
+    "time_utc": "2026-02-25T13:07:35.805605+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Centuri Holdings, Inc. (0001981599) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1981599/000198159926000017/0001981599-26-000017-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T13:07:35.805634+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Atlanta Braves Holdings, Inc. (0001958140) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1958140/000110465926019413/0001104659-26-019413-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T13:07:35.805645+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ICAHN ENTERPRISES L.P. (0000813762) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/813762/000110465926019412/0001104659-26-019412-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T13:07:35.805652+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Incannex Healthcare Inc. (0001873875) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1873875/000121390026020127/0001213900-26-020127-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T13:07:35.805656+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Trinity Capital Inc. (0001786108) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1786108/000119312526068599/0001193125-26-068599-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T13:07:35.805670+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GCT Semiconductor Holding, Inc. (0001851961) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1851961/000092963826000748/0000929638-26-000748-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T13:07:35.805696+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Corbus Pharmaceuticals Holdings, Inc. (0001595097) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1595097/000119312526068566/0001193125-26-068566-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T13:07:35.805707+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - APi Group Corp (0001796209) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1796209/000162828026011397/0001628280-26-011397-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T13:07:35.805715+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Medline Inc. (0002046386) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2046386/000204638626000007/0002046386-26-000007-index.htm"
+  },
+  {
     "time_utc": "2026-02-25T11:53:14.367228+00:00",
     "region": "US",
     "source": "SEC",
