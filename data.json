@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-02-25T11:53:14.367228+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - O-I Glass, Inc. /DE/ (0000812074) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/812074/000110465926019396/0001104659-26-019396-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T11:53:14.367247+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BLACKBOXSTOCKS INC. (0001567900) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1567900/000118518526000663/0001185185-26-000663-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T11:53:14.367272+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Hut 8 Corp. (0001964789) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1964789/000110465926019393/0001104659-26-019393-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T11:53:14.367320+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Owens Corning (0001370946) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1370946/000137094626000066/0001370946-26-000066-index.htm"
+  },
+  {
     "time_utc": "2026-02-25T11:08:23.739650+00:00",
     "region": "US",
     "source": "SEC",
