@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-02-25T21:02:10.978104+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Celldex Therapeutics, Inc. (0000744218) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/744218/000117184326001098/0001171843-26-001098-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T21:02:10.978130+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Xencor Inc (0001326732) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1326732/000132673226000014/0001326732-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T21:02:10.978142+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Spok Holdings, Inc (0001289945) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1289945/000128994526000005/0001289945-26-000005-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T21:02:10.978150+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DAILY JOURNAL CORP (0000783412) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/783412/000143774926005590/0001437749-26-005590-index.htm"
+  },
+  {
+    "time_utc": "2026-02-25T21:02:10.978184+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MCGRATH RENTCORP (0000752714) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/752714/000119312526071461/0001193125-26-071461-index.htm"
+  },
+  {
     "time_utc": "2026-02-25T20:21:22.844294+00:00",
     "region": "US",
     "source": "SEC",
