@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-02-26T14:30:35.700379+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TRIMAS CORP (0000842633) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/842633/000084263326000004/0000842633-26-000004-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T14:30:35.700416+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LSB INDUSTRIES, INC. (0000060714) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/60714/000119312526073853/0001193125-26-073853-index.htm"
+  },
+  {
     "time_utc": "2026-02-26T13:20:34.575077+00:00",
     "region": "US",
     "source": "SEC",
