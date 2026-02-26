@@ -1,5 +1,148 @@
 [
   {
+    "time_utc": "2026-02-26T11:12:47.117162+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DUCOMMUN INC /DE/ (0000030305) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/30305/000162828026011949/0001628280-26-011949-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:12:47.117224+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Arhaus, Inc. (0001875444) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1875444/000187544426000008/0001875444-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:12:47.117245+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Fortrea Holdings Inc. (0001965040) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1965040/000162828026011942/0001628280-26-011942-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:12:47.117250+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Privia Health Group, Inc. (0001759655) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1759655/000175965526000007/0001759655-26-000007-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:12:47.117255+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Primo Brands Corp (0002042694) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2042694/000127956926000164/0001279569-26-000164-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:12:47.117260+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BeOne Medicines Ltd. (0001651308) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026011941/0001628280-26-011941-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:12:47.117268+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SOLENO THERAPEUTICS INC (0001484565) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1484565/000119312526073209/0001193125-26-073209-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:12:47.117273+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001172/0001062993-26-001172-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:12:47.117277+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aurinia Pharmaceuticals Inc. (0001600620) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1600620/000160062026000015/0001600620-26-000015-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:12:47.117281+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ecovyst Inc. (0001708035) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1708035/000170803526000047/0001708035-26-000047-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:12:47.117285+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Qnity Electronics, Inc. (0002058873) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000007/0002058873-26-000007-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:12:47.117292+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Celsius Holdings, Inc. (0001341766) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1341766/000134176626000017/0001341766-26-000017-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:12:47.117298+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Acushnet Holdings Corp. (0001672013) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000053/0001672013-26-000053-index.htm"
+  },
+  {
     "time_utc": "2026-02-25T21:02:10.978104+00:00",
     "region": "US",
     "source": "SEC",
