@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-26T18:32:15.867250+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BROOKFIELD REAL ESTATE INCOME TRUST INC. (0001713407) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1713407/000171340726000013/0001713407-26-000013-index.htm"
+  },
+  {
     "time_utc": "2026-02-26T15:30:51.833120+00:00",
     "region": "US",
     "source": "SEC",
