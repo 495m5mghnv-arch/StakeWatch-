@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-02-26T21:33:21.512224+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MARKEL GROUP INC. (0001096343) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1096343/000109634326000018/0001096343-26-000018-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T21:33:21.512265+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Texas Ventures Acquisition III Corp (0002033991) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2033991/000110465926020545/0001104659-26-020545-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T21:33:21.512300+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CBRE GROUP, INC. (0001138118) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1138118/000119312526076913/0001193125-26-076913-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T21:33:21.512305+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Avery Dennison Corp (0000008818) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/8818/000000881826000017/0000008818-26-000017-index.htm"
+  },
+  {
     "time_utc": "2026-02-26T20:04:40.145241+00:00",
     "region": "US",
     "source": "SEC",
