@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-02-26T11:57:04.106940+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Krispy Kreme, Inc. (0001857154) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1857154/000185715426000012/0001857154-26-000012-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:57:04.106978+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TopBuild Corp (0001633931) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1633931/000110465926020046/0001104659-26-020046-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:57:04.106993+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - United Parks & Resorts Inc. (0001564902) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1564902/000119312526073334/0001193125-26-073334-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:57:04.106998+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Warby Parker Inc. (0001504776) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1504776/000150477626000003/0001504776-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:57:04.107025+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PERRIGO Co plc (0001585364) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1585364/000158536426000006/0001585364-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:57:04.107038+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - American Bitcoin Corp. (0001755953) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1755953/000119312526073305/0001193125-26-073305-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:57:04.107042+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nuvalent, Inc. (0001861560) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1861560/000119312526073304/0001193125-26-073304-index.htm"
+  },
+  {
+    "time_utc": "2026-02-26T11:57:04.107057+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Eos Energy Enterprises, Inc. (0001805077) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026011958/0001628280-26-011958-index.htm"
+  },
+  {
     "time_utc": "2026-02-26T11:12:47.117162+00:00",
     "region": "US",
     "source": "SEC",
