@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-27T17:22:00.074999+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - STRATS SM TRUST FOR Goldman Sachs Cap I SEC SERIES 2005-3 (0001339920) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1339920/000199937126004547/0001999371-26-004547-index.htm"
+  },
+  {
     "time_utc": "2026-02-27T15:51:00.565048+00:00",
     "region": "US",
     "source": "SEC",
