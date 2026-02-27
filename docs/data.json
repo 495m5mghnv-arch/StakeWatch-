@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-02-27T12:24:44.787253+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CubeSmart, L.P. (0001300485) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1300485/000129867526000008/0001298675-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T12:24:44.787268+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CubeSmart (0001298675) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000008/0001298675-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T12:24:44.787319+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Roman DBDR Acquisition Corp. II (0002032528) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2032528/000110465926020981/0001104659-26-020981-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T12:24:44.787324+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Zoomcar Holdings, Inc. (0001854275) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1854275/000121390026021081/0001213900-26-021081-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T12:24:44.787328+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HEALTHPEAK PROPERTIES, INC. (0000765880) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/765880/000110465926020982/0001104659-26-020982-index.htm"
+  },
+  {
     "time_utc": "2026-02-27T11:45:22.390106+00:00",
     "region": "US",
     "source": "SEC",
