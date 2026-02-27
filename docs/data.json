@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-02-27T15:06:47.446480+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MGE ENERGY INC (0001161728) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1161728/000119312526079800/0001193125-26-079800-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T15:06:47.446498+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MADISON GAS & ELECTRIC CO (0000061339) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/61339/000119312526079800/0001193125-26-079800-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T15:06:47.446555+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Fidelity Private Credit Fund (0001920453) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1920453/000119312526079799/0001193125-26-079799-index.htm"
+  },
+  {
     "time_utc": "2026-02-27T14:23:45.974833+00:00",
     "region": "US",
     "source": "SEC",
