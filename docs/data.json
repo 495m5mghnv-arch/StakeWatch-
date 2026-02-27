@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-02-27T15:51:00.565048+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Golkor Inc. (0001474558) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1474558/000168316826001342/0001683168-26-001342-index.htm"
+  },
+  {
     "time_utc": "2026-02-27T15:06:47.446480+00:00",
     "region": "US",
     "source": "SEC",
