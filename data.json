@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-02-27T13:37:49.638376+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ENZON PHARMACEUTICALS, INC. (0000727510) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/727510/000110465926021051/0001104659-26-021051-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T13:37:49.638397+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMAZON COM INC (0001018724) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926021050/0001104659-26-021050-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T13:37:49.638405+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DUOS TECHNOLOGIES GROUP, INC. (0001396536) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1396536/000107997326000262/0001079973-26-000262-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T13:37:49.638428+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EQUINIX INC (0001101239) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000051/0001101239-26-000051-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T13:37:49.638457+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blackstone Private Equity Strategies Fund (TE) L.P. (0001953940) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1953940/000119312526079404/0001193125-26-079404-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T13:37:49.638461+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blackstone Private Equity Strategies Fund L.P. (0001930054) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1930054/000119312526079404/0001193125-26-079404-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T13:37:49.638466+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SIRIUS XM HOLDINGS INC. (0000908937) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/908937/000110465926021044/0001104659-26-021044-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T13:37:49.638472+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blackstone Infrastructure Strategies L.P. (0002030772) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2030772/000119312526079406/0001193125-26-079406-index.htm"
+  },
+  {
     "time_utc": "2026-02-27T12:24:44.787253+00:00",
     "region": "US",
     "source": "SEC",
