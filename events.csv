@@ -1,4 +1,6 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-02-27T14:23:45.974833+00:00,US,SEC,8-K,,,,8-K - DYNEX CAPITAL INC (0000826675) (Filer),https://www.sec.gov/Archives/edgar/data/826675/000110465926021080/0001104659-26-021080-index.htm
+2026-02-27T14:23:45.974855+00:00,US,SEC,8-K,,,,"8-K - Elauwit Connection, Inc. (0002063863) (Filer)",https://www.sec.gov/Archives/edgar/data/2063863/000110465926021078/0001104659-26-021078-index.htm
 2026-02-27T13:37:49.638376+00:00,US,SEC,8-K,,,,"8-K - ENZON PHARMACEUTICALS, INC. (0000727510) (Filer)",https://www.sec.gov/Archives/edgar/data/727510/000110465926021051/0001104659-26-021051-index.htm
 2026-02-27T13:37:49.638397+00:00,US,SEC,8-K,,,,8-K - AMAZON COM INC (0001018724) (Filer),https://www.sec.gov/Archives/edgar/data/1018724/000110465926021050/0001104659-26-021050-index.htm
 2026-02-27T13:37:49.638405+00:00,US,SEC,8-K,,,,"8-K - DUOS TECHNOLOGIES GROUP, INC. (0001396536) (Filer)",https://www.sec.gov/Archives/edgar/data/1396536/000107997326000262/0001079973-26-000262-index.htm

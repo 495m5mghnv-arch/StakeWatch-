@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-02-27T14:23:45.974833+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DYNEX CAPITAL INC (0000826675) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/826675/000110465926021080/0001104659-26-021080-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T14:23:45.974855+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Elauwit Connection, Inc. (0002063863) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2063863/000110465926021078/0001104659-26-021078-index.htm"
+  },
+  {
     "time_utc": "2026-02-27T13:37:49.638376+00:00",
     "region": "US",
     "source": "SEC",
