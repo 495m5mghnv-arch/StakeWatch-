@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-02-27T21:14:20.266121+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Context Therapeutics Inc. (0001842952) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1842952/000162828026012813/0001628280-26-012813-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T21:14:20.266142+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PennantPark Floating Rate Capital Ltd. (0001504619) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1504619/000119312526082620/0001193125-26-082620-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T21:14:20.266179+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - First Foundation Inc. (0001413837) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1413837/000110465926021558/0001104659-26-021558-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T21:14:20.266184+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LESAKA TECHNOLOGIES INC (0001041514) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1041514/000106299326001202/0001062993-26-001202-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T21:14:20.266197+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Accelerant Holdings (0001997350) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1997350/000162828026012812/0001628280-26-012812-index.htm"
+  },
+  {
     "time_utc": "2026-02-27T17:22:00.074999+00:00",
     "region": "US",
     "source": "SEC",
