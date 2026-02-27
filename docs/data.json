@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-02-27T21:46:30.897145+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Hashdex Nasdaq CME Crypto Index ETF (0002031069) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026021717/0001213900-26-021717-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T21:46:30.897166+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PROTHENA CORP PUBLIC LTD CO (0001559053) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1559053/000155905326000009/0001559053-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T21:46:30.897184+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Voyager Acquisition Corp./Cayman Islands (0002006815) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2006815/000182912626001748/0001829126-26-001748-index.htm"
+  },
+  {
+    "time_utc": "2026-02-27T21:46:30.897221+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Energy Vault Holdings, Inc. (0001828536) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1828536/000110465926021646/0001104659-26-021646-index.htm"
+  },
+  {
     "time_utc": "2026-02-27T21:14:20.266121+00:00",
     "region": "US",
     "source": "SEC",
