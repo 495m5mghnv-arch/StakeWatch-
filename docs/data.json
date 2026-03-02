@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-02T21:19:03.796688+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CRAWFORD & CO (0000025475) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/25475/000119312526085450/0001193125-26-085450-index.htm"
+  },
+  {
     "time_utc": "2026-03-02T20:43:09.277383+00:00",
     "region": "US",
     "source": "SEC",
