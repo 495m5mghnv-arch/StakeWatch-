@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-03-02T11:58:26.763711+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HBT Financial, Inc. (0000775215) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/775215/000077521526000021/0000775215-26-000021-index.htm"
+  },
+  {
+    "time_utc": "2026-03-02T11:58:26.763733+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Yum China Holdings, Inc. (0001673358) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1673358/000167335826000051/0001673358-26-000051-index.htm"
+  },
+  {
+    "time_utc": "2026-03-02T11:58:26.763765+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Venture Global, Inc. (0002007855) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2007855/000200785526000015/0002007855-26-000015-index.htm"
+  },
+  {
+    "time_utc": "2026-03-02T11:58:26.763769+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WHIRLPOOL CORP /DE/ (0000106640) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/106640/000119312526084113/0001193125-26-084113-index.htm"
+  },
+  {
+    "time_utc": "2026-03-02T11:58:26.763774+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Norwegian Cruise Line Holdings Ltd. (0001513761) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1513761/000117184326001220/0001171843-26-001220-index.htm"
+  },
+  {
+    "time_utc": "2026-03-02T11:58:26.763779+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NCL CORP Ltd. (0001318742) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1318742/000117184326001219/0001171843-26-001219-index.htm"
+  },
+  {
+    "time_utc": "2026-03-02T11:58:26.763783+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - U.S. GoldMining Inc. (0001947244) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1947244/000149315226008440/0001493152-26-008440-index.htm"
+  },
+  {
+    "time_utc": "2026-03-02T11:58:26.763796+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TANCHENG GROUP CO., LTD. (0001753391) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1753391/000168316826001381/0001683168-26-001381-index.htm"
+  },
+  {
+    "time_utc": "2026-03-02T11:58:26.763806+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Oscar Health, Inc. (0001568651) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865126000014/0001568651-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-03-02T11:58:26.763813+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kosmos Energy Ltd. (0001509991) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1509991/000150999126000015/0001509991-26-000015-index.htm"
+  },
+  {
     "time_utc": "2026-03-02T11:37:24.393524+00:00",
     "region": "US",
     "source": "SEC",
