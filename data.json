@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-03T16:00:15.902292+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KKR FS Income Trust (0001930679) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1930679/000110465926022642/0001104659-26-022642-index.htm"
+  },
+  {
     "time_utc": "2026-03-03T15:01:34.789711+00:00",
     "region": "US",
     "source": "SEC",
