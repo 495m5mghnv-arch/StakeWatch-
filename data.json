@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-03-03T11:53:57.962390+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kontoor Brands, Inc. (0001760965) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1760965/000176096526000010/0001760965-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-03-03T11:53:57.962415+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Atlantic Union Bankshares Corp (0000883948) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/883948/000088394826000023/0000883948-26-000023-index.htm"
+  },
+  {
+    "time_utc": "2026-03-03T11:53:57.962422+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ONITY GROUP INC. (0000873860) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/873860/000149315226008637/0001493152-26-008637-index.htm"
+  },
+  {
+    "time_utc": "2026-03-03T11:53:57.962438+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WYNDHAM HOTELS & RESORTS, INC. (0001722684) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1722684/000114036126007444/0001140361-26-007444-index.htm"
+  },
+  {
+    "time_utc": "2026-03-03T11:53:57.962443+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - THOR INDUSTRIES INC (0000730263) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/730263/000073026326000008/0000730263-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-03-03T11:53:57.962450+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Chiron Real Estate Inc. (0001533615) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1533615/000110465926022515/0001104659-26-022515-index.htm"
+  },
+  {
+    "time_utc": "2026-03-03T11:53:57.962457+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP (0000943452) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/943452/000114036126007441/0001140361-26-007441-index.htm"
+  },
+  {
     "time_utc": "2026-03-03T11:20:37.401723+00:00",
     "region": "US",
     "source": "SEC",
