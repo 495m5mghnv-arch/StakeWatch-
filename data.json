@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-04T11:17:03.897206+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rise Gold Corp. (0001424864) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1424864/000106299326001266/0001062993-26-001266-index.htm"
+  },
+  {
+    "time_utc": "2026-03-04T11:17:03.897264+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Dakota Gold Corp. (0001852353) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1852353/000110465926023106/0001104659-26-023106-index.htm"
+  },
+  {
     "time_utc": "2026-03-03T20:52:02.765854+00:00",
     "region": "US",
     "source": "SEC",
