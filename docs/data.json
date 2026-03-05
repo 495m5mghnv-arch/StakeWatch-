@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-03-05T14:05:42.189798+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DEEP FISSION, INC. (0001918102) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926023876/0001104659-26-023876-index.htm"
+  },
+  {
+    "time_utc": "2026-03-05T14:05:42.189822+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ZILLOW GROUP, INC. (0001617640) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1617640/000161764026000021/0001617640-26-000021-index.htm"
+  },
+  {
+    "time_utc": "2026-03-05T14:05:42.189870+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WEBTOON Entertainment Inc. (0001997859) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1997859/000199785926000023/0001997859-26-000023-index.htm"
+  },
+  {
+    "time_utc": "2026-03-05T14:05:42.189880+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Quantum Computing Inc. (0001758009) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1758009/000121390026023896/0001213900-26-023896-index.htm"
+  },
+  {
+    "time_utc": "2026-03-05T14:05:42.189885+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Invech Holdings, Inc. (0001009919) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1009919/000168316826001511/0001683168-26-001511-index.htm"
+  },
+  {
+    "time_utc": "2026-03-05T14:05:42.189890+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - QuantumScape Corp (0001811414) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1811414/000119312526092692/0001193125-26-092692-index.htm"
+  },
+  {
+    "time_utc": "2026-03-05T14:05:42.189894+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cuentas Inc. (0001424657) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1424657/000121390026023897/0001213900-26-023897-index.htm"
+  },
+  {
     "time_utc": "2026-03-05T13:05:41.422985+00:00",
     "region": "US",
     "source": "SEC",
