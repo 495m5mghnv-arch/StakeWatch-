@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-05T18:14:24.672364+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000040/0001331451-26-000040-index.htm"
+  },
+  {
+    "time_utc": "2026-03-05T18:14:24.672459+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000043/0001331757-26-000043-index.htm"
+  },
+  {
     "time_utc": "2026-03-05T16:00:13.581195+00:00",
     "region": "US",
     "source": "SEC",
