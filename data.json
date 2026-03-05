@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-03-05T21:41:06.732870+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LAS VEGAS SANDS CORP (0001300514) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1300514/000130051426000021/0001300514-26-000021-index.htm"
+  },
+  {
+    "time_utc": "2026-03-05T21:41:06.732905+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tennessee Valley Authority (0001376986) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000019/0001376986-26-000019-index.htm"
+  },
+  {
+    "time_utc": "2026-03-05T21:41:06.732939+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bank of New York Mellon Corp (0001390777) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1390777/000119312526094111/0001193125-26-094111-index.htm"
+  },
+  {
     "time_utc": "2026-03-05T19:37:39.878875+00:00",
     "region": "US",
     "source": "SEC",
