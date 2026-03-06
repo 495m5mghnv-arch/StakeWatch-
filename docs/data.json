@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-06T22:33:20.510349+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Reservoir Media, Inc. (0001824403) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1824403/000110465926024798/0001104659-26-024798-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T22:33:20.510392+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sotera Health Co (0001822479) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1822479/000119312526096983/0001193125-26-096983-index.htm"
+  },
+  {
     "time_utc": "2026-03-06T21:56:16.363820+00:00",
     "region": "US",
     "source": "SEC",
