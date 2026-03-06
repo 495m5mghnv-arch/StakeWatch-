@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-06T16:05:22.470918+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ARES INDUSTRIAL REAL ESTATE INCOME TRUST Inc. (0001625941) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1625941/000162828026015508/0001628280-26-015508-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T16:05:22.470950+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ares Real Estate Income Trust Inc. (0001327978) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1327978/000162828026015506/0001628280-26-015506-index.htm"
+  },
+  {
     "time_utc": "2026-03-06T14:54:32.036422+00:00",
     "region": "US",
     "source": "SEC",
