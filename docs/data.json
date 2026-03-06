@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-06T21:30:54.165196+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Duke Energy Indiana, LLC (0000081020) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/81020/000110465926024731/0001104659-26-024731-index.htm"
+  },
+  {
     "time_utc": "2026-03-06T20:16:14.686525+00:00",
     "region": "US",
     "source": "SEC",
