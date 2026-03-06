@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-03-06T11:37:25.261649+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FTAI Aviation Ltd. (0001590364) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1590364/000114036126008165/0001140361-26-008165-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T11:37:25.261736+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MARKETWISE, INC. (0001805651) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1805651/000180565126000018/0001805651-26-000018-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T11:37:25.261748+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Andalusian Credit Company, LLC (0001979306) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1979306/000110465926024358/0001104659-26-024358-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T11:37:25.261798+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Adapti, Inc. (0001420924) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1420924/000149315226009046/0001493152-26-009046-index.htm"
+  },
+  {
     "time_utc": "2026-03-05T21:41:06.732870+00:00",
     "region": "US",
     "source": "SEC",
