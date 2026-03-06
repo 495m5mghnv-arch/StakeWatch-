@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-03-06T13:14:03.054910+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NextTrip, Inc. (0000788611) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/788611/000149315226009059/0001493152-26-009059-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T13:14:03.054925+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Immuneering Corp (0001790340) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1790340/000179034026000040/0001790340-26-000040-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T13:14:03.054931+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UNITED STATES ANTIMONY CORP (0000101538) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/101538/000110465926024423/0001104659-26-024423-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T13:14:03.054947+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INTENSITY THERAPEUTICS, INC. (0001567264) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1567264/000156726426000014/0001567264-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T13:14:03.054955+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MCKESSON CORP (0000927653) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000038/0000927653-26-000038-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T13:14:03.054973+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aptiv PLC (0001521332) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1521332/000095010326003376/0000950103-26-003376-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T13:14:03.054993+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Signing Day Sports, Inc. (0001898474) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1898474/000121390026024329/0001213900-26-024329-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T13:14:03.054997+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Reborn Coffee, Inc. (0001707910) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1707910/000121390026024326/0001213900-26-024326-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T13:14:03.055004+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AgEagle Aerial Systems Inc. (0000008504) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/8504/000149315226009057/0001493152-26-009057-index.htm"
+  },
+  {
+    "time_utc": "2026-03-06T13:14:03.055010+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cheniere Energy, Inc. (0000003570) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/3570/000119312526095013/0001193125-26-095013-index.htm"
+  },
+  {
     "time_utc": "2026-03-06T11:37:25.261649+00:00",
     "region": "US",
     "source": "SEC",
