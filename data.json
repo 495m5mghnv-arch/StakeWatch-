@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-03-09T11:00:39.250438+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - W&T OFFSHORE INC (0001288403) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1288403/000110465926024935/0001104659-26-024935-index.htm"
+  },
+  {
+    "time_utc": "2026-03-09T11:00:39.250460+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KORN FERRY (0000056679) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/56679/000005667926000006/0000056679-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-03-09T11:00:39.250466+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEWS CORP (0001564708) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000049/0001564708-26-000049-index.htm"
+  },
+  {
+    "time_utc": "2026-03-09T11:00:39.250471+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Jefferies Financial Group Inc. (0000096223) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/96223/000114036126008339/0001140361-26-008339-index.htm"
+  },
+  {
+    "time_utc": "2026-03-09T11:00:39.250476+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ALEXANDERS INC (0000003499) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/3499/000000349926000010/0000003499-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-03-09T11:00:39.250495+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bunker Hill Mining Corp. (0001407583) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1407583/000149315226009279/0001493152-26-009279-index.htm"
+  },
+  {
+    "time_utc": "2026-03-09T11:00:39.250512+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BATTALION OIL CORP (0001282648) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1282648/000110465926024887/0001104659-26-024887-index.htm"
+  },
+  {
+    "time_utc": "2026-03-09T11:00:39.250523+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Norris Industries, Inc. (0001603793) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1603793/000149315226009275/0001493152-26-009275-index.htm"
+  },
+  {
     "time_utc": "2026-03-06T22:33:20.510349+00:00",
     "region": "US",
     "source": "SEC",
