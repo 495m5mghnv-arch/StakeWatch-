@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-09T19:57:22.755907+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Global Asset Management Group, Inc. (0000055234) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/55234/000147793226001244/0001477932-26-001244-index.htm"
+  },
+  {
+    "time_utc": "2026-03-09T19:57:22.755976+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Brookfield Private Equity Fund LP (0002074065) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2074065/000110465926025179/0001104659-26-025179-index.htm"
+  },
+  {
     "time_utc": "2026-03-09T16:38:54.282847+00:00",
     "region": "US",
     "source": "SEC",
