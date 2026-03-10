@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-10T20:53:38.921994+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Encompass Health Corp (0000785161) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/785161/000078516126000100/0000785161-26-000100-index.htm"
+  },
+  {
     "time_utc": "2026-03-10T20:18:38.704534+00:00",
     "region": "US",
     "source": "SEC",
