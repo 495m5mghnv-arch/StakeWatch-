@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-03-10T20:18:38.704534+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - American Water Works Company, Inc. (0001410636) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1410636/000141063626000056/0001410636-26-000056-index.htm"
+  },
+  {
+    "time_utc": "2026-03-10T20:18:38.704571+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DOMO, INC. (0001505952) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1505952/000162828026016450/0001628280-26-016450-index.htm"
+  },
+  {
+    "time_utc": "2026-03-10T20:18:38.704584+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sound Point Meridian Capital, Inc. (0001930147) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1930147/000182912626002158/0001829126-26-002158-index.htm"
+  },
+  {
+    "time_utc": "2026-03-10T20:18:38.704591+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Crown PropTech Acquisitions (0001827899) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026025708/0001213900-26-025708-index.htm"
+  },
+  {
+    "time_utc": "2026-03-10T20:18:38.704603+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - VALHI INC /DE/ (0000059255) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/59255/000005925526000007/0000059255-26-000007-index.htm"
+  },
+  {
+    "time_utc": "2026-03-10T20:18:38.704622+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PATRIOT NATIONAL BANCORP INC (0001098146) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1098146/000143774926007542/0001437749-26-007542-index.htm"
+  },
+  {
     "time_utc": "2026-03-10T16:13:10.271355+00:00",
     "region": "US",
     "source": "SEC",
