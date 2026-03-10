@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-03-10T11:54:48.865410+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SAB Biotherapeutics, Inc. (0001833214) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1833214/000119312526099376/0001193125-26-099376-index.htm"
+  },
+  {
+    "time_utc": "2026-03-10T11:54:48.865447+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TENAX THERAPEUTICS, INC. (0000034956) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/34956/000165495426002072/0001654954-26-002072-index.htm"
+  },
+  {
+    "time_utc": "2026-03-10T11:54:48.865465+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/64463/000149315226009444/0001493152-26-009444-index.htm"
+  },
+  {
+    "time_utc": "2026-03-10T11:54:48.865471+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEXTERA ENERGY INC (0000753308) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000022/0000753308-26-000022-index.htm"
+  },
+  {
+    "time_utc": "2026-03-10T11:54:48.865479+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HARVARD BIOSCIENCE INC (0001123494) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1123494/000117184326001447/0001171843-26-001447-index.htm"
+  },
+  {
     "time_utc": "2026-03-10T11:21:33.393009+00:00",
     "region": "US",
     "source": "SEC",
