@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-03-10T15:07:56.078757+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Travel & Leisure Co. (0001361658) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1361658/000136165826000013/0001361658-26-000013-index.htm"
+  },
+  {
+    "time_utc": "2026-03-10T15:07:56.078794+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000035/0001326771-26-000035-index.htm"
+  },
+  {
+    "time_utc": "2026-03-10T15:07:56.078812+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CAPRICOR THERAPEUTICS, INC. (0001133869) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1133869/000110465926025657/0001104659-26-025657-index.htm"
+  },
+  {
     "time_utc": "2026-03-10T13:03:18.396085+00:00",
     "region": "US",
     "source": "SEC",
