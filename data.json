@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-11T21:16:58.315005+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GLOBAL PAYMENTS INC (0001123360) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926026460/0001104659-26-026460-index.htm"
+  },
+  {
     "time_utc": "2026-03-11T18:29:07.150090+00:00",
     "region": "US",
     "source": "SEC",
