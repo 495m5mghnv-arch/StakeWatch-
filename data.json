@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-03-12T14:36:01.018682+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IMMERSION CORP (0001058811) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1058811/000119312526103330/0001193125-26-103330-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T14:36:01.018711+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - American Resources Corp (0001590715) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1590715/000165495426002177/0001654954-26-002177-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T14:36:01.018739+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ALEXANDER TECH CORP (0001347491) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1347491/000134749126000003/0001347491-26-000003-index.htm"
+  },
+  {
     "time_utc": "2026-03-12T13:43:05.206486+00:00",
     "region": "US",
     "source": "SEC",
