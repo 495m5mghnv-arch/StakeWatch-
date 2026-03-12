@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-03-12T10:42:25.628082+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEWS CORP (0001564708) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000052/0001564708-26-000052-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T10:42:25.628100+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GYRE THERAPEUTICS, INC. (0001124105) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1124105/000114036126009115/0001140361-26-009115-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T10:42:25.628109+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KLA CORP (0000319201) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/319201/000119312526102999/0001193125-26-102999-index.htm"
+  },
+  {
     "time_utc": "2026-03-11T21:16:58.315005+00:00",
     "region": "US",
     "source": "SEC",
