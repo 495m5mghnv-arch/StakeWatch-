@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-03-12T13:43:05.206486+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426002172/0001654954-26-002172-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T13:43:05.206503+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ondas Inc. (0001646188) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026026689/0001213900-26-026689-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T13:43:05.206515+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1330399/000133039926000026/0001330399-26-000026-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T13:43:05.206528+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Syra Health Corp (0001922335) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1922335/000149315226009799/0001493152-26-009799-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T13:43:05.206535+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OMNICOM GROUP INC. (0000029989) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/29989/000119312526103214/0001193125-26-103214-index.htm"
+  },
+  {
     "time_utc": "2026-03-12T12:26:55.742025+00:00",
     "region": "US",
     "source": "SEC",
