@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-03-12T18:30:53.707069+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Zoomcar Holdings, Inc. (0001854275) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1854275/000121390026026843/0001213900-26-026843-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T18:30:53.707137+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - McEwen Inc. (0000314203) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/314203/000110465926026975/0001104659-26-026975-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T18:30:53.707166+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Global Indemnity Group, LLC (0001494904) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1494904/000119312526103797/0001193125-26-103797-index.htm"
+  },
+  {
     "time_utc": "2026-03-12T17:36:54.506322+00:00",
     "region": "US",
     "source": "SEC",
