@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-12T20:50:11.215553+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Diversified Energy Co (0001922446) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1922446/000192244626000031/0001922446-26-000031-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T20:50:11.215582+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Hanover Bancorp, Inc. /MD (0001828588) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1828588/000110465926027122/0001104659-26-027122-index.htm"
+  },
+  {
     "time_utc": "2026-03-12T20:00:18.270786+00:00",
     "region": "US",
     "source": "SEC",
