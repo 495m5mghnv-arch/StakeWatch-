@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-12T16:41:42.902159+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Magnera Corp (0000041719) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/41719/000004171926000037/0000041719-26-000037-index.htm"
+  },
+  {
     "time_utc": "2026-03-12T15:39:02.323622+00:00",
     "region": "US",
     "source": "SEC",
