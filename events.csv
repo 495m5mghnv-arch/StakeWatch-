@@ -1,4 +1,13 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-03-12T12:26:55.742025+00:00,US,SEC,8-K,,,,"8-K - Beeline Holdings, Inc. (0001534708) (Filer)",https://www.sec.gov/Archives/edgar/data/1534708/000149315226009781/0001493152-26-009781-index.htm
+2026-03-12T12:26:55.742052+00:00,US,SEC,8-K,,,,8-K - NXP Semiconductors N.V. (0001413447) (Filer),https://www.sec.gov/Archives/edgar/data/1413447/000141344726000010/0001413447-26-000010-index.htm
+2026-03-12T12:26:55.742068+00:00,US,SEC,8-K,,,,8-K - Aptera Motors Corp (0001786471) (Filer),https://www.sec.gov/Archives/edgar/data/1786471/000149315226009780/0001493152-26-009780-index.htm
+2026-03-12T12:26:55.742086+00:00,US,SEC,8-K,,,,"8-K - FILANA THERAPEUTICS, INC. (0001069530) (Filer)",https://www.sec.gov/Archives/edgar/data/1069530/000117184326001506/0001171843-26-001506-index.htm
+2026-03-12T12:26:55.742099+00:00,US,SEC,8-K,,,,"8-K - Theriva Biologics, Inc. (0000894158) (Filer)",https://www.sec.gov/Archives/edgar/data/894158/000110465926026765/0001104659-26-026765-index.htm
+2026-03-12T12:26:55.742104+00:00,US,SEC,8-K,,,,"8-K - Atara Biotherapeutics, Inc. (0001604464) (Filer)",https://www.sec.gov/Archives/edgar/data/1604464/000119312526103127/0001193125-26-103127-index.htm
+2026-03-12T12:26:55.742108+00:00,US,SEC,8-K,,,,"8-K - Candel Therapeutics, Inc. (0001841387) (Filer)",https://www.sec.gov/Archives/edgar/data/1841387/000119312526103126/0001193125-26-103126-index.htm
+2026-03-12T12:26:55.742120+00:00,US,SEC,8-K,,,,"8-K - LIFETIME BRANDS, INC (0000874396) (Filer)",https://www.sec.gov/Archives/edgar/data/874396/000087439626000006/0000874396-26-000006-index.htm
+2026-03-12T12:26:55.742133+00:00,US,SEC,8-K,,,,8-K - MAYS J W INC (0000054187) (Filer),https://www.sec.gov/Archives/edgar/data/54187/000120677426000138/0001206774-26-000138-index.htm
 2026-03-12T11:49:17.598037+00:00,US,SEC,8-K,,,,"8-K - Sunrise Realty Trust, Inc. (0002012706) (Filer)",https://www.sec.gov/Archives/edgar/data/2012706/000162828026017021/0001628280-26-017021-index.htm
 2026-03-12T11:49:17.598062+00:00,US,SEC,8-K,,,,"8-K - Vera Bradley, Inc. (0001495320) (Filer)",https://www.sec.gov/Archives/edgar/data/1495320/000162828026017020/0001628280-26-017020-index.htm
 2026-03-12T11:49:17.598072+00:00,US,SEC,8-K,,,,8-K - Angi Inc. (0001705110) (Filer),https://www.sec.gov/Archives/edgar/data/1705110/000170511026000023/0001705110-26-000023-index.htm

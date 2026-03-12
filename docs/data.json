@@ -1,5 +1,104 @@
 [
   {
+    "time_utc": "2026-03-12T12:26:55.742025+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Beeline Holdings, Inc. (0001534708) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1534708/000149315226009781/0001493152-26-009781-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T12:26:55.742052+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NXP Semiconductors N.V. (0001413447) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000010/0001413447-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T12:26:55.742068+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aptera Motors Corp (0001786471) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1786471/000149315226009780/0001493152-26-009780-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T12:26:55.742086+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FILANA THERAPEUTICS, INC. (0001069530) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1069530/000117184326001506/0001171843-26-001506-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T12:26:55.742099+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Theriva Biologics, Inc. (0000894158) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/894158/000110465926026765/0001104659-26-026765-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T12:26:55.742104+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Atara Biotherapeutics, Inc. (0001604464) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1604464/000119312526103127/0001193125-26-103127-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T12:26:55.742108+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Candel Therapeutics, Inc. (0001841387) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526103126/0001193125-26-103126-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T12:26:55.742120+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LIFETIME BRANDS, INC (0000874396) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/874396/000087439626000006/0000874396-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-03-12T12:26:55.742133+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MAYS J W INC (0000054187) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/54187/000120677426000138/0001206774-26-000138-index.htm"
+  },
+  {
     "time_utc": "2026-03-12T11:49:17.598037+00:00",
     "region": "US",
     "source": "SEC",
