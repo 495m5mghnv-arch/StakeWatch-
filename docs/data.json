@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-03-13T12:24:42.044628+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Avidbank Holdings, Inc. (0001443575) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1443575/000143774926008062/0001437749-26-008062-index.htm"
+  },
+  {
+    "time_utc": "2026-03-13T12:24:42.044651+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PEDEVCO CORP (0001141197) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426002217/0001654954-26-002217-index.htm"
+  },
+  {
+    "time_utc": "2026-03-13T12:24:42.044669+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Green Rain Energy Holdings Inc. (0001084937) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1084937/000168316826001747/0001683168-26-001747-index.htm"
+  },
+  {
+    "time_utc": "2026-03-13T12:24:42.044682+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Lifeward Ltd. (0001607962) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1607962/000117891326000875/0001178913-26-000875-index.htm"
+  },
+  {
+    "time_utc": "2026-03-13T12:24:42.044687+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Liberty Live Holdings, Inc. (0002078416) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2078416/000110465926027369/0001104659-26-027369-index.htm"
+  },
+  {
+    "time_utc": "2026-03-13T12:24:42.044692+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Equillium, Inc. (0001746466) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1746466/000119312526105083/0001193125-26-105083-index.htm"
+  },
+  {
+    "time_utc": "2026-03-13T12:24:42.044743+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Barinthus Biotherapeutics plc. (0001828185) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1828185/000182818526000011/0001828185-26-000011-index.htm"
+  },
+  {
     "time_utc": "2026-03-13T11:43:15.447329+00:00",
     "region": "US",
     "source": "SEC",
