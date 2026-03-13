@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-13T15:10:37.307549+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GOLDMAN SACHS GROUP INC (0000886982) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/886982/000119312526105328/0001193125-26-105328-index.htm"
+  },
+  {
+    "time_utc": "2026-03-13T15:10:37.307570+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cyber App Solutions Corp. (0001851048) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1851048/000185104826000006/0001851048-26-000006-index.htm"
+  },
+  {
     "time_utc": "2026-03-13T14:27:18.245706+00:00",
     "region": "US",
     "source": "SEC",
