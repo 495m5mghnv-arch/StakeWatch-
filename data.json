@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-03-13T11:43:15.447329+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Philip Morris International Inc. (0001413329) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026017497/0001628280-26-017497-index.htm"
+  },
+  {
+    "time_utc": "2026-03-13T11:43:15.447347+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ONE Group Hospitality, Inc. (0001399520) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1399520/000110465926027350/0001104659-26-027350-index.htm"
+  },
+  {
+    "time_utc": "2026-03-13T11:43:15.447368+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Douglas Elliman Inc. (0001878897) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1878897/000187889726000004/0001878897-26-000004-index.htm"
+  },
+  {
     "time_utc": "2026-03-13T11:04:03.713701+00:00",
     "region": "US",
     "source": "SEC",
