@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-16T21:05:06.263462+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - California Resources Corp (0001609253) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1609253/000160925326000079/0001609253-26-000079-index.htm"
+  },
+  {
     "time_utc": "2026-03-16T20:22:34.635842+00:00",
     "region": "US",
     "source": "SEC",
