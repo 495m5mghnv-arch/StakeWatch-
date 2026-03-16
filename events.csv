@@ -1,4 +1,13 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-03-16T12:33:37.512821+00:00,US,SEC,8-K,,,,8-K - Varex Imaging Corp (0001681622) (Filer),https://www.sec.gov/Archives/edgar/data/1681622/000168162226000035/0001681622-26-000035-index.htm
+2026-03-16T12:33:37.512842+00:00,US,SEC,8-K,,,,"8-K - Spirit Aviation Holdings, Inc. (0001498710) (Filer)",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/0000950103-26-003790-index.htm
+2026-03-16T12:33:37.512855+00:00,US,SEC,8-K,,,,"8-K - TALPHERA, INC. (0001427925) (Filer)",https://www.sec.gov/Archives/edgar/data/1427925/000143774926008318/0001437749-26-008318-index.htm
+2026-03-16T12:33:37.512867+00:00,US,SEC,8-K,,,,8-K - Ribbon Acquisition Corp. (0002035016) (Filer),https://www.sec.gov/Archives/edgar/data/2035016/000121390026028001/0001213900-26-028001-index.htm
+2026-03-16T12:33:37.512872+00:00,US,SEC,8-K,,,,8-K - KINGSWAY FINANCIAL SERVICES INC (0001072627) (Filer),https://www.sec.gov/Archives/edgar/data/1072627/000143774926008317/0001437749-26-008317-index.htm
+2026-03-16T12:33:37.512877+00:00,US,SEC,8-K,,,,8-K - BTCS Inc. (0001436229) (Filer),https://www.sec.gov/Archives/edgar/data/1436229/000149315226010191/0001493152-26-010191-index.htm
+2026-03-16T12:33:37.512883+00:00,US,SEC,8-K,,,,"8-K - Relay Therapeutics, Inc. (0001812364) (Filer)",https://www.sec.gov/Archives/edgar/data/1812364/000119312526107312/0001193125-26-107312-index.htm
+2026-03-16T12:33:37.512888+00:00,US,SEC,8-K,,,,8-K - PTC INC. (0000857005) (Filer),https://www.sec.gov/Archives/edgar/data/857005/000119312526107315/0001193125-26-107315-index.htm
+2026-03-16T12:33:37.512894+00:00,US,SEC,8-K,,,,8-K - BIOMARIN PHARMACEUTICAL INC (0001048477) (Filer),https://www.sec.gov/Archives/edgar/data/1048477/000119312526107314/0001193125-26-107314-index.htm
 2026-03-16T11:35:29.195196+00:00,US,SEC,8-K,,,,8-K - SiriusPoint Ltd (0001576018) (Filer),https://www.sec.gov/Archives/edgar/data/1576018/000157601826000036/0001576018-26-000036-index.htm
 2026-03-16T11:35:29.195214+00:00,US,SEC,8-K,,,,"8-K - Signing Day Sports, Inc. (0001898474) (Filer)",https://www.sec.gov/Archives/edgar/data/1898474/000121390026027959/0001213900-26-027959-index.htm
 2026-03-16T11:35:29.195220+00:00,US,SEC,8-K,,,,"8-K - ZEVRA THERAPEUTICS, INC. (0001434647) (Filer)",https://www.sec.gov/Archives/edgar/data/1434647/000143464726000015/0001434647-26-000015-index.htm
