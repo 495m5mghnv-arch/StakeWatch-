@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-03-16T10:40:33.027790+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sable Offshore Corp. (0001831481) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1831481/000183148126000030/0001831481-26-000030-index.htm"
+  },
+  {
+    "time_utc": "2026-03-16T10:40:33.027825+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Forgent Power Solutions, Inc. (0002080126) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2080126/000208012626000010/0002080126-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-03-16T10:40:33.027855+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DOLLAR TREE, INC. (0000935703) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000024/0000935703-26-000024-index.htm"
+  },
+  {
     "time_utc": "2026-03-13T21:34:41.314791+00:00",
     "region": "US",
     "source": "SEC",
