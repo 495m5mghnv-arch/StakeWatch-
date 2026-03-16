@@ -1,4 +1,13 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-03-16T11:35:29.195196+00:00,US,SEC,8-K,,,,8-K - SiriusPoint Ltd (0001576018) (Filer),https://www.sec.gov/Archives/edgar/data/1576018/000157601826000036/0001576018-26-000036-index.htm
+2026-03-16T11:35:29.195214+00:00,US,SEC,8-K,,,,"8-K - Signing Day Sports, Inc. (0001898474) (Filer)",https://www.sec.gov/Archives/edgar/data/1898474/000121390026027959/0001213900-26-027959-index.htm
+2026-03-16T11:35:29.195220+00:00,US,SEC,8-K,,,,"8-K - ZEVRA THERAPEUTICS, INC. (0001434647) (Filer)",https://www.sec.gov/Archives/edgar/data/1434647/000143464726000015/0001434647-26-000015-index.htm
+2026-03-16T11:35:29.195228+00:00,US,SEC,8-K,,,,8-K - WHIRLPOOL CORP /DE/ (0000106640) (Filer),https://www.sec.gov/Archives/edgar/data/106640/000010664026000012/0000106640-26-000012-index.htm
+2026-03-16T11:35:29.195233+00:00,US,SEC,8-K,,,,8-K - FLOWSERVE CORP (0000030625) (Filer),https://www.sec.gov/Archives/edgar/data/30625/000119312526107220/0001193125-26-107220-index.htm
+2026-03-16T11:35:29.195262+00:00,US,SEC,8-K,,,,8-K - OPAL Fuels Inc. (0001842279) (Filer),https://www.sec.gov/Archives/edgar/data/1842279/000162828026017893/0001628280-26-017893-index.htm
+2026-03-16T11:35:29.195267+00:00,US,SEC,8-K,,,,"8-K - Zenas BioPharma, Inc. (0001953926) (Filer)",https://www.sec.gov/Archives/edgar/data/1953926/000110465926027961/0001104659-26-027961-index.htm
+2026-03-16T11:35:29.195280+00:00,US,SEC,8-K,,,,8-K - Sotera Health Co (0001822479) (Filer),https://www.sec.gov/Archives/edgar/data/1822479/000182247926000019/0001822479-26-000019-index.htm
+2026-03-16T11:35:29.195289+00:00,US,SEC,8-K,,,,8-K - National Storage Affiliates Trust (0001618563) (Filer),https://www.sec.gov/Archives/edgar/data/1618563/000110465926027957/0001104659-26-027957-index.htm
 2026-03-16T10:40:33.027790+00:00,US,SEC,8-K,,,,8-K - Sable Offshore Corp. (0001831481) (Filer),https://www.sec.gov/Archives/edgar/data/1831481/000183148126000030/0001831481-26-000030-index.htm
 2026-03-16T10:40:33.027825+00:00,US,SEC,8-K,,,,"8-K - Forgent Power Solutions, Inc. (0002080126) (Filer)",https://www.sec.gov/Archives/edgar/data/2080126/000208012626000010/0002080126-26-000010-index.htm
 2026-03-16T10:40:33.027855+00:00,US,SEC,8-K,,,,"8-K - DOLLAR TREE, INC. (0000935703) (Filer)",https://www.sec.gov/Archives/edgar/data/935703/000093570326000024/0000935703-26-000024-index.htm
