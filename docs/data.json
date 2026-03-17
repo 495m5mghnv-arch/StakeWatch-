@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-17T20:24:05.355089+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Goldman Sachs BDC, Inc. (0001572694) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1572694/000119312526110886/0001193125-26-110886-index.htm"
+  },
+  {
     "time_utc": "2026-03-17T17:46:41.256251+00:00",
     "region": "US",
     "source": "SEC",
