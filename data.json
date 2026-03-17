@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-17T11:54:15.352032+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GALECTIN THERAPEUTICS INC (0001133416) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1133416/000114036126009735/0001140361-26-009735-index.htm"
+  },
+  {
+    "time_utc": "2026-03-17T11:54:15.352066+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Frontdoor, Inc. (0001727263) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1727263/000172726326000003/0001727263-26-000003-index.htm"
+  },
+  {
     "time_utc": "2026-03-17T11:07:02.114964+00:00",
     "region": "US",
     "source": "SEC",
