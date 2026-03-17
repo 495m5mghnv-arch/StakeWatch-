@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-03-17T11:07:02.114964+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BICYCLE THERAPEUTICS PLC (0001761612) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1761612/000110465926028954/0001104659-26-028954-index.htm"
+  },
+  {
+    "time_utc": "2026-03-17T11:07:02.114985+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Monte Rosa Therapeutics, Inc. (0001826457) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1826457/000119312526109353/0001193125-26-109353-index.htm"
+  },
+  {
+    "time_utc": "2026-03-17T11:07:02.115016+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - JETBLUE AIRWAYS CORP (0001158463) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1158463/000115846326000030/0001158463-26-000030-index.htm"
+  },
+  {
+    "time_utc": "2026-03-17T11:07:02.115021+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - URBAN ONE, INC. (0001041657) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1041657/000104165726000010/0001041657-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-03-17T11:07:02.115032+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Vireo Growth Inc. (0001771706) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926028946/0001104659-26-028946-index.htm"
+  },
+  {
+    "time_utc": "2026-03-17T11:07:02.115039+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sally Beauty Holdings, Inc. (0001368458) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1368458/000119312526109350/0001193125-26-109350-index.htm"
+  },
+  {
     "time_utc": "2026-03-17T10:06:48.131399+00:00",
     "region": "US",
     "source": "SEC",
