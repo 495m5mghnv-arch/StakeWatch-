@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-18T12:07:00.471694+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MetaVia Inc. (0001638287) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926029912/0001104659-26-029912-index.htm"
+  },
+  {
     "time_utc": "2026-03-17T20:24:05.355089+00:00",
     "region": "US",
     "source": "SEC",
