@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-19T19:32:47.897557+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COMMUNITY BANCORP /VT (0000718413) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/718413/000165495426002504/0001654954-26-002504-index.htm"
+  },
+  {
     "time_utc": "2026-03-19T18:36:22.650366+00:00",
     "region": "US",
     "source": "SEC",
