@@ -1,4 +1,17 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-03-19T11:09:24.018116+00:00,US,SEC,8-K,,,,8-K - DARDEN RESTAURANTS INC (0000940944) (Filer),https://www.sec.gov/Archives/edgar/data/940944/000094094426000005/0000940944-26-000005-index.htm
+2026-03-19T11:09:24.018138+00:00,US,SEC,8-K,,,,"8-K - Chicago Atlantic BDC, Inc. (0001843162) (Filer)",https://www.sec.gov/Archives/edgar/data/1843162/000121390026031536/0001213900-26-031536-index.htm
+2026-03-19T11:09:24.018144+00:00,US,SEC,8-K,,,,"8-K - Solo Brands, Inc. (0001870600) (Filer)",https://www.sec.gov/Archives/edgar/data/1870600/000187060026000008/0001870600-26-000008-index.htm
+2026-03-19T11:09:24.018150+00:00,US,SEC,8-K,,,,8-K - DevvStream Corp. (0001854480) (Filer),https://www.sec.gov/Archives/edgar/data/1854480/000114036126010324/0001140361-26-010324-index.htm
+2026-03-19T11:09:24.018154+00:00,US,SEC,8-K,,,,"8-K - Larimar Therapeutics, Inc. (0001374690) (Filer)",https://www.sec.gov/Archives/edgar/data/1374690/000119312526115119/0001193125-26-115119-index.htm
+2026-03-19T11:09:24.018171+00:00,US,SEC,8-K,,,,8-K - Aebi Schmidt Holding AG (0002048519) (Filer),https://www.sec.gov/Archives/edgar/data/2048519/000117184326001771/0001171843-26-001771-index.htm
+2026-03-19T11:09:24.018178+00:00,US,SEC,8-K,,,,"8-K - Aveanna Healthcare Holdings, Inc. (0001832332) (Filer)",https://www.sec.gov/Archives/edgar/data/1832332/000119312526115114/0001193125-26-115114-index.htm
+2026-03-19T11:09:24.018198+00:00,US,SEC,8-K,,,,8-K - SIGNET JEWELERS LTD (0000832988) (Filer),https://www.sec.gov/Archives/edgar/data/832988/000083298826000054/0000832988-26-000054-index.htm
+2026-03-19T11:09:24.018211+00:00,US,SEC,8-K,,,,"8-K - LANDS' END, INC. (0000799288) (Filer)",https://www.sec.gov/Archives/edgar/data/799288/000119312526115102/0001193125-26-115102-index.htm
+2026-03-19T11:09:24.018233+00:00,US,SEC,8-K,,,,8-K - Accenture plc (0001467373) (Filer),https://www.sec.gov/Archives/edgar/data/1467373/000146737326000013/0001467373-26-000013-index.htm
+2026-03-19T11:09:24.018242+00:00,US,SEC,8-K,,,,8-K - Vine Hill Capital Investment Corp. (0002025396) (Filer),https://www.sec.gov/Archives/edgar/data/2025396/000121390026031521/0001213900-26-031521-index.htm
+2026-03-19T11:09:24.018246+00:00,US,SEC,8-K,,,,8-K - LITHIUM AMERICAS CORP. (0001966983) (Filer),https://www.sec.gov/Archives/edgar/data/1966983/000119312526115091/0001193125-26-115091-index.htm
+2026-03-19T11:09:24.018253+00:00,US,SEC,8-K,,,,8-K - Pelthos Therapeutics Inc. (0001919246) (Filer),https://www.sec.gov/Archives/edgar/data/1919246/000191924626000014/0001919246-26-000014-index.htm
 2026-03-18T21:36:35.010473+00:00,US,SEC,8-K,,,,"8-K - CATALYST PHARMACEUTICALS, INC. (0001369568) (Filer)",https://www.sec.gov/Archives/edgar/data/1369568/000119312526114306/0001193125-26-114306-index.htm
 2026-03-18T20:03:53.137401+00:00,US,SEC,8-K,,,,"8-K - Heartflow, Inc. (0001464521) (Filer)",https://www.sec.gov/Archives/edgar/data/1464521/000146452126000040/0001464521-26-000040-index.htm
 2026-03-18T12:07:00.471694+00:00,US,SEC,8-K,,,,8-K - MetaVia Inc. (0001638287) (Filer),https://www.sec.gov/Archives/edgar/data/1638287/000110465926029912/0001104659-26-029912-index.htm
