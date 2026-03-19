@@ -1,5 +1,137 @@
 [
   {
+    "time_utc": "2026-03-19T12:31:30.102822+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CBAK Energy Technology, Inc. (0001117171) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1117171/000121390026031565/0001213900-26-031565-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T12:31:30.102840+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TEJON RANCH CO (0000096869) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/96869/000119312526115200/0001193125-26-115200-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T12:31:30.102847+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TWO HARBORS INVESTMENT CORP. (0001465740) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1465740/000110465926031787/0001104659-26-031787-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T12:31:30.102860+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Humacyte, Inc. (0001818382) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1818382/000110465926031780/0001104659-26-031780-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T12:31:30.102864+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MICRO IMAGING TECHNOLOGY, INC. (0000808015) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/808015/000149315226011240/0001493152-26-011240-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T12:31:30.102889+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Picard Medical, Inc. (0002030617) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2030617/000182912626002490/0001829126-26-002490-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T12:31:30.102897+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Worksport Ltd (0001096275) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226011531/0001493152-26-011531-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T12:31:30.102910+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Hughes Satellite Systems Corp (0001533758) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1533758/000141540426000006/0001415404-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T12:31:30.102914+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EchoStar CORP (0001415404) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1415404/000141540426000006/0001415404-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T12:31:30.102918+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DISH DBS CORP (0001042642) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1042642/000141540426000006/0001415404-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T12:31:30.102922+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DISH Network CORP (0001001082) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1001082/000141540426000006/0001415404-26-000006-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T12:31:30.102926+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Datavault AI Inc. (0001682149) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926031770/0001104659-26-031770-index.htm"
+  },
+  {
     "time_utc": "2026-03-19T11:50:19.662903+00:00",
     "region": "US",
     "source": "SEC",
