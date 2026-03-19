@@ -1,5 +1,104 @@
 [
   {
+    "time_utc": "2026-03-19T11:50:19.662903+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Datavault AI Inc. (0001682149) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926031736/0001104659-26-031736-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T11:50:19.662934+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aptose Biosciences Inc. (0000882361) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/882361/000117184326001777/0001171843-26-001777-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T11:50:19.662943+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Mount Logan Capital Inc. (0002051820) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2051820/000205182026000037/0002051820-26-000037-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T11:50:19.662973+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Horizon Technology Finance Corp (0001487428) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1487428/000143774926008936/0001437749-26-008936-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T11:50:19.662978+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Mount Logan Capital Inc. (0002051820) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2051820/000205182026000035/0002051820-26-000035-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T11:50:19.662983+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Intuitive Machines, Inc. (0001844452) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1844452/000162828026019633/0001628280-26-019633-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T11:50:19.662989+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cornerstone Building Brands, Inc. (0000883902) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/883902/000088390226000009/0000883902-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T11:50:19.662999+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ONE Group Hospitality, Inc. (0001399520) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1399520/000110465926031731/0001104659-26-031731-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T11:50:19.663013+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Acrivon Therapeutics, Inc. (0001781174) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526115139/0001193125-26-115139-index.htm"
+  },
+  {
     "time_utc": "2026-03-19T11:09:24.018116+00:00",
     "region": "US",
     "source": "SEC",
