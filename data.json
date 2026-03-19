@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-03-19T16:41:49.955267+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Columbia Seligman Premium Technology Growth Fund, Inc. (0001471420) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1471420/000119312526115521/0001193125-26-115521-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T16:41:49.955308+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Carvana Auto Receivables Trust 2026-P1 (0001976111) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1976111/000177037326000017/0001770373-26-000017-index.htm"
+  },
+  {
+    "time_utc": "2026-03-19T16:41:49.955315+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Carvana Receivables Depositor LLC (0001770373) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1770373/000177037326000017/0001770373-26-000017-index.htm"
+  },
+  {
     "time_utc": "2026-03-19T12:31:30.102822+00:00",
     "region": "US",
     "source": "SEC",
