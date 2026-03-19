@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-19T20:53:44.031840+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GENELUX Corp (0001231457) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1231457/000149315226011649/0001493152-26-011649-index.htm"
+  },
+  {
     "time_utc": "2026-03-19T20:04:27.168839+00:00",
     "region": "US",
     "source": "SEC",
