@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-19T18:36:22.650366+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Chaince Digital Holdings Inc. (0001527762) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1527762/000149315226011584/0001493152-26-011584-index.htm"
+  },
+  {
     "time_utc": "2026-03-19T17:43:59.350339+00:00",
     "region": "US",
     "source": "SEC",
