@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-20T21:01:20.320727+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IOVANCE BIOTHERAPEUTICS, INC. (0001425205) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1425205/000110465926032774/0001104659-26-032774-index.htm"
+  },
+  {
     "time_utc": "2026-03-20T20:35:27.433743+00:00",
     "region": "US",
     "source": "SEC",
