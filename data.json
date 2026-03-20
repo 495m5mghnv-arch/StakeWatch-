@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-20T20:35:27.433743+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TG THERAPEUTICS, INC. (0001001316) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1001316/000143774926009253/0001437749-26-009253-index.htm"
+  },
+  {
     "time_utc": "2026-03-20T19:55:31.075960+00:00",
     "region": "US",
     "source": "SEC",
