@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-20T16:05:53.603337+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HUGOTON ROYALTY TRUST (0000862022) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/862022/000119312526117087/0001193125-26-117087-index.htm"
+  },
+  {
+    "time_utc": "2026-03-20T16:05:53.603388+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PERMIAN BASIN ROYALTY TRUST (0000319654) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/319654/000119312526117074/0001193125-26-117074-index.htm"
+  },
+  {
     "time_utc": "2026-03-20T13:40:43.865695+00:00",
     "region": "US",
     "source": "SEC",
