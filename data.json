@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-03-20T12:26:29.856066+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Eightco Holdings Inc. (0001892492) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1892492/000149315226011742/0001493152-26-011742-index.htm"
+  },
+  {
+    "time_utc": "2026-03-20T12:26:29.856096+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PureCycle Technologies, Inc. (0001830033) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1830033/000183003326000003/0001830033-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-03-20T12:26:29.856101+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ramaco Resources, Inc. (0001687187) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1687187/000121390026032076/0001213900-26-032076-index.htm"
+  },
+  {
     "time_utc": "2026-03-20T11:48:23.250854+00:00",
     "region": "US",
     "source": "SEC",
