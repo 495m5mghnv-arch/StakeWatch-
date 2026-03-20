@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-03-20T19:55:31.075960+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - United States Brent Oil Fund, LP (0001472494) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1472494/000110465926032675/0001104659-26-032675-index.htm"
+  },
+  {
+    "time_utc": "2026-03-20T19:55:31.075988+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - United States 12 Month Natural Gas Fund, LP (0001405513) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1405513/000110465926032673/0001104659-26-032673-index.htm"
+  },
+  {
+    "time_utc": "2026-03-20T19:55:31.075997+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - United States Gasoline Fund, LP (0001396878) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1396878/000110465926032671/0001104659-26-032671-index.htm"
+  },
+  {
+    "time_utc": "2026-03-20T19:55:31.076004+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - United States 12 Month Oil Fund, LP (0001405528) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1405528/000110465926032670/0001104659-26-032670-index.htm"
+  },
+  {
+    "time_utc": "2026-03-20T19:55:31.076011+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - United States Natural Gas Fund, LP (0001376227) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1376227/000110465926032669/0001104659-26-032669-index.htm"
+  },
+  {
+    "time_utc": "2026-03-20T19:55:31.076018+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - United States Oil Fund, LP (0001327068) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1327068/000110465926032666/0001104659-26-032666-index.htm"
+  },
+  {
     "time_utc": "2026-03-20T19:20:55.172720+00:00",
     "region": "US",
     "source": "SEC",
