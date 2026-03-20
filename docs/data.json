@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-20T13:40:43.865695+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BRADY CORP (0000746598) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/746598/000074659826000011/0000746598-26-000011-index.htm"
+  },
+  {
     "time_utc": "2026-03-20T12:26:29.856066+00:00",
     "region": "US",
     "source": "SEC",
