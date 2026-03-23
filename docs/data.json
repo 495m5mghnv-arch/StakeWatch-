@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-03-23T12:05:51.599181+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Liberty Live Holdings, Inc. (0002078416) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2078416/000110465926033049/0001104659-26-033049-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T12:05:51.599206+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aurinia Pharmaceuticals Inc. (0001600620) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1600620/000160062026000026/0001600620-26-000026-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T12:05:51.599225+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Okta, Inc. (0001660134) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000029/0001660134-26-000029-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T12:05:51.599235+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ridgepost Capital, Inc. (0001841968) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1841968/000119312526118587/0001193125-26-118587-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T12:05:51.599255+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Digi Power X Inc. (0001854368) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026032629/0001213900-26-032629-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T12:05:51.599260+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NN INC (0000918541) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/918541/000110465926033046/0001104659-26-033046-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T12:05:51.599264+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ensysce Biosciences, Inc. (0001716947) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1716947/000149315226012062/0001493152-26-012062-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T12:05:51.599269+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Byrna Technologies Inc. (0001354866) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1354866/000143774926009296/0001437749-26-009296-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T12:05:51.599273+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Strategy Inc (0001050446) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526118584/0001193125-26-118584-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T12:05:51.599304+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GYRE THERAPEUTICS, INC. (0001124105) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1124105/000114036126010654/0001140361-26-010654-index.htm"
+  },
+  {
     "time_utc": "2026-03-23T11:30:05.915848+00:00",
     "region": "US",
     "source": "SEC",
