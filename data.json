@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-23T20:53:49.443069+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - STARTENGINE CROWDFUNDING, INC. (0001661779) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1661779/000110465926033376/0001104659-26-033376-index.htm"
+  },
+  {
     "time_utc": "2026-03-23T20:07:44.774781+00:00",
     "region": "US",
     "source": "SEC",
