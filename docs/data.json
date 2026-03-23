@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-23T13:46:15.193413+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Otter Tail Corp (0001466593) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1466593/000146659326000034/0001466593-26-000034-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T13:46:15.193444+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Strategy Inc (0001050446) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526118810/0001193125-26-118810-index.htm"
+  },
+  {
     "time_utc": "2026-03-23T12:05:51.599181+00:00",
     "region": "US",
     "source": "SEC",
