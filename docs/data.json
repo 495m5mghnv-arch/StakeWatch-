@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-03-23T11:30:05.915848+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Victory Capital Holdings, Inc. (0001570827) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1570827/000110465926032996/0001104659-26-032996-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T11:30:05.915864+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Pyxis Oncology, Inc. (0001782223) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1782223/000119312526118525/0001193125-26-118525-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T11:30:05.915886+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Avalo Therapeutics, Inc. (0001534120) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1534120/000153412026000010/0001534120-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T11:30:05.915897+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RenovoRx, Inc. (0001574094) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1574094/000149315226012058/0001493152-26-012058-index.htm"
+  },
+  {
+    "time_utc": "2026-03-23T11:30:05.915905+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Coeur Mining, Inc. (0000215466) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/215466/000114036126010650/0001140361-26-010650-index.htm"
+  },
+  {
     "time_utc": "2026-03-23T10:38:44.447899+00:00",
     "region": "US",
     "source": "SEC",
