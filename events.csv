@@ -1,4 +1,9 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-03-23T10:38:44.447899+00:00,US,SEC,8-K,,,,"8-K - Apogee Therapeutics, Inc. (0001974640) (Filer)",https://www.sec.gov/Archives/edgar/data/1974640/000110465926032950/0001104659-26-032950-index.htm
+2026-03-23T10:38:44.447967+00:00,US,SEC,8-K,,,,8-K - NEWS CORP (0001564708) (Filer),https://www.sec.gov/Archives/edgar/data/1564708/000156470826000062/0001564708-26-000062-index.htm
+2026-03-23T10:38:44.447973+00:00,US,SEC,8-K,,,,8-K - 1606 CORP. (0001877461) (Filer),https://www.sec.gov/Archives/edgar/data/1877461/000147793226001521/0001477932-26-001521-index.htm
+2026-03-23T10:38:44.447978+00:00,US,SEC,8-K,,,,8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer),https://www.sec.gov/Archives/edgar/data/1805521/000121390026032538/0001213900-26-032538-index.htm
+2026-03-23T10:38:44.447991+00:00,US,SEC,8-K,,,,8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer),https://www.sec.gov/Archives/edgar/data/1498148/000106299326001565/0001062993-26-001565-index.htm
 2026-03-20T21:01:20.320727+00:00,US,SEC,8-K,,,,"8-K - IOVANCE BIOTHERAPEUTICS, INC. (0001425205) (Filer)",https://www.sec.gov/Archives/edgar/data/1425205/000110465926032774/0001104659-26-032774-index.htm
 2026-03-20T20:35:27.433743+00:00,US,SEC,8-K,,,,"8-K - TG THERAPEUTICS, INC. (0001001316) (Filer)",https://www.sec.gov/Archives/edgar/data/1001316/000143774926009253/0001437749-26-009253-index.htm
 2026-03-20T19:55:31.075960+00:00,US,SEC,8-K,,,,"8-K - United States Brent Oil Fund, LP (0001472494) (Filer)",https://www.sec.gov/Archives/edgar/data/1472494/000110465926032675/0001104659-26-032675-index.htm
