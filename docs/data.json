@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-24T10:07:24.448520+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001578/0001062993-26-001578-index.htm"
+  },
+  {
     "time_utc": "2026-03-23T20:53:49.443069+00:00",
     "region": "US",
     "source": "SEC",
