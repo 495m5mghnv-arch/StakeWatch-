@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-24T18:41:53.757208+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Exeter Automobile Receivables Trust 2026-2 (0002114382) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2114382/000092963826001121/0000929638-26-001121-index.htm"
+  },
+  {
+    "time_utc": "2026-03-24T18:41:53.757227+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EFCAR, LLC (0001654238) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1654238/000092963826001121/0000929638-26-001121-index.htm"
+  },
+  {
     "time_utc": "2026-03-24T17:42:36.902659+00:00",
     "region": "US",
     "source": "SEC",
