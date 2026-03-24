@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-24T19:43:09.270594+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CNL Strategic Capital, LLC (0001684682) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1684682/000199937126006806/0001999371-26-006806-index.htm"
+  },
+  {
     "time_utc": "2026-03-24T18:41:53.757208+00:00",
     "region": "US",
     "source": "SEC",
