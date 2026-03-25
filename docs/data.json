@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-03-25T20:43:26.975885+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RECURSION PHARMACEUTICALS, INC. (0001601830) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000054/0001601830-26-000054-index.htm"
+  },
+  {
+    "time_utc": "2026-03-25T20:43:26.975940+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Saba Capital Income & Opportunities Fund (0000826020) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/826020/000139834426005637/0001398344-26-005637-index.htm"
+  },
+  {
+    "time_utc": "2026-03-25T20:43:26.975967+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Senior Credit Investments, LLC (0001959568) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1959568/000119312526124242/0001193125-26-124242-index.htm"
+  },
+  {
     "time_utc": "2026-03-25T14:48:05.383735+00:00",
     "region": "US",
     "source": "SEC",
