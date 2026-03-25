@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-03-25T12:02:43.020537+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Trio Petroleum Corp (0001898766) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1898766/000149315226012535/0001493152-26-012535-index.htm"
+  },
+  {
+    "time_utc": "2026-03-25T12:02:43.020569+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Gentherm Inc (0000903129) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/903129/000119312526122833/0001193125-26-122833-index.htm"
+  },
+  {
+    "time_utc": "2026-03-25T12:02:43.020582+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MiniMed Group, Inc. (0002062583) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2062583/000110465926034156/0001104659-26-034156-index.htm"
+  },
+  {
+    "time_utc": "2026-03-25T12:02:43.020596+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MIDDLEBY Corp (0000769520) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/769520/000119312526122831/0001193125-26-122831-index.htm"
+  },
+  {
+    "time_utc": "2026-03-25T12:02:43.020600+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Incannex Healthcare Inc. (0001873875) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1873875/000121390026033842/0001213900-26-033842-index.htm"
+  },
+  {
+    "time_utc": "2026-03-25T12:02:43.020614+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WINNEBAGO INDUSTRIES INC (0000107687) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/107687/000162828026020907/0001628280-26-020907-index.htm"
+  },
+  {
+    "time_utc": "2026-03-25T12:02:43.020624+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Local Bounti Corporation/DE (0001840780) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1840780/000162828026020903/0001628280-26-020903-index.htm"
+  },
+  {
     "time_utc": "2026-03-25T11:24:12.895794+00:00",
     "region": "US",
     "source": "SEC",
