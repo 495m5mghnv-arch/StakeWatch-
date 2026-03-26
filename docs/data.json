@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-03-26T20:21:19.238509+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SSR MINING INC. (0000921638) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/921638/000094787126000355/0000947871-26-000355-index.htm"
+  },
+  {
+    "time_utc": "2026-03-26T20:21:19.238534+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FEDERAL AGRICULTURAL MORTGAGE CORP (0000845877) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/845877/000084587726000070/0000845877-26-000070-index.htm"
+  },
+  {
+    "time_utc": "2026-03-26T20:21:19.238557+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SKYX Platforms Corp. (0001598981) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1598981/000149315226012924/0001493152-26-012924-index.htm"
+  },
+  {
+    "time_utc": "2026-03-26T20:21:19.238562+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SEMPRA (0001032208) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1032208/000103220826000016/0001032208-26-000016-index.htm"
+  },
+  {
+    "time_utc": "2026-03-26T20:21:19.238567+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SAN DIEGO GAS & ELECTRIC CO (0000086521) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/86521/000103220826000016/0001032208-26-000016-index.htm"
+  },
+  {
+    "time_utc": "2026-03-26T20:21:19.238571+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Xos, Inc. (0001819493) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1819493/000181949326000004/0001819493-26-000004-index.htm"
+  },
+  {
     "time_utc": "2026-03-26T17:47:03.091890+00:00",
     "region": "US",
     "source": "SEC",
