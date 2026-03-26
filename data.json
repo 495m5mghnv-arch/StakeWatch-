@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-03-26T10:38:36.728661+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Worthington Steel, Inc. (0001968487) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1968487/000196848726000003/0001968487-26-000003-index.htm"
+  },
+  {
+    "time_utc": "2026-03-26T10:38:36.728721+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Corebridge Financial, Inc. (0001889539) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1889539/000114036126011260/0001140361-26-011260-index.htm"
+  },
+  {
+    "time_utc": "2026-03-26T10:38:36.728733+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SHOE CARNIVAL INC (0000895447) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/895447/000119312526125001/0001193125-26-125001-index.htm"
+  },
+  {
+    "time_utc": "2026-03-26T10:38:36.728775+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Crypto Co (0001688126) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1688126/000149315226012777/0001493152-26-012777-index.htm"
+  },
+  {
     "time_utc": "2026-03-25T21:22:52.732765+00:00",
     "region": "US",
     "source": "SEC",
