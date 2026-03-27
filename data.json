@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-03-27T12:02:39.856751+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - United States Natural Gas Fund, LP (0001376227) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1376227/000110465926035704/0001104659-26-035704-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T12:02:39.856769+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Autolus Therapeutics plc (0001730463) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000032/0001730463-26-000032-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T12:02:39.856779+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Senti Biosciences, Inc. (0001854270) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1854270/000162828026021578/0001628280-26-021578-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T12:02:39.856791+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - United States Oil Fund, LP (0001327068) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1327068/000110465926035702/0001104659-26-035702-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T12:02:39.856796+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Next Technology Holding Inc. (0001784970) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1784970/000121390026035163/0001213900-26-035163-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T12:02:39.856812+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BTCS Inc. (0001436229) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226013089/0001493152-26-013089-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T12:02:39.856818+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MAIA Biotechnology, Inc. (0001878313) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1878313/000149315226013088/0001493152-26-013088-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T12:02:39.856823+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Adagio Medical Holdings, Inc. (0002006986) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2006986/000110465926035699/0001104659-26-035699-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T12:02:39.856829+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Incannex Healthcare Inc. (0001873875) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1873875/000121390026035161/0001213900-26-035161-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T12:02:39.856871+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NCL CORP Ltd. (0001318742) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1318742/000110465926035691/0001104659-26-035691-index.htm"
+  },
+  {
     "time_utc": "2026-03-27T11:22:48.596534+00:00",
     "region": "US",
     "source": "SEC",
