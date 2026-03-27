@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-27T21:35:35.495974+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Contango ORE, Inc. (0001502377) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1502377/000119312526129496/0001193125-26-129496-index.htm"
+  },
+  {
     "time_utc": "2026-03-27T20:50:55.943746+00:00",
     "region": "US",
     "source": "SEC",
