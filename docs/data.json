@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-03-27T10:25:35.858279+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PMGC Holdings Inc. (0001840563) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1840563/000121390026035098/0001213900-26-035098-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T10:25:35.858327+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Reliance Global Group, Inc. (0001812727) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1812727/000149315226013057/0001493152-26-013057-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T10:25:35.858346+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KOPIN CORP (0000771266) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/771266/000149315226013055/0001493152-26-013055-index.htm"
+  },
+  {
     "time_utc": "2026-03-26T20:21:19.238509+00:00",
     "region": "US",
     "source": "SEC",
