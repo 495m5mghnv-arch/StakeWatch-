@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-27T20:50:55.943746+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NATIONAL FUEL GAS CO (0000070145) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/70145/000119312526129271/0001193125-26-129271-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T20:50:55.943770+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FORUM MARKETS Inc (0001690080) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1690080/000121390026035601/0001213900-26-035601-index.htm"
+  },
+  {
     "time_utc": "2026-03-27T12:02:39.856751+00:00",
     "region": "US",
     "source": "SEC",
