@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-03-27T11:22:48.596534+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TWO HARBORS INVESTMENT CORP. (0001465740) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1465740/000110465926035663/0001104659-26-035663-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T11:22:48.596557+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BioXcel Therapeutics, Inc. (0001720893) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1720893/000110465926035661/0001104659-26-035661-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T11:22:48.596566+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Clear Channel Outdoor Holdings, Inc. (0001334978) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1334978/000121390026035140/0001213900-26-035140-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T11:22:48.596571+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Legence Corp. (0002052568) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2052568/000119312526127539/0001193125-26-127539-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T11:22:48.596617+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Trilogy Metals Inc. (0001543418) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1543418/000127956926000235/0001279569-26-000235-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T11:22:48.596626+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Werewolf Therapeutics, Inc. (0001785530) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1785530/000178553026000005/0001785530-26-000005-index.htm"
+  },
+  {
+    "time_utc": "2026-03-27T11:22:48.596646+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ADMA BIOLOGICS, INC. (0001368514) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1368514/000114036126011569/0001140361-26-011569-index.htm"
+  },
+  {
     "time_utc": "2026-03-27T10:25:35.858279+00:00",
     "region": "US",
     "source": "SEC",
