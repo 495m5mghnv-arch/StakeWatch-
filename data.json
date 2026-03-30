@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-03-30T14:19:22.398623+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Stone Point Credit Corp (0001825384) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1825384/000110465926036581/0001104659-26-036581-index.htm"
+  },
+  {
+    "time_utc": "2026-03-30T14:19:22.398723+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Stone Point Credit Income Fund (0002031283) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2031283/000110465926036579/0001104659-26-036579-index.htm"
+  },
+  {
     "time_utc": "2026-03-30T12:42:27.577881+00:00",
     "region": "US",
     "source": "SEC",
