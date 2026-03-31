@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-03-31T19:30:20.233604+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ares Core Infrastructure Fund (0002031750) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2031750/000203175026000019/0002031750-26-000019-index.htm"
+  },
+  {
     "time_utc": "2026-03-31T12:02:40.943808+00:00",
     "region": "US",
     "source": "SEC",
