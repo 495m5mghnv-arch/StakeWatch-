@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-03-31T10:15:40.617437+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001712/0001062993-26-001712-index.htm"
+  },
+  {
+    "time_utc": "2026-03-31T10:15:40.617460+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LENSAR, Inc. (0001320350) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1320350/000119312526133153/0001193125-26-133153-index.htm"
+  },
+  {
+    "time_utc": "2026-03-31T10:15:40.617483+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Constellation Energy Corp (0001868275) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000045/0001868275-26-000045-index.htm"
+  },
+  {
+    "time_utc": "2026-03-31T10:15:40.617488+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CONSTELLATION ENERGY GENERATION LLC (0001168165) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1168165/000186827526000045/0001868275-26-000045-index.htm"
+  },
+  {
     "time_utc": "2026-03-30T20:26:29.190369+00:00",
     "region": "US",
     "source": "SEC",
