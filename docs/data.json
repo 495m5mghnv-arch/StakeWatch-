@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-01T21:10:52.934773+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WESTWATER RESOURCES, INC. (0000839470) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/839470/000110465926038606/0001104659-26-038606-index.htm"
+  },
+  {
     "time_utc": "2026-04-01T20:29:02.993882+00:00",
     "region": "US",
     "source": "SEC",
