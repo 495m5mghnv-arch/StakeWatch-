@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-01T14:02:11.737011+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ASCENT INDUSTRIES CO. (0000095953) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/95953/000009595326000059/0000095953-26-000059-index.htm"
+  },
+  {
+    "time_utc": "2026-04-01T14:02:11.737072+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SCI Engineered Materials, Inc. (0000830616) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/830616/000110465926038300/0001104659-26-038300-index.htm"
+  },
+  {
     "time_utc": "2026-04-01T12:04:30.568164+00:00",
     "region": "US",
     "source": "SEC",
