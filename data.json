@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-02T19:33:33.550962+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UNIVEST FINANCIAL Corp (0000102212) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/102212/000010221226000019/0000102212-26-000019-index.htm"
+  },
+  {
+    "time_utc": "2026-04-02T19:33:33.551041+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BioCorRx Inc. (0001443863) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1443863/000147793226001957/0001477932-26-001957-index.htm"
+  },
+  {
     "time_utc": "2026-04-02T17:37:31.471660+00:00",
     "region": "US",
     "source": "SEC",
