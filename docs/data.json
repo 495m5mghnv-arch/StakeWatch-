@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-02T17:37:31.471660+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BLUE DOLPHIN ENERGY CO (0000793306) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/793306/000143774926011052/0001437749-26-011052-index.htm"
+  },
+  {
     "time_utc": "2026-04-02T15:43:57.615895+00:00",
     "region": "US",
     "source": "SEC",
