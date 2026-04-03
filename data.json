@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-03T11:26:46.660568+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ALTA EQUIPMENT GROUP INC. (0001759824) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1759824/000119312526141224/0001193125-26-141224-index.htm"
+  },
+  {
     "time_utc": "2026-04-03T10:43:52.727349+00:00",
     "region": "US",
     "source": "SEC",
