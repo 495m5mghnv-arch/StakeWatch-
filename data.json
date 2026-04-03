@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-04-03T16:41:57.176791+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CITIGROUP COMMERCIAL MORTGAGE TRUST 2016-C3 (0001687605) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1687605/000119312526141700/0001193125-26-141700-index.htm"
+  },
+  {
+    "time_utc": "2026-04-03T16:41:57.176827+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CITIGROUP COMMERCIAL MORTGAGE TRUST 2016-P6 (0001690255) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1690255/000119312526141698/0001193125-26-141698-index.htm"
+  },
+  {
+    "time_utc": "2026-04-03T16:41:57.176851+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TOYOTA MOTOR CREDIT CORP (0000834071) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/834071/000095010326005331/0000950103-26-005331-index.htm"
+  },
+  {
     "time_utc": "2026-04-03T15:54:05.384454+00:00",
     "region": "US",
     "source": "SEC",
