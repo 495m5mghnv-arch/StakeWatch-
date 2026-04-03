@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-04-03T10:43:52.727349+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Braemar Hotels & Resorts Inc. (0001574085) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1574085/000157408526000054/0001574085-26-000054-index.htm"
+  },
+  {
+    "time_utc": "2026-04-03T10:43:52.727395+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Stone Point Credit Corp (0001825384) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1825384/000110465926039411/0001104659-26-039411-index.htm"
+  },
+  {
+    "time_utc": "2026-04-03T10:43:52.727432+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Galera Therapeutics, Inc. (0001563577) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1563577/000119312526141187/0001193125-26-141187-index.htm"
+  },
+  {
+    "time_utc": "2026-04-03T10:43:52.727452+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SPRUCE POWER HOLDING CORP (0001772720) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1772720/000121390026039687/0001213900-26-039687-index.htm"
+  },
+  {
     "time_utc": "2026-04-02T20:06:06.649209+00:00",
     "region": "US",
     "source": "SEC",
