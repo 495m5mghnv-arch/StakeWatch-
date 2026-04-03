@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-03T15:54:05.384454+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CFCRE 2016-C7 Mortgage Trust (0001690110) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1690110/000188852426006717/0001888524-26-006717-index.htm"
+  },
+  {
+    "time_utc": "2026-04-03T15:54:05.384495+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CFCRE 2016-C6 Mortgage Trust (0001685854) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1685854/000188852426006715/0001888524-26-006715-index.htm"
+  },
+  {
     "time_utc": "2026-04-03T14:25:28.062654+00:00",
     "region": "US",
     "source": "SEC",
