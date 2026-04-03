@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-03T19:02:49.003467+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1959961/000119312526141992/0001193125-26-141992-index.htm"
+  },
+  {
     "time_utc": "2026-04-03T16:41:57.176791+00:00",
     "region": "US",
     "source": "SEC",
