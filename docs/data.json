@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-03T20:37:32.819086+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blue Owl Digital Infrastructure Trust (0002069692) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2069692/000206969226000022/0002069692-26-000022-index.htm"
+  },
+  {
     "time_utc": "2026-04-03T19:02:49.003467+00:00",
     "region": "US",
     "source": "SEC",
