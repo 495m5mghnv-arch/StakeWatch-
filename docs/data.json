@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-06T19:16:45.884906+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sculptor Diversified Real Estate Income Trust, Inc. (0001914496) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1914496/000191449626000048/0001914496-26-000048-index.htm"
+  },
+  {
     "time_utc": "2026-04-06T17:03:24.592825+00:00",
     "region": "US",
     "source": "SEC",
