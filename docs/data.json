@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-04-06T10:57:51.449884+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cycurion, Inc. (0001868419) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1868419/000186841926000014/0001868419-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-04-06T10:57:51.449905+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Playtika Holding Corp. (0001828016) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801626000015/0001828016-26-000015-index.htm"
+  },
+  {
+    "time_utc": "2026-04-06T10:57:51.449920+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BIOGEN INC. (0000875045) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/875045/000087504526000039/0000875045-26-000039-index.htm"
+  },
+  {
+    "time_utc": "2026-04-06T10:57:51.449966+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Greenpro Capital Corp. (0001597846) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1597846/000149315226015220/0001493152-26-015220-index.htm"
+  },
+  {
     "time_utc": "2026-04-03T20:37:32.819086+00:00",
     "region": "US",
     "source": "SEC",
