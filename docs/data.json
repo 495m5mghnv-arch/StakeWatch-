@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-04-06T11:54:11.058475+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SOLENO THERAPEUTICS INC (0001484565) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1484565/000119312526142911/0001193125-26-142911-index.htm"
+  },
+  {
+    "time_utc": "2026-04-06T11:54:11.058509+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEUROCRINE BIOSCIENCES INC (0000914475) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/914475/000119312526142904/0001193125-26-142904-index.htm"
+  },
+  {
+    "time_utc": "2026-04-06T11:54:11.058517+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PMGC Holdings Inc. (0001840563) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1840563/000121390026040150/0001213900-26-040150-index.htm"
+  },
+  {
+    "time_utc": "2026-04-06T11:54:11.058523+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Anterix Inc. (0001304492) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1304492/000130449226000016/0001304492-26-000016-index.htm"
+  },
+  {
+    "time_utc": "2026-04-06T11:54:11.058543+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Atlas Energy Solutions Inc. (0001984060) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1984060/000114036126013230/0001140361-26-013230-index.htm"
+  },
+  {
+    "time_utc": "2026-04-06T11:54:11.058559+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Clear Channel Outdoor Holdings, Inc. (0001334978) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1334978/000121390026040144/0001213900-26-040144-index.htm"
+  },
+  {
+    "time_utc": "2026-04-06T11:54:11.058576+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INOVIO PHARMACEUTICALS, INC. (0001055726) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1055726/000119312526142885/0001193125-26-142885-index.htm"
+  },
+  {
     "time_utc": "2026-04-06T10:57:51.449884+00:00",
     "region": "US",
     "source": "SEC",
