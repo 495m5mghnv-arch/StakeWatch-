@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-04-07T11:38:12.914036+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WW INTERNATIONAL, INC. (0000105319) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/105319/000119312526144543/0001193125-26-144543-index.htm"
+  },
+  {
+    "time_utc": "2026-04-07T11:38:12.914064+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Boxlight Corp (0001624512) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1624512/000162828026023984/0001628280-26-023984-index.htm"
+  },
+  {
+    "time_utc": "2026-04-07T11:38:12.914133+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PALVELLA THERAPEUTICS, INC. (0001583648) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1583648/000119312526144540/0001193125-26-144540-index.htm"
+  },
+  {
     "time_utc": "2026-04-07T10:39:33.902395+00:00",
     "region": "US",
     "source": "SEC",
