@@ -1,5 +1,126 @@
 [
   {
+    "time_utc": "2026-04-07T12:41:55.300557+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rithm Perpetual Life Residential Trust (0002081628) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2081628/000162828026023988/0001628280-26-023988-index.htm"
+  },
+  {
+    "time_utc": "2026-04-07T12:41:55.300593+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ABEONA THERAPEUTICS INC. (0000318306) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/318306/000149315226015451/0001493152-26-015451-index.htm"
+  },
+  {
+    "time_utc": "2026-04-07T12:41:55.300600+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Jaguar Health, Inc. (0001585608) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1585608/000119312526144604/0001193125-26-144604-index.htm"
+  },
+  {
+    "time_utc": "2026-04-07T12:41:55.300605+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Transcode Therapeutics, Inc. (0001829635) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829635/000110465926040171/0001104659-26-040171-index.htm"
+  },
+  {
+    "time_utc": "2026-04-07T12:41:55.300614+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SS Innovations International, Inc. (0001676163) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1676163/000121390026040714/0001213900-26-040714-index.htm"
+  },
+  {
+    "time_utc": "2026-04-07T12:41:55.300641+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000091/0001527541-26-000091-index.htm"
+  },
+  {
+    "time_utc": "2026-04-07T12:41:55.300650+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - T3 Defense Inc. (0001787518) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026040713/0001213900-26-040713-index.htm"
+  },
+  {
+    "time_utc": "2026-04-07T12:41:55.300655+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226015446/0001493152-26-015446-index.htm"
+  },
+  {
+    "time_utc": "2026-04-07T12:41:55.300660+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - bioAffinity Technologies, Inc. (0001712762) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1712762/000149315226015445/0001493152-26-015445-index.htm"
+  },
+  {
+    "time_utc": "2026-04-07T12:41:55.300668+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Azenta, Inc. (0000933974) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/933974/000143774926011542/0001437749-26-011542-index.htm"
+  },
+  {
+    "time_utc": "2026-04-07T12:41:55.300672+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Prairie Operating Co. (0001162896) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1162896/000114036126013492/0001140361-26-013492-index.htm"
+  },
+  {
     "time_utc": "2026-04-07T11:38:12.914036+00:00",
     "region": "US",
     "source": "SEC",
