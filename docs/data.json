@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-07T15:49:49.226988+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AI Era Corp. (0001605331) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1605331/000166357726000096/0001663577-26-000096-index.htm"
+  },
+  {
     "time_utc": "2026-04-07T12:41:55.300557+00:00",
     "region": "US",
     "source": "SEC",
