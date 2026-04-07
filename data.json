@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-07T21:25:41.107492+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - VISIUM TECHNOLOGIES, INC. (0001082733) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1082733/000165495426003315/0001654954-26-003315-index.htm"
+  },
+  {
     "time_utc": "2026-04-07T20:29:52.953399+00:00",
     "region": "US",
     "source": "SEC",
