@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-04-08T11:57:53.553015+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PMGC Holdings Inc. (0001840563) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1840563/000121390026041258/0001213900-26-041258-index.htm"
+  },
+  {
+    "time_utc": "2026-04-08T11:57:53.553034+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PLUS THERAPEUTICS, INC. (0001095981) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1095981/000119312526146335/0001193125-26-146335-index.htm"
+  },
+  {
+    "time_utc": "2026-04-08T11:57:53.553048+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FACTSET RESEARCH SYSTEMS INC (0001013237) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1013237/000095010326005447/0000950103-26-005447-index.htm"
+  },
+  {
+    "time_utc": "2026-04-08T11:57:53.553052+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - REGENERON PHARMACEUTICALS, INC. (0000872589) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/872589/000110465926040661/0001104659-26-040661-index.htm"
+  },
+  {
+    "time_utc": "2026-04-08T11:57:53.553087+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RPM INTERNATIONAL INC/DE/ (0000110621) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/110621/000119312526146312/0001193125-26-146312-index.htm"
+  },
+  {
     "time_utc": "2026-04-08T10:57:47.317510+00:00",
     "region": "US",
     "source": "SEC",
