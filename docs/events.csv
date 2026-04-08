@@ -1,4 +1,7 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-04-08T10:57:47.317510+00:00,US,SEC,8-K,,,,8-K - EXXON MOBIL CORP (0000034088) (Filer),https://www.sec.gov/Archives/edgar/data/34088/000003408826000056/0000034088-26-000056-index.htm
+2026-04-08T10:57:47.317533+00:00,US,SEC,8-K,,,,8-K - Brookfield Asset Management Ltd. (0001937926) (Filer),https://www.sec.gov/Archives/edgar/data/1937926/000117184326002317/0001171843-26-002317-index.htm
+2026-04-08T10:57:47.317568+00:00,US,SEC,8-K,,,,"8-K - DELTA AIR LINES, INC. (0000027904) (Filer)",https://www.sec.gov/Archives/edgar/data/27904/000002790426000020/0000027904-26-000020-index.htm
 2026-04-07T21:25:41.107492+00:00,US,SEC,8-K,,,,"8-K - VISIUM TECHNOLOGIES, INC. (0001082733) (Filer)",https://www.sec.gov/Archives/edgar/data/1082733/000165495426003315/0001654954-26-003315-index.htm
 2026-04-07T20:29:52.953399+00:00,US,SEC,8-K,,,,"8-K - PSQ Holdings, Inc. (0001847064) (Filer)",https://www.sec.gov/Archives/edgar/data/1847064/000110465926040415/0001104659-26-040415-index.htm
 2026-04-07T20:29:52.953436+00:00,US,SEC,8-K,,,,"8-K - Editas Medicine, Inc. (0001650664) (Filer)",https://www.sec.gov/Archives/edgar/data/1650664/000165066426000030/0001650664-26-000030-index.htm

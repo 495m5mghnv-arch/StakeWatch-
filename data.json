@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-04-08T10:57:47.317510+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EXXON MOBIL CORP (0000034088) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000056/0000034088-26-000056-index.htm"
+  },
+  {
+    "time_utc": "2026-04-08T10:57:47.317533+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Brookfield Asset Management Ltd. (0001937926) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1937926/000117184326002317/0001171843-26-002317-index.htm"
+  },
+  {
+    "time_utc": "2026-04-08T10:57:47.317568+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DELTA AIR LINES, INC. (0000027904) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000020/0000027904-26-000020-index.htm"
+  },
+  {
     "time_utc": "2026-04-07T21:25:41.107492+00:00",
     "region": "US",
     "source": "SEC",
