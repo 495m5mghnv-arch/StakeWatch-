@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-08T19:59:02.457496+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DOMINION ENERGY SOUTH CAROLINA, INC. (0000091882) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/91882/000119312526147529/0001193125-26-147529-index.htm"
+  },
+  {
     "time_utc": "2026-04-08T11:57:53.553015+00:00",
     "region": "US",
     "source": "SEC",
