@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-04-09T20:36:40.061705+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TPG Inc. (0001880661) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1880661/000188066126000019/0001880661-26-000019-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T20:36:40.061732+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Wellgistics Health, Inc. (0002030763) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226015898/0001493152-26-015898-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T20:36:40.061758+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FS KKR Capital Corp (0001422183) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1422183/000110465926041534/0001104659-26-041534-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T20:36:40.061807+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Atlas Energy Solutions Inc. (0001984060) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1984060/000114036126014025/0001140361-26-014025-index.htm"
+  },
+  {
     "time_utc": "2026-04-09T18:32:33.531365+00:00",
     "region": "US",
     "source": "SEC",
