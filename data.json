@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-04-09T10:49:50.499629+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WESTWATER RESOURCES, INC. (0000839470) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/839470/000110465926041186/0001104659-26-041186-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T10:49:50.499646+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SUNation Energy, Inc. (0000022701) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/22701/000121390026041714/0001213900-26-041714-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T10:49:50.499653+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Freedom Holding Corp. (0000924805) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/924805/000092480526000009/0000924805-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T10:49:50.499693+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Forte Biosciences, Inc. (0001419041) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1419041/000119312526148796/0001193125-26-148796-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T10:49:50.499698+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Whitestone REIT (0001175535) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1175535/000119312526148793/0001193125-26-148793-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T10:49:50.499704+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - USA Rare Earth, Inc. (0001970622) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1970622/000197062226000026/0001970622-26-000026-index.htm"
+  },
+  {
     "time_utc": "2026-04-08T20:59:21.612488+00:00",
     "region": "US",
     "source": "SEC",
