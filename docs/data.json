@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-04-09T12:49:06.827061+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226015825/0001493152-26-015825-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T12:49:06.827075+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SEALED AIR CORP/DE (0001012100) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1012100/000119312526148959/0001193125-26-148959-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T12:49:06.827115+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Eos Energy Enterprises, Inc. (0001805077) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026024345/0001628280-26-024345-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T12:49:06.827130+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Prairie Operating Co. (0001162896) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1162896/000114036126013932/0001140361-26-013932-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T12:49:06.827135+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sonoma Pharmaceuticals, Inc. (0001367083) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1367083/000168316826002761/0001683168-26-002761-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T12:49:06.827151+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SCOTTS MIRACLE-GRO CO (0000825542) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/825542/000082554226000017/0000825542-26-000017-index.htm"
+  },
+  {
+    "time_utc": "2026-04-09T12:49:06.827160+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COLGATE PALMOLIVE CO (0000021665) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/21665/000002166526000015/0000021665-26-000015-index.htm"
+  },
+  {
     "time_utc": "2026-04-09T11:41:18.650270+00:00",
     "region": "US",
     "source": "SEC",
