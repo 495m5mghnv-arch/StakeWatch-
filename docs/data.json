@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-04-10T11:29:52.248933+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Angel Studios, Inc. (0001865200) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1865200/000110465926041758/0001104659-26-041758-index.htm"
+  },
+  {
+    "time_utc": "2026-04-10T11:29:52.248976+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BRINKS CO (0000078890) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/78890/000007889026000031/0000078890-26-000031-index.htm"
+  },
+  {
+    "time_utc": "2026-04-10T11:29:52.248983+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - C4 Therapeutics, Inc. (0001662579) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026024583/0001628280-26-024583-index.htm"
+  },
+  {
+    "time_utc": "2026-04-10T11:29:52.248990+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OCCIDENTAL PETROLEUM CORP /DE/ (0000797468) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/797468/000162828026024581/0001628280-26-024581-index.htm"
+  },
+  {
     "time_utc": "2026-04-10T10:33:58.423937+00:00",
     "region": "US",
     "source": "SEC",
