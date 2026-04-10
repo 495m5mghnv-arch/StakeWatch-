@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-10T10:33:58.423937+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - New ERA Energy & Digital, Inc. (0002028336) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2028336/000121390026042161/0001213900-26-042161-index.htm"
+  },
+  {
     "time_utc": "2026-04-09T20:36:40.061705+00:00",
     "region": "US",
     "source": "SEC",
