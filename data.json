@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-10T18:30:58.333075+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Stepstone Private Credit Fund LLC (0001950803) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1950803/000119312526151025/0001193125-26-151025-index.htm"
+  },
+  {
     "time_utc": "2026-04-10T13:48:52.899304+00:00",
     "region": "US",
     "source": "SEC",
