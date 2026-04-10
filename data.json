@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-04-10T12:08:34.971530+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Trio Petroleum Corp (0001898766) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1898766/000149315226016048/0001493152-26-016048-index.htm"
+  },
+  {
+    "time_utc": "2026-04-10T12:08:34.971551+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Invesco Ltd. (0000914208) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000097/0000914208-26-000097-index.htm"
+  },
+  {
+    "time_utc": "2026-04-10T12:08:34.971567+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CUMULUS MEDIA INC (0001058623) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1058623/000105862326000017/0001058623-26-000017-index.htm"
+  },
+  {
+    "time_utc": "2026-04-10T12:08:34.971577+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Lantern Pharma Inc. (0001763950) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226016047/0001493152-26-016047-index.htm"
+  },
+  {
+    "time_utc": "2026-04-10T12:08:34.971592+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Core & Main, Inc. (0001856525) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1856525/000119312526150369/0001193125-26-150369-index.htm"
+  },
+  {
+    "time_utc": "2026-04-10T12:08:34.971596+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Trinity Capital Inc. (0001786108) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1786108/000119312526150368/0001193125-26-150368-index.htm"
+  },
+  {
     "time_utc": "2026-04-10T11:29:52.248933+00:00",
     "region": "US",
     "source": "SEC",
