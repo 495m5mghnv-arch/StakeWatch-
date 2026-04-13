@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-13T17:38:27.780668+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CaliberCos Inc. (0001627282) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1627282/000162728226000019/0001627282-26-000019-index.htm"
+  },
+  {
     "time_utc": "2026-04-13T16:20:43.874734+00:00",
     "region": "US",
     "source": "SEC",
