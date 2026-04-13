@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-04-13T11:50:20.557910+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Spyre Therapeutics, Inc. (0001636282) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1636282/000162828026024831/0001628280-26-024831-index.htm"
+  },
+  {
+    "time_utc": "2026-04-13T11:50:20.557925+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Allogene Therapeutics, Inc. (0001737287) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1737287/000119312526151999/0001193125-26-151999-index.htm"
+  },
+  {
+    "time_utc": "2026-04-13T11:50:20.557950+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GOLDMAN SACHS GROUP INC (0000886982) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000096/0000886982-26-000096-index.htm"
+  },
+  {
     "time_utc": "2026-04-13T10:20:17.741657+00:00",
     "region": "US",
     "source": "SEC",
