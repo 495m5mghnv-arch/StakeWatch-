@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-04-14T17:47:23.822964+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426003493/0001654954-26-003493-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T17:47:23.822986+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Benchmark 2018-B4 Mortgage Trust (0001740849) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1740849/000188852426006742/0001888524-26-006742-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T17:47:23.822998+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2026738/000119312526154537/0001193125-26-154537-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T17:47:23.823059+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Benchmark 2018-B7 Mortgage Trust (0001757018) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1757018/000188852426006740/0001888524-26-006740-index.htm"
+  },
+  {
     "time_utc": "2026-04-14T15:19:48.996687+00:00",
     "region": "US",
     "source": "SEC",
