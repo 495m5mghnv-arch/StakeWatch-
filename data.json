@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-04-14T13:58:27.064821+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BeOne Medicines Ltd. (0001651308) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1651308/000165130826000008/0001651308-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T13:58:27.064884+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CITIGROUP INC (0000831001) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/831001/000110465926042942/0001104659-26-042942-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T13:58:27.064897+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HERBALIFE LTD. (0001180262) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1180262/000121390026043269/0001213900-26-043269-index.htm"
+  },
+  {
     "time_utc": "2026-04-14T11:56:57.464452+00:00",
     "region": "US",
     "source": "SEC",
