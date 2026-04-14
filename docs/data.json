@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-04-14T21:05:18.782861+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Uniti Group Inc. (0002020795) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2020795/000095010326005715/0000950103-26-005715-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T21:05:18.782921+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WaterBridge Infrastructure LLC (0002064947) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2064947/000119312526155064/0001193125-26-155064-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T21:05:18.782937+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Meta Platforms, Inc. (0001326801) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025108/0001628280-26-025108-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T21:05:18.782950+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Illumination Acquisition Corp. I (0002101135) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2101135/000120677426000213/0001206774-26-000213-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T21:05:18.782966+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - York Space Systems Inc. (0002086587) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2086587/000119312526155061/0001193125-26-155061-index.htm"
+  },
+  {
     "time_utc": "2026-04-14T20:05:08.454841+00:00",
     "region": "US",
     "source": "SEC",
