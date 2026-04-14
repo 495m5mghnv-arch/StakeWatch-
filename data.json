@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-04-14T10:53:15.385802+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LEMAITRE VASCULAR INC (0001158895) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1158895/000119312526153779/0001193125-26-153779-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T10:53:15.385821+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BlackRock, Inc. (0002012383) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526153768/0001193125-26-153768-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T10:53:15.385827+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DOW INC. (0001751788) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1751788/000119312526153769/0001193125-26-153769-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T10:53:15.385834+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - JPMORGAN CHASE & CO (0000019617) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/19617/000162828026024990/0001628280-26-024990-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T10:53:15.385849+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BHAV Acquisition Corp (0002097288) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2097288/000121390026043186/0001213900-26-043186-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T10:53:15.385857+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WELLS FARGO & COMPANY/MN (0000072971) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/0000072971-26-000213-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T10:53:15.385872+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nature's Miracle Holding Inc. (0001947861) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1947861/000121390026043181/0001213900-26-043181-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T10:53:15.385891+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SemiLEDs Corp (0001333822) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1333822/000119312526153738/0001193125-26-153738-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T10:53:15.385902+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - XCF Global, Inc. (0002019793) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2019793/000149315226016438/0001493152-26-016438-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T10:53:15.385906+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Transocean Ltd. (0001451505) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1451505/000145150526000029/0001451505-26-000029-index.htm"
+  },
+  {
     "time_utc": "2026-04-13T17:38:27.780668+00:00",
     "region": "US",
     "source": "SEC",
