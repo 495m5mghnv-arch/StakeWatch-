@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-04-14T11:56:57.464452+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HPS Corporate Lending Fund (0001838126) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1838126/000162828026024994/0001628280-26-024994-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T11:56:57.464470+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Lucid Group, Inc. (0001811210) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1811210/000110465926042873/0001104659-26-042873-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T11:56:57.464504+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - JOHNSON & JOHNSON (0000200406) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000076/0000200406-26-000076-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T11:56:57.464512+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Profound Medical Corp. (0001628808) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1628808/000117184326002426/0001171843-26-002426-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T11:56:57.464523+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Albertsons Companies, Inc. (0001646972) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1646972/000164697226000028/0001646972-26-000028-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T11:56:57.464532+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AgEagle Aerial Systems Inc. (0000008504) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/8504/000149315226016470/0001493152-26-016470-index.htm"
+  },
+  {
+    "time_utc": "2026-04-14T11:56:57.464537+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CREATIVE REALITIES, INC. (0001356093) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1356093/000143774926012193/0001437749-26-012193-index.htm"
+  },
+  {
     "time_utc": "2026-04-14T10:53:15.385802+00:00",
     "region": "US",
     "source": "SEC",
