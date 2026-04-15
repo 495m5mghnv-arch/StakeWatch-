@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-04-15T21:09:09.374786+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Customers Bancorp, Inc. (0001488813) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1488813/000148881326000053/0001488813-26-000053-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T21:09:09.374813+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - YORK WATER CO (0000108985) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/108985/000114036126014830/0001140361-26-014830-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T21:09:09.374838+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Global Water Resources, Inc. (0001434728) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1434728/000162828026025290/0001628280-26-025290-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T21:09:09.374905+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Concrete Pumping Holdings, Inc. (0001703956) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1703956/000143774926012429/0001437749-26-012429-index.htm"
+  },
+  {
     "time_utc": "2026-04-15T20:11:14.563768+00:00",
     "region": "US",
     "source": "SEC",
