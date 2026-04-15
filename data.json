@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-04-15T10:17:04.070961+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PANTAGES CAPITAL ACQUISITION Corp (0002030829) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2030829/000192998026000151/0001929980-26-000151-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T10:17:04.070996+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - M&T BANK CORP (0000036270) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000025/0000036270-26-000025-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T10:17:04.071006+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Structure Therapeutics Inc. (0001888886) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926043425/0001104659-26-043425-index.htm"
+  },
+  {
     "time_utc": "2026-04-14T21:05:18.782861+00:00",
     "region": "US",
     "source": "SEC",
