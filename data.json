@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-15T20:11:14.563768+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PARSONS CORP (0000275880) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/275880/000119312526157010/0001193125-26-157010-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T20:11:14.563784+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - American Strategic Investment Co. (0001595527) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1595527/000110465926043798/0001104659-26-043798-index.htm"
+  },
+  {
     "time_utc": "2026-04-15T15:41:57.841708+00:00",
     "region": "US",
     "source": "SEC",
