@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-04-15T14:18:52.982515+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TRANS LUX Corp (0000099106) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/99106/000110465926043581/0001104659-26-043581-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T14:18:52.982529+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226000575/0001731122-26-000575-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T14:18:52.982538+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - La Rosa Holdings Corp. (0001879403) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1879403/000121390026043861/0001213900-26-043861-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T14:18:52.982553+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Otter Tail Corp (0001466593) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1466593/000146659326000040/0001466593-26-000040-index.htm"
+  },
+  {
     "time_utc": "2026-04-15T12:40:38.758834+00:00",
     "region": "US",
     "source": "SEC",
