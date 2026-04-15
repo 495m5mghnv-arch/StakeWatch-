@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-04-15T11:29:47.159178+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Stereotaxis, Inc. (0001289340) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1289340/000149315226016685/0001493152-26-016685-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T11:29:47.159194+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ENTEGRIS INC (0001101302) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1101302/000110130226000095/0001101302-26-000095-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T11:29:47.159200+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TransDigm Group INC (0001260221) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000036/0001260221-26-000036-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T11:29:47.159214+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SPIRE INC (0001126956) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1126956/000119312526155936/0001193125-26-155936-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T11:29:47.159223+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - VINCE HOLDING CORP. (0001579157) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1579157/000119312526155934/0001193125-26-155934-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T11:29:47.159232+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Keen Vision Acquisition Corp. (0001889983) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1889983/000121390026043759/0001213900-26-043759-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T11:29:47.159256+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BANK OF AMERICA CORP /DE/ (0000070858) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000222/0000070858-26-000222-index.htm"
+  },
+  {
+    "time_utc": "2026-04-15T11:29:47.159264+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PNC FINANCIAL SERVICES GROUP, INC. (0000713676) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/713676/000071367626000026/0000713676-26-000026-index.htm"
+  },
+  {
     "time_utc": "2026-04-15T10:17:04.070961+00:00",
     "region": "US",
     "source": "SEC",
