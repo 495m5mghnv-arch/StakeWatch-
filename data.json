@@ -1,5 +1,104 @@
 [
   {
+    "time_utc": "2026-04-16T11:33:04.970544+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rivulet Entertainment, Inc. (0001342936) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1342936/000149315226016972/0001493152-26-016972-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T11:33:04.970558+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/64463/000149315226016971/0001493152-26-016971-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T11:33:04.970564+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - XMax Inc. (0001473334) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1473334/000149315226016970/0001493152-26-016970-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T11:33:04.970573+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ManpowerGroup Inc. (0000871763) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/871763/000119312526157932/0001193125-26-157932-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T11:33:04.970618+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MeiraGTx Holdings plc (0001735438) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1735438/000110465926044028/0001104659-26-044028-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T11:33:04.970622+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DAYTON POWER & LIGHT CO (0000027430) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/27430/000002743026000014/0000027430-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T11:33:04.970633+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Lumen Technologies, Inc. (0000018926) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/18926/000119312526157915/0001193125-26-157915-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T11:33:04.970644+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IPALCO ENTERPRISES, INC. (0000728391) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/728391/000072839126000009/0000728391-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T11:33:04.970650+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MeiraGTx Holdings plc (0001735438) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1735438/000110465926044025/0001104659-26-044025-index.htm"
+  },
+  {
     "time_utc": "2026-04-16T10:15:58.095269+00:00",
     "region": "US",
     "source": "SEC",

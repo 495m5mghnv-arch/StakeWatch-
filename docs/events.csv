@@ -1,4 +1,13 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-04-16T11:33:04.970544+00:00,US,SEC,8-K,,,,"8-K - Rivulet Entertainment, Inc. (0001342936) (Filer)",https://www.sec.gov/Archives/edgar/data/1342936/000149315226016972/0001493152-26-016972-index.htm
+2026-04-16T11:33:04.970558+00:00,US,SEC,8-K,,,,"8-K - Soluna Holdings, Inc (0000064463) (Filer)",https://www.sec.gov/Archives/edgar/data/64463/000149315226016971/0001493152-26-016971-index.htm
+2026-04-16T11:33:04.970564+00:00,US,SEC,8-K,,,,8-K - XMax Inc. (0001473334) (Filer),https://www.sec.gov/Archives/edgar/data/1473334/000149315226016970/0001493152-26-016970-index.htm
+2026-04-16T11:33:04.970573+00:00,US,SEC,8-K,,,,8-K - ManpowerGroup Inc. (0000871763) (Filer),https://www.sec.gov/Archives/edgar/data/871763/000119312526157932/0001193125-26-157932-index.htm
+2026-04-16T11:33:04.970618+00:00,US,SEC,8-K,,,,8-K - MeiraGTx Holdings plc (0001735438) (Filer),https://www.sec.gov/Archives/edgar/data/1735438/000110465926044028/0001104659-26-044028-index.htm
+2026-04-16T11:33:04.970622+00:00,US,SEC,8-K,,,,8-K - DAYTON POWER & LIGHT CO (0000027430) (Filer),https://www.sec.gov/Archives/edgar/data/27430/000002743026000014/0000027430-26-000014-index.htm
+2026-04-16T11:33:04.970633+00:00,US,SEC,8-K,,,,"8-K - Lumen Technologies, Inc. (0000018926) (Filer)",https://www.sec.gov/Archives/edgar/data/18926/000119312526157915/0001193125-26-157915-index.htm
+2026-04-16T11:33:04.970644+00:00,US,SEC,8-K,,,,"8-K - IPALCO ENTERPRISES, INC. (0000728391) (Filer)",https://www.sec.gov/Archives/edgar/data/728391/000072839126000009/0000728391-26-000009-index.htm
+2026-04-16T11:33:04.970650+00:00,US,SEC,8-K,,,,8-K - MeiraGTx Holdings plc (0001735438) (Filer),https://www.sec.gov/Archives/edgar/data/1735438/000110465926044025/0001104659-26-044025-index.htm
 2026-04-16T10:15:58.095269+00:00,US,SEC,8-K,,,,"8-K - Global Net Lease, Inc. (0001526113) (Filer)",https://www.sec.gov/Archives/edgar/data/1526113/000110465926043986/0001104659-26-043986-index.htm
 2026-04-16T10:15:58.095297+00:00,US,SEC,8-K,,,,"8-K - Katapult Holdings, Inc. (0001785424) (Filer)",https://www.sec.gov/Archives/edgar/data/1785424/000095010326005778/0000950103-26-005778-index.htm
 2026-04-16T10:15:58.095361+00:00,US,SEC,8-K,,,,"8-K - CareDx, Inc. (0001217234) (Filer)",https://www.sec.gov/Archives/edgar/data/1217234/000110465926043970/0001104659-26-043970-index.htm
