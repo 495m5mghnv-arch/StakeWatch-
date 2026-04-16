@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-04-16T10:15:58.095269+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Global Net Lease, Inc. (0001526113) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926043986/0001104659-26-043986-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T10:15:58.095297+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Katapult Holdings, Inc. (0001785424) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1785424/000095010326005778/0000950103-26-005778-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T10:15:58.095361+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CareDx, Inc. (0001217234) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1217234/000110465926043970/0001104659-26-043970-index.htm"
+  },
+  {
     "time_utc": "2026-04-15T21:09:09.374786+00:00",
     "region": "US",
     "source": "SEC",
