@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-04-16T16:08:03.119315+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PEPCO HOLDINGS LLC (0001135971) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1135971/000110935726000046/0001109357-26-000046-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T16:08:03.119331+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EXELON CORP (0001109357) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1109357/000110935726000046/0001109357-26-000046-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T16:08:03.119337+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - POTOMAC ELECTRIC POWER CO (0000079732) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/79732/000110935726000046/0001109357-26-000046-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T16:08:03.119342+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PECO ENERGY CO (0000078100) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/78100/000110935726000046/0001109357-26-000046-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T16:08:03.119347+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DELMARVA POWER & LIGHT CO /DE/ (0000027879) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/27879/000110935726000046/0001109357-26-000046-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T16:08:03.119351+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BALTIMORE GAS & ELECTRIC CO (0000009466) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/9466/000110935726000046/0001109357-26-000046-index.htm"
+  },
+  {
+    "time_utc": "2026-04-16T16:08:03.119404+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - STAR GROUP, L.P. (0001002590) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1002590/000117184326002508/0001171843-26-002508-index.htm"
+  },
+  {
     "time_utc": "2026-04-16T12:46:48.139445+00:00",
     "region": "US",
     "source": "SEC",
