@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-16T20:59:40.475865+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INTERNATIONAL BATTERY METALS LTD. (0001786318) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1786318/000119312526159235/0001193125-26-159235-index.htm"
+  },
+  {
     "time_utc": "2026-04-16T19:59:29.143109+00:00",
     "region": "US",
     "source": "SEC",
