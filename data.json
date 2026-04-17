@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-17T10:21:55.413899+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AUTOLIV INC (0001034670) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1034670/000119312526160203/0001193125-26-160203-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T10:21:55.413969+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - REGIONS FINANCIAL CORP (0001281761) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1281761/000128176126000032/0001281761-26-000032-index.htm"
+  },
+  {
     "time_utc": "2026-04-16T20:59:40.475865+00:00",
     "region": "US",
     "source": "SEC",
