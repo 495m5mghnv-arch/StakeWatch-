@@ -1,5 +1,104 @@
 [
   {
+    "time_utc": "2026-04-17T12:38:42.412563+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Lumen Technologies, Inc. (0000018926) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/18926/000001892626000029/0000018926-26-000029-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T12:38:42.412581+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nauticus Robotics, Inc. (0001849820) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1849820/000184982026000057/0001849820-26-000057-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T12:38:42.412590+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CHEMUNG FINANCIAL CORP (0000763563) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/763563/000117184326002529/0001171843-26-002529-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T12:38:42.412609+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PARKE BANCORP, INC. (0001315399) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1315399/000143774926012624/0001437749-26-012624-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T12:38:42.412613+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BADGER METER INC (0000009092) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/9092/000119312526160389/0001193125-26-160389-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T12:38:42.412620+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PureCycle Technologies, Inc. (0001830033) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1830033/000183003326000007/0001830033-26-000007-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T12:38:42.412627+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Vaxart, Inc. (0000072444) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/72444/000143774926012623/0001437749-26-012623-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T12:38:42.412632+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tri Pointe Homes, Inc. (0001561680) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1561680/000119312526160387/0001193125-26-160387-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T12:38:42.412648+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DANAHER CORP /DE/ (0000313616) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/313616/000119312526160383/0001193125-26-160383-index.htm"
+  },
+  {
     "time_utc": "2026-04-17T11:30:14.042756+00:00",
     "region": "US",
     "source": "SEC",
