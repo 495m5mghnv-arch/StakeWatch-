@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-04-17T11:30:14.042756+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Global Interactive Technologies, Inc. (0001911545) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1911545/000149315226017155/0001493152-26-017155-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T11:30:14.042777+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ACM Research, Inc. (0001680062) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1680062/000162828026025599/0001628280-26-025599-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T11:30:14.042801+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Compass, Inc. (0001563190) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1563190/000156319026000089/0001563190-26-000089-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T11:30:14.042807+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KUSTOM ENTERTAINMENT, INC. (0001342958) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1342958/000149315226017152/0001493152-26-017152-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T11:30:14.042811+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ally Financial Inc. (0000040729) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/40729/000119312526160281/0001193125-26-160281-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T11:30:14.042818+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ROCKWELL AUTOMATION, INC (0001024478) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1024478/000102447826000014/0001024478-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T11:30:14.042822+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - QVC INC (0001254699) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1254699/000110465926044600/0001104659-26-044600-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T11:30:14.042869+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TRUIST FINANCIAL CORP (0000092230) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000039/0000092230-26-000039-index.htm"
+  },
+  {
     "time_utc": "2026-04-17T10:21:55.413899+00:00",
     "region": "US",
     "source": "SEC",
