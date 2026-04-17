@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-04-17T20:06:36.496755+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LIXTE BIOTECHNOLOGY HOLDINGS, INC. (0001335105) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1335105/000149315226017833/0001493152-26-017833-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T20:06:36.496778+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TopBuild Corp (0001633931) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1633931/000110465926044899/0001104659-26-044899-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T20:06:36.496786+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sizzle Acquisition Corp. II (0002030663) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026045154/0001213900-26-045154-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T20:06:36.496795+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SUMISHO AIR LEASE CORP (0001487712) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1487712/000119312526161515/0001193125-26-161515-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T20:06:36.496808+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Zeo Energy Corp. (0001865506) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1865506/000121390026045152/0001213900-26-045152-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T20:06:36.496813+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1895249/000110465926044897/0001104659-26-044897-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T20:06:36.496821+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Volato Group, Inc. (0001853070) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226017829/0001493152-26-017829-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T20:06:36.496825+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - REED'S, INC. (0001140215) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1140215/000149315226017828/0001493152-26-017828-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T20:06:36.496831+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Brookfield Asset Management Ltd. (0001937926) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1937926/000110465926044893/0001104659-26-044893-index.htm"
+  },
+  {
+    "time_utc": "2026-04-17T20:06:36.496834+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Madison Air Solutions Corp (0002098430) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2098430/000119312526161509/0001193125-26-161509-index.htm"
+  },
+  {
     "time_utc": "2026-04-17T19:19:22.589793+00:00",
     "region": "US",
     "source": "SEC",
