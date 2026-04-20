@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-20T20:30:14.170669+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Westrock Coffee Co (0001806347) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1806347/000110465926045523/0001104659-26-045523-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T20:30:14.170710+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Allegiant Travel CO (0001362468) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1362468/000114036126015676/0001140361-26-015676-index.htm"
+  },
+  {
     "time_utc": "2026-04-20T19:44:45.886442+00:00",
     "region": "US",
     "source": "SEC",
