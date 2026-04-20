@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-04-20T12:54:31.700410+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sila Realty Trust, Inc. (0001567925) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1567925/000114036126015496/0001140361-26-015496-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T12:54:31.700427+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - YHN Acquisition I Ltd (0002020987) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2020987/000168316826003067/0001683168-26-003067-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T12:54:31.700440+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226018015/0001493152-26-018015-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T12:54:31.700465+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Worksport Ltd (0001096275) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226018013/0001493152-26-018013-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T12:54:31.700470+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AST SpaceMobile, Inc. (0001780312) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226018012/0001493152-26-018012-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T12:54:31.700474+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BIO KEY INTERNATIONAL INC (0001019034) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1019034/000143774926012772/0001437749-26-012772-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T12:54:31.700483+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bristow Group Inc. (0001525221) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1525221/000152522126000068/0001525221-26-000068-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T12:54:31.700490+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Virgin Galactic Holdings, Inc (0001706946) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1706946/000170694626000032/0001706946-26-000032-index.htm"
+  },
+  {
     "time_utc": "2026-04-20T11:45:48.031004+00:00",
     "region": "US",
     "source": "SEC",
