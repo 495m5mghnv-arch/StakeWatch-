@@ -1,4 +1,9 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-04-20T10:15:48.803810+00:00,US,SEC,8-K,,,,"8-K - GLOBAL TECH INDUSTRIES GROUP, INC. (0000356590) (Filer)",https://www.sec.gov/Archives/edgar/data/356590/000149315226017979/0001493152-26-017979-index.htm
+2026-04-20T10:15:48.803829+00:00,US,SEC,8-K,,,,"8-K - QXO, Inc. (0001236275) (Filer)",https://www.sec.gov/Archives/edgar/data/1236275/000110465926045111/0001104659-26-045111-index.htm
+2026-04-20T10:15:48.803852+00:00,US,SEC,8-K,,,,"8-K - Perspective Therapeutics, Inc. (0000728387) (Filer)",https://www.sec.gov/Archives/edgar/data/728387/000119312526162578/0001193125-26-162578-index.htm
+2026-04-20T10:15:48.803860+00:00,US,SEC,8-K,,,,8-K - Investar Holding Corp (0001602658) (Filer),https://www.sec.gov/Archives/edgar/data/1602658/000143774926012741/0001437749-26-012741-index.htm
+2026-04-20T10:15:48.803870+00:00,US,SEC,8-K,,,,8-K - NEWS CORP (0001564708) (Filer),https://www.sec.gov/Archives/edgar/data/1564708/000156470826000081/0001564708-26-000081-index.htm
 2026-04-17T21:01:28.152401+00:00,US,SEC,8-K,,,,"8-K - BioXcel Therapeutics, Inc. (0001720893) (Filer)",https://www.sec.gov/Archives/edgar/data/1720893/000110465926044952/0001104659-26-044952-index.htm
 2026-04-17T21:01:28.152421+00:00,US,SEC,8-K,,,,8-K - Bayview Acquisition Corp (0001969475) (Filer),https://www.sec.gov/Archives/edgar/data/1969475/000149315226017906/0001493152-26-017906-index.htm
 2026-04-17T21:01:28.152428+00:00,US,SEC,8-K,,,,"8-K - Earth Science Tech, Inc. (0001538495) (Filer)",https://www.sec.gov/Archives/edgar/data/1538495/000149315226017907/0001493152-26-017907-index.htm

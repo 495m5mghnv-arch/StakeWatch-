@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-04-20T10:15:48.803810+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GLOBAL TECH INDUSTRIES GROUP, INC. (0000356590) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/356590/000149315226017979/0001493152-26-017979-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T10:15:48.803829+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - QXO, Inc. (0001236275) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1236275/000110465926045111/0001104659-26-045111-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T10:15:48.803852+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Perspective Therapeutics, Inc. (0000728387) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/728387/000119312526162578/0001193125-26-162578-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T10:15:48.803860+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Investar Holding Corp (0001602658) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1602658/000143774926012741/0001437749-26-012741-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T10:15:48.803870+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEWS CORP (0001564708) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000081/0001564708-26-000081-index.htm"
+  },
+  {
     "time_utc": "2026-04-17T21:01:28.152401+00:00",
     "region": "US",
     "source": "SEC",
