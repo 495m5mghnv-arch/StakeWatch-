@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-20T18:39:30.856475+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - 1 800 FLOWERS COM INC (0001084869) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1084869/000108486926000009/0001084869-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-04-20T18:39:30.856518+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEXT-ChemX Corporation. (0001657045) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1657045/000149315226018063/0001493152-26-018063-index.htm"
+  },
+  {
     "time_utc": "2026-04-20T12:54:31.700410+00:00",
     "region": "US",
     "source": "SEC",
