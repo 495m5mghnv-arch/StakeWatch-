@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-21T18:42:27.356944+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ENIGMA-BULWARK, LTD (0001379245) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1379245/000137924526000008/0001379245-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-04-21T18:42:27.356974+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - APEX Tech Acquisition Inc. (0002085485) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2085485/000147793226002443/0001477932-26-002443-index.htm"
+  },
+  {
     "time_utc": "2026-04-21T17:31:23.486792+00:00",
     "region": "US",
     "source": "SEC",
