@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-04-22T10:20:24.581659+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Taylor Morrison Home Corp (0001562476) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1562476/000119312526168218/0001193125-26-168218-index.htm"
+  },
+  {
+    "time_utc": "2026-04-22T10:20:24.581690+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Brand Engagement Network Inc. (0001838163) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1838163/000149315226018419/0001493152-26-018419-index.htm"
+  },
+  {
+    "time_utc": "2026-04-22T10:20:24.581703+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TE Connectivity plc (0001385157) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1385157/000110465926046285/0001104659-26-046285-index.htm"
+  },
+  {
+    "time_utc": "2026-04-22T10:20:24.581708+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Otis Worldwide Corp (0001781335) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000072/0001781335-26-000072-index.htm"
+  },
+  {
     "time_utc": "2026-04-21T20:54:23.747948+00:00",
     "region": "US",
     "source": "SEC",
