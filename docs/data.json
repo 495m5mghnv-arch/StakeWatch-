@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-22T19:42:05.775939+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SB FINANCIAL GROUP, INC. (0000767405) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/767405/000121390026046586/0001213900-26-046586-index.htm"
+  },
+  {
     "time_utc": "2026-04-22T18:11:20.954222+00:00",
     "region": "US",
     "source": "SEC",
@@ -21927,11 +21938,5 @@
     "form": "8-K",
     "title": "8-K - PHOTRONICS INC (0000810136) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/810136/000114036126001053/0001140361-26-001053-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - Worksport Ltd (0001096275) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226001956/0001493152-26-001956-index.htm"
   }
 ]
