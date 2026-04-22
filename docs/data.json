@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-04-22T20:38:13.359883+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - YORK WATER CO (0000108985) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/108985/000114036126016137/0001140361-26-016137-index.htm"
+  },
+  {
+    "time_utc": "2026-04-22T20:38:13.359909+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WEX Inc. (0001309108) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1309108/000130910826000014/0001309108-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-04-22T20:38:13.359923+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CACI INTERNATIONAL INC /DE/ (0000016058) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/16058/000162828026026589/0001628280-26-026589-index.htm"
+  },
+  {
+    "time_utc": "2026-04-22T20:38:13.359946+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - High Roller Technologies, Inc. (0001947210) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1947210/000175392626000704/0001753926-26-000704-index.htm"
+  },
+  {
     "time_utc": "2026-04-22T19:42:05.775939+00:00",
     "region": "US",
     "source": "SEC",
@@ -21914,29 +21958,5 @@
     "form": "8-K",
     "title": "8-K - AVITA Medical, Inc. (0001762303) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1762303/000119312526011167/0001193125-26-011167-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - PureCycle Technologies, Inc. (0001830033) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1830033/000119312526011168/0001193125-26-011168-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - Nukkleus Inc. (0001787518) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026003686/0001213900-26-003686-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - Expion360 Inc. (0001894954) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000008/0001903596-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - PHOTRONICS INC (0000810136) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/810136/000114036126001053/0001140361-26-001053-index.htm"
   }
 ]
