@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-22T17:02:22.226485+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SB FINANCIAL GROUP, INC. (0000767405) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/767405/000121390026046506/0001213900-26-046506-index.htm"
+  },
+  {
+    "time_utc": "2026-04-22T17:02:22.226537+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AIRWA INC. (0001674440) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1674440/000149315226018493/0001493152-26-018493-index.htm"
+  },
+  {
     "time_utc": "2026-04-22T15:53:44.413517+00:00",
     "region": "US",
     "source": "SEC",
@@ -21901,17 +21923,5 @@
     "form": "8-K",
     "title": "8-K - TruGolf Holdings, Inc. (0001857086) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226001958/0001493152-26-001958-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - Pelthos Therapeutics Inc. (0001919246) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1919246/000175392626000097/0001753926-26-000097-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - IDEXX LABORATORIES INC /DE (0000874716) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/874716/000110465926003103/0001104659-26-003103-index.htm"
   }
 ]
