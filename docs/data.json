@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-22T18:11:20.954222+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - First Guaranty Bancshares, Inc. (0001408534) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1408534/000140853426000027/0001408534-26-000027-index.htm"
+  },
+  {
+    "time_utc": "2026-04-22T18:11:20.954252+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NVR INC (0000906163) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000034/0000906163-26-000034-index.htm"
+  },
+  {
     "time_utc": "2026-04-22T17:02:22.226485+00:00",
     "region": "US",
     "source": "SEC",
@@ -21911,17 +21933,5 @@
     "form": "8-K",
     "title": "8-K - Worksport Ltd (0001096275) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226001956/0001493152-26-001956-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - Beeline Holdings, Inc. (0001534708) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1534708/000149315226001957/0001493152-26-001957-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - TruGolf Holdings, Inc. (0001857086) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226001958/0001493152-26-001958-index.htm"
   }
 ]
