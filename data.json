@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-04-22T12:43:35.760670+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Apollo Commercial Real Estate Finance, Inc. (0001467760) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1467760/000119312526168732/0001193125-26-168732-index.htm"
+  },
+  {
+    "time_utc": "2026-04-22T12:43:35.760699+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Microbot Medical Inc. (0000883975) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/883975/000149315226018453/0001493152-26-018453-index.htm"
+  },
+  {
+    "time_utc": "2026-04-22T12:43:35.760706+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HeartCore Enterprises, Inc. (0001892322) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1892322/000149315226018452/0001493152-26-018452-index.htm"
+  },
+  {
+    "time_utc": "2026-04-22T12:43:35.760715+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMERISAFE INC (0001018979) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1018979/000119312526168712/0001193125-26-168712-index.htm"
+  },
+  {
     "time_utc": "2026-04-22T11:37:18.254149+00:00",
     "region": "US",
     "source": "SEC",
@@ -21859,29 +21903,5 @@
     "form": "8-K",
     "title": "8-K - SS Innovations International, Inc. (0001676163) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1676163/000121390026003688/0001213900-26-003688-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - AUDIOEYE INC (0001362190) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1362190/000110465926003108/0001104659-26-003108-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - NLIGHT, INC. (0001124796) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1124796/000112479626000006/0001124796-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - Trump Media & Technology Group Corp. (0001849635) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1849635/000114036126001056/0001140361-26-001056-index.htm"
-  },
-  {
-    "time_utc": "2026-01-13T13:54:29.014456+00:00",
-    "form": "8-K",
-    "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000007/0001331754-26-000007-index.htm"
   }
 ]
