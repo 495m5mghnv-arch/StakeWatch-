@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-23T17:43:46.155750+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GORMAN RUPP CO (0000042682) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/42682/000119312526173014/0001193125-26-173014-index.htm"
+  },
+  {
     "time_utc": "2026-04-23T16:07:50.141633+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Sana Biotechnology, Inc. (0001770121) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1770121/000119312526012664/0001193125-26-012664-index.htm"
-  },
-  {
-    "time_utc": "2026-01-14T17:54:17.648875+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Nexscient, Inc. (0001976663) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1976663/000147793226000196/0001477932-26-000196-index.htm"
   }
 ]
