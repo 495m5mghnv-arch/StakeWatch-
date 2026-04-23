@@ -1,4 +1,6 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-04-23T20:59:41.508872+00:00,US,SEC,8-K,,,,"8-K - DigitalBridge Group, Inc. (0001679688) (Filer)",https://www.sec.gov/Archives/edgar/data/1679688/000110465926047803/0001104659-26-047803-index.htm
+2026-04-23T20:59:41.508917+00:00,US,SEC,8-K,,,,8-K - Blue Owl Credit Income Corp. (0001812554) (Filer),https://www.sec.gov/Archives/edgar/data/1812554/000181255426000017/0001812554-26-000017-index.htm
 2026-04-23T18:47:09.963598+00:00,US,SEC,8-K,,,,8-K - Citigroup Commercial Mortgage Trust 2015-GC33 (0001651588) (Filer),https://www.sec.gov/Archives/edgar/data/1651588/000119312526173283/0001193125-26-173283-index.htm
 2026-04-23T17:43:46.155750+00:00,US,SEC,8-K,,,,8-K - GORMAN RUPP CO (0000042682) (Filer),https://www.sec.gov/Archives/edgar/data/42682/000119312526173014/0001193125-26-173014-index.htm
 2026-04-23T16:07:50.141633+00:00,US,SEC,8-K,,,,8-K - Graphene & Solar Technologies Ltd (0001497649) (Filer),https://www.sec.gov/Archives/edgar/data/1497649/000190359626000163/0001903596-26-000163-index.htm
@@ -1997,5 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-01-14T21:56:59.883497+00:00,US,SEC,8-K,,,,8-K - FIRST CITIZENS BANCSHARES INC /DE/ (0000798941) (Filer),https://www.sec.gov/Archives/edgar/data/798941/000079894126000007/0000798941-26-000007-index.htm
 2026-01-14T21:56:59.883552+00:00,US,SEC,8-K,,,,"8-K - Orchid Island Capital, Inc. (0001518621) (Filer)",https://www.sec.gov/Archives/edgar/data/1518621/000143774926001277/0001437749-26-001277-index.htm
 2026-01-14T21:56:59.883558+00:00,US,SEC,8-K,,,,8-K - Rainmaker Worldwide Inc. (0001872292) (Filer),https://www.sec.gov/Archives/edgar/data/1872292/000149315226002277/0001493152-26-002277-index.htm
-2026-01-14T19:50:36.119930+00:00,US,SEC,8-K,,,,"8-K - CNL Healthcare Properties, Inc. (0001496454) (Filer)",https://www.sec.gov/Archives/edgar/data/1496454/000119312526012803/0001193125-26-012803-index.htm
-2026-01-14T18:59:49.048621+00:00,US,SEC,8-K,,,,8-K - NOVAGOLD RESOURCES INC (0001173420) (Filer),https://www.sec.gov/Archives/edgar/data/1173420/000117184326000254/0001171843-26-000254-index.htm

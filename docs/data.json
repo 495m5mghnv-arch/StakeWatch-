@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-23T20:59:41.508872+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DigitalBridge Group, Inc. (0001679688) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1679688/000110465926047803/0001104659-26-047803-index.htm"
+  },
+  {
+    "time_utc": "2026-04-23T20:59:41.508917+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blue Owl Credit Income Corp. (0001812554) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1812554/000181255426000017/0001812554-26-000017-index.htm"
+  },
+  {
     "time_utc": "2026-04-23T18:47:09.963598+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Rainmaker Worldwide Inc. (0001872292) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226002277/0001493152-26-002277-index.htm"
-  },
-  {
-    "time_utc": "2026-01-14T19:50:36.119930+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CNL Healthcare Properties, Inc. (0001496454) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1496454/000119312526012803/0001193125-26-012803-index.htm"
-  },
-  {
-    "time_utc": "2026-01-14T18:59:49.048621+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NOVAGOLD RESOURCES INC (0001173420) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1173420/000117184326000254/0001171843-26-000254-index.htm"
   }
 ]
