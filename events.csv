@@ -1,4 +1,17 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-04-23T11:09:55.973772+00:00,US,SEC,8-K,,,,8-K - COMCAST CORP (0001166691) (Filer),https://www.sec.gov/Archives/edgar/data/1166691/000162828026026685/0001628280-26-026685-index.htm
+2026-04-23T11:09:55.973799+00:00,US,SEC,8-K,,,,8-K - VALLEY NATIONAL BANCORP (0000714310) (Filer),https://www.sec.gov/Archives/edgar/data/714310/000071431026000020/0000714310-26-000020-index.htm
+2026-04-23T11:09:55.973812+00:00,US,SEC,8-K,,,,8-K - ALTISOURCE PORTFOLIO SOLUTIONS S.A. (0001462418) (Filer),https://www.sec.gov/Archives/edgar/data/1462418/000146241826000032/0001462418-26-000032-index.htm
+2026-04-23T11:09:55.973835+00:00,US,SEC,8-K,,,,8-K - VISTEON CORP (0001111335) (Filer),https://www.sec.gov/Archives/edgar/data/1111335/000111133526000015/0001111335-26-000015-index.htm
+2026-04-23T11:09:55.973847+00:00,US,SEC,8-K,,,,8-K - ROPER TECHNOLOGIES INC (0000882835) (Filer),https://www.sec.gov/Archives/edgar/data/882835/000088283526000015/0000882835-26-000015-index.htm
+2026-04-23T11:09:55.973853+00:00,US,SEC,8-K,,,,8-K - Keurig Dr Pepper Inc. (0001418135) (Filer),https://www.sec.gov/Archives/edgar/data/1418135/000141813526000020/0001418135-26-000020-index.htm
+2026-04-23T11:09:55.973860+00:00,US,SEC,8-K,,,,8-K - American Airlines Group Inc. (0000006201) (Filer),https://www.sec.gov/Archives/edgar/data/6201/000000620126000031/0000006201-26-000031-index.htm
+2026-04-23T11:09:55.973865+00:00,US,SEC,8-K,,,,"8-K - AMERICAN AIRLINES, INC. (0000004515) (Filer)",https://www.sec.gov/Archives/edgar/data/4515/000000620126000031/0000006201-26-000031-index.htm
+2026-04-23T11:09:55.973874+00:00,US,SEC,8-K,,,,"8-K - CBRE GROUP, INC. (0001138118) (Filer)",https://www.sec.gov/Archives/edgar/data/1138118/000113811826000013/0001138118-26-000013-index.htm
+2026-04-23T11:09:55.973882+00:00,US,SEC,8-K,,,,8-K - Iridium Communications Inc. (0001418819) (Filer),https://www.sec.gov/Archives/edgar/data/1418819/000141881926000027/0001418819-26-000027-index.htm
+2026-04-23T11:09:55.973887+00:00,US,SEC,8-K,,,,8-K - AMERICAN EXPRESS CO (0000004962) (Filer),https://www.sec.gov/Archives/edgar/data/4962/000000496226000188/0000004962-26-000188-index.htm
+2026-04-23T11:09:55.973891+00:00,US,SEC,8-K,,,,"8-K - HASBRO, INC. (0000046080) (Filer)",https://www.sec.gov/Archives/edgar/data/46080/000004608026000016/0000046080-26-000016-index.htm
+2026-04-23T11:09:55.973898+00:00,US,SEC,8-K,,,,"8-K - POPULAR, INC. (0000763901) (Filer)",https://www.sec.gov/Archives/edgar/data/763901/000119312526171797/0001193125-26-171797-index.htm
 2026-04-22T21:35:26.917878+00:00,US,SEC,8-K,,,,8-K - Constellation Acquisition Corp I (0001834032) (Filer),https://www.sec.gov/Archives/edgar/data/1834032/000121390026046717/0001213900-26-046717-index.htm
 2026-04-22T21:35:26.917922+00:00,US,SEC,8-K,,,,"8-K - Essential Utilities, Inc. (0000078128) (Filer)",https://www.sec.gov/Archives/edgar/data/78128/000155278126000266/0001552781-26-000266-index.htm
 2026-04-22T21:35:26.917955+00:00,US,SEC,8-K,,,,"8-K - OSR Holdings, Inc. (0001840425) (Filer)",https://www.sec.gov/Archives/edgar/data/1840425/000121390026046711/0001213900-26-046711-index.htm
@@ -1986,16 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-01-14T11:40:15.176130+00:00,US,SEC,8-K,,,,8-K - SemiLEDs Corp (0001333822) (Filer),https://www.sec.gov/Archives/edgar/data/1333822/000119312526012216/0001193125-26-012216-index.htm
 2026-01-14T11:40:15.176140+00:00,US,SEC,8-K,,,,"8-K - Funko, Inc. (0001704711) (Filer)",https://www.sec.gov/Archives/edgar/data/1704711/000119312526012212/0001193125-26-012212-index.htm
 2026-01-14T11:40:15.176145+00:00,US,SEC,8-K,,,,8-K - Playtika Holding Corp. (0001828016) (Filer),https://www.sec.gov/Archives/edgar/data/1828016/000182801626000003/0001828016-26-000003-index.htm
-2026-01-14T11:40:15.176149+00:00,US,SEC,8-K,,,,"8-K - SharonAI Holdings, Inc. (0002068385) (Filer)",https://www.sec.gov/Archives/edgar/data/2068385/000182912626000288/0001829126-26-000288-index.htm
-2026-01-13T21:56:15.843172+00:00,US,SEC,8-K,,,,8-K - SLM Student Loan Trust 2004-10 (0001321769) (Filer),https://www.sec.gov/Archives/edgar/data/1321769/000114036126001107/0001140361-26-001107-index.htm
-2026-01-13T21:56:15.843189+00:00,US,SEC,8-K,,,,"8-K - CG Oncology, Inc. (0001991792) (Filer)",https://www.sec.gov/Archives/edgar/data/1991792/000119312526011855/0001193125-26-011855-index.htm
-2026-01-13T21:56:15.843220+00:00,US,SEC,8-K,,,,8-K - SLM Student Loan Trust 2004-1 (0001321766) (Filer),https://www.sec.gov/Archives/edgar/data/1321766/000114036126001105/0001140361-26-001105-index.htm
-2026-01-13T21:45:46.724506+00:00,US,SEC,8-K,,,,8-K - Mountain Lake Acquisition Corp. (0002029492) (Filer),https://www.sec.gov/Archives/edgar/data/2029492/000121390026003955/0001213900-26-003955-index.htm
-2026-01-13T21:45:46.724559+00:00,US,SEC,8-K,,,,"8-K - AVIAT NETWORKS, INC. (0001377789) (Filer)",https://www.sec.gov/Archives/edgar/data/1377789/000162828026001978/0001628280-26-001978-index.htm
-2026-01-13T21:45:46.724612+00:00,US,SEC,8-K,,,,"8-K - Guardian Pharmacy Services, Inc. (0001802255) (Filer)",https://www.sec.gov/Archives/edgar/data/1802255/000119312526011826/0001193125-26-011826-index.htm
-2026-01-13T21:00:43.451362+00:00,US,SEC,8-K,,,,8-K - ACADIA PHARMACEUTICALS INC (0001070494) (Filer),https://www.sec.gov/Archives/edgar/data/1070494/000119312526011706/0001193125-26-011706-index.htm
-2026-01-13T19:34:15.770856+00:00,,,,,,,8-K - LAKELAND FINANCIAL CORP (0000721994) (Filer),https://www.sec.gov/Archives/edgar/data/721994/000072199426000003/0000721994-26-000003-index.htm
-2026-01-13T18:58:57.426311+00:00,,,,,,,8-K - Federal Home Loan Bank of New York (0001329842) (Filer),https://www.sec.gov/Archives/edgar/data/1329842/000165495426000328/0001654954-26-000328-index.htm
-2026-01-13T17:54:48.847551+00:00,,,,,,,8-K - FIVE STAR BANCORP (0001275168) (Filer),https://www.sec.gov/Archives/edgar/data/1275168/000162828026001931/0001628280-26-001931-index.htm
-2026-01-13T17:54:48.847551+00:00,,,,,,,8-K - JONES FINANCIAL COMPANIES LLLP (0000815917) (Filer),https://www.sec.gov/Archives/edgar/data/815917/000119312526011396/0001193125-26-011396-index.htm
-2026-01-13T15:53:46.356367+00:00,,,,,,,"8-K - RCI HOSPITALITY HOLDINGS, INC. (0000935419) (Filer)",https://www.sec.gov/Archives/edgar/data/935419/000162828026001922/0001628280-26-001922-index.htm
