@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-04-23T16:07:50.141633+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Graphene & Solar Technologies Ltd (0001497649) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1497649/000190359626000163/0001903596-26-000163-index.htm"
+  },
+  {
+    "time_utc": "2026-04-23T16:07:50.141654+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000077/0001331451-26-000077-index.htm"
+  },
+  {
+    "time_utc": "2026-04-23T16:07:50.141668+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Columbia Financial, Inc. (0001723596) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1723596/000172359626000015/0001723596-26-000015-index.htm"
+  },
+  {
+    "time_utc": "2026-04-23T16:07:50.141690+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TRAVELZOO (0001133311) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1133311/000113331126000009/0001133311-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-04-23T16:07:50.141713+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000061/0001325814-26-000061-index.htm"
+  },
+  {
     "time_utc": "2026-04-23T14:10:01.032338+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Nexscient, Inc. (0001976663) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1976663/000147793226000196/0001477932-26-000196-index.htm"
-  },
-  {
-    "time_utc": "2026-01-14T15:47:39.361629+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Future FinTech Group Inc. (0001066923) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1066923/000121390026004240/0001213900-26-004240-index.htm"
-  },
-  {
-    "time_utc": "2026-01-14T14:56:28.080492+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - IF Bancorp, Inc. (0001514743) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1514743/000094337426000011/0000943374-26-000011-index.htm"
-  },
-  {
-    "time_utc": "2026-01-14T13:53:47.043755+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ARMSTRONG WORLD INDUSTRIES INC (0000007431) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/7431/000119312526012306/0001193125-26-012306-index.htm"
-  },
-  {
-    "time_utc": "2026-01-14T13:53:47.043794+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ImmunityBio, Inc. (0001326110) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000004/0001326110-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-01-14T13:53:47.043813+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - LivaNova PLC (0001639691) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1639691/000163969126000002/0001639691-26-000002-index.htm"
   }
 ]
