@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-04-23T14:10:01.032338+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MUNCY COLUMBIA FINANCIAL Corp (0000731122) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/731122/000117494726000503/0001174947-26-000503-index.htm"
+  },
+  {
     "time_utc": "2026-04-23T12:08:46.637474+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - LivaNova PLC (0001639691) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1639691/000163969126000002/0001639691-26-000002-index.htm"
-  },
-  {
-    "time_utc": "2026-01-14T13:53:47.043819+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CLOVER HEALTH INVESTMENTS, CORP. /DE (0001801170) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1801170/000180117026000020/0001801170-26-000020-index.htm"
   }
 ]
