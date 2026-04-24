@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-04-24T12:41:19.900196+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MeiraGTx Holdings plc (0001735438) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1735438/000110465926048196/0001104659-26-048196-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T12:41:19.900225+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OptimumBank Holdings, Inc. (0001288855) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1288855/000149315226018855/0001493152-26-018855-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T12:41:19.900235+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IMMERSION CORP (0001058811) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1058811/000119312526175250/0001193125-26-175250-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T12:41:19.900240+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Jushi Holdings Inc. (0001909747) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1909747/000117184326002693/0001171843-26-002693-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T12:41:19.900250+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ITRON, INC. (0000780571) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/780571/000119312526175249/0001193125-26-175249-index.htm"
+  },
+  {
     "time_utc": "2026-04-24T11:34:12.692267+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Aspire Biopharma Holdings, Inc. (0001847345) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1847345/000149315226002326/0001493152-26-002326-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T11:38:36.378733+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - VAALCO ENERGY INC /DE/ (0000894627) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/894627/000089462726000002/0000894627-26-000002-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T11:38:36.378770+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000149315226002315/0001493152-26-002315-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T11:38:36.378776+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Compass Diversified Holdings (0001345126) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1345126/000134512626000014/0001345126-26-000014-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T11:38:36.378780+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Compass Group Diversified Holdings LLC (0001345122) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1345122/000134512626000014/0001345126-26-000014-index.htm"
-  },
-  {
-    "time_utc": "2026-01-14T21:56:59.883497+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FIRST CITIZENS BANCSHARES INC /DE/ (0000798941) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/798941/000079894126000007/0000798941-26-000007-index.htm"
   }
 ]
