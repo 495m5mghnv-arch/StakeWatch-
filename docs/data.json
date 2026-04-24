@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-24T11:34:12.692267+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SLB LIMITED/NV (0000087347) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/87347/000119312526174940/0001193125-26-174940-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T11:34:12.692292+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HCA Healthcare, Inc. (0000860730) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/860730/000119312526174933/0001193125-26-174933-index.htm"
+  },
+  {
     "time_utc": "2026-04-23T20:59:41.508872+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - FIRST CITIZENS BANCSHARES INC /DE/ (0000798941) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/798941/000079894126000007/0000798941-26-000007-index.htm"
-  },
-  {
-    "time_utc": "2026-01-14T21:56:59.883552+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Orchid Island Capital, Inc. (0001518621) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1518621/000143774926001277/0001437749-26-001277-index.htm"
-  },
-  {
-    "time_utc": "2026-01-14T21:56:59.883558+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Rainmaker Worldwide Inc. (0001872292) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226002277/0001493152-26-002277-index.htm"
   }
 ]
