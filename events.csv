@@ -1,4 +1,7 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-04-24T20:27:03.916622+00:00,US,SEC,8-K,,,,"8-K - BV Financial, Inc. (0001302387) (Filer)",https://www.sec.gov/Archives/edgar/data/1302387/000119312526177364/0001193125-26-177364-index.htm
+2026-04-24T20:27:03.916661+00:00,US,SEC,8-K,,,,"8-K - BEYOND MEAT, INC. (0001655210) (Filer)",https://www.sec.gov/Archives/edgar/data/1655210/000165521026000029/0001655210-26-000029-index.htm
+2026-04-24T20:27:03.916673+00:00,US,SEC,8-K,,,,8-K - WEST BANCORPORATION INC (0001166928) (Filer),https://www.sec.gov/Archives/edgar/data/1166928/000116692826000029/0001166928-26-000029-index.htm
 2026-04-24T19:32:35.853309+00:00,US,SEC,8-K,,,,8-K - HILLS BANCORPORATION (0000732417) (Filer),https://www.sec.gov/Archives/edgar/data/732417/000073241726000044/0000732417-26-000044-index.htm
 2026-04-24T18:29:37.473331+00:00,US,SEC,8-K,,,,8-K - ACTELIS NETWORKS INC (0001141284) (Filer),https://www.sec.gov/Archives/edgar/data/1141284/000121390026047440/0001213900-26-047440-index.htm
 2026-04-24T15:47:08.063284+00:00,US,SEC,8-K,,,,8-K - MUNCY COLUMBIA FINANCIAL Corp (0000731122) (Filer),https://www.sec.gov/Archives/edgar/data/731122/000117494726000509/0001174947-26-000509-index.htm
@@ -1996,6 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-01-15T13:53:46.177640+00:00,US,SEC,8-K,,,,"8-K - ImmunityBio, Inc. (0001326110) (Filer)",https://www.sec.gov/Archives/edgar/data/1326110/000132611026000008/0001326110-26-000008-index.htm
 2026-01-15T13:53:46.177645+00:00,US,SEC,8-K,,,,"8-K - Strive, Inc. (0001920406) (Filer)",https://www.sec.gov/Archives/edgar/data/1920406/000162828026002115/0001628280-26-002115-index.htm
 2026-01-15T13:53:46.177654+00:00,US,SEC,8-K,,,,8-K - MORGAN STANLEY (0000895421) (Filer),https://www.sec.gov/Archives/edgar/data/895421/000089542126000007/0000895421-26-000007-index.htm
-2026-01-15T13:53:46.177658+00:00,US,SEC,8-K,,,,"8-K - Inuvo, Inc. (0000829323) (Filer)",https://www.sec.gov/Archives/edgar/data/829323/000165495426000372/0001654954-26-000372-index.htm
-2026-01-15T13:53:46.177671+00:00,US,SEC,8-K,,,,8-K - GBT Technologies Inc. (0001471781) (Filer),https://www.sec.gov/Archives/edgar/data/1471781/000173112226000064/0001731122-26-000064-index.htm
-2026-01-15T13:53:46.177679+00:00,US,SEC,8-K,,,,"8-K - Ocugen, Inc. (0001372299) (Filer)",https://www.sec.gov/Archives/edgar/data/1372299/000110465926003900/0001104659-26-003900-index.htm

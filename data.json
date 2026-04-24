@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-04-24T20:27:03.916622+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BV Financial, Inc. (0001302387) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1302387/000119312526177364/0001193125-26-177364-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T20:27:03.916661+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BEYOND MEAT, INC. (0001655210) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1655210/000165521026000029/0001655210-26-000029-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T20:27:03.916673+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WEST BANCORPORATION INC (0001166928) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1166928/000116692826000029/0001166928-26-000029-index.htm"
+  },
+  {
     "time_utc": "2026-04-24T19:32:35.853309+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - MORGAN STANLEY (0000895421) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000007/0000895421-26-000007-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T13:53:46.177658+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Inuvo, Inc. (0000829323) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/829323/000165495426000372/0001654954-26-000372-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T13:53:46.177671+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GBT Technologies Inc. (0001471781) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1471781/000173112226000064/0001731122-26-000064-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T13:53:46.177679+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Ocugen, Inc. (0001372299) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1372299/000110465926003900/0001104659-26-003900-index.htm"
   }
 ]
