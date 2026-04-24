@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-04-24T21:26:05.622938+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Inflection Point Acquisition Corp. III (0002012318) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2012318/000121390026047623/0001213900-26-047623-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T21:26:05.622983+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tennessee Valley Authority (0001376986) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000026/0001376986-26-000026-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T21:26:05.622996+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KB HOME (0000795266) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/795266/000079526626000044/0000795266-26-000044-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T21:26:05.623022+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EWSB Bancorp, Inc. /MD/ (0002013792) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2013792/000094337426000171/0000943374-26-000171-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T21:26:05.623027+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIRST HAWAIIAN, INC. (0000036377) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/36377/000110465926048724/0001104659-26-048724-index.htm"
+  },
+  {
     "time_utc": "2026-04-24T20:27:03.916622+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - QUANTUM CORP /DE/ (0000709283) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/709283/000162828026002121/0001628280-26-002121-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T13:53:46.177619+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GENERAL ELECTRIC CO (0000040545) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/40545/000004054526000002/0000040545-26-000002-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T13:53:46.177630+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Philip Morris International Inc. (0001413329) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026002116/0001628280-26-002116-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T13:53:46.177640+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ImmunityBio, Inc. (0001326110) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000008/0001326110-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T13:53:46.177645+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Strive, Inc. (0001920406) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026002115/0001628280-26-002115-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T13:53:46.177654+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MORGAN STANLEY (0000895421) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000007/0000895421-26-000007-index.htm"
   }
 ]
