@@ -1,4 +1,7 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-04-24T15:47:08.063284+00:00,US,SEC,8-K,,,,8-K - MUNCY COLUMBIA FINANCIAL Corp (0000731122) (Filer),https://www.sec.gov/Archives/edgar/data/731122/000117494726000509/0001174947-26-000509-index.htm
+2026-04-24T15:47:08.063320+00:00,US,SEC,8-K,,,,8-K - PROVIDENT FINANCIAL HOLDINGS INC (0001010470) (Filer),https://www.sec.gov/Archives/edgar/data/1010470/000093905726000087/0000939057-26-000087-index.htm
+2026-04-24T15:47:08.063350+00:00,US,SEC,8-K,,,,"8-K - Texas Community Bancshares, Inc. (0001849466) (Filer)",https://www.sec.gov/Archives/edgar/data/1849466/000110465926048381/0001104659-26-048381-index.htm
 2026-04-24T12:41:19.900196+00:00,US,SEC,8-K,,,,8-K - MeiraGTx Holdings plc (0001735438) (Filer),https://www.sec.gov/Archives/edgar/data/1735438/000110465926048196/0001104659-26-048196-index.htm
 2026-04-24T12:41:19.900225+00:00,US,SEC,8-K,,,,"8-K - OptimumBank Holdings, Inc. (0001288855) (Filer)",https://www.sec.gov/Archives/edgar/data/1288855/000149315226018855/0001493152-26-018855-index.htm
 2026-04-24T12:41:19.900235+00:00,US,SEC,8-K,,,,8-K - IMMERSION CORP (0001058811) (Filer),https://www.sec.gov/Archives/edgar/data/1058811/000119312526175250/0001193125-26-175250-index.htm
@@ -1996,6 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-01-15T13:53:46.177679+00:00,US,SEC,8-K,,,,"8-K - Ocugen, Inc. (0001372299) (Filer)",https://www.sec.gov/Archives/edgar/data/1372299/000110465926003900/0001104659-26-003900-index.htm
 2026-01-15T11:53:27.932256+00:00,US,SEC,8-K,,,,"8-K - Lumexa Imaging Holdings, Inc. (0002071288) (Filer)",https://www.sec.gov/Archives/edgar/data/2071288/000119312526013511/0001193125-26-013511-index.htm
 2026-01-15T11:38:36.378676+00:00,US,SEC,8-K,,,,"8-K - BlackRock, Inc. (0002012383) (Filer)",https://www.sec.gov/Archives/edgar/data/2012383/000119312526013503/0001193125-26-013503-index.htm
-2026-01-15T11:38:36.378694+00:00,US,SEC,8-K,,,,8-K - FIRST HORIZON CORP (0000036966) (Filer),https://www.sec.gov/Archives/edgar/data/36966/000003696626000012/0000036966-26-000012-index.htm
-2026-01-15T11:38:36.378705+00:00,US,SEC,8-K,,,,8-K - INSTEEL INDUSTRIES INC (0000764401) (Filer),https://www.sec.gov/Archives/edgar/data/764401/000143774926001309/0001437749-26-001309-index.htm
-2026-01-15T11:38:36.378728+00:00,US,SEC,8-K,,,,"8-K - Aspire Biopharma Holdings, Inc. (0001847345) (Filer)",https://www.sec.gov/Archives/edgar/data/1847345/000149315226002326/0001493152-26-002326-index.htm

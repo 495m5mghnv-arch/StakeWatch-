@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-04-24T15:47:08.063284+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MUNCY COLUMBIA FINANCIAL Corp (0000731122) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/731122/000117494726000509/0001174947-26-000509-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T15:47:08.063320+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PROVIDENT FINANCIAL HOLDINGS INC (0001010470) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000087/0000939057-26-000087-index.htm"
+  },
+  {
+    "time_utc": "2026-04-24T15:47:08.063350+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Texas Community Bancshares, Inc. (0001849466) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1849466/000110465926048381/0001104659-26-048381-index.htm"
+  },
+  {
     "time_utc": "2026-04-24T12:41:19.900196+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - BlackRock, Inc. (0002012383) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526013503/0001193125-26-013503-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T11:38:36.378694+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FIRST HORIZON CORP (0000036966) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/36966/000003696626000012/0000036966-26-000012-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T11:38:36.378705+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - INSTEEL INDUSTRIES INC (0000764401) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/764401/000143774926001309/0001437749-26-001309-index.htm"
-  },
-  {
-    "time_utc": "2026-01-15T11:38:36.378728+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Aspire Biopharma Holdings, Inc. (0001847345) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1847345/000149315226002326/0001493152-26-002326-index.htm"
   }
 ]
