@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-04-28T20:38:07.898860+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GENUINE PARTS CO (0000040987) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000021/0000040987-26-000021-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T20:38:07.898909+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426004023/0001654954-26-004023-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T20:38:07.898918+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - T. Rowe Price OHA Select Private Credit Fund (0001901164) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1901164/000114036126017478/0001140361-26-017478-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T20:38:07.898927+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ESSEX PORTFOLIO LP (0001053059) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1053059/000114036126017477/0001140361-26-017477-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T20:38:07.898932+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ESSEX PROPERTY TRUST, INC. (0000920522) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/920522/000114036126017477/0001140361-26-017477-index.htm"
+  },
+  {
     "time_utc": "2026-04-28T19:06:43.898202+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Coeur Mining, Inc. (0000215466) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/215466/000114036126001500/0001140361-26-001500-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T21:39:42.083801+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Rainmaker Worldwide Inc. (0001872292) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226002594/0001493152-26-002594-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T20:56:38.241505+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WILSON BANK HOLDING CO (0000885275) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/885275/000119312526015258/0001193125-26-015258-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T20:40:38.558508+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2035428/000203542826000004/0002035428-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T17:50:03.122215+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Via Renewables, Inc. (0001606268) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1606268/000160626826000008/0001606268-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T17:00:01.841328+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NexPoint Capital, Inc. (0001588272) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1588272/000119312526014886/0001193125-26-014886-index.htm"
   }
 ]
