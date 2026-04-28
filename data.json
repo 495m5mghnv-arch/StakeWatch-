@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-28T19:06:43.898202+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EON Resources Inc. (0001842556) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1842556/000121390026048483/0001213900-26-048483-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T19:06:43.898222+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ExchangeRight Income Fund (0001771514) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1771514/000119312526186431/0001193125-26-186431-index.htm"
+  },
+  {
     "time_utc": "2026-04-28T13:16:31.240563+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - NexPoint Capital, Inc. (0001588272) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1588272/000119312526014886/0001193125-26-014886-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T17:00:01.841393+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WAFD INC (0000936528) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/936528/000093652826000011/0000936528-26-000011-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T17:00:01.841405+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PNC FINANCIAL SERVICES GROUP, INC. (0000713676) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/713676/000071367626000008/0000713676-26-000008-index.htm"
   }
 ]
