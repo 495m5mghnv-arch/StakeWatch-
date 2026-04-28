@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-04-28T21:41:45.703196+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Lunai Bioworks Inc. (0001527728) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1527728/000173112226000623/0001731122-26-000623-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T21:41:45.703219+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - P3 Health Partners Inc. (0001832511) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1832511/000183251126000018/0001832511-26-000018-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T21:41:45.703237+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Pyrophyte Acquisition Corp. (0001848756) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1848756/000121390026048690/0001213900-26-048690-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T21:41:45.703252+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CNL Strategic Residential Credit, Inc. (0002066337) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2066337/000199937126009265/0001999371-26-009265-index.htm"
+  },
+  {
     "time_utc": "2026-04-28T20:38:07.898860+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - FIFTH THIRD BANCORP (0000035527) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000013/0000035527-26-000013-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T21:52:50.756565+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - New Mountain Guardian IV Income Fund, L.L.C. (0001976719) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1976719/000158064226000288/0001580642-26-000288-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T21:52:50.756585+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Jefferies Financial Group Inc. (0000096223) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/96223/000114036126001506/0001140361-26-001506-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T21:39:42.083766+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AMERICAN AXLE & MANUFACTURING HOLDINGS INC (0001062231) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1062231/000110465926004579/0001104659-26-004579-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T21:39:42.083795+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Coeur Mining, Inc. (0000215466) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/215466/000114036126001500/0001140361-26-001500-index.htm"
   }
 ]
