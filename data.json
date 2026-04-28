@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-04-28T11:28:15.229830+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Exodus Movement, Inc. (0001821534) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1821534/000162828026027726/0001628280-26-027726-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T11:28:15.229855+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - General Motors Financial Company, Inc. (0000804269) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/804269/000080426926000011/0000804269-26-000011-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T11:28:15.229862+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - General Motors Co (0001467858) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000033/0001467858-26-000033-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T11:28:15.229906+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - reAlpha Tech Corp. (0001859199) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1859199/000121390026048245/0001213900-26-048245-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T11:28:15.229915+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - S&P Global Inc. (0000064040) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000019/0000064040-26-000019-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T11:28:15.229922+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AVALONBAY COMMUNITIES INC (0000915912) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/915912/000091591226000010/0000915912-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T11:28:15.229927+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Genprex, Inc. (0001595248) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1595248/000143774926013534/0001437749-26-013534-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T11:28:15.229936+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SHERWIN WILLIAMS CO (0000089800) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/89800/000008980026000036/0000089800-26-000036-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T11:28:15.229949+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMERICAN TOWER CORP /MA/ (0001053507) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000094/0001053507-26-000094-index.htm"
+  },
+  {
+    "time_utc": "2026-04-28T11:28:15.229954+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Shutterstock, Inc. (0001549346) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1549346/000154934626000021/0001549346-26-000021-index.htm"
+  },
+  {
     "time_utc": "2026-04-27T21:29:59.123251+00:00",
     "region": "US",
     "source": "SEC",
@@ -21888,115 +21998,5 @@
     "percent": "",
     "title": "8-K - BASSETT FURNITURE INDUSTRIES INC (0000010329) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/10329/000143774926001385/0001437749-26-001385-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T13:51:39.999014+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TransDigm Group INC (0001260221) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000002/0001260221-26-000002-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T13:51:39.999034+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Nukkleus Inc. (0001787518) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026004905/0001213900-26-004905-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T13:51:39.999039+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - STAAR SURGICAL CO (0000718937) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/718937/000119312526014681/0001193125-26-014681-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T11:52:37.388152+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Chemours Co (0001627223) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1627223/000119312526014624/0001193125-26-014624-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T11:37:52.505601+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PNC FINANCIAL SERVICES GROUP, INC. (0000713676) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/713676/000071367626000006/0000713676-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T11:37:52.505635+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Primo Brands Corp (0002042694) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2042694/000119312526014611/0001193125-26-014611-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T11:37:52.505675+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Uniti Group Inc. (0002020795) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2020795/000095010326000585/0000950103-26-000585-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T11:37:52.505687+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Callaway Golf Co (0000837465) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/837465/000119312526014581/0001193125-26-014581-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T11:37:52.505692+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - M&T BANK CORP (0000036270) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000004/0000036270-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-01-16T11:37:52.505710+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Tvardi Therapeutics, Inc. (0001346830) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1346830/000110465926004273/0001104659-26-004273-index.htm"
   }
 ]
