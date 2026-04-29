@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-04-29T12:58:10.900196+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000069/0001326771-26-000069-index.htm"
+  },
+  {
+    "time_utc": "2026-04-29T12:58:10.900228+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kinsale Capital Group, Inc. (0001669162) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1669162/000166916226000029/0001669162-26-000029-index.htm"
+  },
+  {
+    "time_utc": "2026-04-29T12:58:10.900235+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CALAVO GROWERS INC (0001133470) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1133470/000119312526189293/0001193125-26-189293-index.htm"
+  },
+  {
+    "time_utc": "2026-04-29T12:58:10.900243+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - JACOBS SOLUTIONS INC. (0000052988) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/52988/000162828026028137/0001628280-26-028137-index.htm"
+  },
+  {
+    "time_utc": "2026-04-29T12:58:10.900270+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - John Marshall Bancorp, Inc. (0001710482) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926050966/0001104659-26-050966-index.htm"
+  },
+  {
+    "time_utc": "2026-04-29T12:58:10.900285+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FRANKLIN FINANCIAL SERVICES CORP /PA/ (0000723646) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/723646/000072364626000037/0000723646-26-000037-index.htm"
+  },
+  {
+    "time_utc": "2026-04-29T12:58:10.900298+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ACNB CORP (0000715579) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/715579/000162828026028132/0001628280-26-028132-index.htm"
+  },
+  {
     "time_utc": "2026-04-29T11:17:00.887926+00:00",
     "region": "US",
     "source": "SEC",
@@ -21921,82 +21998,5 @@
     "percent": "",
     "title": "8-K - Tharimmune, Inc. (0001861657) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1861657/000149315226002787/0001493152-26-002787-index.htm"
-  },
-  {
-    "time_utc": "2026-01-20T16:01:13.712291+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Dalrada Technology Group, Inc. (0000725394) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/725394/000168316826000410/0001683168-26-000410-index.htm"
-  },
-  {
-    "time_utc": "2026-01-20T15:02:14.048847+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000011/0001331754-26-000011-index.htm"
-  },
-  {
-    "time_utc": "2026-01-20T13:59:20.851929+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MEDICAL PROPERTIES TRUST INC (0001287865) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1287865/000119312526016037/0001193125-26-016037-index.htm"
-  },
-  {
-    "time_utc": "2026-01-20T13:59:20.851955+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Chilean Cobalt Corp. (0001727255) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1727255/000168316826000397/0001683168-26-000397-index.htm"
-  },
-  {
-    "time_utc": "2026-01-20T13:59:20.851985+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226002762/0001493152-26-002762-index.htm"
-  },
-  {
-    "time_utc": "2026-01-20T13:59:20.851990+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PUBLIC CO MANAGEMENT CORP (0001141964) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1141964/000121465926000622/0001214659-26-000622-index.htm"
-  },
-  {
-    "time_utc": "2026-01-20T13:59:20.851997+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PIXELWORKS, INC (0001040161) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1040161/000104016126000012/0001040161-26-000012-index.htm"
   }
 ]
