@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-04-30T20:15:59.049749+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Primo Brands Corp (0002042694) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2042694/000119312526197326/0001193125-26-197326-index.htm"
+  },
+  {
+    "time_utc": "2026-04-30T20:15:59.049776+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Pacific Coast Oil Trust (0001538822) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1538822/000110465926052944/0001104659-26-052944-index.htm"
+  },
+  {
     "time_utc": "2026-04-30T18:59:58.479974+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - TOYOTA AUTO FINANCE RECEIVABLES LLC (0001131131) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1131131/000092963826000199/0000929638-26-000199-index.htm"
-  },
-  {
-    "time_utc": "2026-01-21T15:02:26.677348+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Twin Vee PowerCats, Co. (0001855509) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1855509/000173112226000096/0001731122-26-000096-index.htm"
-  },
-  {
-    "time_utc": "2026-01-21T13:59:57.689635+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - LISATA THERAPEUTICS, INC. (0000320017) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/320017/000032001726000006/0000320017-26-000006-index.htm"
   }
 ]
