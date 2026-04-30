@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-04-30T12:22:32.710623+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Twin Vee PowerCats, Co. (0001855509) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1855509/000173112226000632/0001731122-26-000632-index.htm"
+  },
+  {
+    "time_utc": "2026-04-30T12:22:32.710646+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Telomir Pharmaceuticals, Inc. (0001971532) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1971532/000149315226019773/0001493152-26-019773-index.htm"
+  },
+  {
+    "time_utc": "2026-04-30T12:22:32.710656+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LCNB CORP (0001074902) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1074902/000143774926013999/0001437749-26-013999-index.htm"
+  },
+  {
+    "time_utc": "2026-04-30T12:22:32.710668+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PATRICK INDUSTRIES INC (0000076605) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000045/0000076605-26-000045-index.htm"
+  },
+  {
+    "time_utc": "2026-04-30T12:22:32.710682+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HALOZYME THERAPEUTICS, INC. (0001159036) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1159036/000115903626000053/0001159036-26-000053-index.htm"
+  },
+  {
+    "time_utc": "2026-04-30T12:22:32.710705+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - VALERO ENERGY CORP/TX (0001035002) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026028602/0001628280-26-028602-index.htm"
+  },
+  {
     "time_utc": "2026-04-30T11:03:25.454857+00:00",
     "region": "US",
     "source": "SEC",
@@ -21932,71 +21998,5 @@
     "percent": "",
     "title": "8-K - Five9, Inc. (0001288847) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1288847/000128884726000006/0001288847-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-01-21T13:59:57.689723+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Uniti Group Inc. (0002020795) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2020795/000095010326000725/0000950103-26-000725-index.htm"
-  },
-  {
-    "time_utc": "2026-01-21T13:59:57.689728+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Nano Dimension Ltd. (0001643303) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1643303/000110465926005254/0001104659-26-005254-index.htm"
-  },
-  {
-    "time_utc": "2026-01-21T13:59:57.689733+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CION Investment Corp (0001534254) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926005253/0001104659-26-005253-index.htm"
-  },
-  {
-    "time_utc": "2026-01-21T13:59:57.689737+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - UMeWorld Inc. (0001114936) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1114936/000147793226000290/0001477932-26-000290-index.htm"
-  },
-  {
-    "time_utc": "2026-01-21T13:59:57.689749+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - COMMUNITY TRUST BANCORP INC /KY/ (0000350852) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/350852/000035085226000015/0000350852-26-000015-index.htm"
-  },
-  {
-    "time_utc": "2026-01-21T11:58:53.365964+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SMITHFIELD FOODS INC (0000091388) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/91388/000121390026005905/0001213900-26-005905-index.htm"
   }
 ]
