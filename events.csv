@@ -1,4 +1,7 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-04-30T21:17:36.232324+00:00,US,SEC,8-K,,,,8-K - INTEL CORP (0000050863) (Filer),https://www.sec.gov/Archives/edgar/data/50863/000119312526197845/0001193125-26-197845-index.htm
+2026-04-30T21:17:36.232342+00:00,US,SEC,8-K,,,,8-K - Plutonian Acquisition Corp. II (0002065661) (Filer),https://www.sec.gov/Archives/edgar/data/2065661/000147793226002696/0001477932-26-002696-index.htm
+2026-04-30T21:17:36.232390+00:00,US,SEC,8-K,,,,"8-K - Bakkt, Inc. (0001820302) (Filer)",https://www.sec.gov/Archives/edgar/data/1820302/000119312526197835/0001193125-26-197835-index.htm
 2026-04-30T20:15:59.049749+00:00,US,SEC,8-K,,,,8-K - Primo Brands Corp (0002042694) (Filer),https://www.sec.gov/Archives/edgar/data/2042694/000119312526197326/0001193125-26-197326-index.htm
 2026-04-30T20:15:59.049776+00:00,US,SEC,8-K,,,,8-K - Pacific Coast Oil Trust (0001538822) (Filer),https://www.sec.gov/Archives/edgar/data/1538822/000110465926052944/0001104659-26-052944-index.htm
 2026-04-30T18:59:58.479974+00:00,US,SEC,8-K,,,,8-K - Fatpipe Inc/UT (0001993400) (Filer),https://www.sec.gov/Archives/edgar/data/1993400/000149315226020015/0001493152-26-020015-index.htm
@@ -1996,6 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-01-21T21:54:16.334994+00:00,US,SEC,8-K,,,,8-K - KKR Infrastructure Conglomerate LLC (0001948056) (Filer),https://www.sec.gov/Archives/edgar/data/1948056/000194805626000006/0001948056-26-000006-index.htm
 2026-01-21T21:54:16.335013+00:00,US,SEC,8-K,,,,8-K - Terra Innovatum Global N.V. (0002067627) (Filer),https://www.sec.gov/Archives/edgar/data/2067627/000121390026006262/0001213900-26-006262-index.htm
 2026-01-21T20:59:35.144926+00:00,US,SEC,8-K,,,,8-K - Mercedes-Benz Auto Lease Trust 2026-A (0002096965) (Filer),https://www.sec.gov/Archives/edgar/data/2096965/000114036126001836/0001140361-26-001836-index.htm
-2026-01-21T20:59:35.144956+00:00,US,SEC,8-K,,,,8-K - LGAM Private Credit LLC (0001983514) (Filer),https://www.sec.gov/Archives/edgar/data/1983514/000119312526017895/0001193125-26-017895-index.htm
-2026-01-21T19:43:19.769335+00:00,US,SEC,8-K,,,,8-K - Toyota Auto Receivables 2026-A Owner Trust (0002099539) (Filer),https://www.sec.gov/Archives/edgar/data/2099539/000092963826000199/0000929638-26-000199-index.htm
-2026-01-21T19:43:19.769349+00:00,US,SEC,8-K,,,,8-K - TOYOTA AUTO FINANCE RECEIVABLES LLC (0001131131) (Filer),https://www.sec.gov/Archives/edgar/data/1131131/000092963826000199/0000929638-26-000199-index.htm

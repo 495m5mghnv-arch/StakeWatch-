@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-04-30T21:17:36.232324+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INTEL CORP (0000050863) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/50863/000119312526197845/0001193125-26-197845-index.htm"
+  },
+  {
+    "time_utc": "2026-04-30T21:17:36.232342+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Plutonian Acquisition Corp. II (0002065661) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2065661/000147793226002696/0001477932-26-002696-index.htm"
+  },
+  {
+    "time_utc": "2026-04-30T21:17:36.232390+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bakkt, Inc. (0001820302) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1820302/000119312526197835/0001193125-26-197835-index.htm"
+  },
+  {
     "time_utc": "2026-04-30T20:15:59.049749+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Mercedes-Benz Auto Lease Trust 2026-A (0002096965) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2096965/000114036126001836/0001140361-26-001836-index.htm"
-  },
-  {
-    "time_utc": "2026-01-21T20:59:35.144956+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - LGAM Private Credit LLC (0001983514) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1983514/000119312526017895/0001193125-26-017895-index.htm"
-  },
-  {
-    "time_utc": "2026-01-21T19:43:19.769335+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Toyota Auto Receivables 2026-A Owner Trust (0002099539) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2099539/000092963826000199/0000929638-26-000199-index.htm"
-  },
-  {
-    "time_utc": "2026-01-21T19:43:19.769349+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TOYOTA AUTO FINANCE RECEIVABLES LLC (0001131131) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1131131/000092963826000199/0000929638-26-000199-index.htm"
   }
 ]
