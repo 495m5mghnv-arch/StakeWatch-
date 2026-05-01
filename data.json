@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-05-01T21:35:24.319708+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - authID Inc. (0001534154) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1534154/000121390026051038/0001213900-26-051038-index.htm"
+  },
+  {
     "time_utc": "2026-05-01T20:36:31.321782+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - CVB FINANCIAL CORP (0000354647) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/354647/000119312526018599/0001193125-26-018599-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T11:45:38.917705+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - UMH PROPERTIES, INC. (0000752642) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/752642/000149315226003166/0001493152-26-003166-index.htm"
   }
 ]
