@@ -1,4 +1,9 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-05-01T20:36:31.321782+00:00,US,SEC,8-K,,,,"8-K - NEXSTAR MEDIA GROUP, INC. (0001142417) (Filer)",https://www.sec.gov/Archives/edgar/data/1142417/000114241726000024/0001142417-26-000024-index.htm
+2026-05-01T20:36:31.321798+00:00,US,SEC,8-K,,,,"8-K - Aditxt, Inc. (0001726711) (Filer)",https://www.sec.gov/Archives/edgar/data/1726711/000121390026050995/0001213900-26-050995-index.htm
+2026-05-01T20:36:31.321834+00:00,US,SEC,8-K,,,,"8-K - Veradermics, Inc (0001827635) (Filer)",https://www.sec.gov/Archives/edgar/data/1827635/000162828026029376/0001628280-26-029376-index.htm
+2026-05-01T20:36:31.321843+00:00,US,SEC,8-K,,,,8-K - RRE Ventures Acquisition Corp. (0002123969) (Filer),https://www.sec.gov/Archives/edgar/data/2123969/000119312526201578/0001193125-26-201578-index.htm
+2026-05-01T20:36:31.321854+00:00,US,SEC,8-K,,,,"8-K - Health In Tech, Inc. (0002019505) (Filer)",https://www.sec.gov/Archives/edgar/data/2019505/000121390026050993/0001213900-26-050993-index.htm
 2026-05-01T16:13:37.824822+00:00,US,SEC,8-K,,,,8-K - NPK International Inc. (0000071829) (Filer),https://www.sec.gov/Archives/edgar/data/71829/000007182926000030/0000071829-26-000030-index.htm
 2026-05-01T15:14:57.116864+00:00,US,SEC,8-K,,,,"8-K - LINKBANCORP, Inc. (0001756701) (Filer)",https://www.sec.gov/Archives/edgar/data/1756701/000094337426000182/0000943374-26-000182-index.htm
 2026-05-01T15:14:57.116888+00:00,US,SEC,8-K,,,,8-K - Flutter Entertainment plc (0001635327) (Filer),https://www.sec.gov/Archives/edgar/data/1635327/000119312526200121/0001193125-26-200121-index.htm
@@ -1994,8 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-01-22T11:45:38.917671+00:00,US,SEC,8-K,,,,8-K - Anteris Technologies Global Corp. (0002011514) (Filer),https://www.sec.gov/Archives/edgar/data/2011514/000114036126001938/0001140361-26-001938-index.htm
 2026-01-22T11:45:38.917696+00:00,US,SEC,8-K,,,,8-K - CVB FINANCIAL CORP (0000354647) (Filer),https://www.sec.gov/Archives/edgar/data/354647/000119312526018599/0001193125-26-018599-index.htm
 2026-01-22T11:45:38.917705+00:00,US,SEC,8-K,,,,"8-K - UMH PROPERTIES, INC. (0000752642) (Filer)",https://www.sec.gov/Archives/edgar/data/752642/000149315226003166/0001493152-26-003166-index.htm
-2026-01-22T11:45:38.917712+00:00,US,SEC,8-K,,,,"8-K - SharonAI Holdings, Inc. (0002068385) (Filer)",https://www.sec.gov/Archives/edgar/data/2068385/000182912626000444/0001829126-26-000444-index.htm
-2026-01-22T11:45:38.917723+00:00,US,SEC,8-K,,,,"8-K - SharonAI Holdings, Inc. (0002068385) (Filer)",https://www.sec.gov/Archives/edgar/data/2068385/000182912626000443/0001829126-26-000443-index.htm
-2026-01-22T11:45:38.917728+00:00,US,SEC,8-K,,,,8-K - Mawson Infrastructure Group Inc. (0001218683) (Filer),https://www.sec.gov/Archives/edgar/data/1218683/000121390026006423/0001213900-26-006423-index.htm
-2026-01-22T11:45:38.917738+00:00,US,SEC,8-K,,,,8-K - CVB FINANCIAL CORP (0000354647) (Filer),https://www.sec.gov/Archives/edgar/data/354647/000119312526018584/0001193125-26-018584-index.htm
-2026-01-22T11:45:38.917743+00:00,US,SEC,8-K,,,,8-K - Uniti Group Inc. (0002020795) (Filer),https://www.sec.gov/Archives/edgar/data/2020795/000095010326000809/0000950103-26-000809-index.htm
