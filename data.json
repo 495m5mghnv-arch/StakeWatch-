@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-05-01T14:09:01.969100+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PILGRIMS PRIDE CORP (0000802481) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/802481/000080248126000033/0000802481-26-000033-index.htm"
+  },
+  {
     "time_utc": "2026-04-30T21:17:36.232324+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Terra Innovatum Global N.V. (0002067627) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2067627/000121390026006262/0001213900-26-006262-index.htm"
-  },
-  {
-    "time_utc": "2026-01-21T20:59:35.144926+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Mercedes-Benz Auto Lease Trust 2026-A (0002096965) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2096965/000114036126001836/0001140361-26-001836-index.htm"
   }
 ]
