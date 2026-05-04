@@ -1,4 +1,8 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-05-04T20:15:52.500339+00:00,US,SEC,8-K,,,,8-K - Valaris Ltd (0000314808) (Filer),https://www.sec.gov/Archives/edgar/data/314808/000031480826000097/0000314808-26-000097-index.htm
+2026-05-04T20:15:52.500385+00:00,US,SEC,8-K,,,,8-K - Metallus Inc. (0001598428) (Filer),https://www.sec.gov/Archives/edgar/data/1598428/000119312526204015/0001193125-26-204015-index.htm
+2026-05-04T20:15:52.500400+00:00,US,SEC,8-K,,,,8-K - Madison Square Garden Sports Corp. (0001636519) (Filer),https://www.sec.gov/Archives/edgar/data/1636519/000119312526204017/0001193125-26-204017-index.htm
+2026-05-04T20:15:52.500405+00:00,US,SEC,8-K,,,,8-K - GEO GROUP INC (0000923796) (Filer),https://www.sec.gov/Archives/edgar/data/923796/000119312526204018/0001193125-26-204018-index.htm
 2026-05-04T15:19:04.998946+00:00,US,SEC,8-K,,,,"8-K - PAR PACIFIC HOLDINGS, INC. (0000821483) (Filer)",https://www.sec.gov/Archives/edgar/data/821483/000143774926014568/0001437749-26-014568-index.htm
 2026-05-04T13:07:10.820150+00:00,US,SEC,8-K,,,,8-K - FEDERAL HOME LOAN MORTGAGE CORP (0001026214) (Filer),https://www.sec.gov/Archives/edgar/data/1026214/000102621426000030/0001026214-26-000030-index.htm
 2026-05-04T13:07:10.820170+00:00,US,SEC,8-K,,,,"8-K - VPR Brands, LP. (0001376231) (Filer)",https://www.sec.gov/Archives/edgar/data/1376231/000121390026051180/0001213900-26-051180-index.htm
@@ -1995,7 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-01-22T21:47:41.582717+00:00,US,SEC,8-K,,,,"8-K - SOUTH PLAINS FINANCIAL, INC. (0001163668) (Filer)",https://www.sec.gov/Archives/edgar/data/1163668/000114036126002059/0001140361-26-002059-index.htm
 2026-01-22T21:47:41.582722+00:00,US,SEC,8-K,,,,"8-K - Alight, Inc. / Delaware (0001809104) (Filer)",https://www.sec.gov/Archives/edgar/data/1809104/000162828026003111/0001628280-26-003111-index.htm
 2026-01-22T21:47:41.582730+00:00,US,SEC,8-K,,,,8-K - EQUITY BANCSHARES INC (0001227500) (Filer),https://www.sec.gov/Archives/edgar/data/1227500/000119312526019558/0001193125-26-019558-index.htm
-2026-01-22T21:47:41.582756+00:00,US,SEC,8-K,,,,8-K - Bank of New York Mellon Corp (0001390777) (Filer),https://www.sec.gov/Archives/edgar/data/1390777/000119312526019554/0001193125-26-019554-index.htm
-2026-01-22T21:47:41.582781+00:00,US,SEC,8-K,,,,8-K - LGL GROUP INC (0000061004) (Filer),https://www.sec.gov/Archives/edgar/data/61004/000143774926001772/0001437749-26-001772-index.htm
-2026-01-22T19:02:49.245405+00:00,US,SEC,8-K,,,,8-K - HERITAGE FINANCIAL CORP /WA/ (0001046025) (Filer),https://www.sec.gov/Archives/edgar/data/1046025/000162828026003035/0001628280-26-003035-index.htm
-2026-01-22T15:02:22.189248+00:00,US,SEC,8-K,,,,8-K - Alaska Silver Corp. (0001893899) (Filer),https://www.sec.gov/Archives/edgar/data/1893899/000106299326000371/0001062993-26-000371-index.htm

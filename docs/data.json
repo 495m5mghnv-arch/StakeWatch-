@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-05-04T20:15:52.500339+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Valaris Ltd (0000314808) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/314808/000031480826000097/0000314808-26-000097-index.htm"
+  },
+  {
+    "time_utc": "2026-05-04T20:15:52.500385+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Metallus Inc. (0001598428) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1598428/000119312526204015/0001193125-26-204015-index.htm"
+  },
+  {
+    "time_utc": "2026-05-04T20:15:52.500400+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Madison Square Garden Sports Corp. (0001636519) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1636519/000119312526204017/0001193125-26-204017-index.htm"
+  },
+  {
+    "time_utc": "2026-05-04T20:15:52.500405+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GEO GROUP INC (0000923796) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/923796/000119312526204018/0001193125-26-204018-index.htm"
+  },
+  {
     "time_utc": "2026-05-04T15:19:04.998946+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - EQUITY BANCSHARES INC (0001227500) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526019558/0001193125-26-019558-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T21:47:41.582756+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Bank of New York Mellon Corp (0001390777) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1390777/000119312526019554/0001193125-26-019554-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T21:47:41.582781+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - LGL GROUP INC (0000061004) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/61004/000143774926001772/0001437749-26-001772-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T19:02:49.245405+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - HERITAGE FINANCIAL CORP /WA/ (0001046025) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1046025/000162828026003035/0001628280-26-003035-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T15:02:22.189248+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Alaska Silver Corp. (0001893899) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1893899/000106299326000371/0001062993-26-000371-index.htm"
   }
 ]
