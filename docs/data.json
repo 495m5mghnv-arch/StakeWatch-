@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-05-04T21:32:52.965779+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RTX Corp (0000101829) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/101829/000114036126018932/0001140361-26-018932-index.htm"
+  },
+  {
+    "time_utc": "2026-05-04T21:32:52.965818+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CORNING INC /NY (0000024741) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/24741/000120677426000266/0001206774-26-000266-index.htm"
+  },
+  {
+    "time_utc": "2026-05-04T21:32:52.965841+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Transocean Ltd. (0001451505) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1451505/000145150526000041/0001451505-26-000041-index.htm"
+  },
+  {
     "time_utc": "2026-05-04T20:15:52.500339+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - GLACIER BANCORP, INC. (0000868671) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/868671/000086867126000003/0000868671-26-000003-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T21:47:41.582717+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SOUTH PLAINS FINANCIAL, INC. (0001163668) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1163668/000114036126002059/0001140361-26-002059-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T21:47:41.582722+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Alight, Inc. / Delaware (0001809104) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1809104/000162828026003111/0001628280-26-003111-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T21:47:41.582730+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - EQUITY BANCSHARES INC (0001227500) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526019558/0001193125-26-019558-index.htm"
   }
 ]
