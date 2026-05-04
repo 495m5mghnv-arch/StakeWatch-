@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-05-04T13:07:10.820150+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FEDERAL HOME LOAN MORTGAGE CORP (0001026214) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1026214/000102621426000030/0001026214-26-000030-index.htm"
+  },
+  {
+    "time_utc": "2026-05-04T13:07:10.820170+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - VPR Brands, LP. (0001376231) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1376231/000121390026051180/0001213900-26-051180-index.htm"
+  },
+  {
+    "time_utc": "2026-05-04T13:07:10.820192+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ONCOLYTICS BIOTECH INC (0001129928) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000028/0001129928-26-000028-index.htm"
+  },
+  {
+    "time_utc": "2026-05-04T13:07:10.820232+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OptimumBank Holdings, Inc. (0001288855) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1288855/000149315226021029/0001493152-26-021029-index.htm"
+  },
+  {
+    "time_utc": "2026-05-04T13:07:10.820239+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MASIMO CORP (0000937556) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/937556/000110465926054512/0001104659-26-054512-index.htm"
+  },
+  {
+    "time_utc": "2026-05-04T13:07:10.820248+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SIERRA BANCORP (0001130144) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1130144/000110465926054511/0001104659-26-054511-index.htm"
+  },
+  {
+    "time_utc": "2026-05-04T13:07:10.820252+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TREX CO INC (0001069878) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1069878/000119312526202794/0001193125-26-202794-index.htm"
+  },
+  {
     "time_utc": "2026-05-04T11:21:48.617091+00:00",
     "region": "US",
     "source": "SEC",
@@ -21921,82 +21998,5 @@
     "percent": "",
     "title": "8-K - PDS Biotechnology Corp (0001472091) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126001958/0001140361-26-001958-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T13:59:54.676340+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Esquire Financial Holdings, Inc. (0001531031) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1531031/000110465926005642/0001104659-26-005642-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T13:59:54.676348+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NORWOOD FINANCIAL CORP (0001013272) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1013272/000119312526018738/0001193125-26-018738-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T11:58:27.855045+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - HUNTINGTON BANCSHARES INC /MD/ (0000049196) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000006/0000049196-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T11:58:27.855065+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Life Time Group Holdings, Inc. (0001869198) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1869198/000186919826000003/0001869198-26-000003-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T11:45:38.917617+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GENERAL ELECTRIC CO (0000040545) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/40545/000004054526000005/0000040545-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T11:45:38.917658+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Amalgamated Financial Corp. (0001823608) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1823608/000182360826000006/0001823608-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-01-22T11:45:38.917671+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Anteris Technologies Global Corp. (0002011514) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2011514/000114036126001938/0001140361-26-001938-index.htm"
   }
 ]
