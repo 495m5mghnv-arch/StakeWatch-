@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-05-06T13:13:02.576339+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Medalist Diversified, Inc. (0001654595) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1654595/000110465926055946/0001104659-26-055946-index.htm"
+  },
+  {
+    "time_utc": "2026-05-06T13:13:02.576357+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PULSE BIOSCIENCES, INC. (0001625101) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1625101/000143774926015039/0001437749-26-015039-index.htm"
+  },
+  {
+    "time_utc": "2026-05-06T13:13:02.576392+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SLM Corp (0001032033) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1032033/000119312526207711/0001193125-26-207711-index.htm"
+  },
+  {
     "time_utc": "2026-05-06T11:22:15.634075+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - PEOPLES BANCORP INC (0000318300) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/318300/000031830026000034/0000318300-26-000034-index.htm"
-  },
-  {
-    "time_utc": "2026-01-26T19:57:37.778380+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ENERGY RESOURCES 12, L.P. (0001696088) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1696088/000143774926002058/0001437749-26-002058-index.htm"
-  },
-  {
-    "time_utc": "2026-01-26T19:45:53.011984+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Energy 11, L.P. (0001581552) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1581552/000143774926002048/0001437749-26-002048-index.htm"
-  },
-  {
-    "time_utc": "2026-01-26T19:04:55.645125+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - River Financial Corp (0001641601) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526022299/0001193125-26-022299-index.htm"
   }
 ]
