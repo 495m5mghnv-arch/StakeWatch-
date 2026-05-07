@@ -1,4 +1,15 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-05-07T12:05:35.124453+00:00,US,SEC,8-K,,,,"8-K - ACI WORLDWIDE, INC. (0000935036) (Filer)",https://www.sec.gov/Archives/edgar/data/935036/000093503626000019/0000935036-26-000019-index.htm
+2026-05-07T12:05:35.124473+00:00,US,SEC,8-K,,,,8-K - Primo Brands Corp (0002042694) (Filer),https://www.sec.gov/Archives/edgar/data/2042694/000127956926000400/0001279569-26-000400-index.htm
+2026-05-07T12:05:35.124481+00:00,US,SEC,8-K,,,,8-K - Vericel Corp (0000887359) (Filer),https://www.sec.gov/Archives/edgar/data/887359/000162828026031713/0001628280-26-031713-index.htm
+2026-05-07T12:05:35.124511+00:00,US,SEC,8-K,,,,8-K - Proto Labs Inc (0001443669) (Filer),https://www.sec.gov/Archives/edgar/data/1443669/000110465926056700/0001104659-26-056700-index.htm
+2026-05-07T12:05:35.124530+00:00,US,SEC,8-K,,,,8-K - Viatris Inc (0001792044) (Filer),https://www.sec.gov/Archives/edgar/data/1792044/000179204426000025/0001792044-26-000025-index.htm
+2026-05-07T12:05:35.124534+00:00,US,SEC,8-K,,,,"8-K - Clearwater Analytics Holdings, Inc. (0001866368) (Filer)",https://www.sec.gov/Archives/edgar/data/1866368/000119312526210384/0001193125-26-210384-index.htm
+2026-05-07T12:05:35.124545+00:00,US,SEC,8-K,,,,8-K - TerrAscend Corp. (0001778129) (Filer),https://www.sec.gov/Archives/edgar/data/1778129/000119312526210379/0001193125-26-210379-index.htm
+2026-05-07T12:05:35.124550+00:00,US,SEC,8-K,,,,"8-K - International Seaways, Inc. (0001679049) (Filer)",https://www.sec.gov/Archives/edgar/data/1679049/000110465926056695/0001104659-26-056695-index.htm
+2026-05-07T12:05:35.124558+00:00,US,SEC,8-K,,,,8-K - NETSCOUT SYSTEMS INC (0001078075) (Filer),https://www.sec.gov/Archives/edgar/data/1078075/000107807526000027/0001078075-26-000027-index.htm
+2026-05-07T12:05:35.124563+00:00,US,SEC,8-K,,,,8-K - Cars.com Inc. (0001683606) (Filer),https://www.sec.gov/Archives/edgar/data/1683606/000119312526210377/0001193125-26-210377-index.htm
+2026-05-07T12:05:35.124569+00:00,US,SEC,8-K,,,,8-K - GRIFFON CORP (0000050725) (Filer),https://www.sec.gov/Archives/edgar/data/50725/000162828026031705/0001628280-26-031705-index.htm
 2026-05-07T10:09:34.219145+00:00,US,SEC,8-K,,,,8-K - EXOZYMES INC. (0002010788) (Filer),https://www.sec.gov/Archives/edgar/data/2010788/000149315226021589/0001493152-26-021589-index.htm
 2026-05-07T10:09:34.219173+00:00,US,SEC,8-K,,,,"8-K - Solid Power, Inc. (0001844862) (Filer)",https://www.sec.gov/Archives/edgar/data/1844862/000110465926056584/0001104659-26-056584-index.htm
 2026-05-07T10:09:34.219187+00:00,US,SEC,8-K,,,,8-K - CROSS COUNTRY HEALTHCARE INC (0001141103) (Filer),https://www.sec.gov/Archives/edgar/data/1141103/000095010326006921/0000950103-26-006921-index.htm
@@ -1988,14 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-01-27T21:56:14.073926+00:00,US,SEC,8-K,,,,8-K - Horizon Space Acquisition I Corp. (0001946021) (Filer),https://www.sec.gov/Archives/edgar/data/1946021/000192998026000021/0001929980-26-000021-index.htm
 2026-01-27T21:42:11.061230+00:00,US,SEC,8-K,,,,8-K - TRUSTMARK CORP (0000036146) (Filer),https://www.sec.gov/Archives/edgar/data/36146/000119312526024604/0001193125-26-024604-index.htm
 2026-01-27T21:42:11.061264+00:00,US,SEC,8-K,,,,8-K - RENASANT CORP (0000715072) (Filer),https://www.sec.gov/Archives/edgar/data/715072/000071507226000004/0000715072-26-000004-index.htm
-2026-01-27T19:54:27.807029+00:00,US,SEC,8-K,,,,8-K - Ford Credit Auto Lease Trust 2026-A (0002100629) (Filer),https://www.sec.gov/Archives/edgar/data/2100629/000110465926006937/0001104659-26-006937-index.htm
-2026-01-27T19:54:27.807049+00:00,US,SEC,8-K,,,,8-K - Ford Credit Auto Lease Two LLC (0001519881) (Filer),https://www.sec.gov/Archives/edgar/data/1519881/000110465926006937/0001104659-26-006937-index.htm
-2026-01-27T19:17:31.088369+00:00,US,SEC,8-K,,,,8-K - FIRST NORTHERN COMMUNITY BANCORP (0001114927) (Filer),https://www.sec.gov/Archives/edgar/data/1114927/000111492726000004/0001114927-26-000004-index.htm
-2026-01-27T17:57:20.620361+00:00,US,SEC,8-K,,,,8-K - AI Era Corp. (0001605331) (Filer),https://www.sec.gov/Archives/edgar/data/1605331/000166357726000022/0001663577-26-000022-index.htm
-2026-01-27T17:57:20.620408+00:00,US,SEC,8-K,,,,8-K - PROVIDENT FINANCIAL HOLDINGS INC (0001010470) (Filer),https://www.sec.gov/Archives/edgar/data/1010470/000093905726000018/0000939057-26-000018-index.htm
-2026-01-27T17:01:33.726497+00:00,US,SEC,8-K,,,,8-K - Mag Magna Corp (0001949864) (Filer),https://www.sec.gov/Archives/edgar/data/1949864/000168316826000554/0001683168-26-000554-index.htm
-2026-01-27T14:01:07.654438+00:00,US,SEC,8-K,,,,8-K - Ingredion Inc (0001046257) (Filer),https://www.sec.gov/Archives/edgar/data/1046257/000104625726000010/0001046257-26-000010-index.htm
-2026-01-27T14:01:07.654465+00:00,US,SEC,8-K,,,,8-K - TRUIST FINANCIAL CORP (0000092230) (Filer),https://www.sec.gov/Archives/edgar/data/92230/000119312526023420/0001193125-26-023420-index.htm
-2026-01-27T14:01:07.654498+00:00,US,SEC,8-K,,,,8-K - Bristow Group Inc. (0001525221) (Filer),https://www.sec.gov/Archives/edgar/data/1525221/000119312526023418/0001193125-26-023418-index.htm
-2026-01-27T14:01:07.654514+00:00,US,SEC,8-K,,,,8-K - OMNIQ Corp. (0000278165) (Filer),https://www.sec.gov/Archives/edgar/data/278165/000117184326000430/0001171843-26-000430-index.htm
-2026-01-27T11:59:25.751141+00:00,US,SEC,8-K,,,,8-K - RTX Corp (0000101829) (Filer),https://www.sec.gov/Archives/edgar/data/101829/000010182926000003/0000101829-26-000003-index.htm
