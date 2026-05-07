@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-05-07T18:09:46.331876+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EQT Exeter Real Estate Income Trust, Inc. (0001946997) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1946997/000194699726000002/0001946997-26-000002-index.htm"
+  },
+  {
     "time_utc": "2026-05-07T16:28:50.010654+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Coeur Mining, Inc. (0000215466) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/215466/000114036126002524/0001140361-26-002524-index.htm"
-  },
-  {
-    "time_utc": "2026-01-27T21:56:14.073926+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Horizon Space Acquisition I Corp. (0001946021) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1946021/000192998026000021/0001929980-26-000021-index.htm"
   }
 ]
