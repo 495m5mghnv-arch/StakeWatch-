@@ -1,5 +1,126 @@
 [
   {
+    "time_utc": "2026-05-07T10:09:34.219145+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EXOZYMES INC. (0002010788) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2010788/000149315226021589/0001493152-26-021589-index.htm"
+  },
+  {
+    "time_utc": "2026-05-07T10:09:34.219173+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Solid Power, Inc. (0001844862) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1844862/000110465926056584/0001104659-26-056584-index.htm"
+  },
+  {
+    "time_utc": "2026-05-07T10:09:34.219187+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CROSS COUNTRY HEALTHCARE INC (0001141103) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1141103/000095010326006921/0000950103-26-006921-index.htm"
+  },
+  {
+    "time_utc": "2026-05-07T10:09:34.219193+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Privia Health Group, Inc. (0001759655) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1759655/000175965526000027/0001759655-26-000027-index.htm"
+  },
+  {
+    "time_utc": "2026-05-07T10:09:34.219206+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Claritev Corp (0001793229) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1793229/000179322926000041/0001793229-26-000041-index.htm"
+  },
+  {
+    "time_utc": "2026-05-07T10:09:34.219211+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - 22nd Century Group, Inc. (0001347858) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1347858/000149315226021582/0001493152-26-021582-index.htm"
+  },
+  {
+    "time_utc": "2026-05-07T10:09:34.219218+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Arhaus, Inc. (0001875444) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1875444/000187544426000014/0001875444-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-05-07T10:09:34.219226+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Zai Lab Ltd (0001704292) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1704292/000162828026031624/0001628280-26-031624-index.htm"
+  },
+  {
+    "time_utc": "2026-05-07T10:09:34.219265+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LINCOLN NATIONAL CORP (0000059558) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/59558/000005955826000031/0000059558-26-000031-index.htm"
+  },
+  {
+    "time_utc": "2026-05-07T10:09:34.219270+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HAEMONETICS CORP (0000313143) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/313143/000031314326000031/0000313143-26-000031-index.htm"
+  },
+  {
+    "time_utc": "2026-05-07T10:09:34.219281+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GigaCloud Technology Inc (0001857816) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1857816/000185781626000054/0001857816-26-000054-index.htm"
+  },
+  {
     "time_utc": "2026-05-06T20:44:07.585707+00:00",
     "region": "US",
     "source": "SEC",
@@ -21877,126 +21998,5 @@
     "percent": "",
     "title": "8-K - RTX Corp (0000101829) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000003/0000101829-26-000003-index.htm"
-  },
-  {
-    "time_utc": "2026-01-27T11:47:15.449960+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - EON Resources Inc. (0001842556) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1842556/000121390026007933/0001213900-26-007933-index.htm"
-  },
-  {
-    "time_utc": "2026-01-27T11:47:15.449982+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NORTHROP GRUMMAN CORP /DE/ (0001133421) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000002/0001133421-26-000002-index.htm"
-  },
-  {
-    "time_utc": "2026-01-27T11:47:15.449994+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - KIMBERLY CLARK CORP (0000055785) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/55785/000162828026003514/0001628280-26-003514-index.htm"
-  },
-  {
-    "time_utc": "2026-01-27T11:47:15.450004+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - JETBLUE AIRWAYS CORP (0001158463) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1158463/000115846326000004/0001158463-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-01-27T11:47:15.450020+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Twin Hospitality Group Inc. (0002011954) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2011954/000149315226003699/0001493152-26-003699-index.htm"
-  },
-  {
-    "time_utc": "2026-01-27T11:47:15.450024+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Fat Brands, Inc (0001705012) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1705012/000149315226003696/0001493152-26-003696-index.htm"
-  },
-  {
-    "time_utc": "2026-01-27T11:47:15.450069+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - UNITED PARCEL SERVICE INC (0001090727) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1090727/000162828026003510/0001628280-26-003510-index.htm"
-  },
-  {
-    "time_utc": "2026-01-27T11:47:15.450077+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Blue Water Acquisition Corp. III (0002050501) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2050501/000110465926006779/0001104659-26-006779-index.htm"
-  },
-  {
-    "time_utc": "2026-01-26T21:59:39.697315+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DAXOR CORP (0000027367) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/27367/000149315226003615/0001493152-26-003615-index.htm"
-  },
-  {
-    "time_utc": "2026-01-26T21:59:39.697380+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Customers Bancorp, Inc. (0001488813) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1488813/000148881326000015/0001488813-26-000015-index.htm"
-  },
-  {
-    "time_utc": "2026-01-26T21:59:39.697406+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Infinite Eagle Acquisition Corp. (0002084396) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2084396/000121390026007758/0001213900-26-007758-index.htm"
   }
 ]
