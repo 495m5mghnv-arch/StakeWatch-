@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-05-07T21:05:00.856838+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ready Capital Corp (0001527590) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1527590/000162828026032299/0001628280-26-032299-index.htm"
+  },
+  {
+    "time_utc": "2026-05-07T21:05:00.856902+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RRE Ventures Acquisition Corp. (0002123969) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2123969/000119312526212364/0001193125-26-212364-index.htm"
+  },
+  {
     "time_utc": "2026-05-07T18:09:46.331876+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - FARMERS & MERCHANTS BANCORP INC (0000792966) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/792966/000119312526024773/0001193125-26-024773-index.htm"
-  },
-  {
-    "time_utc": "2026-01-27T21:56:14.073897+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Streamex Corp. (0001530766) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1530766/000149315226003820/0001493152-26-003820-index.htm"
-  },
-  {
-    "time_utc": "2026-01-27T21:56:14.073902+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Coeur Mining, Inc. (0000215466) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/215466/000114036126002524/0001140361-26-002524-index.htm"
   }
 ]

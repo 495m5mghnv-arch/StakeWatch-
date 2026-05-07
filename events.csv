@@ -1,4 +1,6 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-05-07T21:05:00.856838+00:00,US,SEC,8-K,,,,8-K - Ready Capital Corp (0001527590) (Filer),https://www.sec.gov/Archives/edgar/data/1527590/000162828026032299/0001628280-26-032299-index.htm
+2026-05-07T21:05:00.856902+00:00,US,SEC,8-K,,,,8-K - RRE Ventures Acquisition Corp. (0002123969) (Filer),https://www.sec.gov/Archives/edgar/data/2123969/000119312526212364/0001193125-26-212364-index.htm
 2026-05-07T18:09:46.331876+00:00,US,SEC,8-K,,,,"8-K - EQT Exeter Real Estate Income Trust, Inc. (0001946997) (Filer)",https://www.sec.gov/Archives/edgar/data/1946997/000194699726000002/0001946997-26-000002-index.htm
 2026-05-07T16:28:50.010654+00:00,US,SEC,8-K,,,,8-K - COMMERCE BANCSHARES INC /MO/ (0000022356) (Filer),https://www.sec.gov/Archives/edgar/data/22356/000002235626000131/0000022356-26-000131-index.htm
 2026-05-07T14:46:32.505731+00:00,US,SEC,8-K,,,,"8-K - Essential Utilities, Inc. (0000078128) (Filer)",https://www.sec.gov/Archives/edgar/data/78128/000155278126000307/0001552781-26-000307-index.htm
@@ -1997,5 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-01-27T21:56:14.073827+00:00,US,SEC,8-K,,,,8-K - Satellogic Inc. (0001874315) (Filer),https://www.sec.gov/Archives/edgar/data/1874315/000143774926002213/0001437749-26-002213-index.htm
 2026-01-27T21:56:14.073845+00:00,US,SEC,8-K,,,,"8-K - Tectonic Financial, Inc. (0001766526) (Filer)",https://www.sec.gov/Archives/edgar/data/1766526/000118518526000305/0001185185-26-000305-index.htm
 2026-01-27T21:56:14.073878+00:00,US,SEC,8-K,,,,8-K - FARMERS & MERCHANTS BANCORP INC (0000792966) (Filer),https://www.sec.gov/Archives/edgar/data/792966/000119312526024773/0001193125-26-024773-index.htm
-2026-01-27T21:56:14.073897+00:00,US,SEC,8-K,,,,8-K - Streamex Corp. (0001530766) (Filer),https://www.sec.gov/Archives/edgar/data/1530766/000149315226003820/0001493152-26-003820-index.htm
-2026-01-27T21:56:14.073902+00:00,US,SEC,8-K,,,,"8-K - Coeur Mining, Inc. (0000215466) (Filer)",https://www.sec.gov/Archives/edgar/data/215466/000114036126002524/0001140361-26-002524-index.htm
