@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-05-07T14:46:32.505731+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Essential Utilities, Inc. (0000078128) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000307/0001552781-26-000307-index.htm"
+  },
+  {
     "time_utc": "2026-05-07T12:05:35.124453+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - TRUSTMARK CORP (0000036146) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/36146/000119312526024604/0001193125-26-024604-index.htm"
-  },
-  {
-    "time_utc": "2026-01-27T21:42:11.061264+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - RENASANT CORP (0000715072) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/715072/000071507226000004/0000715072-26-000004-index.htm"
   }
 ]
