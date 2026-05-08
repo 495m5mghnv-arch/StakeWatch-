@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-05-08T12:00:24.924394+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ridgepost Capital, Inc. (0001841968) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1841968/000119312526213371/0001193125-26-213371-index.htm"
+  },
+  {
+    "time_utc": "2026-05-08T12:00:24.924438+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PPL Corp (0000922224) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/922224/000092222426000024/0000922224-26-000024-index.htm"
+  },
+  {
+    "time_utc": "2026-05-08T12:00:24.924464+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Digi Power X Inc. (0001854368) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026053566/0001213900-26-053566-index.htm"
+  },
+  {
     "time_utc": "2026-05-08T10:46:50.982500+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - AT&T INC. (0000732717) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000047/0000732717-26-000047-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T11:45:19.415547+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TEXTRON INC (0000217346) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/217346/000021734626000002/0000217346-26-000002-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T11:45:19.415567+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AT&T INC. (0000732717) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000046/0000732717-26-000046-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T11:45:19.415574+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GE Vernova Inc. (0001996810) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000012/0001996810-26-000012-index.htm"
   }
 ]

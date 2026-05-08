@@ -1,4 +1,7 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-05-08T12:00:24.924394+00:00,US,SEC,8-K,,,,"8-K - Ridgepost Capital, Inc. (0001841968) (Filer)",https://www.sec.gov/Archives/edgar/data/1841968/000119312526213371/0001193125-26-213371-index.htm
+2026-05-08T12:00:24.924438+00:00,US,SEC,8-K,,,,8-K - PPL Corp (0000922224) (Filer),https://www.sec.gov/Archives/edgar/data/922224/000092222426000024/0000922224-26-000024-index.htm
+2026-05-08T12:00:24.924464+00:00,US,SEC,8-K,,,,8-K - Digi Power X Inc. (0001854368) (Filer),https://www.sec.gov/Archives/edgar/data/1854368/000121390026053566/0001213900-26-053566-index.htm
 2026-05-08T10:46:50.982500+00:00,US,SEC,8-K,,,,8-K - Brookfield Asset Management Ltd. (0001937926) (Filer),https://www.sec.gov/Archives/edgar/data/1937926/000117184326003183/0001171843-26-003183-index.htm
 2026-05-08T10:46:50.982541+00:00,US,SEC,8-K,,,,"8-K - Artiva Biotherapeutics, Inc. (0001817241) (Filer)",https://www.sec.gov/Archives/edgar/data/1817241/000119312526213239/0001193125-26-213239-index.htm
 2026-05-08T10:46:50.982558+00:00,US,SEC,8-K,,,,8-K - INTERFACE INC (0000715787) (Filer),https://www.sec.gov/Archives/edgar/data/715787/000071578726000008/0000715787-26-000008-index.htm
@@ -1996,6 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-01-28T11:45:19.415512+00:00,US,SEC,8-K,,,,8-K - PROSPERITY BANCSHARES INC (0001068851) (Filer),https://www.sec.gov/Archives/edgar/data/1068851/000119312526025602/0001193125-26-025602-index.htm
 2026-01-28T11:45:19.415519+00:00,US,SEC,8-K,,,,"8-K - HALOZYME THERAPEUTICS, INC. (0001159036) (Filer)",https://www.sec.gov/Archives/edgar/data/1159036/000115903626000011/0001159036-26-000011-index.htm
 2026-01-28T11:45:19.415540+00:00,US,SEC,8-K,,,,8-K - AT&T INC. (0000732717) (Filer),https://www.sec.gov/Archives/edgar/data/732717/000073271726000047/0000732717-26-000047-index.htm
-2026-01-28T11:45:19.415547+00:00,US,SEC,8-K,,,,8-K - TEXTRON INC (0000217346) (Filer),https://www.sec.gov/Archives/edgar/data/217346/000021734626000002/0000217346-26-000002-index.htm
-2026-01-28T11:45:19.415567+00:00,US,SEC,8-K,,,,8-K - AT&T INC. (0000732717) (Filer),https://www.sec.gov/Archives/edgar/data/732717/000073271726000046/0000732717-26-000046-index.htm
-2026-01-28T11:45:19.415574+00:00,US,SEC,8-K,,,,8-K - GE Vernova Inc. (0001996810) (Filer),https://www.sec.gov/Archives/edgar/data/1996810/000199681026000012/0001996810-26-000012-index.htm
