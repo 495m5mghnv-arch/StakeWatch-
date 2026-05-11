@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-05-11T20:19:22.844089+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PACS Group, Inc. (0002001184) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2001184/000200118426000024/0002001184-26-000024-index.htm"
+  },
+  {
+    "time_utc": "2026-05-11T20:19:22.844121+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EVI INDUSTRIES, INC. (0000065312) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/65312/000143774926016126/0001437749-26-016126-index.htm"
+  },
+  {
+    "time_utc": "2026-05-11T20:19:22.844168+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Plutonian Acquisition Corp. II (0002065661) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2065661/000147793226002951/0001477932-26-002951-index.htm"
+  },
+  {
     "time_utc": "2026-05-11T14:05:23.550132+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Waterstone Financial, Inc. (0001569994) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1569994/000143774926002305/0001437749-26-002305-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T19:54:40.324916+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PROGRESSIVE CORP/OH/ (0000080661) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000071/0000080661-26-000071-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T14:00:52.432266+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PDS Biotechnology Corp (0001472091) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126002608/0001140361-26-002608-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T11:58:33.610693+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - LENNOX INTERNATIONAL INC (0001069202) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1069202/000106920226000005/0001069202-26-000005-index.htm"
   }
 ]
