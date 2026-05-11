@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-05-11T14:05:23.550132+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BA Credit Card Funding, LLC (0001370238) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1370238/000092963826001791/0000929638-26-001791-index.htm"
+  },
+  {
+    "time_utc": "2026-05-11T14:05:23.550148+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BA Credit Card Trust (0001128250) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1128250/000092963826001791/0000929638-26-001791-index.htm"
+  },
+  {
+    "time_utc": "2026-05-11T14:05:23.550154+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BA Master Credit Card Trust II (0000936988) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/936988/000092963826001791/0000929638-26-001791-index.htm"
+  },
+  {
     "time_utc": "2026-05-11T11:32:47.704664+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - LENNOX INTERNATIONAL INC (0001069202) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1069202/000106920226000005/0001069202-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T11:58:33.610737+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AUTOMATIC DATA PROCESSING INC (0000008670) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/8670/000000867026000006/0000008670-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T11:58:33.610762+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MSCI Inc. (0001408198) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1408198/000140819826000005/0001408198-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T11:58:33.610767+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Stellar Bancorp, Inc. (0001473844) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1473844/000110465926007187/0001104659-26-007187-index.htm"
   }
 ]
