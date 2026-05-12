@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-05-12T20:58:29.006109+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AstroNova, Inc. (0000008146) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/8146/000119312526219737/0001193125-26-219737-index.htm"
+  },
+  {
     "time_utc": "2026-05-12T19:20:30.925562+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - GROUP 1 AUTOMOTIVE INC (0001031203) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000041/0001031203-26-000041-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T11:47:02.145091+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - EAGLE MATERIALS INC (0000918646) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/918646/000119312526028131/0001193125-26-028131-index.htm"
   }
 ]
