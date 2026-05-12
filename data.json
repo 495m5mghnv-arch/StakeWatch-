@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-05-12T10:39:57.867699+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMPCO PITTSBURGH CORP (0000006176) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/6176/000119312526218107/0001193125-26-218107-index.htm"
+  },
+  {
+    "time_utc": "2026-05-12T10:39:57.867719+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aramark (0001584509) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1584509/000158450926000085/0001584509-26-000085-index.htm"
+  },
+  {
+    "time_utc": "2026-05-12T10:39:57.867732+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - JFB Construction Holdings (0002024306) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2024306/000149315226022373/0001493152-26-022373-index.htm"
+  },
+  {
+    "time_utc": "2026-05-12T10:39:57.867740+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ST JOE Co (0000745308) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/745308/000110465926058957/0001104659-26-058957-index.htm"
+  },
+  {
+    "time_utc": "2026-05-12T10:39:57.867743+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cardinal Infrastructure Group Inc. (0002079999) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2079999/000119312526218102/0001193125-26-218102-index.htm"
+  },
+  {
+    "time_utc": "2026-05-12T10:39:57.867747+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ZIMMER BIOMET HOLDINGS, INC. (0001136869) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1136869/000119312526218098/0001193125-26-218098-index.htm"
+  },
+  {
+    "time_utc": "2026-05-12T10:39:57.867751+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Vishay Precision Group, Inc. (0001487952) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1487952/000143774926016226/0001437749-26-016226-index.htm"
+  },
+  {
+    "time_utc": "2026-05-12T10:39:57.867762+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - T1 Energy Inc. (0001992243) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1992243/000121390026054706/0001213900-26-054706-index.htm"
+  },
+  {
     "time_utc": "2026-05-11T20:19:22.844089+00:00",
     "region": "US",
     "source": "SEC",
@@ -21910,93 +21998,5 @@
     "percent": "",
     "title": "8-K - MVB FINANCIAL CORP (0001277902) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1277902/000127790226000003/0001277902-26-000003-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T21:02:24.093636+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SenesTech, Inc. (0001680378) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1680378/000162828026003828/0001628280-26-003828-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T21:02:24.093653+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BELDEN INC. (0000913142) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/913142/000119312526027195/0001193125-26-027195-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T21:02:24.093675+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - KEYCORP /NEW/ (0000091576) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/91576/000119312526027193/0001193125-26-027193-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T21:02:24.093680+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - JABIL INC (0000898293) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/898293/000119312526027194/0001193125-26-027194-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T21:02:24.093694+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sonoma Pharmaceuticals, Inc. (0001367083) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1367083/000168316826000589/0001683168-26-000589-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T21:02:24.093711+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BANK OF THE JAMES FINANCIAL GROUP INC (0001275101) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1275101/000127510126000005/0001275101-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T21:02:24.093730+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SR Bancorp, Inc. (0001951276) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1951276/000119312526027191/0001193125-26-027191-index.htm"
-  },
-  {
-    "time_utc": "2026-01-28T21:02:24.093748+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Waterstone Financial, Inc. (0001569994) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1569994/000143774926002305/0001437749-26-002305-index.htm"
   }
 ]
