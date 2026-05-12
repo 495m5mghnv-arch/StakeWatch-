@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-05-12T19:20:30.925562+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MID PENN BANCORP INC (0000879635) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/879635/000087963526000039/0000879635-26-000039-index.htm"
+  },
+  {
     "time_utc": "2026-05-12T15:24:49.010358+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - EAGLE MATERIALS INC (0000918646) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/918646/000119312526028131/0001193125-26-028131-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T11:47:02.145100+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CSW INDUSTRIALS, INC. (0001624794) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1624794/000162479426000016/0001624794-26-000016-index.htm"
   }
 ]
