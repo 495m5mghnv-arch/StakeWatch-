@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-05-12T15:24:49.010358+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Octave Intelligence plc (0002083632) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2083632/000162828026033950/0001628280-26-033950-index.htm"
+  },
+  {
+    "time_utc": "2026-05-12T15:24:49.010444+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - JACK HENRY & ASSOCIATES INC (0000779152) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/779152/000077915226000027/0000779152-26-000027-index.htm"
+  },
+  {
     "time_utc": "2026-05-12T12:28:28.831093+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - CSW INDUSTRIALS, INC. (0001624794) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1624794/000162479426000016/0001624794-26-000016-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T11:47:02.145108+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WESTWATER RESOURCES, INC. (0000839470) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/839470/000110465926007664/0001104659-26-007664-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T11:47:02.145121+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Xerox Holdings Corp (0001770450) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1770450/000177045026000003/0001770450-26-000003-index.htm"
   }
 ]
