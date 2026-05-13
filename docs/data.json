@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-05-13T10:45:34.072951+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Eos Energy Enterprises, Inc. (0001805077) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026034367/0001628280-26-034367-index.htm"
+  },
+  {
+    "time_utc": "2026-05-13T10:45:34.072979+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aprea Therapeutics, Inc. (0001781983) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1781983/000110465926059734/0001104659-26-059734-index.htm"
+  },
+  {
+    "time_utc": "2026-05-13T10:45:34.072985+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Dynatrace, Inc. (0001773383) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1773383/000177338326000011/0001773383-26-000011-index.htm"
+  },
+  {
+    "time_utc": "2026-05-13T10:45:34.072998+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Castellum, Inc. (0001877939) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1877939/000187793926000036/0001877939-26-000036-index.htm"
+  },
+  {
+    "time_utc": "2026-05-13T10:45:34.073003+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COMPASS Pathways plc (0001816590) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1816590/000181659026000043/0001816590-26-000043-index.htm"
+  },
+  {
     "time_utc": "2026-05-12T20:58:29.006109+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - UNITED GUARDIAN INC (0000101295) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/101295/000117184326000508/0001171843-26-000508-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T14:11:10.911989+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DONEGAL GROUP INC (0000800457) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/800457/000117184326000509/0001171843-26-000509-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T14:11:10.911999+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DeFi Development Corp. (0001805526) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1805526/000121390026009173/0001213900-26-009173-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T14:11:10.912021+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - United States Commodity Index Funds Trust (0001479247) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1479247/000110465926007766/0001104659-26-007766-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T14:11:10.912028+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - United States Brent Oil Fund, LP (0001472494) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1472494/000110465926007764/0001104659-26-007764-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T11:47:02.145074+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GROUP 1 AUTOMOTIVE INC (0001031203) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000041/0001031203-26-000041-index.htm"
   }
 ]
