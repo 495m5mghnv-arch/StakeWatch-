@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-05-13T15:48:18.703697+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Arthur J. Gallagher & Co. (0000354190) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/354190/000035419026000142/0000354190-26-000142-index.htm"
+  },
+  {
+    "time_utc": "2026-05-13T15:48:18.703730+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kentucky First Federal Bancorp (0001297341) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1297341/000121390026055573/0001213900-26-055573-index.htm"
+  },
+  {
     "time_utc": "2026-05-13T13:03:53.719972+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Rainmaker Worldwide Inc. (0001872292) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226004190/0001493152-26-004190-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T16:04:45.946343+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - STRYVE FOODS, INC. (0001691936) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1691936/000149315226004166/0001493152-26-004166-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T14:11:10.911917+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - VSE CORP (0000102752) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/102752/000119312526028344/0001193125-26-028344-index.htm"
   }
 ]
