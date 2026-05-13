@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-05-13T13:03:53.719972+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Knight-Swift Transportation Holdings Inc. (0001492691) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1492691/000149269126000047/0001492691-26-000047-index.htm"
+  },
+  {
+    "time_utc": "2026-05-13T13:03:53.720032+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BEASLEY BROADCAST GROUP INC (0001099160) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1099160/000119312526220728/0001193125-26-220728-index.htm"
+  },
+  {
+    "time_utc": "2026-05-13T13:03:53.720053+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cohen & Steers Income Opportunities REIT, Inc. (0001939433) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1939433/000193943326000071/0001939433-26-000071-index.htm"
+  },
+  {
+    "time_utc": "2026-05-13T13:03:53.720069+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - METTLER TOLEDO INTERNATIONAL INC/ (0001037646) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1037646/000103764626000026/0001037646-26-000026-index.htm"
+  },
+  {
     "time_utc": "2026-05-13T10:45:34.072951+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - VSE CORP (0000102752) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/102752/000119312526028344/0001193125-26-028344-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T14:11:10.911957+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MINERALRITE Corp (0001096296) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1096296/000153949726000189/0001539497-26-000189-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T14:11:10.911974+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Agape ATP Corp (0001713210) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1713210/000149315226004150/0001493152-26-004150-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T14:11:10.911980+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ENCISION INC (0000930775) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/930775/000107997326000132/0001079973-26-000132-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T14:11:10.911984+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - UNITED GUARDIAN INC (0000101295) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/101295/000117184326000508/0001171843-26-000508-index.htm"
   }
 ]
