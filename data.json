@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-05-14T18:53:53.334552+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HYSTER-YALE, INC. (0001173514) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1173514/000117351426000125/0001173514-26-000125-index.htm"
+  },
+  {
     "time_utc": "2026-05-14T14:46:00.179342+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - McEwen Inc. (0000314203) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/314203/000110465926008897/0001104659-26-008897-index.htm"
-  },
-  {
-    "time_utc": "2026-02-02T11:58:27.047191+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Venture Global, Inc. (0002007855) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2007855/000200785526000006/0002007855-26-000006-index.htm"
   }
 ]
