@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-05-14T10:36:29.594987+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Forgent Power Solutions, Inc. (0002080126) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2080126/000208012626000017/0002080126-26-000017-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T10:36:29.595008+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Fermi Inc. (0002071778) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2071778/000207177826000027/0002071778-26-000027-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T10:36:29.595035+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WOLVERINE WORLD WIDE INC /DE/ (0000110471) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/110471/000162828026034777/0001628280-26-034777-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T10:36:29.595091+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HyOrc Corp (0001070789) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1070789/000149315226022853/0001493152-26-022853-index.htm"
+  },
+  {
     "time_utc": "2026-05-13T21:26:54.940569+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - Designer Brands Inc. (0001319947) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1319947/000131994726000004/0001319947-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T21:54:57.734593+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CAVCO INDUSTRIES, INC. (0000278166) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/278166/000162828026004168/0001628280-26-004168-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T20:55:51.633572+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - UNITED STATES ANTIMONY CORP (0000101538) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/101538/000110465926007951/0001104659-26-007951-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T19:44:14.124687+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TRUSTCO BANK CORP N Y (0000357301) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/357301/000114036126002778/0001140361-26-002778-index.htm"
-  },
-  {
-    "time_utc": "2026-01-29T19:44:14.124710+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - COMMUNITY BANCORP /VT (0000718413) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/718413/000165495426000702/0001654954-26-000702-index.htm"
   }
 ]
