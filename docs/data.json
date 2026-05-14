@@ -1,5 +1,137 @@
 [
   {
+    "time_utc": "2026-05-14T12:15:46.121588+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Candel Therapeutics, Inc. (0001841387) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526222892/0001193125-26-222892-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T12:15:46.121606+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Corbus Pharmaceuticals Holdings, Inc. (0001595097) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1595097/000119312526222890/0001193125-26-222890-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T12:15:46.121615+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Dine Brands Global, Inc. (0000049754) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/49754/000119312526222891/0001193125-26-222891-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T12:15:46.121622+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ondas Inc. (0001646188) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026056235/0001213900-26-056235-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T12:15:46.121630+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FORUM MARKETS Inc (0001690080) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1690080/000121390026056234/0001213900-26-056234-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T12:15:46.121652+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cingulate Inc. (0001862150) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1862150/000149315226022881/0001493152-26-022881-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T12:15:46.121659+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Benitec Biopharma Inc. (0001808898) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526222879/0001193125-26-222879-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T12:15:46.121682+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MeiraGTx Holdings plc (0001735438) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1735438/000110465926060726/0001104659-26-060726-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T12:15:46.121691+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Apyx Medical Corp (0000719135) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/719135/000143774926016885/0001437749-26-016885-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T12:15:46.121695+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OFF THE HOOK YS INC. (0002067767) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226022878/0001493152-26-022878-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T12:15:46.121699+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Lucid Diagnostics Inc. (0001799011) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1799011/000149315226022877/0001493152-26-022877-index.htm"
+  },
+  {
+    "time_utc": "2026-05-14T12:15:46.121703+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Genprex, Inc. (0001595248) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1595248/000143774926016883/0001437749-26-016883-index.htm"
+  },
+  {
     "time_utc": "2026-05-14T10:36:29.594987+00:00",
     "region": "US",
     "source": "SEC",
@@ -21866,137 +21998,5 @@
     "percent": "",
     "title": "8-K - Planet Green Holdings Corp. (0001117057) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1117057/000121390026010509/0001213900-26-010509-index.htm"
-  },
-  {
-    "time_utc": "2026-01-30T22:00:29.920624+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Comstock Inc. (0001120970) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1120970/000121390026010287/0001213900-26-010287-index.htm"
-  },
-  {
-    "time_utc": "2026-01-30T22:00:29.920689+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Marquie Group, Inc. (0001434601) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1434601/000168316826000642/0001683168-26-000642-index.htm"
-  },
-  {
-    "time_utc": "2026-01-30T21:49:44.894634+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PENNANTPARK INVESTMENT CORP (0001383414) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1383414/000119312526031964/0001193125-26-031964-index.htm"
-  },
-  {
-    "time_utc": "2026-01-30T15:54:50.646960+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ENERGY RESOURCES 12, L.P. (0001696088) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1696088/000143774926002493/0001437749-26-002493-index.htm"
-  },
-  {
-    "time_utc": "2026-01-30T15:54:50.646986+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Energy 11, L.P. (0001581552) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1581552/000143774926002492/0001437749-26-002492-index.htm"
-  },
-  {
-    "time_utc": "2026-01-30T14:07:22.387360+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ILLUMINA, INC. (0001110803) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000014/0001110803-26-000014-index.htm"
-  },
-  {
-    "time_utc": "2026-01-30T14:07:22.387397+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Hancock Park Corporate Income, Inc. (0001661306) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000008/0001661306-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-01-30T14:07:22.387422+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Apollo Realty Income Solutions, Inc. (0001882850) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1882850/000119312526030625/0001193125-26-030625-index.htm"
-  },
-  {
-    "time_utc": "2026-01-30T14:07:22.387434+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Starwood Credit Real Estate Income Trust (0001986395) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1986395/000119312526030623/0001193125-26-030623-index.htm"
-  },
-  {
-    "time_utc": "2026-01-30T14:07:22.387443+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - North Haven Net REIT (0001999784) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000009/0001999784-26-000009-index.htm"
-  },
-  {
-    "time_utc": "2026-01-30T11:55:50.226286+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - REGENERON PHARMACEUTICALS, INC. (0000872589) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/872589/000087258926000004/0000872589-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-01-30T11:55:50.226313+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Designer Brands Inc. (0001319947) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1319947/000131994726000004/0001319947-26-000004-index.htm"
   }
 ]
