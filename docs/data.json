@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-05-15T13:02:20.112230+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Professional Diversity Network, Inc. (0001546296) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1546296/000143774926017234/0001437749-26-017234-index.htm"
+  },
+  {
+    "time_utc": "2026-05-15T13:02:20.112301+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UNITED GUARDIAN INC (0000101295) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/101295/000117184326003455/0001171843-26-003455-index.htm"
+  },
+  {
     "time_utc": "2026-05-15T11:00:12.764491+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Ondas Inc. (0001646188) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026010573/0001213900-26-010573-index.htm"
-  },
-  {
-    "time_utc": "2026-02-02T14:27:43.618443+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Agape ATP Corp (0001713210) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1713210/000149315226004669/0001493152-26-004669-index.htm"
-  },
-  {
-    "time_utc": "2026-02-02T11:58:27.047057+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - COMERICA INC (0000028412) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/28412/000119312526032627/0001193125-26-032627-index.htm"
   }
 ]
