@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-05-15T17:09:49.409768+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Columbia Financial, Inc./MD/ (0002115119) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2115119/000119312526226075/0001193125-26-226075-index.htm"
+  },
+  {
     "time_utc": "2026-05-15T13:02:20.112230+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Antares Private Credit Fund (0001976336) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1976336/000119312526032877/0001193125-26-032877-index.htm"
-  },
-  {
-    "time_utc": "2026-02-02T14:27:43.618432+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Ondas Inc. (0001646188) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026010573/0001213900-26-010573-index.htm"
   }
 ]
