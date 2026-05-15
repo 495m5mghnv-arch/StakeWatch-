@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-05-15T11:00:12.764491+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Clearway Energy LLC (0001637757) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1637757/000110465926061750/0001104659-26-061750-index.htm"
+  },
+  {
+    "time_utc": "2026-05-15T11:00:12.764510+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Clearway Energy, Inc. (0001567683) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1567683/000110465926061748/0001104659-26-061748-index.htm"
+  },
+  {
     "time_utc": "2026-05-14T20:26:45.176925+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - COMERICA INC (0000028412) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/28412/000119312526032627/0001193125-26-032627-index.htm"
-  },
-  {
-    "time_utc": "2026-02-02T11:58:27.047082+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ESAB Corp (0001877322) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1877322/000121390026010528/0001213900-26-010528-index.htm"
-  },
-  {
-    "time_utc": "2026-02-02T11:58:27.047116+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FIFTH THIRD BANCORP (0000035527) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/35527/000119312526032625/0001193125-26-032625-index.htm"
   }
 ]
