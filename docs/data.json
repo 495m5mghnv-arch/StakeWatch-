@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-05-18T10:05:19.516142+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LiveRamp Holdings, Inc. (0000733269) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/733269/000110465926062908/0001104659-26-062908-index.htm"
+  },
+  {
+    "time_utc": "2026-05-18T10:05:19.516159+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000149315226024029/0001493152-26-024029-index.htm"
+  },
+  {
+    "time_utc": "2026-05-18T10:05:19.516165+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TOYOTA MOTOR CREDIT CORP (0000834071) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/834071/000095010326007308/0000950103-26-007308-index.htm"
+  },
+  {
+    "time_utc": "2026-05-18T10:05:19.516197+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PERMA FIX ENVIRONMENTAL SERVICES INC (0000891532) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/891532/000149315226024026/0001493152-26-024026-index.htm"
+  },
+  {
+    "time_utc": "2026-05-18T10:05:19.516215+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CoreCivic, Inc. (0001070985) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1070985/000119312526227820/0001193125-26-227820-index.htm"
+  },
+  {
     "time_utc": "2026-05-15T21:30:17.790251+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Marathon Petroleum Corp (0001510295) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000003/0001510295-26-000003-index.htm"
-  },
-  {
-    "time_utc": "2026-02-03T11:52:09.834813+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ARKO Corp. (0001823794) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1823794/000119312526034392/0001193125-26-034392-index.htm"
-  },
-  {
-    "time_utc": "2026-02-03T11:52:09.834824+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SemiLEDs Corp (0001333822) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1333822/000119312526034388/0001193125-26-034388-index.htm"
-  },
-  {
-    "time_utc": "2026-02-02T18:06:22.817297+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - E-Smart Corp. (0001995920) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1995920/000199592026000005/0001995920-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-02-02T18:06:22.817333+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SLM Student Loan Trust 2006-7 (0001370218) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1370218/000114036126003134/0001140361-26-003134-index.htm"
-  },
-  {
-    "time_utc": "2026-02-02T14:27:43.618378+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PACIFIC BIOSCIENCES OF CALIFORNIA, INC. (0001299130) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1299130/000110465926009014/0001104659-26-009014-index.htm"
   }
 ]
