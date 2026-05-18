@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-05-18T18:51:44.714561+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - STARRY SEA ACQUISITION CORP (0002059165) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2059165/000182912626005412/0001829126-26-005412-index.htm"
+  },
+  {
     "time_utc": "2026-05-18T13:58:45.452390+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Merck & Co., Inc. (0000310158) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/310158/000110465926009495/0001104659-26-009495-index.htm"
-  },
-  {
-    "time_utc": "2026-02-03T11:52:09.834802+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MPLX LP (0001552000) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1552000/000155200026000004/0001552000-26-000004-index.htm"
   }
 ]
