@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-05-18T13:58:45.452390+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tri-State Generation & Transmission Association, Inc. (0001637880) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1637880/000163788026000027/0001637880-26-000027-index.htm"
+  },
+  {
     "time_utc": "2026-05-18T10:05:19.516142+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - MPLX LP (0001552000) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1552000/000155200026000004/0001552000-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-02-03T11:52:09.834807+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Marathon Petroleum Corp (0001510295) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000003/0001510295-26-000003-index.htm"
   }
 ]
