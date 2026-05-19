@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-05-19T13:28:46.906754+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000097/0001331465-26-000097-index.htm"
+  },
+  {
+    "time_utc": "2026-05-19T13:28:46.906813+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1330399/000119312526229794/0001193125-26-229794-index.htm"
+  },
+  {
+    "time_utc": "2026-05-19T13:28:46.906826+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ROGERS CORP (0000084748) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/84748/000008474826000036/0000084748-26-000036-index.htm"
+  },
+  {
     "time_utc": "2026-05-19T10:06:39.422205+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Caring Brands, Inc. (0002020737) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2020737/000149315226004846/0001493152-26-004846-index.htm"
-  },
-  {
-    "time_utc": "2026-02-03T14:33:07.694449+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GPGI, Inc. (0001823144) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1823144/000095014226000289/0000950142-26-000289-index.htm"
-  },
-  {
-    "time_utc": "2026-02-03T11:52:09.834743+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PJT Partners Inc. (0001626115) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1626115/000119312526034409/0001193125-26-034409-index.htm"
-  },
-  {
-    "time_utc": "2026-02-03T11:52:09.834764+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Capri Holdings Ltd (0001530721) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1530721/000153072126000009/0001530721-26-000009-index.htm"
   }
 ]
