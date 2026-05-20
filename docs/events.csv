@@ -1,4 +1,8 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-05-20T21:21:50.094987+00:00,US,SEC,8-K,,,,"8-K - Sound Point Meridian Capital, Inc. (0001930147) (Filer)",https://www.sec.gov/Archives/edgar/data/1930147/000182912626005503/0001829126-26-005503-index.htm
+2026-05-20T21:21:50.095021+00:00,US,SEC,8-K,,,,"8-K - Life Time Group Holdings, Inc. (0001869198) (Filer)",https://www.sec.gov/Archives/edgar/data/1869198/000186919826000036/0001869198-26-000036-index.htm
+2026-05-20T21:21:50.095029+00:00,US,SEC,8-K,,,,"8-K - LEE ENTERPRISES, Inc (0000058361) (Filer)",https://www.sec.gov/Archives/edgar/data/58361/000005836126000046/0000058361-26-000046-index.htm
+2026-05-20T21:21:50.095040+00:00,US,SEC,8-K,,,,"8-K - Strawberry Fields REIT, Inc. (0001782430) (Filer)",https://www.sec.gov/Archives/edgar/data/1782430/000149315226024667/0001493152-26-024667-index.htm
 2026-05-20T19:35:32.342372+00:00,US,SEC,8-K,,,,"8-K - Elvictor Group, Inc. (0001741489) (Filer)",https://www.sec.gov/Archives/edgar/data/1741489/000121390026059476/0001213900-26-059476-index.htm
 2026-05-20T19:35:32.342426+00:00,US,SEC,8-K,,,,8-K - WATTS WATER TECHNOLOGIES INC (0000795403) (Filer),https://www.sec.gov/Archives/edgar/data/795403/000110465926064461/0001104659-26-064461-index.htm
 2026-05-20T11:18:17.656408+00:00,US,SEC,8-K,,,,8-K - Roivant Sciences Ltd. (0001635088) (Filer),https://www.sec.gov/Archives/edgar/data/1635088/000163508826000060/0001635088-26-000060-index.htm
@@ -1995,7 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-02-04T11:49:03.242661+00:00,US,SEC,8-K,,,,8-K - Avery Dennison Corp (0000008818) (Filer),https://www.sec.gov/Archives/edgar/data/8818/000000881826000004/0000008818-26-000004-index.htm
 2026-02-04T11:49:03.242671+00:00,US,SEC,8-K,,,,8-K - Evercore Inc. (0001360901) (Filer),https://www.sec.gov/Archives/edgar/data/1360901/000162828026005263/0001628280-26-005263-index.htm
 2026-02-04T11:49:03.242683+00:00,US,SEC,8-K,,,,8-K - BOSTON SCIENTIFIC CORP (0000885725) (Filer),https://www.sec.gov/Archives/edgar/data/885725/000088572526000006/0000885725-26-000006-index.htm
-2026-02-04T11:49:03.242688+00:00,US,SEC,8-K,,,,8-K - EQUIFAX INC (0000033185) (Filer),https://www.sec.gov/Archives/edgar/data/33185/000003318526000004/0000033185-26-000004-index.htm
-2026-02-04T11:49:03.242693+00:00,US,SEC,8-K,,,,8-K - COGNIZANT TECHNOLOGY SOLUTIONS CORP (0001058290) (Filer),https://www.sec.gov/Archives/edgar/data/1058290/000105829026000003/0001058290-26-000003-index.htm
-2026-02-04T11:49:03.242698+00:00,US,SEC,8-K,,,,"8-K - Cencora, Inc. (0001140859) (Filer)",https://www.sec.gov/Archives/edgar/data/1140859/000114085926000004/0001140859-26-000004-index.htm
-2026-02-04T11:49:03.242708+00:00,US,SEC,8-K,,,,8-K - BIO-TECHNE Corp (0000842023) (Filer),https://www.sec.gov/Archives/edgar/data/842023/000110465926009994/0001104659-26-009994-index.htm
