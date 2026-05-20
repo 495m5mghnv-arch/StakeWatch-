@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-05-20T19:35:32.342372+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Elvictor Group, Inc. (0001741489) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1741489/000121390026059476/0001213900-26-059476-index.htm"
+  },
+  {
+    "time_utc": "2026-05-20T19:35:32.342426+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WATTS WATER TECHNOLOGIES INC (0000795403) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/795403/000110465926064461/0001104659-26-064461-index.htm"
+  },
+  {
     "time_utc": "2026-05-20T11:18:17.656408+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - BIO-TECHNE Corp (0000842023) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/842023/000110465926009994/0001104659-26-009994-index.htm"
-  },
-  {
-    "time_utc": "2026-02-04T11:49:03.242718+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GE HealthCare Technologies Inc. (0001932393) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1932393/000193239326000006/0001932393-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-02-04T11:49:03.242725+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Bunge Global SA (0001996862) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1996862/000162828026005261/0001628280-26-005261-index.htm"
   }
 ]
