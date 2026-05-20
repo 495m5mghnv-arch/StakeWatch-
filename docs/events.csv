@@ -1,4 +1,10 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-05-20T11:18:17.656408+00:00,US,SEC,8-K,,,,8-K - Roivant Sciences Ltd. (0001635088) (Filer),https://www.sec.gov/Archives/edgar/data/1635088/000163508826000060/0001635088-26-000060-index.htm
+2026-05-20T11:18:17.656423+00:00,US,SEC,8-K,,,,"8-K - Immunovant, Inc. (0001764013) (Filer)",https://www.sec.gov/Archives/edgar/data/1764013/000176401326000062/0001764013-26-000062-index.htm
+2026-05-20T11:18:17.656447+00:00,US,SEC,8-K,,,,8-K - Sachem Capital Corp. (0001682220) (Filer),https://www.sec.gov/Archives/edgar/data/1682220/000168222026000041/0001682220-26-000041-index.htm
+2026-05-20T11:18:17.656456+00:00,US,SEC,8-K,,,,8-K - Philip Morris International Inc. (0001413329) (Filer),https://www.sec.gov/Archives/edgar/data/1413329/000162828026036721/0001628280-26-036721-index.htm
+2026-05-20T11:18:17.656474+00:00,US,SEC,8-K,,,,8-K - ANALOG DEVICES INC (0000006281) (Filer),https://www.sec.gov/Archives/edgar/data/6281/000000628126000050/0000006281-26-000050-index.htm
+2026-05-20T11:18:17.656491+00:00,US,SEC,8-K,,,,8-K - INNOVATIVE INDUSTRIAL PROPERTIES INC (0001677576) (Filer),https://www.sec.gov/Archives/edgar/data/1677576/000110465926064109/0001104659-26-064109-index.htm
 2026-05-19T16:38:09.701693+00:00,US,SEC,8-K,,,,8-K - APi Group Corp (0001796209) (Filer),https://www.sec.gov/Archives/edgar/data/1796209/000162828026036256/0001628280-26-036256-index.htm
 2026-05-19T13:28:46.906754+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer),https://www.sec.gov/Archives/edgar/data/1331465/000133146526000097/0001331465-26-000097-index.htm
 2026-05-19T13:28:46.906813+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer),https://www.sec.gov/Archives/edgar/data/1330399/000119312526229794/0001193125-26-229794-index.htm
@@ -1993,9 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-02-04T11:49:03.242708+00:00,US,SEC,8-K,,,,8-K - BIO-TECHNE Corp (0000842023) (Filer),https://www.sec.gov/Archives/edgar/data/842023/000110465926009994/0001104659-26-009994-index.htm
 2026-02-04T11:49:03.242718+00:00,US,SEC,8-K,,,,8-K - GE HealthCare Technologies Inc. (0001932393) (Filer),https://www.sec.gov/Archives/edgar/data/1932393/000193239326000006/0001932393-26-000006-index.htm
 2026-02-04T11:49:03.242725+00:00,US,SEC,8-K,,,,8-K - Bunge Global SA (0001996862) (Filer),https://www.sec.gov/Archives/edgar/data/1996862/000162828026005261/0001628280-26-005261-index.htm
-2026-02-04T11:49:03.242729+00:00,US,SEC,8-K,,,,8-K - Eva Live Inc (0001983736) (Filer),https://www.sec.gov/Archives/edgar/data/1983736/000149315226005003/0001493152-26-005003-index.htm
-2026-02-03T17:40:13.438832+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer),https://www.sec.gov/Archives/edgar/data/1325814/000132581426000014/0001325814-26-000014-index.htm
-2026-02-03T17:40:13.438871+00:00,US,SEC,8-K,,,,8-K - StoneBridge Acquisition II Corp (0002043630) (Filer),https://www.sec.gov/Archives/edgar/data/2043630/000182912626000908/0001829126-26-000908-index.htm
-2026-02-03T14:33:07.694362+00:00,US,SEC,8-K,,,,8-K - Aureus Greenway Holdings Inc (0002009312) (Filer),https://www.sec.gov/Archives/edgar/data/2009312/000149315226004848/0001493152-26-004848-index.htm
-2026-02-03T14:33:07.694387+00:00,US,SEC,8-K,,,,"8-K - Rayonier, L.P. (0001806931) (Filer)",https://www.sec.gov/Archives/edgar/data/1806931/000005282726000018/0000052827-26-000018-index.htm
-2026-02-03T14:33:07.694393+00:00,US,SEC,8-K,,,,8-K - RAYONIER INC (0000052827) (Filer),https://www.sec.gov/Archives/edgar/data/52827/000005282726000018/0000052827-26-000018-index.htm
