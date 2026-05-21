@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-05-21T19:20:55.734014+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KKR FS Income Trust (0001930679) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1930679/000110465926065107/0001104659-26-065107-index.htm"
+  },
+  {
+    "time_utc": "2026-05-21T19:20:55.734040+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KKR FS Income Trust Select (0001975736) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1975736/000110465926065106/0001104659-26-065106-index.htm"
+  },
+  {
     "time_utc": "2026-05-21T17:16:44.966044+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - ALLIANCEBERNSTEIN L.P. (0001109448) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1109448/000110944826000011/0001109448-26-000011-index.htm"
-  },
-  {
-    "time_utc": "2026-02-05T11:54:04.180949+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ITT INC. (0000216228) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/216228/000021622826000005/0000216228-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-02-05T11:54:04.180955+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Snap-on Inc (0000091440) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000008/0000091440-26-000008-index.htm"
   }
 ]
