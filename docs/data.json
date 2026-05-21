@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-05-21T17:16:44.966044+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TRIMAS CORP (0000842633) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/842633/000084263326000033/0000842633-26-000033-index.htm"
+  },
+  {
     "time_utc": "2026-05-21T14:28:42.019986+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Snap-on Inc (0000091440) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000008/0000091440-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-02-05T11:54:04.180975+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - OneMain Holdings, Inc. (0001584207) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1584207/000158420726000004/0001584207-26-000004-index.htm"
   }
 ]
