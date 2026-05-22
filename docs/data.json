@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-05-22T20:49:43.554464+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MOLSON COORS BEVERAGE CO (0000024545) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/24545/000110465926065786/0001104659-26-065786-index.htm"
+  },
+  {
+    "time_utc": "2026-05-22T20:49:43.554525+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Global Indemnity Group, LLC (0001494904) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1494904/000119312526237087/0001193125-26-237087-index.htm"
+  },
+  {
     "time_utc": "2026-05-22T17:22:48.207178+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - XPO, Inc. (0001166003) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1166003/000110465926010610/0001104659-26-010610-index.htm"
-  },
-  {
-    "time_utc": "2026-02-05T11:54:04.180875+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CARDINAL HEALTH INC (0000721371) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/721371/000072137126000004/0000721371-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-02-05T11:54:04.180880+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - HERSHEY CO (0000047111) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/47111/000162828026005604/0001628280-26-005604-index.htm"
   }
 ]
