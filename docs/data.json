@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-05-26T17:42:28.068219+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMETEK INC/ (0001037868) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1037868/000103786826000163/0001037868-26-000163-index.htm"
+  },
+  {
     "time_utc": "2026-05-22T20:49:43.554464+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - KKR & Co. Inc. (0001404912) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000002/0001404912-26-000002-index.htm"
-  },
-  {
-    "time_utc": "2026-02-05T11:54:04.180868+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - XPO, Inc. (0001166003) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1166003/000110465926010610/0001104659-26-010610-index.htm"
   }
 ]
