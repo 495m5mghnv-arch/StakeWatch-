@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-05-28T21:23:19.590315+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CALERES INC (0000014707) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/14707/000001470726000070/0000014707-26-000070-index.htm"
+  },
+  {
+    "time_utc": "2026-05-28T21:23:19.590378+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SOLIGENIX, INC. (0000812796) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/812796/000110465926067649/0001104659-26-067649-index.htm"
+  },
+  {
     "time_utc": "2026-05-28T12:02:19.530479+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Magnolia Oil & Gas Corp (0001698990) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1698990/000169899026000002/0001698990-26-000002-index.htm"
-  },
-  {
-    "time_utc": "2026-02-05T21:03:09.558669+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Newbridge Acquisition Ltd (0001918414) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1918414/000121390026012753/0001213900-26-012753-index.htm"
-  },
-  {
-    "time_utc": "2026-02-05T21:03:09.558675+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MCGRATH RENTCORP (0000752714) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/752714/000119312526039337/0001193125-26-039337-index.htm"
   }
 ]

@@ -1,4 +1,6 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-05-28T21:23:19.590315+00:00,US,SEC,8-K,,,,8-K - CALERES INC (0000014707) (Filer),https://www.sec.gov/Archives/edgar/data/14707/000001470726000070/0000014707-26-000070-index.htm
+2026-05-28T21:23:19.590378+00:00,US,SEC,8-K,,,,"8-K - SOLIGENIX, INC. (0000812796) (Filer)",https://www.sec.gov/Archives/edgar/data/812796/000110465926067649/0001104659-26-067649-index.htm
 2026-05-28T12:02:19.530479+00:00,US,SEC,8-K,,,,"8-K - Reservoir Media, Inc. (0001824403) (Filer)",https://www.sec.gov/Archives/edgar/data/1824403/000110465926067248/0001104659-26-067248-index.htm
 2026-05-28T12:02:19.530506+00:00,US,SEC,8-K,,,,"8-K - Aveanna Healthcare Holdings, Inc. (0001832332) (Filer)",https://www.sec.gov/Archives/edgar/data/1832332/000119312526243028/0001193125-26-243028-index.htm
 2026-05-28T12:02:19.530512+00:00,US,SEC,8-K,,,,"8-K - Bionano Genomics, Inc. (0001411690) (Filer)",https://www.sec.gov/Archives/edgar/data/1411690/000141169026000033/0001411690-26-000033-index.htm
@@ -1997,5 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-02-05T21:03:09.558640+00:00,US,SEC,8-K,,,,8-K - FARMERS NATIONAL BANC CORP /OH/ (0000709337) (Filer),https://www.sec.gov/Archives/edgar/data/709337/000119312526039345/0001193125-26-039345-index.htm
 2026-02-05T21:03:09.558645+00:00,US,SEC,8-K,,,,8-K - MONOLITHIC POWER SYSTEMS INC (0001280452) (Filer),https://www.sec.gov/Archives/edgar/data/1280452/000143774926003191/0001437749-26-003191-index.htm
 2026-02-05T21:03:09.558656+00:00,US,SEC,8-K,,,,8-K - Magnolia Oil & Gas Corp (0001698990) (Filer),https://www.sec.gov/Archives/edgar/data/1698990/000169899026000002/0001698990-26-000002-index.htm
-2026-02-05T21:03:09.558669+00:00,US,SEC,8-K,,,,8-K - Newbridge Acquisition Ltd (0001918414) (Filer),https://www.sec.gov/Archives/edgar/data/1918414/000121390026012753/0001213900-26-012753-index.htm
-2026-02-05T21:03:09.558675+00:00,US,SEC,8-K,,,,8-K - MCGRATH RENTCORP (0000752714) (Filer),https://www.sec.gov/Archives/edgar/data/752714/000119312526039337/0001193125-26-039337-index.htm
