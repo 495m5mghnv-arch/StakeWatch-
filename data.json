@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-05-29T18:20:03.429019+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MOSAIC CO (0001285785) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1285785/000128578526000069/0001285785-26-000069-index.htm"
+  },
+  {
+    "time_utc": "2026-05-29T18:20:03.429069+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1756761/000175676126000086/0001756761-26-000086-index.htm"
+  },
+  {
     "time_utc": "2026-05-29T11:53:21.269875+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - ALPHA & OMEGA SEMICONDUCTOR Ltd (0001387467) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1387467/000138746726000012/0001387467-26-000012-index.htm"
-  },
-  {
-    "time_utc": "2026-02-05T21:03:09.558623+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ORACLE CORP (0001341439) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526039344/0001193125-26-039344-index.htm"
-  },
-  {
-    "time_utc": "2026-02-05T21:03:09.558636+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GLADSTONE CAPITAL CORP (0001143513) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1143513/000119312526039346/0001193125-26-039346-index.htm"
   }
 ]
