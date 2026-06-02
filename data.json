@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-02T15:14:16.227785+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000099/0001331451-26-000099-index.htm"
+  },
+  {
     "time_utc": "2026-06-02T11:18:04.478294+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - NEWELL BRANDS INC. (0000814453) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/814453/000081445326000004/0000814453-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-02-06T11:50:04.257905+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Qorvo, Inc. (0001604778) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1604778/000095010326001762/0000950103-26-001762-index.htm"
   }
 ]
