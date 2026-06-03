@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-06-03T17:21:08.209863+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cottonwood Communities, Inc. (0001692951) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000101/0001692951-26-000101-index.htm"
+  },
+  {
+    "time_utc": "2026-06-03T17:21:08.209946+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Techlott Inc. (0001568969) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568969/000149315226026994/0001493152-26-026994-index.htm"
+  },
+  {
     "time_utc": "2026-06-03T12:13:32.614783+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - ProCap Financial, Inc. (0002076163) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2076163/000149315226005670/0001493152-26-005670-index.htm"
-  },
-  {
-    "time_utc": "2026-02-09T11:13:19.027004+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326000685/0001062993-26-000685-index.htm"
-  },
-  {
-    "time_utc": "2026-02-09T11:13:19.027013+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BioAtla, Inc. (0001826892) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1826892/000119312526041852/0001193125-26-041852-index.htm"
   }
 ]
