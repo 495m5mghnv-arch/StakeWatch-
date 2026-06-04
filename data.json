@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-04T13:39:00.266118+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PROVIDENT FINANCIAL SERVICES INC (0001178970) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1178970/000162828026040647/0001628280-26-040647-index.htm"
+  },
+  {
     "time_utc": "2026-06-04T10:24:40.799034+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - TransDigm Group INC (0001260221) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000020/0001260221-26-000020-index.htm"
-  },
-  {
-    "time_utc": "2026-02-09T11:13:19.026909+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CNA FINANCIAL CORP (0000021175) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/21175/000002117526000008/0000021175-26-000008-index.htm"
   }
 ]
