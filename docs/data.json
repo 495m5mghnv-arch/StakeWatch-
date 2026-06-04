@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-06-04T10:24:40.799034+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SOMNIGROUP INTERNATIONAL INC. (0001206264) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1206264/000120626426000082/0001206264-26-000082-index.htm"
+  },
+  {
+    "time_utc": "2026-06-04T10:24:40.799054+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cushman & Wakefield Ltd. (0001628369) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1628369/000162836926000098/0001628369-26-000098-index.htm"
+  },
+  {
     "time_utc": "2026-06-03T20:36:46.686207+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - CNA FINANCIAL CORP (0000021175) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/21175/000002117526000008/0000021175-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-02-09T11:13:19.026940+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NXP Semiconductors N.V. (0001413447) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000005/0001413447-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-02-09T11:13:19.026970+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Aeries Technology, Inc. (0001853044) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1853044/000182912626001093/0001829126-26-001093-index.htm"
   }
 ]
