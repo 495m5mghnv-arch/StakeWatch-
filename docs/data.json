@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-06-04T21:01:38.805133+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CAMBER ENERGY, INC. (0001309082) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1309082/000147793226003650/0001477932-26-003650-index.htm"
+  },
+  {
+    "time_utc": "2026-06-04T21:01:38.805165+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tempest Therapeutics, Inc. (0001544227) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1544227/000119312526257684/0001193125-26-257684-index.htm"
+  },
+  {
+    "time_utc": "2026-06-04T21:01:38.805190+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Apollo IG Core Replacement, L.P. (0002074450) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2074450/000095014226001645/0000950142-26-001645-index.htm"
+  },
+  {
     "time_utc": "2026-06-04T19:02:30.349667+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Liminatus Pharma, Inc. (0001971387) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1971387/000110465926012016/0001104659-26-012016-index.htm"
-  },
-  {
-    "time_utc": "2026-02-09T14:39:58.215984+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000012/0001018164-26-000012-index.htm"
-  },
-  {
-    "time_utc": "2026-02-09T14:39:58.216027+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - COVENANT LOGISTICS GROUP, INC. (0000928658) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/928658/000100888626000022/0001008886-26-000022-index.htm"
-  },
-  {
-    "time_utc": "2026-02-09T14:39:58.216033+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Biofrontera Inc. (0001858685) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1858685/000149315226005717/0001493152-26-005717-index.htm"
   }
 ]
