@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-06-05T16:38:56.401618+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UFP TECHNOLOGIES INC (0000914156) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/914156/000162828026041108/0001628280-26-041108-index.htm"
+  },
+  {
+    "time_utc": "2026-06-05T16:38:56.401681+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GTJ REIT, INC. (0001368757) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1368757/000119312526258929/0001193125-26-258929-index.htm"
+  },
+  {
     "time_utc": "2026-06-05T11:35:20.376933+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - UWHARRIE CAPITAL CORP (0000898171) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/898171/000119312526044340/0001193125-26-044340-index.htm"
-  },
-  {
-    "time_utc": "2026-02-10T11:32:04.533794+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CVS HEALTH Corp (0000064803) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000009/0000064803-26-000009-index.htm"
-  },
-  {
-    "time_utc": "2026-02-10T11:32:04.533817+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ZIMMER BIOMET HOLDINGS, INC. (0001136869) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1136869/000119312526043620/0001193125-26-043620-index.htm"
   }
 ]
