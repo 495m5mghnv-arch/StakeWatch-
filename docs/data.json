@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-06-05T20:27:41.950520+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Grindr Inc. (0001820144) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1820144/000182014426000020/0001820144-26-000020-index.htm"
+  },
+  {
+    "time_utc": "2026-06-05T20:27:41.950569+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Solventum Corp (0001964738) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000036/0001964738-26-000036-index.htm"
+  },
+  {
     "time_utc": "2026-06-05T16:38:56.401618+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Upstream Bio, Inc. (0002022626) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2022626/000119312526045649/0001193125-26-045649-index.htm"
-  },
-  {
-    "time_utc": "2026-02-10T22:03:25.217326+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226000206/0001731122-26-000206-index.htm"
-  },
-  {
-    "time_utc": "2026-02-10T19:41:49.971736+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - UWHARRIE CAPITAL CORP (0000898171) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/898171/000119312526044340/0001193125-26-044340-index.htm"
   }
 ]
