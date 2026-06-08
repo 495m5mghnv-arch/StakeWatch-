@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-06-08T13:14:56.186626+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Groupon, Inc. (0001490281) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1490281/000149028126000016/0001490281-26-000016-index.htm"
+  },
+  {
+    "time_utc": "2026-06-08T13:14:56.186646+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ocean Power Technologies, Inc. (0001378140) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1378140/000149315226027653/0001493152-26-027653-index.htm"
+  },
+  {
+    "time_utc": "2026-06-08T13:14:56.186651+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MetaVia Inc. (0001638287) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926071211/0001104659-26-071211-index.htm"
+  },
+  {
+    "time_utc": "2026-06-08T13:14:56.186658+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Global Business Travel Group, Inc. (0001820872) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1820872/000114036126024371/0001140361-26-024371-index.htm"
+  },
+  {
+    "time_utc": "2026-06-08T13:14:56.186665+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000170/0001527541-26-000170-index.htm"
+  },
+  {
+    "time_utc": "2026-06-08T13:14:56.186677+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Solidion Technology Inc. (0001881551) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1881551/000121390026066068/0001213900-26-066068-index.htm"
+  },
+  {
     "time_utc": "2026-06-05T20:27:41.950520+00:00",
     "region": "US",
     "source": "SEC",
@@ -21932,71 +21998,5 @@
     "percent": "",
     "title": "8-K - Atomera Inc (0001420520) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1420520/000168316826000919/0001683168-26-000919-index.htm"
-  },
-  {
-    "time_utc": "2026-02-11T21:04:09.979797+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Dakota Gold Corp. (0001852353) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1852353/000110465926013353/0001104659-26-013353-index.htm"
-  },
-  {
-    "time_utc": "2026-02-11T14:38:17.901991+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Ondas Inc. (0001646188) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026014622/0001213900-26-014622-index.htm"
-  },
-  {
-    "time_utc": "2026-02-11T14:38:17.902009+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Evolution Metals & Technologies Corp. (0001866226) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026014621/0001213900-26-014621-index.htm"
-  },
-  {
-    "time_utc": "2026-02-11T14:38:17.902020+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SIFCO INDUSTRIES INC (0000090168) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/90168/000009016826000012/0000090168-26-000012-index.htm"
-  },
-  {
-    "time_utc": "2026-02-11T14:38:17.902035+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ADDENTAX GROUP CORP. (0001650101) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1650101/000149315226006130/0001493152-26-006130-index.htm"
-  },
-  {
-    "time_utc": "2026-02-11T14:38:17.902047+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Upstream Bio, Inc. (0002022626) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2022626/000119312526045649/0001193125-26-045649-index.htm"
   }
 ]
