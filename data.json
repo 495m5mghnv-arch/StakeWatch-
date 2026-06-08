@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-06-08T19:21:20.451472+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FortuneX Acquisition Corp (0002121703) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626006182/0001829126-26-006182-index.htm"
+  },
+  {
+    "time_utc": "2026-06-08T19:21:20.451490+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OPENLANE, Inc. (0001395942) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1395942/000139594226000024/0001395942-26-000024-index.htm"
+  },
+  {
     "time_utc": "2026-06-08T16:53:37.749808+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - AMC Networks Inc. (0001514991) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1514991/000151499126000008/0001514991-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-02-11T21:04:09.979760+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Tamboran Resources Corp (0001997652) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1997652/000162828026007252/0001628280-26-007252-index.htm"
-  },
-  {
-    "time_utc": "2026-02-11T21:04:09.979766+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MCDONALDS CORP (0000063908) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000032/0000063908-26-000032-index.htm"
   }
 ]
