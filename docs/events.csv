@@ -1,4 +1,5 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-06-08T16:53:37.749808+00:00,US,SEC,8-K,,,,8-K - IONIS PHARMACEUTICALS INC (0000874015) (Filer),https://www.sec.gov/Archives/edgar/data/874015/000114036126024407/0001140361-26-024407-index.htm
 2026-06-08T13:14:56.186626+00:00,US,SEC,8-K,,,,"8-K - Groupon, Inc. (0001490281) (Filer)",https://www.sec.gov/Archives/edgar/data/1490281/000149028126000016/0001490281-26-000016-index.htm
 2026-06-08T13:14:56.186646+00:00,US,SEC,8-K,,,,"8-K - Ocean Power Technologies, Inc. (0001378140) (Filer)",https://www.sec.gov/Archives/edgar/data/1378140/000149315226027653/0001493152-26-027653-index.htm
 2026-06-08T13:14:56.186651+00:00,US,SEC,8-K,,,,8-K - MetaVia Inc. (0001638287) (Filer),https://www.sec.gov/Archives/edgar/data/1638287/000110465926071211/0001104659-26-071211-index.htm
@@ -1998,4 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-02-11T21:04:09.979713+00:00,US,SEC,8-K,,,,8-K - AMC Networks Inc. (0001514991) (Filer),https://www.sec.gov/Archives/edgar/data/1514991/000151499126000008/0001514991-26-000008-index.htm
 2026-02-11T21:04:09.979760+00:00,US,SEC,8-K,,,,8-K - Tamboran Resources Corp (0001997652) (Filer),https://www.sec.gov/Archives/edgar/data/1997652/000162828026007252/0001628280-26-007252-index.htm
 2026-02-11T21:04:09.979766+00:00,US,SEC,8-K,,,,8-K - MCDONALDS CORP (0000063908) (Filer),https://www.sec.gov/Archives/edgar/data/63908/000006390826000032/0000063908-26-000032-index.htm
-2026-02-11T21:04:09.979788+00:00,US,SEC,8-K,,,,8-K - Atomera Inc (0001420520) (Filer),https://www.sec.gov/Archives/edgar/data/1420520/000168316826000919/0001683168-26-000919-index.htm

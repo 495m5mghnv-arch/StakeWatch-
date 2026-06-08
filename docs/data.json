@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-08T16:53:37.749808+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IONIS PHARMACEUTICALS INC (0000874015) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/874015/000114036126024407/0001140361-26-024407-index.htm"
+  },
+  {
     "time_utc": "2026-06-08T13:14:56.186626+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - MCDONALDS CORP (0000063908) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000032/0000063908-26-000032-index.htm"
-  },
-  {
-    "time_utc": "2026-02-11T21:04:09.979788+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Atomera Inc (0001420520) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1420520/000168316826000919/0001683168-26-000919-index.htm"
   }
 ]
