@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-06-09T21:05:58.493048+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Eagle Point Income Co Inc. (0001754836) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1754836/000110465926071900/0001104659-26-071900-index.htm"
+  },
+  {
+    "time_utc": "2026-06-09T21:05:58.493072+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FingerMotion, Inc. (0001602409) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1602409/000152013826000223/0001520138-26-000223-index.htm"
+  },
+  {
+    "time_utc": "2026-06-09T21:05:58.493079+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Vistagen Therapeutics, Inc. (0001411685) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026041962/0001628280-26-041962-index.htm"
+  },
+  {
+    "time_utc": "2026-06-09T21:05:58.493083+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KYNTRA BIO, INC. (0000921299) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/921299/000119312526264000/0001193125-26-264000-index.htm"
+  },
+  {
+    "time_utc": "2026-06-09T21:05:58.493112+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BIMINI CAPITAL MANAGEMENT, INC. (0001275477) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1275477/000143774926020023/0001437749-26-020023-index.htm"
+  },
+  {
+    "time_utc": "2026-06-09T21:05:58.493117+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TALOS ENERGY INC. (0001724965) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1724965/000119312526263995/0001193125-26-263995-index.htm"
+  },
+  {
     "time_utc": "2026-06-09T19:02:11.891174+00:00",
     "region": "US",
     "source": "SEC",
@@ -21932,71 +21998,5 @@
     "percent": "",
     "title": "8-K - ONITY GROUP INC. (0000873860) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/873860/000149315226006291/0001493152-26-006291-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T11:52:55.617910+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GRANITE CONSTRUCTION INC (0000861459) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/861459/000086145926000002/0000861459-26-000002-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T11:52:55.617916+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Utz Brands, Inc. (0001739566) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1739566/000162828026007457/0001628280-26-007457-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T11:52:55.617922+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Restaurant Brands International Inc. (0001618756) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1618756/000161875626000006/0001618756-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T11:52:55.617931+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Vontier Corp (0001786842) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1786842/000162828026007456/0001628280-26-007456-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T11:52:55.617937+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PBF Holding Co LLC (0001566011) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1566011/000153450426000008/0001534504-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T11:52:55.617940+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PBF Energy Inc. (0001534504) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1534504/000153450426000008/0001534504-26-000008-index.htm"
   }
 ]
