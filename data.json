@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-09T19:02:11.891174+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000109/0001331463-26-000109-index.htm"
+  },
+  {
     "time_utc": "2026-06-09T16:43:08.295934+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - PBF Energy Inc. (0001534504) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1534504/000153450426000008/0001534504-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T11:52:55.617946+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AFFILIATED MANAGERS GROUP, INC. (0001004434) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1004434/000119312526047590/0001193125-26-047590-index.htm"
   }
 ]
