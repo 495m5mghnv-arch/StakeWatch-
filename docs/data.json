@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-10T15:57:47.593815+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - U. S. Premium Beef, LLC (0001289237) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1289237/000168316826004682/0001683168-26-004682-index.htm"
+  },
+  {
     "time_utc": "2026-06-10T11:58:29.795376+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - MATERION Corp (0001104657) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1104657/000110465726000006/0001104657-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T11:52:55.617885+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - US Foods Holding Corp. (0001665918) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1665918/000166591826000005/0001665918-26-000005-index.htm"
   }
 ]
