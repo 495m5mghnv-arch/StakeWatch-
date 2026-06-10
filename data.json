@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-06-10T21:11:29.453239+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - McEwen Inc. (0000314203) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/314203/000110465926072415/0001104659-26-072415-index.htm"
+  },
+  {
+    "time_utc": "2026-06-10T21:11:29.453270+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tectonic Therapeutic, Inc. (0001681087) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1681087/000119312526266040/0001193125-26-266040-index.htm"
+  },
+  {
     "time_utc": "2026-06-10T15:57:47.593815+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - ENTERGY LOUISIANA, LLC (0001348952) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1348952/000006598426000164/0000065984-26-000164-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T11:52:55.617858+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - IRON MOUNTAIN INC (0001020569) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1020569/000102056926000009/0001020569-26-000009-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T11:52:55.617880+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MATERION Corp (0001104657) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1104657/000110465726000006/0001104657-26-000006-index.htm"
   }
 ]
