@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-10T11:58:29.795376+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rafael Holdings, Inc. (0001713863) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1713863/000121390026067083/0001213900-26-067083-index.htm"
+  },
+  {
     "time_utc": "2026-06-09T21:05:58.493048+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - US Foods Holding Corp. (0001665918) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1665918/000166591826000005/0001665918-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T11:52:55.617904+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ONITY GROUP INC. (0000873860) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/873860/000149315226006291/0001493152-26-006291-index.htm"
   }
 ]
