@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-06-11T13:00:20.147606+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Professional Diversity Network, Inc. (0001546296) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1546296/000143774926020236/0001437749-26-020236-index.htm"
+  },
+  {
+    "time_utc": "2026-06-11T13:00:20.147625+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000125/0001331754-26-000125-index.htm"
+  },
+  {
+    "time_utc": "2026-06-11T13:00:20.147681+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PLUG POWER INC (0001093691) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1093691/000110465926072652/0001104659-26-072652-index.htm"
+  },
+  {
+    "time_utc": "2026-06-11T13:00:20.147686+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Eightco Holdings Inc. (0001892492) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1892492/000149315226028226/0001493152-26-028226-index.htm"
+  },
+  {
+    "time_utc": "2026-06-11T13:00:20.147691+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Alaska Silver Corp. (0001893899) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1893899/000106299326003160/0001062993-26-003160-index.htm"
+  },
+  {
     "time_utc": "2026-06-10T21:11:29.453239+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - IPG PHOTONICS CORP (0001111928) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1111928/000111192826000015/0001111928-26-000015-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318852+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Voyager Therapeutics, Inc. (0001640266) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1640266/000110465926013897/0001104659-26-013897-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318858+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Cue Biopharma, Inc. (0001645460) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1645460/000119312526047717/0001193125-26-047717-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318869+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BELDEN INC. (0000913142) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/913142/000091314226000005/0000913142-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318889+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ENTERGY TEXAS, INC. (0001427437) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1427437/000006598426000164/0000065984-26-000164-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318893+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ENTERGY LOUISIANA, LLC (0001348952) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1348952/000006598426000164/0000065984-26-000164-index.htm"
   }
 ]

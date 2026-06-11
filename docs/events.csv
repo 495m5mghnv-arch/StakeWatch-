@@ -1,4 +1,9 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-06-11T13:00:20.147606+00:00,US,SEC,8-K,,,,"8-K - Professional Diversity Network, Inc. (0001546296) (Filer)",https://www.sec.gov/Archives/edgar/data/1546296/000143774926020236/0001437749-26-020236-index.htm
+2026-06-11T13:00:20.147625+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer),https://www.sec.gov/Archives/edgar/data/1331754/000133175426000125/0001331754-26-000125-index.htm
+2026-06-11T13:00:20.147681+00:00,US,SEC,8-K,,,,8-K - PLUG POWER INC (0001093691) (Filer),https://www.sec.gov/Archives/edgar/data/1093691/000110465926072652/0001104659-26-072652-index.htm
+2026-06-11T13:00:20.147686+00:00,US,SEC,8-K,,,,8-K - Eightco Holdings Inc. (0001892492) (Filer),https://www.sec.gov/Archives/edgar/data/1892492/000149315226028226/0001493152-26-028226-index.htm
+2026-06-11T13:00:20.147691+00:00,US,SEC,8-K,,,,8-K - Alaska Silver Corp. (0001893899) (Filer),https://www.sec.gov/Archives/edgar/data/1893899/000106299326003160/0001062993-26-003160-index.htm
 2026-06-10T21:11:29.453239+00:00,US,SEC,8-K,,,,8-K - McEwen Inc. (0000314203) (Filer),https://www.sec.gov/Archives/edgar/data/314203/000110465926072415/0001104659-26-072415-index.htm
 2026-06-10T21:11:29.453270+00:00,US,SEC,8-K,,,,"8-K - Tectonic Therapeutic, Inc. (0001681087) (Filer)",https://www.sec.gov/Archives/edgar/data/1681087/000119312526266040/0001193125-26-266040-index.htm
 2026-06-10T15:57:47.593815+00:00,US,SEC,8-K,,,,"8-K - U. S. Premium Beef, LLC (0001289237) (Filer)",https://www.sec.gov/Archives/edgar/data/1289237/000168316826004682/0001683168-26-004682-index.htm
@@ -1994,8 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-02-12T13:10:33.318839+00:00,US,SEC,8-K,,,,8-K - CONDUENT Inc (0001677703) (Filer),https://www.sec.gov/Archives/edgar/data/1677703/000167770326000018/0001677703-26-000018-index.htm
 2026-02-12T13:10:33.318843+00:00,US,SEC,8-K,,,,8-K - FEDERAL HOME LOAN MORTGAGE CORP (0001026214) (Filer),https://www.sec.gov/Archives/edgar/data/1026214/000102621426000022/0001026214-26-000022-index.htm
 2026-02-12T13:10:33.318847+00:00,US,SEC,8-K,,,,8-K - IPG PHOTONICS CORP (0001111928) (Filer),https://www.sec.gov/Archives/edgar/data/1111928/000111192826000015/0001111928-26-000015-index.htm
-2026-02-12T13:10:33.318852+00:00,US,SEC,8-K,,,,"8-K - Voyager Therapeutics, Inc. (0001640266) (Filer)",https://www.sec.gov/Archives/edgar/data/1640266/000110465926013897/0001104659-26-013897-index.htm
-2026-02-12T13:10:33.318858+00:00,US,SEC,8-K,,,,"8-K - Cue Biopharma, Inc. (0001645460) (Filer)",https://www.sec.gov/Archives/edgar/data/1645460/000119312526047717/0001193125-26-047717-index.htm
-2026-02-12T13:10:33.318869+00:00,US,SEC,8-K,,,,8-K - BELDEN INC. (0000913142) (Filer),https://www.sec.gov/Archives/edgar/data/913142/000091314226000005/0000913142-26-000005-index.htm
-2026-02-12T13:10:33.318889+00:00,US,SEC,8-K,,,,"8-K - ENTERGY TEXAS, INC. (0001427437) (Filer)",https://www.sec.gov/Archives/edgar/data/1427437/000006598426000164/0000065984-26-000164-index.htm
-2026-02-12T13:10:33.318893+00:00,US,SEC,8-K,,,,"8-K - ENTERGY LOUISIANA, LLC (0001348952) (Filer)",https://www.sec.gov/Archives/edgar/data/1348952/000006598426000164/0000065984-26-000164-index.htm
