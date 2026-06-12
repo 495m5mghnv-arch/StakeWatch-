@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-06-12T18:32:32.966595+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IONIS PHARMACEUTICALS INC (0000874015) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/874015/000114036126025050/0001140361-26-025050-index.htm"
+  },
+  {
+    "time_utc": "2026-06-12T18:32:32.966652+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rithm Perpetual Life Residential Trust (0002081628) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2081628/000162828026042756/0001628280-26-042756-index.htm"
+  },
+  {
     "time_utc": "2026-06-12T16:44:35.161797+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - CANADIAN PACIFIC KANSAS CITY LTD/CN (0000016875) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/16875/000119312526048127/0001193125-26-048127-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318760+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Benitec Biopharma Inc. (0001808898) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526047742/0001193125-26-047742-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318777+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Xerox Holdings Corp (0001770450) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1770450/000119312526047741/0001193125-26-047741-index.htm"
   }
 ]
