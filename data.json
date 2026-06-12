@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-06-12T10:48:29.331259+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ESAB Corp (0001877322) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1877322/000121390026067998/0001213900-26-067998-index.htm"
+  },
+  {
+    "time_utc": "2026-06-12T10:48:29.331273+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Summit Hotel Properties, Inc. (0001497645) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1497645/000149764526000051/0001497645-26-000051-index.htm"
+  },
+  {
+    "time_utc": "2026-06-12T10:48:29.331282+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Vertiv Holdings Co (0001674101) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026042641/0001628280-26-042641-index.htm"
+  },
+  {
     "time_utc": "2026-06-11T17:00:02.049957+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Bloomin' Brands, Inc. (0001546417) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1546417/000154641726000002/0001546417-26-000002-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318830+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Solidion Technology Inc. (0001881551) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1881551/000121390026015206/0001213900-26-015206-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318835+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Grace Therapeutics, Inc. (0001444192) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1444192/000114036126004927/0001140361-26-004927-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318839+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CONDUENT Inc (0001677703) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1677703/000167770326000018/0001677703-26-000018-index.htm"
   }
 ]
