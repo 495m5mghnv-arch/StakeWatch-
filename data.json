@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-06-12T20:54:43.256591+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Warby Parker Inc. (0001504776) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1504776/000150477626000013/0001504776-26-000013-index.htm"
+  },
+  {
+    "time_utc": "2026-06-12T20:54:43.256636+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - I-ON Digital Corp. (0001580490) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1580490/000149315226028491/0001493152-26-028491-index.htm"
+  },
+  {
+    "time_utc": "2026-06-12T20:54:43.256671+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OUTFRONT Media Inc. (0001579877) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1579877/000157987726000029/0001579877-26-000029-index.htm"
+  },
+  {
     "time_utc": "2026-06-12T18:32:32.966595+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - AMERICAN HONDA RECEIVABLES LLC (0000890975) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/890975/000110465926014190/0001104659-26-014190-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T20:01:49.585604+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Momentus Inc. (0001781162) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1781162/000114036126004972/0001140361-26-004972-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T19:37:03.174828+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Invesco Commercial Real Estate Finance Trust, Inc. (0001976927) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1976927/000197692726000009/0001976927-26-000009-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T17:29:07.068029+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CANADIAN PACIFIC KANSAS CITY LTD/CN (0000016875) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/16875/000119312526048127/0001193125-26-048127-index.htm"
   }
 ]
