@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-06-12T16:44:35.161797+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Porsche Innovative Lease Owner Trust 2026-1 (0002126256) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2126256/000110465926073346/0001104659-26-073346-index.htm"
+  },
+  {
+    "time_utc": "2026-06-12T16:44:35.161816+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Porsche Auto Funding LLC (0001541507) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1541507/000110465926073346/0001104659-26-073346-index.htm"
+  },
+  {
+    "time_utc": "2026-06-12T16:44:35.161831+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PROCACCIANTI HOTEL REIT, INC. (0001692345) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1692345/000110465926073345/0001104659-26-073345-index.htm"
+  },
+  {
     "time_utc": "2026-06-12T13:54:26.682967+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Xerox Holdings Corp (0001770450) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1770450/000119312526047741/0001193125-26-047741-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318784+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - XEROX CORP (0000108772) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/108772/000119312526047741/0001193125-26-047741-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318796+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Theriva Biologics, Inc. (0000894158) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/894158/000110465926013907/0001104659-26-013907-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T13:10:33.318807+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ALNYLAM PHARMACEUTICALS, INC. (0001178670) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1178670/000162828026007491/0001628280-26-007491-index.htm"
   }
 ]
