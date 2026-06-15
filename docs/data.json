@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-15T18:13:29.385009+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1756761/000175676126000094/0001756761-26-000094-index.htm"
+  },
+  {
     "time_utc": "2026-06-15T13:37:09.984500+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - GEO GROUP INC (0000923796) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/923796/000119312526048953/0001193125-26-048953-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T21:58:00.480500+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Keurig Dr Pepper Inc. (0001418135) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000007/0001418135-26-000007-index.htm"
   }
 ]
