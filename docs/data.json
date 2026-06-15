@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-06-15T21:25:45.678002+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - T3 Defense Inc. (0001787518) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026068924/0001213900-26-068924-index.htm"
+  },
+  {
+    "time_utc": "2026-06-15T21:25:45.678024+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cipher Digital Inc. (0001819989) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1819989/000095010326008994/0000950103-26-008994-index.htm"
+  },
+  {
+    "time_utc": "2026-06-15T21:25:45.678030+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEOGENOMICS INC (0001077183) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1077183/000107718326000029/0001077183-26-000029-index.htm"
+  },
+  {
+    "time_utc": "2026-06-15T21:25:45.678038+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TELEFLEX INC (0000096943) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/96943/000119312526271318/0001193125-26-271318-index.htm"
+  },
+  {
+    "time_utc": "2026-06-15T21:25:45.678080+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nixxy, Inc. (0001462223) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1462223/000168316826004843/0001683168-26-004843-index.htm"
+  },
+  {
+    "time_utc": "2026-06-15T21:25:45.678092+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PureCycle Technologies, Inc. (0001830033) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1830033/000119312526271316/0001193125-26-271316-index.htm"
+  },
+  {
     "time_utc": "2026-06-15T18:13:29.385009+00:00",
     "region": "US",
     "source": "SEC",
@@ -21932,71 +21998,5 @@
     "percent": "",
     "title": "8-K - Atmus Filtration Technologies Inc. (0001921963) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1921963/000192196326000012/0001921963-26-000012-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T11:54:21.471530+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Rithm Property Trust Inc. (0001614806) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1614806/000161480626000007/0001614806-26-000007-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T11:54:21.471536+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - T3 Defense Inc. (0001787518) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026015834/0001213900-26-015834-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T11:54:21.471589+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ADVANCE AUTO PARTS INC (0001158449) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1158449/000119312526049776/0001193125-26-049776-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T11:21:14.449273+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Hyperscale Data, Inc. (0000896493) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/896493/000121465926001643/0001214659-26-001643-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T21:58:00.480426+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Bain Capital Specialty Finance, Inc. (0001655050) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1655050/000119312526048956/0001193125-26-048956-index.htm"
-  },
-  {
-    "time_utc": "2026-02-12T21:58:00.480469+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GEO GROUP INC (0000923796) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/923796/000119312526048953/0001193125-26-048953-index.htm"
   }
 ]
