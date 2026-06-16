@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-06-16T12:29:47.762297+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - California Resources Corp (0001609253) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1609253/000160925326000114/0001609253-26-000114-index.htm"
+  },
+  {
+    "time_utc": "2026-06-16T12:29:47.762360+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Yum China Holdings, Inc. (0001673358) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526271854/0001193125-26-271854-index.htm"
+  },
+  {
+    "time_utc": "2026-06-16T12:29:47.762371+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EquipmentShare.com Inc (0001693736) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1693736/000169373626000007/0001693736-26-000007-index.htm"
+  },
+  {
+    "time_utc": "2026-06-16T12:29:47.762384+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Our Bond, Inc. (0001756064) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1756064/000149315226028818/0001493152-26-028818-index.htm"
+  },
+  {
+    "time_utc": "2026-06-16T12:29:47.762394+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NextBoat Inc. (0002067767) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226028817/0001493152-26-028817-index.htm"
+  },
+  {
+    "time_utc": "2026-06-16T12:29:47.762404+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cingulate Inc. (0001862150) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1862150/000149315226028815/0001493152-26-028815-index.htm"
+  },
+  {
+    "time_utc": "2026-06-16T12:29:47.762417+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SANUWAVE Health, Inc. (0001417663) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1417663/000162828026043419/0001628280-26-043419-index.htm"
+  },
+  {
+    "time_utc": "2026-06-16T12:29:47.762424+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Vital Farms, Inc. (0001579733) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1579733/000119312526271829/0001193125-26-271829-index.htm"
+  },
+  {
     "time_utc": "2026-06-15T21:25:45.678002+00:00",
     "region": "US",
     "source": "SEC",
@@ -21910,93 +21998,5 @@
     "percent": "",
     "title": "8-K - HUNTSMAN INTERNATIONAL LLC (0001089748) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1089748/000110465926015235/0001104659-26-015235-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T21:19:44.090296+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Live Oak Bancshares, Inc. (0001462120) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1462120/000146212026000009/0001462120-26-000009-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T21:19:44.090351+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - New Mountain Private Credit Fund (0002037804) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2037804/000158064226001082/0001580642-26-001082-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T19:08:18.846961+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2035428/000203542826000008/0002035428-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T19:08:18.846997+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CSP INC /MA/ (0000356037) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/356037/000035603726000011/0000356037-26-000011-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T13:02:29.432220+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Dauch Corp (0001062231) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1062231/000106223126000017/0001062231-26-000017-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T13:02:29.432250+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Evommune, Inc. (0002044725) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2044725/000119312526049888/0001193125-26-049888-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T13:02:29.432258+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Bloomin' Brands, Inc. (0001546417) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1546417/000154641726000004/0001546417-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T11:54:21.471505+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Atmus Filtration Technologies Inc. (0001921963) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1921963/000192196326000012/0001921963-26-000012-index.htm"
   }
 ]
