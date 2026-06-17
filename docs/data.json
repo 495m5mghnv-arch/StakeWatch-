@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-06-17T17:13:32.325241+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - POTOMAC ELECTRIC POWER CO (0000079732) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/79732/000007973226000009/0000079732-26-000009-index.htm"
+  },
+  {
+    "time_utc": "2026-06-17T17:13:32.325257+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMERICAN EXPRESS CO (0000004962) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000270/0000004962-26-000270-index.htm"
+  },
+  {
+    "time_utc": "2026-06-17T17:13:32.325269+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - QHSLab, Inc. (0000856984) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/856984/000149315226029053/0001493152-26-029053-index.htm"
+  },
+  {
     "time_utc": "2026-06-17T10:07:26.931175+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Waystar Holding Corp. (0001990354) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1990354/000199035426000010/0001990354-26-000010-index.htm"
-  },
-  {
-    "time_utc": "2026-02-17T11:13:52.712382+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - HONEYWELL INTERNATIONAL INC (0000773840) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/773840/000077384026000015/0000773840-26-000015-index.htm"
-  },
-  {
-    "time_utc": "2026-02-17T11:13:52.712415+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MODINE MANUFACTURING CO (0000067347) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/67347/000110465926015568/0001104659-26-015568-index.htm"
-  },
-  {
-    "time_utc": "2026-02-17T11:13:52.712438+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DAILY JOURNAL CORP (0000783412) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/783412/000143774926004210/0001437749-26-004210-index.htm"
   }
 ]
