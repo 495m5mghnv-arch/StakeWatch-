@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-06-17T10:07:26.931175+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEOGENOMICS INC (0001077183) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1077183/000107718326000031/0001077183-26-000031-index.htm"
+  },
+  {
+    "time_utc": "2026-06-17T10:07:26.931223+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AerSale Corp (0001754170) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1754170/000110465926074808/0001104659-26-074808-index.htm"
+  },
+  {
+    "time_utc": "2026-06-17T10:07:26.931253+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Comstock Inc. (0001120970) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1120970/000143774926020855/0001437749-26-020855-index.htm"
+  },
+  {
     "time_utc": "2026-06-16T17:34:37.682316+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - DAILY JOURNAL CORP (0000783412) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/783412/000143774926004210/0001437749-26-004210-index.htm"
-  },
-  {
-    "time_utc": "2026-02-17T11:13:52.712454+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Rise Companies Corp (0001640967) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1640967/000110465926015557/0001104659-26-015557-index.htm"
-  },
-  {
-    "time_utc": "2026-02-17T11:13:52.712462+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PORTLAND GENERAL ELECTRIC CO /OR/ (0000784977) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/784977/000119312526052759/0001193125-26-052759-index.htm"
-  },
-  {
-    "time_utc": "2026-02-13T21:55:07.657555+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TIMKEN CO (0000098362) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/98362/000009836226000014/0000098362-26-000014-index.htm"
   }
 ]
