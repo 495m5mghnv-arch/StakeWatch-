@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-06-18T10:54:22.983122+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KROGER CO (0000056873) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/56873/000110465926075395/0001104659-26-075395-index.htm"
+  },
+  {
+    "time_utc": "2026-06-18T10:54:22.983156+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Designer Brands Inc. (0001319947) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1319947/000131994726000045/0001319947-26-000045-index.htm"
+  },
+  {
+    "time_utc": "2026-06-18T10:54:22.983173+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Accenture plc (0001467373) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000031/0001467373-26-000031-index.htm"
+  },
+  {
     "time_utc": "2026-06-17T21:32:08.880752+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Cingulate Inc. (0001862150) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1862150/000149315226006942/0001493152-26-006942-index.htm"
-  },
-  {
-    "time_utc": "2026-02-17T13:11:56.812429+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DANAHER CORP /DE/ (0000313616) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/313616/000119312526053124/0001193125-26-053124-index.htm"
-  },
-  {
-    "time_utc": "2026-02-17T13:11:56.812445+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Tianci International, Inc. (0001557798) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1557798/000168316826001050/0001683168-26-001050-index.htm"
-  },
-  {
-    "time_utc": "2026-02-17T11:56:05.958049+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Kennedy-Wilson Holdings, Inc. (0001408100) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1408100/000114036126005601/0001140361-26-005601-index.htm"
   }
 ]
