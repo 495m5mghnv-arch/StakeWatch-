@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-18T17:29:05.781709+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PFIZER INC (0000078003) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000087/0000078003-26-000087-index.htm"
+  },
+  {
     "time_utc": "2026-06-18T14:10:16.156579+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Golub Capital Private Credit Fund (0001930087) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1930087/000110465926016299/0001104659-26-016299-index.htm"
-  },
-  {
-    "time_utc": "2026-02-17T19:14:59.935791+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426001309/0001654954-26-001309-index.htm"
   }
 ]
