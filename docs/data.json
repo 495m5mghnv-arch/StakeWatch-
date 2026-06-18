@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-06-18T14:10:16.156579+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SR Bancorp, Inc. (0001951276) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1951276/000094337426000231/0000943374-26-000231-index.htm"
+  },
+  {
+    "time_utc": "2026-06-18T14:10:16.156600+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CITIZENS, INC. (0000024090) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/24090/000002409026000036/0000024090-26-000036-index.htm"
+  },
+  {
+    "time_utc": "2026-06-18T14:10:16.156632+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DYADIC INTERNATIONAL INC (0001213809) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226029214/0001493152-26-029214-index.htm"
+  },
+  {
     "time_utc": "2026-06-18T10:54:22.983122+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426001309/0001654954-26-001309-index.htm"
-  },
-  {
-    "time_utc": "2026-02-17T13:11:56.812361+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Invech Holdings, Inc. (0001009919) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1009919/000168316826001055/0001683168-26-001055-index.htm"
-  },
-  {
-    "time_utc": "2026-02-17T13:11:56.812388+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Turn Therapeutics Inc. (0002023016) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2023016/000121390026016916/0001213900-26-016916-index.htm"
-  },
-  {
-    "time_utc": "2026-02-17T13:11:56.812399+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Cingulate Inc. (0001862150) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1862150/000149315226006942/0001493152-26-006942-index.htm"
   }
 ]
