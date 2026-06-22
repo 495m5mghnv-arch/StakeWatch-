@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-22T16:02:07.274931+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Greenland Mines Ltd (0001907223) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1907223/000121390026070475/0001213900-26-070475-index.htm"
+  },
+  {
     "time_utc": "2026-06-22T11:13:20.728287+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Stardust Power Inc. (0001831979) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1831979/000149315226007282/0001493152-26-007282-index.htm"
-  },
-  {
-    "time_utc": "2026-02-18T14:11:46.261687+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WEALTHFRONT CORP (0001524566) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1524566/000162828026008816/0001628280-26-008816-index.htm"
   }
 ]
