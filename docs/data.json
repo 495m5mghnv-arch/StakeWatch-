@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-23T14:09:37.288885+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000103/0001326771-26-000103-index.htm"
+  },
+  {
     "time_utc": "2026-06-23T11:48:08.009079+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001059/0001062993-26-001059-index.htm"
-  },
-  {
-    "time_utc": "2026-02-18T22:02:00.398581+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Outlook Therapeutics, Inc. (0001649989) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1649989/000110465926017118/0001104659-26-017118-index.htm"
   }
 ]
