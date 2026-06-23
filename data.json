@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-06-23T11:48:08.009079+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Dragonfly Energy Holdings Corp. (0001847986) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1847986/000149315226029705/0001493152-26-029705-index.htm"
+  },
+  {
+    "time_utc": "2026-06-23T11:48:08.009144+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMC ENTERTAINMENT HOLDINGS, INC. (0001411579) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926076642/0001104659-26-076642-index.htm"
+  },
+  {
+    "time_utc": "2026-06-23T11:48:08.009152+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DOLLAR TREE, INC. (0000935703) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000071/0000935703-26-000071-index.htm"
+  },
+  {
+    "time_utc": "2026-06-23T11:48:08.009162+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ANTERO RESOURCES Corp (0001433270) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1433270/000110465926076641/0001104659-26-076641-index.htm"
+  },
+  {
+    "time_utc": "2026-06-23T11:48:08.009167+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FMC CORP (0000037785) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/37785/000003778526000114/0000037785-26-000114-index.htm"
+  },
+  {
+    "time_utc": "2026-06-23T11:48:08.009172+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sunstone Hotel Investors, Inc. (0001295810) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1295810/000110465926076640/0001104659-26-076640-index.htm"
+  },
+  {
+    "time_utc": "2026-06-23T11:48:08.009178+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Athene Holding Ltd. (0001527469) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000037/0001527469-26-000037-index.htm"
+  },
+  {
     "time_utc": "2026-06-22T16:02:07.274931+00:00",
     "region": "US",
     "source": "SEC",
@@ -21921,82 +21998,5 @@
     "percent": "",
     "title": "8-K - Outlook Therapeutics, Inc. (0001649989) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1649989/000110465926017118/0001104659-26-017118-index.htm"
-  },
-  {
-    "time_utc": "2026-02-18T22:02:00.398642+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AMERICAN FINANCIAL GROUP INC (0001042046) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1042046/000114036126006031/0001140361-26-006031-index.htm"
-  },
-  {
-    "time_utc": "2026-02-18T22:02:00.398648+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Pearl Diver Credit Co Inc. (0001998043) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1998043/000121465926002137/0001214659-26-002137-index.htm"
-  },
-  {
-    "time_utc": "2026-02-18T22:02:00.398661+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ARKO Corp. (0001823794) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1823794/000119312526057348/0001193125-26-057348-index.htm"
-  },
-  {
-    "time_utc": "2026-02-18T16:07:09.822312+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Cannabist Co Holdings Inc. (0001776738) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1776738/000177673826000004/0001776738-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-02-18T14:11:46.261657+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ImmunityBio, Inc. (0001326110) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000018/0001326110-26-000018-index.htm"
-  },
-  {
-    "time_utc": "2026-02-18T14:11:46.261674+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Jaguar Health, Inc. (0001585608) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1585608/000119312526056157/0001193125-26-056157-index.htm"
-  },
-  {
-    "time_utc": "2026-02-18T14:11:46.261682+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Stardust Power Inc. (0001831979) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1831979/000149315226007282/0001493152-26-007282-index.htm"
   }
 ]
