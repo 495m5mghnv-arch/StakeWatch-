@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-06-23T20:59:58.237813+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ENTERGY CORP /DE/ (0000065984) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/65984/000006598426000265/0000065984-26-000265-index.htm"
+  },
+  {
+    "time_utc": "2026-06-23T20:59:58.237835+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Golub Capital Private Credit Fund (0001930087) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1930087/000193008726000074/0001930087-26-000074-index.htm"
+  },
+  {
     "time_utc": "2026-06-23T14:09:37.288885+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - YETI Holdings, Inc. (0001670592) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1670592/000110465926017245/0001104659-26-017245-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T11:38:47.669672+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DEERE & CO (0000315189) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/315189/000110465926017239/0001104659-26-017239-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T11:38:47.669691+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001059/0001062993-26-001059-index.htm"
   }
 ]
