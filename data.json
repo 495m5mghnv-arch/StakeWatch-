@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-24T21:49:16.871970+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - US BANCORP \\DE\\ (0000036104) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/36104/000003610426000035/0000036104-26-000035-index.htm"
+  },
+  {
     "time_utc": "2026-06-24T20:13:54.726950+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Wheels Up Experience Inc. (0001819516) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1819516/000162828026009473/0001628280-26-009473-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T12:04:42.894183+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - UL Solutions Inc. (0001901440) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1901440/000190144026000003/0001901440-26-000003-index.htm"
   }
 ]
