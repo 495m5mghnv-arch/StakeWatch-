@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-06-24T20:13:54.726950+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MILLERKNOLL, INC. (0000066382) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/66382/000006638226000064/0000066382-26-000064-index.htm"
+  },
+  {
+    "time_utc": "2026-06-24T20:13:54.726973+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIRST MERCHANTS CORP (0000712534) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/712534/000071253426000046/0000712534-26-000046-index.htm"
+  },
+  {
     "time_utc": "2026-06-24T13:50:51.151138+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - UL Solutions Inc. (0001901440) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1901440/000190144026000003/0001901440-26-000003-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T12:04:42.894187+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DT Midstream, Inc. (0001842022) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1842022/000114036126006115/0001140361-26-006115-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T12:04:42.894191+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Pediatrix Medical Group, Inc. (0000893949) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/893949/000119312526058063/0001193125-26-058063-index.htm"
   }
 ]
