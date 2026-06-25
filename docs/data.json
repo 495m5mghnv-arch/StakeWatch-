@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-25T15:56:48.295691+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - First Trinity Financial CORP (0001395585) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1395585/000143774926021640/0001437749-26-021640-index.htm"
+  },
+  {
     "time_utc": "2026-06-25T13:19:37.282302+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - D-Wave Quantum Inc. (0001907982) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000020/0001907982-26-000020-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T12:04:42.894102+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ETSY INC (0001370637) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1370637/000137063726000017/0001370637-26-000017-index.htm"
   }
 ]
