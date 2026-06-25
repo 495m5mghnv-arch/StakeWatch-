@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-06-25T13:19:37.282302+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SOLAREDGE TECHNOLOGIES, INC. (0001419612) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1419612/000117891326003337/0001178913-26-003337-index.htm"
+  },
+  {
+    "time_utc": "2026-06-25T13:19:37.282329+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Range Capital Acquisition Corp. (0002035644) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2035644/000119312526281968/0001193125-26-281968-index.htm"
+  },
+  {
+    "time_utc": "2026-06-25T13:19:37.282336+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Jaguar Health, Inc. (0001585608) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1585608/000119312526281969/0001193125-26-281969-index.htm"
+  },
+  {
+    "time_utc": "2026-06-25T13:19:37.282356+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - STARWOOD PROPERTY TRUST, INC. (0001465128) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1465128/000110465926077576/0001104659-26-077576-index.htm"
+  },
+  {
+    "time_utc": "2026-06-25T13:19:37.282372+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1330399/000133039926000071/0001330399-26-000071-index.htm"
+  },
+  {
+    "time_utc": "2026-06-25T13:19:37.282384+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AeroVironment Inc (0001368622) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1368622/000110465926077575/0001104659-26-077575-index.htm"
+  },
+  {
+    "time_utc": "2026-06-25T13:19:37.282405+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ZIPRECRUITER, INC. (0001617553) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1617553/000161755326000036/0001617553-26-000036-index.htm"
+  },
+  {
     "time_utc": "2026-06-25T10:52:10.306213+00:00",
     "region": "US",
     "source": "SEC",
@@ -21921,82 +21998,5 @@
     "percent": "",
     "title": "8-K - ETSY INC (0001370637) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1370637/000137063726000017/0001370637-26-000017-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T12:04:42.894110+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - INSMED Inc (0001104506) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126006116/0001140361-26-006116-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T12:04:42.894115+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Cushman & Wakefield Ltd. (0001628369) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1628369/000162836926000005/0001628369-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T12:04:42.894122+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Evergy, Inc. (0001711269) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1711269/000119312526058075/0001193125-26-058075-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T12:04:42.894126+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - EVERGY KANSAS CENTRAL, INC. (0000054507) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/54507/000119312526058075/0001193125-26-058075-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T12:04:42.894156+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - EVERGY METRO, INC. (0000054476) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/54476/000119312526058075/0001193125-26-058075-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T12:04:42.894164+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Walmart Inc. (0000104169) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000032/0000104169-26-000032-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T12:04:42.894168+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Garrett Motion Inc. (0001735707) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1735707/000173570726000008/0001735707-26-000008-index.htm"
   }
 ]
