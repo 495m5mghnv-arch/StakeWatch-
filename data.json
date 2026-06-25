@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-06-25T20:23:52.713472+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIRST TRUST SENIOR FLOATING RATE INCOME FUND II (0001282850) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1282850/000144554626004613/0001445546-26-004613-index.htm"
+  },
+  {
+    "time_utc": "2026-06-25T20:23:52.713533+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AGILENT TECHNOLOGIES, INC. (0001090872) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1090872/000119312526282845/0001193125-26-282845-index.htm"
+  },
+  {
+    "time_utc": "2026-06-25T20:23:52.713585+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - QUANTUM CORP /DE/ (0000709283) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/709283/000162828026045529/0001628280-26-045529-index.htm"
+  },
+  {
+    "time_utc": "2026-06-25T20:23:52.713594+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Net Lease Office Properties (0001952976) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1952976/000195297626000050/0001952976-26-000050-index.htm"
+  },
+  {
     "time_utc": "2026-06-25T15:56:48.295691+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - GLOBAL PAYMENTS INC (0001123360) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926017297/0001104659-26-017297-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T13:40:57.503587+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Worksport Ltd (0001096275) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226007428/0001493152-26-007428-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T13:40:57.503593+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - IDACORP INC (0001057877) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1057877/000105787726000029/0001057877-26-000029-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T13:40:57.503597+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - IDAHO POWER CO (0000049648) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/49648/000105787726000029/0001057877-26-000029-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T12:04:42.894087+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - D-Wave Quantum Inc. (0001907982) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000020/0001907982-26-000020-index.htm"
   }
 ]
