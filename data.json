@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-26T12:11:13.904664+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EXPAND ENERGY Corp (0000895126) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/895126/000089512626000036/0000895126-26-000036-index.htm"
+  },
+  {
     "time_utc": "2026-06-25T20:23:52.713472+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - MEDICAL PROPERTIES TRUST INC (0001287865) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1287865/000119312526058167/0001193125-26-058167-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T13:40:57.503561+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GLOBAL PAYMENTS INC (0001123360) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926017297/0001104659-26-017297-index.htm"
   }
 ]
