@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-06-29T20:24:20.729230+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Pathfinder Bancorp, Inc. (0001609065) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1609065/000119312526288503/0001193125-26-288503-index.htm"
+  },
+  {
+    "time_utc": "2026-06-29T20:24:20.729258+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Gain Therapeutics, Inc. (0001819411) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1819411/000110465926078848/0001104659-26-078848-index.htm"
+  },
+  {
     "time_utc": "2026-06-29T12:04:07.107214+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - AKAMAI TECHNOLOGIES INC (0001086222) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000017/0001086222-26-000017-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T21:17:16.709887+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - RE/MAX Holdings, Inc. (0001581091) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1581091/000110465926017550/0001104659-26-017550-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T21:17:16.709895+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BIO-RAD LABORATORIES, INC. (0000012208) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/12208/000001220826000012/0000012208-26-000012-index.htm"
   }
 ]
