@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-06-30T18:09:20.347658+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Graphene & Solar Technologies Ltd (0001497649) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1497649/000190359626000268/0001903596-26-000268-index.htm"
+  },
+  {
     "time_utc": "2026-06-30T13:21:24.499052+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1893262/000119312526059605/0001193125-26-059605-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T21:53:01.256967+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DOMO, INC. (0001505952) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1505952/000162828026009841/0001628280-26-009841-index.htm"
   }
 ]
