@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-06-30T11:23:08.737714+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - D-Wave Quantum Inc. (0001907982) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000093/0001907982-26-000093-index.htm"
+  },
+  {
+    "time_utc": "2026-06-30T11:23:08.737736+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nu-Med Plus, Inc. (0001543637) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1543637/000157587226000459/0001575872-26-000459-index.htm"
+  },
+  {
+    "time_utc": "2026-06-30T11:23:08.737742+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NovoCure Ltd (0001645113) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1645113/000164511326000056/0001645113-26-000056-index.htm"
+  },
+  {
+    "time_utc": "2026-06-30T11:23:08.737772+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nova Minerals Corp (0001852551) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226031184/0001493152-26-031184-index.htm"
+  },
+  {
+    "time_utc": "2026-06-30T11:23:08.737781+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ingredion Inc (0001046257) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1046257/000104625726000210/0001046257-26-000210-index.htm"
+  },
+  {
     "time_utc": "2026-06-29T20:24:20.729230+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - CASELLA WASTE SYSTEMS INC (0000911177) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/911177/000091117726000006/0000911177-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T21:17:16.709846+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SharonAI Holdings Inc. (0002068385) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2068385/000182912626001479/0001829126-26-001479-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T21:17:16.709851+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BALCHEM CORP (0000009326) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/9326/000114036126006184/0001140361-26-006184-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T21:17:16.709861+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AXT INC (0001051627) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1051627/000143774926004731/0001437749-26-004731-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T21:17:16.709874+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SYNOPSYS INC (0000883241) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/883241/000119312526059438/0001193125-26-059438-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T21:17:16.709880+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AKAMAI TECHNOLOGIES INC (0001086222) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000017/0001086222-26-000017-index.htm"
   }
 ]
