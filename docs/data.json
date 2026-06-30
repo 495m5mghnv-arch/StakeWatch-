@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-06-30T20:17:59.591724+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Disc Medicine, Inc. (0001816736) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1816736/000119312526290542/0001193125-26-290542-index.htm"
+  },
+  {
+    "time_utc": "2026-06-30T20:17:59.591745+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PUBLIC SERVICE CO OF NEW HAMPSHIRE (0000315256) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/315256/000110465926079337/0001104659-26-079337-index.htm"
+  },
+  {
     "time_utc": "2026-06-30T18:09:20.347658+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - IAC Inc. (0001800227) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1800227/000162828026009996/0001628280-26-009996-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T11:18:17.544750+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001084/0001062993-26-001084-index.htm"
-  },
-  {
-    "time_utc": "2026-02-19T21:53:01.256936+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1893262/000119312526059605/0001193125-26-059605-index.htm"
   }
 ]
