@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-07-02T12:22:45.573079+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Gentherm Inc (0000903129) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/903129/000119312526293500/0001193125-26-293500-index.htm"
+  },
+  {
+    "time_utc": "2026-07-02T12:22:45.573102+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Picard Medical, Inc. (0002030617) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2030617/000143774926022398/0001437749-26-022398-index.htm"
+  },
+  {
+    "time_utc": "2026-07-02T12:22:45.573109+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Eos Energy Enterprises, Inc. (0001805077) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1805077/000095010326010023/0000950103-26-010023-index.htm"
+  },
+  {
     "time_utc": "2026-07-01T19:17:39.299666+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - JAKKS PACIFIC INC (0001009829) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1009829/000118518526000629/0001185185-26-000629-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T13:40:46.470150+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - National Healthcare Properties, Inc. (0001561032) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1561032/000156103226000010/0001561032-26-000010-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T12:26:32.773549+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - COGENT COMMUNICATIONS HOLDINGS, INC. (0001158324) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1158324/000110465926017862/0001104659-26-017862-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T12:26:32.773578+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Blackstone Private Credit Fund (0001803498) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1803498/000180349826000010/0001803498-26-000010-index.htm"
   }
 ]
