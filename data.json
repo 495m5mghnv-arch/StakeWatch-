@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-07-06T21:01:15.318995+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Perfect Moment Ltd. (0001849221) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1849221/000149315226032192/0001493152-26-032192-index.htm"
+  },
+  {
+    "time_utc": "2026-07-06T21:01:15.319012+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CLARIVATE PLC (0001764046) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1764046/000095010326010269/0000950103-26-010269-index.htm"
+  },
+  {
+    "time_utc": "2026-07-06T21:01:15.319061+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Greater Cannabis Company, Inc. (0001695473) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1695473/000149315226032191/0001493152-26-032191-index.htm"
+  },
+  {
     "time_utc": "2026-07-06T10:45:54.129800+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - WESTERN ALLIANCE BANCORPORATION (0001212545) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1212545/000162828026010050/0001628280-26-010050-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T14:29:02.633630+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SAN JUAN BASIN ROYALTY TRUST (0000319655) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/319655/000119312526060515/0001193125-26-060515-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T14:29:02.633720+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000034/0001527541-26-000034-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T14:29:02.633729+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - LCI INDUSTRIES (0000763744) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000009/0000763744-26-000009-index.htm"
   }
 ]
