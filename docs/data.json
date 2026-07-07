@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-07-07T14:35:22.805959+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DONEGAL GROUP INC (0000800457) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/800457/000117184326004511/0001171843-26-004511-index.htm"
+  },
+  {
+    "time_utc": "2026-07-07T14:35:22.805976+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Climb Global Solutions, Inc. (0000945983) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/945983/000143774926022894/0001437749-26-022894-index.htm"
+  },
+  {
     "time_utc": "2026-07-07T11:52:04.551447+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Sigyn Therapeutics, Inc. (0001642159) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1642159/000149315226007574/0001493152-26-007574-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T19:03:43.817795+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CHOICE HOTELS INTERNATIONAL INC /DE (0001046311) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1046311/000162828026010118/0001628280-26-010118-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T18:02:39.857282+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ERIE INDEMNITY CO (0000922621) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/922621/000162828026010105/0001628280-26-010105-index.htm"
   }
 ]
