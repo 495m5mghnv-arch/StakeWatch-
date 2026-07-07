@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-07-07T11:52:04.551447+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Vivani Medical, Inc. (0001266806) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1266806/000175392626001144/0001753926-26-001144-index.htm"
+  },
+  {
+    "time_utc": "2026-07-07T11:52:04.551468+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MeiraGTx Holdings plc (0001735438) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1735438/000110465926080949/0001104659-26-080949-index.htm"
+  },
+  {
+    "time_utc": "2026-07-07T11:52:04.551544+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tvardi Therapeutics, Inc. (0001346830) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1346830/000110465926080930/0001104659-26-080930-index.htm"
+  },
+  {
+    "time_utc": "2026-07-07T11:52:04.551549+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - D-Wave Quantum Inc. (0001907982) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000097/0001907982-26-000097-index.htm"
+  },
+  {
     "time_utc": "2026-07-06T21:01:15.318995+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - ERIE INDEMNITY CO (0000922621) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/922621/000162828026010105/0001628280-26-010105-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T17:25:14.470363+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Stone Point Credit Income Fund (0002031283) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2031283/000110465926018005/0001104659-26-018005-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T17:25:14.470419+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - KIRBY CORP (0000056047) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/56047/000119312526060772/0001193125-26-060772-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T15:53:30.611722+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Nuveen Global Cities REIT, Inc. (0001711799) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1711799/000171179926000005/0001711799-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-02-20T15:10:09.493994+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WESTERN ALLIANCE BANCORPORATION (0001212545) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1212545/000162828026010050/0001628280-26-010050-index.htm"
   }
 ]
