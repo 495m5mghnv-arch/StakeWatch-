@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-07-08T20:03:43.978896+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Spectral AI, Inc. (0001833498) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1833498/000121390026076349/0001213900-26-076349-index.htm"
+  },
+  {
+    "time_utc": "2026-07-08T20:03:43.978918+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MSP Recovery, Inc. (0001802450) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1802450/000121390026076348/0001213900-26-076348-index.htm"
+  },
+  {
     "time_utc": "2026-07-08T12:54:33.703320+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Freshpet, Inc. (0001611647) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1611647/000161164726000002/0001611647-26-000002-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T11:52:15.164371+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Ovintiv Inc. (0001792580) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1792580/000119312526062356/0001193125-26-062356-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T11:52:15.164386+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SHOREPOWER TECHNOLOGIES INC. (0000764630) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/764630/000149315226007669/0001493152-26-007669-index.htm"
   }
 ]
