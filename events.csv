@@ -1,4 +1,16 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-07-08T11:14:19.620361+00:00,US,SEC,8-K,,,,8-K - SONO TEK CORP (0000806172) (Filer),https://www.sec.gov/Archives/edgar/data/806172/000117152026000166/0001171520-26-000166-index.htm
+2026-07-08T11:14:19.620379+00:00,US,SEC,8-K,,,,"8-K - Moderna, Inc. (0001682852) (Filer)",https://www.sec.gov/Archives/edgar/data/1682852/000168285226000134/0001682852-26-000134-index.htm
+2026-07-08T11:14:19.620387+00:00,US,SEC,8-K,,,,8-K - Palladyne AI Corp. (0001826681) (Filer),https://www.sec.gov/Archives/edgar/data/1826681/000119312526297985/0001193125-26-297985-index.htm
+2026-07-08T11:14:19.620392+00:00,US,SEC,8-K,,,,8-K - Ovid Therapeutics Inc. (0001636651) (Filer),https://www.sec.gov/Archives/edgar/data/1636651/000162828026047584/0001628280-26-047584-index.htm
+2026-07-08T11:14:19.620397+00:00,US,SEC,8-K,,,,"8-K - Dream Finders Homes, Inc. (0001825088) (Filer)",https://www.sec.gov/Archives/edgar/data/1825088/000162828026047583/0001628280-26-047583-index.htm
+2026-07-08T11:14:19.620411+00:00,US,SEC,8-K,,,,8-K - Trilogy Metals Inc. (0001543418) (Filer),https://www.sec.gov/Archives/edgar/data/1543418/000127956926000637/0001279569-26-000637-index.htm
+2026-07-08T11:14:19.620423+00:00,US,SEC,8-K,,,,8-K - HF Sinclair Corp (0001915657) (Filer),https://www.sec.gov/Archives/edgar/data/1915657/000119312526297981/0001193125-26-297981-index.htm
+2026-07-08T11:14:19.620433+00:00,US,SEC,8-K,,,,8-K - HELEN OF TROY LTD (0000916789) (Filer),https://www.sec.gov/Archives/edgar/data/916789/000091678926000094/0000916789-26-000094-index.htm
+2026-07-08T11:14:19.620451+00:00,US,SEC,8-K,,,,8-K - D. Boral ARC Acquisition I Corp. (0002065779) (Filer),https://www.sec.gov/Archives/edgar/data/2065779/000182912626007391/0001829126-26-007391-index.htm
+2026-07-08T11:14:19.620460+00:00,US,SEC,8-K,,,,"8-K - Broadstone Net Lease, Inc. (0001424182) (Filer)",https://www.sec.gov/Archives/edgar/data/1424182/000142418226000054/0001424182-26-000054-index.htm
+2026-07-08T11:14:19.620469+00:00,US,SEC,8-K,,,,8-K - GameStop Corp. (0001326380) (Filer),https://www.sec.gov/Archives/edgar/data/1326380/000132638026000038/0001326380-26-000038-index.htm
+2026-07-08T11:14:19.620487+00:00,US,SEC,8-K,,,,"8-K - AmpliTech Group, Inc. (0001518461) (Filer)",https://www.sec.gov/Archives/edgar/data/1518461/000149315226032398/0001493152-26-032398-index.htm
 2026-07-07T16:57:39.206888+00:00,US,SEC,8-K,,,,8-K - AZZ INC (0000008947) (Filer),https://www.sec.gov/Archives/edgar/data/8947/000000894726000134/0000008947-26-000134-index.htm
 2026-07-07T14:35:22.805959+00:00,US,SEC,8-K,,,,8-K - DONEGAL GROUP INC (0000800457) (Filer),https://www.sec.gov/Archives/edgar/data/800457/000117184326004511/0001171843-26-004511-index.htm
 2026-07-07T14:35:22.805976+00:00,US,SEC,8-K,,,,"8-K - Climb Global Solutions, Inc. (0000945983) (Filer)",https://www.sec.gov/Archives/edgar/data/945983/000143774926022894/0001437749-26-022894-index.htm
@@ -1987,15 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-02-23T11:52:15.164401+00:00,US,SEC,8-K,,,,8-K - Miluna Acquisition Corp (0002077033) (Filer),https://www.sec.gov/Archives/edgar/data/2077033/000149315226007667/0001493152-26-007667-index.htm
 2026-02-23T11:07:03.934654+00:00,US,SEC,8-K,,,,8-K - DOMINOS PIZZA INC (0001286681) (Filer),https://www.sec.gov/Archives/edgar/data/1286681/000119312526062313/0001193125-26-062313-index.htm
 2026-02-23T11:07:03.934680+00:00,US,SEC,8-K,,,,8-K - Atomera Inc (0001420520) (Filer),https://www.sec.gov/Archives/edgar/data/1420520/000168316826001242/0001683168-26-001242-index.htm
-2026-02-23T11:07:03.934686+00:00,US,SEC,8-K,,,,8-K - MoonLake Immunotherapeutics (0001821586) (Filer),https://www.sec.gov/Archives/edgar/data/1821586/000121390026018967/0001213900-26-018967-index.htm
-2026-02-23T11:07:03.934693+00:00,US,SEC,8-K,,,,8-K - CENTERPOINT ENERGY INC (0001130310) (Filer),https://www.sec.gov/Archives/edgar/data/1130310/000113031026000013/0001130310-26-000013-index.htm
-2026-02-23T11:07:03.934697+00:00,US,SEC,8-K,,,,8-K - CENTERPOINT ENERGY RESOURCES CORP (0001042773) (Filer),https://www.sec.gov/Archives/edgar/data/1042773/000113031026000013/0001130310-26-000013-index.htm
-2026-02-23T11:07:03.934702+00:00,US,SEC,8-K,,,,8-K - CENTERPOINT ENERGY HOUSTON ELECTRIC LLC (0000048732) (Filer),https://www.sec.gov/Archives/edgar/data/48732/000113031026000013/0001130310-26-000013-index.htm
-2026-02-23T11:07:03.934714+00:00,US,SEC,8-K,,,,8-K - Barinthus Biotherapeutics plc. (0001828185) (Filer),https://www.sec.gov/Archives/edgar/data/1828185/000110465926018283/0001104659-26-018283-index.htm
-2026-02-23T11:07:03.934723+00:00,US,SEC,8-K,,,,8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer),https://www.sec.gov/Archives/edgar/data/1498148/000106299326001102/0001062993-26-001102-index.htm
-2026-02-20T21:59:22.327842+00:00,US,SEC,8-K,,,,8-K - U S GLOBAL INVESTORS INC (0000754811) (Filer),https://www.sec.gov/Archives/edgar/data/754811/000143774926004929/0001437749-26-004929-index.htm
-2026-02-20T21:10:40.782051+00:00,US,SEC,8-K,,,,8-K - KKR Infrastructure Conglomerate LLC (0001948056) (Filer),https://www.sec.gov/Archives/edgar/data/1948056/000194805626000013/0001948056-26-000013-index.htm
-2026-02-20T20:47:00.885716+00:00,US,SEC,8-K,,,,8-K - Fidelity Private Credit Fund (0001920453) (Filer),https://www.sec.gov/Archives/edgar/data/1920453/000119312526061231/0001193125-26-061231-index.htm
-2026-02-20T20:01:45.690648+00:00,US,SEC,8-K,,,,"8-K - Alternus Clean Energy, Inc. (0001883984) (Filer)",https://www.sec.gov/Archives/edgar/data/1883984/000143774926004881/0001437749-26-004881-index.htm
-2026-02-20T20:01:45.690671+00:00,US,SEC,8-K,,,,8-K - Nissan Auto Lease Trust 2026-A (0002105816) (Filer),https://www.sec.gov/Archives/edgar/data/2105816/000119312526061118/0001193125-26-061118-index.htm
-2026-02-20T20:01:45.690677+00:00,US,SEC,8-K,,,,8-K - NISSAN AUTO LEASING LLC II (0001244832) (Filer),https://www.sec.gov/Archives/edgar/data/1244832/000119312526061118/0001193125-26-061118-index.htm
