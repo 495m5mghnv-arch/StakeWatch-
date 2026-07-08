@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-07-08T12:54:33.703320+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Onfolio Holdings, Inc (0001825452) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1825452/000165495426006537/0001654954-26-006537-index.htm"
+  },
+  {
+    "time_utc": "2026-07-08T12:54:33.703379+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Fusemachines Inc. (0002033383) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2033383/000149315226032415/0001493152-26-032415-index.htm"
+  },
+  {
+    "time_utc": "2026-07-08T12:54:33.703401+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Esperion Therapeutics, Inc. (0001434868) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1434868/000110465926081588/0001104659-26-081588-index.htm"
+  },
+  {
+    "time_utc": "2026-07-08T12:54:33.703408+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GMR Solutions Inc. (0001898718) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1898718/000110465926081586/0001104659-26-081586-index.htm"
+  },
+  {
     "time_utc": "2026-07-08T11:14:19.620361+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - SHOREPOWER TECHNOLOGIES INC. (0000764630) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/764630/000149315226007669/0001493152-26-007669-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T11:52:15.164397+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Enertopia Corp. (0001346022) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1346022/000106299326001104/0001062993-26-001104-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T11:52:15.164401+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Miluna Acquisition Corp (0002077033) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2077033/000149315226007667/0001493152-26-007667-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T11:07:03.934654+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DOMINOS PIZZA INC (0001286681) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1286681/000119312526062313/0001193125-26-062313-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T11:07:03.934680+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Atomera Inc (0001420520) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1420520/000168316826001242/0001683168-26-001242-index.htm"
   }
 ]
