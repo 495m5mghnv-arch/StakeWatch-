@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-09T20:27:19.753986+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Eos Energy Enterprises, Inc. (0001805077) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026047796/0001628280-26-047796-index.htm"
+  },
+  {
     "time_utc": "2026-07-09T16:45:25.675677+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - PEABODY ENERGY CORP (0001064728) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1064728/000106472826000008/0001064728-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T13:07:17.129585+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Verisk Analytics, Inc. (0001442145) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1442145/000119312526062488/0001193125-26-062488-index.htm"
   }
 ]
