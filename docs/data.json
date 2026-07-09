@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-07-09T11:39:19.576526+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Enovix Corp (0001828318) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1828318/000182831826000050/0001828318-26-000050-index.htm"
+  },
+  {
+    "time_utc": "2026-07-09T11:39:19.576562+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ConnectOne Bancorp, Inc. (0000712771) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/712771/000143774926023097/0001437749-26-023097-index.htm"
+  },
+  {
+    "time_utc": "2026-07-09T11:39:19.576594+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Simply Good Foods Co (0001702744) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1702744/000170274426000021/0001702744-26-000021-index.htm"
+  },
+  {
+    "time_utc": "2026-07-09T11:39:19.576600+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UNITED NATURAL FOODS INC (0001020859) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1020859/000102085926000020/0001020859-26-000020-index.htm"
+  },
+  {
     "time_utc": "2026-07-08T21:20:25.280134+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - AMC ENTERTAINMENT HOLDINGS, INC. (0001411579) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926018352/0001104659-26-018352-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T13:07:17.129621+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AMC ENTERTAINMENT HOLDINGS, INC. (0001411579) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1411579/000141157926000018/0001411579-26-000018-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T11:52:15.164302+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GILEAD SCIENCES, INC. (0000882095) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/882095/000110465926018314/0001104659-26-018314-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T11:52:15.164336+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Easterly Government Properties, Inc. (0001622194) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1622194/000119312526062369/0001193125-26-062369-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T11:52:15.164346+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Zura Bio Ltd (0001855644) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1855644/000110465926018312/0001104659-26-018312-index.htm"
   }
 ]
