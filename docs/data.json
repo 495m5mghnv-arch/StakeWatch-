@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-09T14:15:42.022430+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000124/0001331757-26-000124-index.htm"
+  },
+  {
     "time_utc": "2026-07-09T11:39:19.576526+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - GIBRALTAR INDUSTRIES, INC. (0000912562) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/912562/000091256226000018/0000912562-26-000018-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T13:07:17.129613+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AMC ENTERTAINMENT HOLDINGS, INC. (0001411579) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926018352/0001104659-26-018352-index.htm"
   }
 ]
