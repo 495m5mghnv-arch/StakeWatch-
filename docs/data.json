@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-07-10T20:54:50.240917+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sunshine Biopharma Inc. (0001402328) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1402328/000168316826005458/0001683168-26-005458-index.htm"
+  },
+  {
+    "time_utc": "2026-07-10T20:54:50.240948+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Concentra Group Holdings Parent, Inc. (0002014596) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2014596/000201459626000047/0002014596-26-000047-index.htm"
+  },
+  {
+    "time_utc": "2026-07-10T20:54:50.240961+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NXG Cushing Midstream Energy Fund (0001400897) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1400897/000139834426012082/0001398344-26-012082-index.htm"
+  },
+  {
+    "time_utc": "2026-07-10T20:54:50.240977+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SRX Global Inc. (0001471727) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1471727/000149315226032864/0001493152-26-032864-index.htm"
+  },
+  {
+    "time_utc": "2026-07-10T20:54:50.240982+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Viking Acquisition Corp. II (0002139246) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2139246/000121390026077201/0001213900-26-077201-index.htm"
+  },
+  {
     "time_utc": "2026-07-10T11:36:14.920662+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Outdoor Holding Co (0001015383) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1015383/000149315226007686/0001493152-26-007686-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T13:07:17.129520+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NEWS CORP (0001564708) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000039/0001564708-26-000039-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T13:07:17.129525+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CULP INC (0000723603) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/723603/000119312526062497/0001193125-26-062497-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T13:07:17.129542+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Borealis Foods Inc. (0001852973) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1852973/000121390026019022/0001213900-26-019022-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T13:07:17.129547+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PERPETUA RESOURCES CORP. (0001526243) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1526243/000110465926018359/0001104659-26-018359-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T13:07:17.129557+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Candel Therapeutics, Inc. (0001841387) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526062490/0001193125-26-062490-index.htm"
   }
 ]
