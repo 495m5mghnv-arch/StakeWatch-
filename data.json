@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-07-10T11:36:14.920662+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LABCORP HOLDINGS INC. (0000920148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/920148/000092014826000157/0000920148-26-000157-index.htm"
+  },
+  {
+    "time_utc": "2026-07-10T11:36:14.920703+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Neuraxis, INC (0001933567) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1933567/000149315226032769/0001493152-26-032769-index.htm"
+  },
+  {
+    "time_utc": "2026-07-10T11:36:14.920710+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RANGE RESOURCES CORP (0000315852) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/315852/000031585226000015/0000315852-26-000015-index.htm"
+  },
+  {
     "time_utc": "2026-07-09T20:27:19.753986+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Candel Therapeutics, Inc. (0001841387) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526062490/0001193125-26-062490-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T13:07:17.129561+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ALT5 Sigma Corp (0000862861) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/862861/000149315226007685/0001493152-26-007685-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T13:07:17.129565+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Strategy Inc (0001050446) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526062489/0001193125-26-062489-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T13:07:17.129574+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PEABODY ENERGY CORP (0001064728) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1064728/000106472826000008/0001064728-26-000008-index.htm"
   }
 ]
