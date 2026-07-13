@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-07-13T13:33:23.923789+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Twin Vee PowerCats, Co. (0001855509) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1855509/000173112226000931/0001731122-26-000931-index.htm"
+  },
+  {
+    "time_utc": "2026-07-13T13:33:23.923823+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TACTILE SYSTEMS TECHNOLOGY INC (0001027838) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1027838/000110465926082947/0001104659-26-082947-index.htm"
+  },
+  {
+    "time_utc": "2026-07-13T13:33:23.923851+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WILLIAMS COMPANIES, INC. (0000107263) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/107263/000119312526301533/0001193125-26-301533-index.htm"
+  },
+  {
+    "time_utc": "2026-07-13T13:33:23.923872+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Calisa Acquisition Corp (0002026767) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2026767/000149315226032967/0001493152-26-032967-index.htm"
+  },
+  {
+    "time_utc": "2026-07-13T13:33:23.923883+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Fermi Inc. (0002071778) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2071778/000121390026077385/0001213900-26-077385-index.htm"
+  },
+  {
     "time_utc": "2026-07-13T11:22:56.604855+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Great Lakes Dredge & Dock CORP (0001372020) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1372020/000117184326001020/0001171843-26-001020-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T21:10:49.456740+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Oric Pharmaceuticals, Inc. (0001796280) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1796280/000119312526063974/0001193125-26-063974-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T21:10:49.456761+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Allison Transmission Holdings Inc (0001411207) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1411207/000119312526063975/0001193125-26-063975-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T21:10:49.456804+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MediaAlpha, Inc. (0001818383) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1818383/000181838326000047/0001818383-26-000047-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T21:10:49.456809+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Angel Studios, Inc. (0001865200) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1865200/000186520026000016/0001865200-26-000016-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T14:13:07.677991+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Blue Foundry Bancorp (0001846017) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1846017/000162828026010394/0001628280-26-010394-index.htm"
   }
 ]
