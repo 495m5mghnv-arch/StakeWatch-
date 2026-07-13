@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-13T19:44:27.098961+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SOLITRON DEVICES INC (0000091668) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/91668/000143774926023424/0001437749-26-023424-index.htm"
+  },
+  {
     "time_utc": "2026-07-13T13:33:23.923789+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Organogenesis Holdings Inc. (0001661181) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1661181/000119312526064270/0001193125-26-064270-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T21:10:49.456723+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Great Lakes Dredge & Dock CORP (0001372020) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1372020/000117184326001020/0001171843-26-001020-index.htm"
   }
 ]
