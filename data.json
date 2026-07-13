@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-07-13T21:38:48.607075+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Eagle Point Credit Co (0001604174) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1604174/000110465926083170/0001104659-26-083170-index.htm"
+  },
+  {
+    "time_utc": "2026-07-13T21:38:48.607102+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SC II Acquisition Corp. (0002076739) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2076739/000121390026077669/0001213900-26-077669-index.htm"
+  },
+  {
+    "time_utc": "2026-07-13T21:38:48.607109+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Eagle Point Income Co Inc. (0001754836) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1754836/000110465926083169/0001104659-26-083169-index.htm"
+  },
+  {
+    "time_utc": "2026-07-13T21:38:48.607135+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rithm Property Trust Inc. (0001614806) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1614806/000110465926083167/0001104659-26-083167-index.htm"
+  },
+  {
     "time_utc": "2026-07-13T19:44:27.098961+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - Aebi Schmidt Holding AG (0002048519) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2048519/000117184326001034/0001171843-26-001034-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T22:04:51.653026+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BWX Technologies, Inc. (0001486957) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1486957/000148695726000005/0001486957-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T22:04:51.653047+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Innovex International, Inc. (0001042893) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1042893/000119312526064279/0001193125-26-064279-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T22:04:51.653062+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AST SpaceMobile, Inc. (0001780312) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226007772/0001493152-26-007772-index.htm"
-  },
-  {
-    "time_utc": "2026-02-23T22:04:51.653096+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Organogenesis Holdings Inc. (0001661181) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1661181/000119312526064270/0001193125-26-064270-index.htm"
   }
 ]
