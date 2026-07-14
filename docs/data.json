@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-07-14T13:44:38.830321+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Catalyst Bancorp, Inc. (0001849867) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1849867/000184986726000014/0001849867-26-000014-index.htm"
+  },
+  {
+    "time_utc": "2026-07-14T13:44:38.830358+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CITIGROUP INC (0000831001) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/831001/000110465926083383/0001104659-26-083383-index.htm"
+  },
+  {
     "time_utc": "2026-07-14T11:53:54.632161+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Ferguson Enterprises Inc. /DE/ (0002011641) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000002/0002011641-26-000002-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T11:52:55.206549+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Life Time Group Holdings, Inc. (0001869198) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1869198/000186919826000009/0001869198-26-000009-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T11:52:55.206579+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - INTERFACE INC (0000715787) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/715787/000071578726000002/0000715787-26-000002-index.htm"
   }
 ]
