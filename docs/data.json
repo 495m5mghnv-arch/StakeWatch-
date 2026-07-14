@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-14T16:40:14.648142+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000108/0001325814-26-000108-index.htm"
+  },
+  {
     "time_utc": "2026-07-14T13:44:38.830321+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000018/0001018164-26-000018-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T11:52:55.206527+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Ferguson Enterprises Inc. /DE/ (0002011641) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000002/0002011641-26-000002-index.htm"
   }
 ]
