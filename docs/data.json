@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-07-14T20:37:41.207556+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AUTOZONE INC (0000866787) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/866787/000110465926083528/0001104659-26-083528-index.htm"
+  },
+  {
+    "time_utc": "2026-07-14T20:37:41.207607+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cheniere Energy, Inc. (0000003570) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/3570/000000357026000023/0000003570-26-000023-index.htm"
+  },
+  {
+    "time_utc": "2026-07-14T20:37:41.207624+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Elite Express Holding Inc. (0002053641) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2053641/000110465926083527/0001104659-26-083527-index.htm"
+  },
+  {
     "time_utc": "2026-07-14T19:20:19.318316+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Clene Inc. (0001822791) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1822791/000143774926005156/0001437749-26-005156-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T13:08:50.010025+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - IOVANCE BIOTHERAPEUTICS, INC. (0001425205) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1425205/000110465926018837/0001104659-26-018837-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T13:08:50.010029+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FIRST HAWAIIAN, INC. (0000036377) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/36377/000110465926018838/0001104659-26-018838-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T13:08:50.010035+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Inhibitor Therapeutics, Inc. (0001042418) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1042418/000149315226007821/0001493152-26-007821-index.htm"
   }
 ]
