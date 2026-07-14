@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-07-14T17:50:45.763706+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - F&M BANK CORP (0000740806) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/740806/000165495426006649/0001654954-26-006649-index.htm"
+  },
+  {
+    "time_utc": "2026-07-14T17:50:45.763722+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OHIO VALLEY BANC CORP (0000894671) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/894671/000089467126000041/0000894671-26-000041-index.htm"
+  },
+  {
+    "time_utc": "2026-07-14T17:50:45.763763+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cottonwood Communities, Inc. (0001692951) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000117/0001692951-26-000117-index.htm"
+  },
+  {
     "time_utc": "2026-07-14T16:40:14.648142+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Kyverna Therapeutics, Inc. (0001994702) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1994702/000119312526065320/0001193125-26-065320-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T13:08:50.010049+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SCI Engineered Materials, Inc. (0000830616) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/830616/000110465926018839/0001104659-26-018839-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T13:08:50.010062+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PALVELLA THERAPEUTICS, INC. (0001583648) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1583648/000119312526065308/0001193125-26-065308-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T13:08:50.010085+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000018/0001018164-26-000018-index.htm"
   }
 ]

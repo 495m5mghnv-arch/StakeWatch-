@@ -1,4 +1,7 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-07-14T17:50:45.763706+00:00,US,SEC,8-K,,,,8-K - F&M BANK CORP (0000740806) (Filer),https://www.sec.gov/Archives/edgar/data/740806/000165495426006649/0001654954-26-006649-index.htm
+2026-07-14T17:50:45.763722+00:00,US,SEC,8-K,,,,8-K - OHIO VALLEY BANC CORP (0000894671) (Filer),https://www.sec.gov/Archives/edgar/data/894671/000089467126000041/0000894671-26-000041-index.htm
+2026-07-14T17:50:45.763763+00:00,US,SEC,8-K,,,,"8-K - Cottonwood Communities, Inc. (0001692951) (Filer)",https://www.sec.gov/Archives/edgar/data/1692951/000169295126000117/0001692951-26-000117-index.htm
 2026-07-14T16:40:14.648142+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer),https://www.sec.gov/Archives/edgar/data/1325814/000132581426000108/0001325814-26-000108-index.htm
 2026-07-14T13:44:38.830321+00:00,US,SEC,8-K,,,,"8-K - Catalyst Bancorp, Inc. (0001849867) (Filer)",https://www.sec.gov/Archives/edgar/data/1849867/000184986726000014/0001849867-26-000014-index.htm
 2026-07-14T13:44:38.830358+00:00,US,SEC,8-K,,,,8-K - CITIGROUP INC (0000831001) (Filer),https://www.sec.gov/Archives/edgar/data/831001/000110465926083383/0001104659-26-083383-index.htm
@@ -1996,6 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-02-24T13:08:50.010029+00:00,US,SEC,8-K,,,,"8-K - FIRST HAWAIIAN, INC. (0000036377) (Filer)",https://www.sec.gov/Archives/edgar/data/36377/000110465926018838/0001104659-26-018838-index.htm
 2026-02-24T13:08:50.010035+00:00,US,SEC,8-K,,,,"8-K - Inhibitor Therapeutics, Inc. (0001042418) (Filer)",https://www.sec.gov/Archives/edgar/data/1042418/000149315226007821/0001493152-26-007821-index.htm
 2026-02-24T13:08:50.010040+00:00,US,SEC,8-K,,,,"8-K - Kyverna Therapeutics, Inc. (0001994702) (Filer)",https://www.sec.gov/Archives/edgar/data/1994702/000119312526065320/0001193125-26-065320-index.htm
-2026-02-24T13:08:50.010049+00:00,US,SEC,8-K,,,,"8-K - SCI Engineered Materials, Inc. (0000830616) (Filer)",https://www.sec.gov/Archives/edgar/data/830616/000110465926018839/0001104659-26-018839-index.htm
-2026-02-24T13:08:50.010062+00:00,US,SEC,8-K,,,,"8-K - PALVELLA THERAPEUTICS, INC. (0001583648) (Filer)",https://www.sec.gov/Archives/edgar/data/1583648/000119312526065308/0001193125-26-065308-index.htm
-2026-02-24T13:08:50.010085+00:00,US,SEC,8-K,,,,8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer),https://www.sec.gov/Archives/edgar/data/1018164/000101816426000018/0001018164-26-000018-index.htm
