@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-07-14T21:36:16.666996+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Laird Superfood, Inc. (0001650696) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023571/0001437749-26-023571-index.htm"
+  },
+  {
+    "time_utc": "2026-07-14T21:36:16.667012+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Viking Acquisition Corp. II (0002139246) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2139246/000118518526002966/0001185185-26-002966-index.htm"
+  },
+  {
+    "time_utc": "2026-07-14T21:36:16.667035+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Vistra Corp. (0001692819) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126028454/0001140361-26-028454-index.htm"
+  },
+  {
+    "time_utc": "2026-07-14T21:36:16.667042+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Talen Energy Corp (0001622536) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000058/0001622536-26-000058-index.htm"
+  },
+  {
     "time_utc": "2026-07-14T20:37:41.207556+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - DIVERSIFIED HEALTHCARE TRUST (0001075415) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1075415/000110465926018853/0001104659-26-018853-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T13:08:50.009996+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Atlanta Braves Holdings, Inc. (0001958140) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1958140/000195814026000004/0001958140-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T13:08:50.010001+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - UFP INDUSTRIES INC (0000912767) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/912767/000091276726000010/0000912767-26-000010-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T13:08:50.010011+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ESTABLISHMENT LABS HOLDINGS INC. (0001688757) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1688757/000168875726000014/0001688757-26-000014-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T13:08:50.010015+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Clene Inc. (0001822791) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1822791/000143774926005156/0001437749-26-005156-index.htm"
   }
 ]
