@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-07-15T19:48:23.318846+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SRX Global Inc. (0001471727) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1471727/000149315226033350/0001493152-26-033350-index.htm"
+  },
+  {
+    "time_utc": "2026-07-15T19:48:23.318921+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - JONES SODA CO. (0001083522) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1083522/000149315226033347/0001493152-26-033347-index.htm"
+  },
+  {
     "time_utc": "2026-07-15T15:54:09.865001+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Taboola.com Ltd. (0001840502) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1840502/000114036126006649/0001140361-26-006649-index.htm"
-  },
-  {
-    "time_utc": "2026-02-25T11:08:23.739732+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Clear Secure, Inc. (0001856314) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1856314/000185631426000004/0001856314-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T22:03:05.801849+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Ameris Bancorp (0000351569) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/351569/000035156926000026/0000351569-26-000026-index.htm"
   }
 ]
