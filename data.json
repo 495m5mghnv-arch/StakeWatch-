@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-07-15T12:14:53.250541+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Genasys Inc. (0000924383) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/924383/000119312526304084/0001193125-26-304084-index.htm"
+  },
+  {
+    "time_utc": "2026-07-15T12:14:53.250577+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Profound Medical Corp. (0001628808) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1628808/000117184326004654/0001171843-26-004654-index.htm"
+  },
+  {
+    "time_utc": "2026-07-15T12:14:53.250606+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MORGAN STANLEY (0000895421) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000207/0000895421-26-000207-index.htm"
+  },
+  {
+    "time_utc": "2026-07-15T12:14:53.250615+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - JOHNSON & JOHNSON (0000200406) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000146/0000200406-26-000146-index.htm"
+  },
+  {
+    "time_utc": "2026-07-15T12:14:53.250646+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CONAGRA BRANDS INC. (0000023217) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/23217/000002321726000022/0000023217-26-000022-index.htm"
+  },
+  {
     "time_utc": "2026-07-15T10:50:54.023221+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Microbot Medical Inc. (0000883975) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/883975/000149315226007900/0001493152-26-007900-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T22:03:05.801895+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CION Investment Corp (0001534254) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926019195/0001104659-26-019195-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T22:03:05.801901+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FIFTH THIRD BANCORP (0000035527) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000126/0000035527-26-000126-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T21:36:13.302369+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DENTSPLY SIRONA Inc. (0000818479) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/818479/000081847926000058/0000818479-26-000058-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T20:02:50.371449+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BIO-PATH HOLDINGS, INC. (0001133818) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1133818/000166357726000046/0001663577-26-000046-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T15:12:25.720132+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000037/0001331757-26-000037-index.htm"
   }
 ]
