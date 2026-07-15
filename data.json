@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-07-15T10:50:54.023221+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SMITH & WESSON BRANDS, INC. (0001092796) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1092796/000119312526304020/0001193125-26-304020-index.htm"
+  },
+  {
+    "time_utc": "2026-07-15T10:50:54.023296+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PNC FINANCIAL SERVICES GROUP, INC. (0000713676) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/713676/000162828026048244/0001628280-26-048244-index.htm"
+  },
+  {
+    "time_utc": "2026-07-15T10:50:54.023307+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BlackRock, Inc. (0002012383) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526304013/0001193125-26-304013-index.htm"
+  },
+  {
+    "time_utc": "2026-07-15T10:50:54.023314+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIRST HORIZON CORP (0000036966) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/36966/000003696626000143/0000036966-26-000143-index.htm"
+  },
+  {
+    "time_utc": "2026-07-15T10:50:54.023321+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bank of New York Mellon Corp (0001390777) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000071/0001390777-26-000071-index.htm"
+  },
+  {
     "time_utc": "2026-07-14T21:36:16.666996+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000037/0001331757-26-000037-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T15:12:25.720216+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1330399/000119312526065685/0001193125-26-065685-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T14:16:09.028173+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ONCOLYTICS BIOTECH INC (0001129928) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000006/0001129928-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T14:16:09.028197+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PIONEER POWER SOLUTIONS, INC. (0001449792) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1449792/000149315226007832/0001493152-26-007832-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T13:08:50.009970+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Portillo's Inc. (0001871509) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1871509/000187150926000011/0001871509-26-000011-index.htm"
-  },
-  {
-    "time_utc": "2026-02-24T13:08:50.009990+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DIVERSIFIED HEALTHCARE TRUST (0001075415) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1075415/000110465926018853/0001104659-26-018853-index.htm"
   }
 ]
