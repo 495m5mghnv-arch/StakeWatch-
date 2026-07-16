@@ -1,4 +1,6 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-07-16T21:13:12.675881+00:00,US,SEC,8-K,,,,8-K - HEICO CORP (0000046619) (Filer),https://www.sec.gov/Archives/edgar/data/46619/000121390026078776/0001213900-26-078776-index.htm
+2026-07-16T21:13:12.675937+00:00,US,SEC,8-K,,,,"8-K - Our Bond, Inc. (0001756064) (Filer)",https://www.sec.gov/Archives/edgar/data/1756064/000149315226033572/0001493152-26-033572-index.htm
 2026-07-16T20:02:16.125425+00:00,US,SEC,8-K,,,,8-K - Versus Systems Inc. (0001701963) (Filer),https://www.sec.gov/Archives/edgar/data/1701963/000121390026078691/0001213900-26-078691-index.htm
 2026-07-16T17:50:11.138857+00:00,US,SEC,8-K,,,,8-K - WESTAMERICA BANCORPORATION (0000311094) (Filer),https://www.sec.gov/Archives/edgar/data/311094/000117184326004727/0001171843-26-004727-index.htm
 2026-07-16T16:38:12.633430+00:00,US,SEC,8-K,,,,8-K - TriLinc Global Impact Fund LLC (0001550453) (Filer),https://www.sec.gov/Archives/edgar/data/1550453/000143774926023686/0001437749-26-023686-index.htm
@@ -1997,5 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-02-25T21:02:10.978130+00:00,US,SEC,8-K,,,,8-K - Xencor Inc (0001326732) (Filer),https://www.sec.gov/Archives/edgar/data/1326732/000132673226000014/0001326732-26-000014-index.htm
 2026-02-25T21:02:10.978142+00:00,US,SEC,8-K,,,,"8-K - Spok Holdings, Inc (0001289945) (Filer)",https://www.sec.gov/Archives/edgar/data/1289945/000128994526000005/0001289945-26-000005-index.htm
 2026-02-25T21:02:10.978150+00:00,US,SEC,8-K,,,,8-K - DAILY JOURNAL CORP (0000783412) (Filer),https://www.sec.gov/Archives/edgar/data/783412/000143774926005590/0001437749-26-005590-index.htm
-2026-02-25T21:02:10.978184+00:00,US,SEC,8-K,,,,8-K - MCGRATH RENTCORP (0000752714) (Filer),https://www.sec.gov/Archives/edgar/data/752714/000119312526071461/0001193125-26-071461-index.htm
-2026-02-25T20:21:22.844294+00:00,US,SEC,8-K,,,,8-K - AmBase Corp (0000020639) (Filer),https://www.sec.gov/Archives/edgar/data/20639/000114036126006772/0001140361-26-006772-index.htm
