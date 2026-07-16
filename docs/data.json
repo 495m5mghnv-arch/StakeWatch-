@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-16T20:02:16.125425+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Versus Systems Inc. (0001701963) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1701963/000121390026078691/0001213900-26-078691-index.htm"
+  },
+  {
     "time_utc": "2026-07-16T17:50:11.138857+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - AmBase Corp (0000020639) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/20639/000114036126006772/0001140361-26-006772-index.htm"
-  },
-  {
-    "time_utc": "2026-02-25T19:41:38.920668+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - QNB CORP. (0000750558) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/750558/000119312526071157/0001193125-26-071157-index.htm"
   }
 ]
