@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-07-17T11:44:57.036716+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FNB CORP/PA/ (0000037808) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/37808/000003780826000023/0000037808-26-000023-index.htm"
+  },
+  {
+    "time_utc": "2026-07-17T11:44:57.036748+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SOUTH PLAINS FINANCIAL, INC. (0001163668) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1163668/000114036126028765/0001140361-26-028765-index.htm"
+  },
+  {
+    "time_utc": "2026-07-17T11:44:57.036763+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Uniti Group Inc. (0002020795) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2020795/000095010326010759/0000950103-26-010759-index.htm"
+  },
+  {
+    "time_utc": "2026-07-17T11:44:57.036776+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Solstice Advanced Materials Inc. (0002064953) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2064953/000206495326000081/0002064953-26-000081-index.htm"
+  },
+  {
+    "time_utc": "2026-07-17T11:44:57.036798+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kalaris Therapeutics, Inc. (0001754068) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1754068/000119312526306737/0001193125-26-306737-index.htm"
+  },
+  {
+    "time_utc": "2026-07-17T11:44:57.036819+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LISATA THERAPEUTICS, INC. (0000320017) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/320017/000114036126028763/0001140361-26-028763-index.htm"
+  },
+  {
     "time_utc": "2026-07-17T10:17:31.895101+00:00",
     "region": "US",
     "source": "SEC",
@@ -21932,71 +21998,5 @@
     "percent": "",
     "title": "8-K - BeOne Medicines Ltd. (0001651308) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026011941/0001628280-26-011941-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:12:47.117268+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SOLENO THERAPEUTICS INC (0001484565) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1484565/000119312526073209/0001193125-26-073209-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:12:47.117273+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001172/0001062993-26-001172-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:12:47.117277+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Aurinia Pharmaceuticals Inc. (0001600620) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1600620/000160062026000015/0001600620-26-000015-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:12:47.117281+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Ecovyst Inc. (0001708035) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1708035/000170803526000047/0001708035-26-000047-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:12:47.117285+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Qnity Electronics, Inc. (0002058873) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000007/0002058873-26-000007-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:12:47.117292+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Celsius Holdings, Inc. (0001341766) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1341766/000134176626000017/0001341766-26-000017-index.htm"
   }
 ]
