@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-17T18:33:06.961382+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DAKTRONICS INC /SD/ (0000915779) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/915779/000162828026048619/0001628280-26-048619-index.htm"
+  },
+  {
     "time_utc": "2026-07-17T17:21:02.725651+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Nuvalent, Inc. (0001861560) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1861560/000119312526073304/0001193125-26-073304-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:57:04.107057+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Eos Energy Enterprises, Inc. (0001805077) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026011958/0001628280-26-011958-index.htm"
   }
 ]
