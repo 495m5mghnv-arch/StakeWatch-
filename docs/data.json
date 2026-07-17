@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-07-17T12:50:25.848283+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - VivoSim Labs, INC. (0001497253) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1497253/000119312526306849/0001193125-26-306849-index.htm"
+  },
+  {
+    "time_utc": "2026-07-17T12:50:25.848332+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OPEN TEXT CORP (0001002638) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1002638/000100263826000058/0001002638-26-000058-index.htm"
+  },
+  {
+    "time_utc": "2026-07-17T12:50:25.848338+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MEDIFAST INC (0000910329) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/910329/000162828026048574/0001628280-26-048574-index.htm"
+  },
+  {
     "time_utc": "2026-07-17T11:44:57.036716+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Fortrea Holdings Inc. (0001965040) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1965040/000162828026011942/0001628280-26-011942-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:12:47.117250+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Privia Health Group, Inc. (0001759655) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1759655/000175965526000007/0001759655-26-000007-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:12:47.117255+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Primo Brands Corp (0002042694) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2042694/000127956926000164/0001279569-26-000164-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:12:47.117260+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BeOne Medicines Ltd. (0001651308) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026011941/0001628280-26-011941-index.htm"
   }
 ]
