@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-07-17T17:21:02.725651+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UNITED FIRE GROUP INC (0000101199) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/101199/000010119926000044/0000101199-26-000044-index.htm"
+  },
+  {
+    "time_utc": "2026-07-17T17:21:02.725720+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HINES GLOBAL INCOME TRUST, INC. (0001585101) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1585101/000162828026048603/0001628280-26-048603-index.htm"
+  },
+  {
     "time_utc": "2026-07-17T14:43:31.711420+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Eos Energy Enterprises, Inc. (0001805077) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026011958/0001628280-26-011958-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:12:47.117162+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DUCOMMUN INC /DE/ (0000030305) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/30305/000162828026011949/0001628280-26-011949-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:12:47.117224+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Arhaus, Inc. (0001875444) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1875444/000187544426000008/0001875444-26-000008-index.htm"
   }
 ]
