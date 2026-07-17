@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-07-17T21:30:39.118154+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SOBR Safe, Inc. (0001425627) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226004383/0001477932-26-004383-index.htm"
+  },
+  {
+    "time_utc": "2026-07-17T21:30:39.118202+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Exodus Movement, Inc. (0001821534) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1821534/000119312526308023/0001193125-26-308023-index.htm"
+  },
+  {
+    "time_utc": "2026-07-17T21:30:39.118233+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Digital Brands Group, Inc. (0001668010) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1668010/000149315226033802/0001493152-26-033802-index.htm"
+  },
+  {
     "time_utc": "2026-07-17T20:37:14.173573+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - United Parks & Resorts Inc. (0001564902) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1564902/000119312526073334/0001193125-26-073334-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:57:04.106998+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Warby Parker Inc. (0001504776) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1504776/000150477626000003/0001504776-26-000003-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:57:04.107025+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PERRIGO Co plc (0001585364) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1585364/000158536426000006/0001585364-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:57:04.107038+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - American Bitcoin Corp. (0001755953) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1755953/000119312526073305/0001193125-26-073305-index.htm"
   }
 ]

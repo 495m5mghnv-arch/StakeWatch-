@@ -1,4 +1,7 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-07-17T21:30:39.118154+00:00,US,SEC,8-K,,,,"8-K - SOBR Safe, Inc. (0001425627) (Filer)",https://www.sec.gov/Archives/edgar/data/1425627/000147793226004383/0001477932-26-004383-index.htm
+2026-07-17T21:30:39.118202+00:00,US,SEC,8-K,,,,"8-K - Exodus Movement, Inc. (0001821534) (Filer)",https://www.sec.gov/Archives/edgar/data/1821534/000119312526308023/0001193125-26-308023-index.htm
+2026-07-17T21:30:39.118233+00:00,US,SEC,8-K,,,,"8-K - Digital Brands Group, Inc. (0001668010) (Filer)",https://www.sec.gov/Archives/edgar/data/1668010/000149315226033802/0001493152-26-033802-index.htm
 2026-07-17T20:37:14.173573+00:00,US,SEC,8-K,,,,"8-K - ARTELO BIOSCIENCES, INC. (0001621221) (Filer)",https://www.sec.gov/Archives/edgar/data/1621221/000164033426001198/0001640334-26-001198-index.htm
 2026-07-17T18:33:06.961382+00:00,US,SEC,8-K,,,,8-K - DAKTRONICS INC /SD/ (0000915779) (Filer),https://www.sec.gov/Archives/edgar/data/915779/000162828026048619/0001628280-26-048619-index.htm
 2026-07-17T17:21:02.725651+00:00,US,SEC,8-K,,,,8-K - UNITED FIRE GROUP INC (0000101199) (Filer),https://www.sec.gov/Archives/edgar/data/101199/000010119926000044/0000101199-26-000044-index.htm
@@ -1996,6 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-02-26T11:57:04.106940+00:00,US,SEC,8-K,,,,"8-K - Krispy Kreme, Inc. (0001857154) (Filer)",https://www.sec.gov/Archives/edgar/data/1857154/000185715426000012/0001857154-26-000012-index.htm
 2026-02-26T11:57:04.106978+00:00,US,SEC,8-K,,,,8-K - TopBuild Corp (0001633931) (Filer),https://www.sec.gov/Archives/edgar/data/1633931/000110465926020046/0001104659-26-020046-index.htm
 2026-02-26T11:57:04.106993+00:00,US,SEC,8-K,,,,8-K - United Parks & Resorts Inc. (0001564902) (Filer),https://www.sec.gov/Archives/edgar/data/1564902/000119312526073334/0001193125-26-073334-index.htm
-2026-02-26T11:57:04.106998+00:00,US,SEC,8-K,,,,8-K - Warby Parker Inc. (0001504776) (Filer),https://www.sec.gov/Archives/edgar/data/1504776/000150477626000003/0001504776-26-000003-index.htm
-2026-02-26T11:57:04.107025+00:00,US,SEC,8-K,,,,8-K - PERRIGO Co plc (0001585364) (Filer),https://www.sec.gov/Archives/edgar/data/1585364/000158536426000006/0001585364-26-000006-index.htm
-2026-02-26T11:57:04.107038+00:00,US,SEC,8-K,,,,8-K - American Bitcoin Corp. (0001755953) (Filer),https://www.sec.gov/Archives/edgar/data/1755953/000119312526073305/0001193125-26-073305-index.htm
