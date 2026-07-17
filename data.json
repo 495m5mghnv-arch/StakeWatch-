@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-17T14:43:31.711420+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ENNIS, INC. (0000033002) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/33002/000119312526307066/0001193125-26-307066-index.htm"
+  },
+  {
     "time_utc": "2026-07-17T12:50:25.848283+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Arhaus, Inc. (0001875444) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1875444/000187544426000008/0001875444-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:12:47.117245+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Fortrea Holdings Inc. (0001965040) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1965040/000162828026011942/0001628280-26-011942-index.htm"
   }
 ]
