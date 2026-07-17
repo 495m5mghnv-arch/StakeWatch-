@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-17T20:37:14.173573+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ARTELO BIOSCIENCES, INC. (0001621221) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1621221/000164033426001198/0001640334-26-001198-index.htm"
+  },
+  {
     "time_utc": "2026-07-17T18:33:06.961382+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - American Bitcoin Corp. (0001755953) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1755953/000119312526073305/0001193125-26-073305-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:57:04.107042+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Nuvalent, Inc. (0001861560) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1861560/000119312526073304/0001193125-26-073304-index.htm"
   }
 ]
