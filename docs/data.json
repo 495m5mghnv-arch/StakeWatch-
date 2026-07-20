@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-07-20T12:31:19.940080+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - 4D Molecular Therapeutics, Inc. (0001650648) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1650648/000119312526308409/0001193125-26-308409-index.htm"
+  },
+  {
+    "time_utc": "2026-07-20T12:31:19.940111+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Element Solutions Inc (0001590714) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1590714/000110465926084905/0001104659-26-084905-index.htm"
+  },
+  {
+    "time_utc": "2026-07-20T12:31:19.940137+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Niki BioSolutions, Inc. (0001734005) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026079416/0001213900-26-079416-index.htm"
+  },
+  {
+    "time_utc": "2026-07-20T12:31:19.940142+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tenon Medical, Inc. (0001560293) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1560293/000121390026079415/0001213900-26-079415-index.htm"
+  },
+  {
+    "time_utc": "2026-07-20T12:31:19.940161+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Galaxy Gaming, Inc. (0000013156) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/13156/000119312526308385/0001193125-26-308385-index.htm"
+  },
+  {
+    "time_utc": "2026-07-20T12:31:19.940167+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GOLDMAN SACHS GROUP INC (0000886982) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/886982/000119312526308384/0001193125-26-308384-index.htm"
+  },
+  {
+    "time_utc": "2026-07-20T12:31:19.940172+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kalaris Therapeutics, Inc. (0001754068) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1754068/000119312526308382/0001193125-26-308382-index.htm"
+  },
+  {
     "time_utc": "2026-07-20T10:24:39.028208+00:00",
     "region": "US",
     "source": "SEC",
@@ -21921,82 +21998,5 @@
     "percent": "",
     "title": "8-K - Sunoco LP (0001552275) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1552275/000119312526073531/0001193125-26-073531-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T13:20:34.575141+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CRA INTERNATIONAL, INC. (0001053706) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1053706/000105370626000005/0001053706-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T13:20:34.575153+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Perimeter Solutions, Inc. (0001880319) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1880319/000188031926000010/0001880319-26-000010-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T13:20:34.575157+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - USA TODAY Co., Inc. (0001579684) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1579684/000157968426000008/0001579684-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T13:20:34.575169+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Aquestive Therapeutics, Inc. (0001398733) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1398733/000139873326000007/0001398733-26-000007-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T13:20:34.575182+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GRAY MEDIA, INC (0000043196) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/43196/000143774926005742/0001437749-26-005742-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T13:20:34.575189+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DELCATH SYSTEMS, INC. (0000872912) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/872912/000162828026012004/0001628280-26-012004-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T13:20:34.575198+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Pulmatrix, Inc. (0001574235) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226008129/0001493152-26-008129-index.htm"
   }
 ]
