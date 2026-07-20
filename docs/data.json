@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-07-20T10:24:39.028208+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ROCKWELL MEDICAL, INC. (0001041024) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1041024/000162828026048752/0001628280-26-048752-index.htm"
+  },
+  {
+    "time_utc": "2026-07-20T10:24:39.028227+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blue Chip Capital Group Inc. (0001932213) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1932213/000149315226033836/0001493152-26-033836-index.htm"
+  },
+  {
+    "time_utc": "2026-07-20T10:24:39.028234+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Data443 Risk Mitigation, Inc. (0001068689) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1068689/000149315226033834/0001493152-26-033834-index.htm"
+  },
+  {
+    "time_utc": "2026-07-20T10:24:39.028276+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Immix Biopharma, Inc. (0001873835) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226033829/0001493152-26-033829-index.htm"
+  },
+  {
+    "time_utc": "2026-07-20T10:24:39.028281+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DOMINOS PIZZA INC (0001286681) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1286681/000128668126000034/0001286681-26-000034-index.htm"
+  },
+  {
+    "time_utc": "2026-07-20T10:24:39.028302+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Data443 Risk Mitigation, Inc. (0001068689) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1068689/000149315226033828/0001493152-26-033828-index.htm"
+  },
+  {
     "time_utc": "2026-07-17T21:30:39.118154+00:00",
     "region": "US",
     "source": "SEC",
@@ -21932,71 +21998,5 @@
     "percent": "",
     "title": "8-K - Pulmatrix, Inc. (0001574235) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226008129/0001493152-26-008129-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T13:20:34.575202+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GRAY MEDIA, INC (0000043196) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/43196/000143774926005741/0001437749-26-005741-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T13:20:34.575213+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Golden Matrix Group, Inc. (0001437925) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1437925/000147793226001050/0001477932-26-001050-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T13:20:34.575219+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MANNKIND CORP (0000899460) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/899460/000119312526073509/0001193125-26-073509-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:57:04.106940+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Krispy Kreme, Inc. (0001857154) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1857154/000185715426000012/0001857154-26-000012-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:57:04.106978+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TopBuild Corp (0001633931) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1633931/000110465926020046/0001104659-26-020046-index.htm"
-  },
-  {
-    "time_utc": "2026-02-26T11:57:04.106993+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - United Parks & Resorts Inc. (0001564902) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1564902/000119312526073334/0001193125-26-073334-index.htm"
   }
 ]
