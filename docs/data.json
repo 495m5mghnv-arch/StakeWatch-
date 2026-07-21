@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-21T16:47:45.044335+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000130/0001331465-26-000130-index.htm"
+  },
+  {
     "time_utc": "2026-07-21T15:14:56.728646+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - PennantPark Floating Rate Capital Ltd. (0001504619) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1504619/000119312526082620/0001193125-26-082620-index.htm"
-  },
-  {
-    "time_utc": "2026-02-27T21:14:20.266179+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - First Foundation Inc. (0001413837) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1413837/000110465926021558/0001104659-26-021558-index.htm"
   }
 ]
