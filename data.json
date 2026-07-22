@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-22T18:46:52.767420+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GREENE COUNTY BANCORP INC (0001070524) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1070524/000114036126029241/0001140361-26-029241-index.htm"
+  },
+  {
     "time_utc": "2026-07-22T12:24:45.097480+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - HBT Financial, Inc. (0000775215) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/775215/000077521526000021/0000775215-26-000021-index.htm"
-  },
-  {
-    "time_utc": "2026-03-02T11:58:26.763733+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Yum China Holdings, Inc. (0001673358) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1673358/000167335826000051/0001673358-26-000051-index.htm"
   }
 ]
