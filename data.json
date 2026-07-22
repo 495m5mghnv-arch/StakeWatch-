@@ -1,5 +1,104 @@
 [
   {
+    "time_utc": "2026-07-22T10:54:12.590974+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NORTHERN TRUST CORP (0000073124) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/73124/000007312426000043/0000073124-26-000043-index.htm"
+  },
+  {
+    "time_utc": "2026-07-22T10:54:12.590996+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RPM INTERNATIONAL INC/DE/ (0000110621) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/110621/000119312526311276/0001193125-26-311276-index.htm"
+  },
+  {
+    "time_utc": "2026-07-22T10:54:12.591002+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BankUnited, Inc. (0001504008) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1504008/000150400826000076/0001504008-26-000076-index.htm"
+  },
+  {
+    "time_utc": "2026-07-22T10:54:12.591009+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TE Connectivity plc (0001385157) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1385157/000110465926085589/0001104659-26-085589-index.htm"
+  },
+  {
+    "time_utc": "2026-07-22T10:54:12.591013+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AT&T INC. (0000732717) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000294/0000732717-26-000294-index.htm"
+  },
+  {
+    "time_utc": "2026-07-22T10:54:12.591017+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Travel & Leisure Co. (0001361658) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1361658/000136165826000050/0001361658-26-000050-index.htm"
+  },
+  {
+    "time_utc": "2026-07-22T10:54:12.591029+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GE Vernova Inc. (0001996810) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000147/0001996810-26-000147-index.htm"
+  },
+  {
+    "time_utc": "2026-07-22T10:54:12.591069+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CAL-MAINE FOODS INC (0000016160) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/16160/000156276226000078/0001562762-26-000078-index.htm"
+  },
+  {
+    "time_utc": "2026-07-22T10:54:12.591080+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Otis Worldwide Corp (0001781335) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000110/0001781335-26-000110-index.htm"
+  },
+  {
     "time_utc": "2026-07-21T19:47:14.534181+00:00",
     "region": "US",
     "source": "SEC",
@@ -21899,104 +21998,5 @@
     "percent": "",
     "title": "8-K - Kairos Pharma, LTD. (0001962011) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1962011/000149315226008435/0001493152-26-008435-index.htm"
-  },
-  {
-    "time_utc": "2026-03-02T11:37:24.393592+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Alaunos Therapeutics, Inc. (0001107421) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1107421/000119312526084084/0001193125-26-084084-index.htm"
-  },
-  {
-    "time_utc": "2026-03-02T11:37:24.393605+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Zymeworks Inc. (0001937653) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1937653/000119312526084082/0001193125-26-084082-index.htm"
-  },
-  {
-    "time_utc": "2026-03-02T11:37:24.393610+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CareTrust REIT, Inc. (0001590717) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1590717/000162828026012986/0001628280-26-012986-index.htm"
-  },
-  {
-    "time_utc": "2026-03-02T11:37:24.393620+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MACERICH CO (0000912242) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/912242/000119312526084078/0001193125-26-084078-index.htm"
-  },
-  {
-    "time_utc": "2026-03-02T11:37:24.393625+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TERADATA CORP /DE/ (0000816761) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/816761/000081676126000004/0000816761-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-02-27T21:46:30.897145+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Hashdex Nasdaq CME Crypto Index ETF (0002031069) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026021717/0001213900-26-021717-index.htm"
-  },
-  {
-    "time_utc": "2026-02-27T21:46:30.897166+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PROTHENA CORP PUBLIC LTD CO (0001559053) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1559053/000155905326000009/0001559053-26-000009-index.htm"
-  },
-  {
-    "time_utc": "2026-02-27T21:46:30.897184+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Voyager Acquisition Corp./Cayman Islands (0002006815) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2006815/000182912626001748/0001829126-26-001748-index.htm"
-  },
-  {
-    "time_utc": "2026-02-27T21:46:30.897221+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Energy Vault Holdings, Inc. (0001828536) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1828536/000110465926021646/0001104659-26-021646-index.htm"
   }
 ]
