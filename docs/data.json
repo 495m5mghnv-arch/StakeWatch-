@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-23T18:18:09.757105+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426006823/0001654954-26-006823-index.htm"
+  },
+  {
     "time_utc": "2026-07-23T16:59:00.363456+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - ANTERO RESOURCES Corp (0001433270) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1433270/000110465926022558/0001104659-26-022558-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T13:00:18.567690+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FOSTER L B CO (0000352825) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/352825/000035282526000011/0000352825-26-000011-index.htm"
   }
 ]
