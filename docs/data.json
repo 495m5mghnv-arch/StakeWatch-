@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-07-23T16:59:00.363456+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nissan Auto Lease Trust 2026-B (0002141529) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2141529/000119312526313760/0001193125-26-313760-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T16:59:00.363477+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NISSAN AUTO LEASING LLC II (0001244832) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1244832/000119312526313760/0001193125-26-313760-index.htm"
+  },
+  {
     "time_utc": "2026-07-23T15:27:08.886950+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - FOSTER L B CO (0000352825) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/352825/000035282526000011/0000352825-26-000011-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T13:00:18.567697+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ZIFF DAVIS, INC. (0001084048) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1084048/000119312526086689/0001193125-26-086689-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T11:53:57.962390+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Kontoor Brands, Inc. (0001760965) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1760965/000176096526000010/0001760965-26-000010-index.htm"
   }
 ]
