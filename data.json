@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-07-23T21:04:46.637229+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ovintiv Inc. (0001792580) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1792580/000119312526314272/0001193125-26-314272-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T21:04:46.637289+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ALLURION TECHNOLOGIES, INC. (0001964979) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1964979/000119312526314263/0001193125-26-314263-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T21:04:46.637297+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AUDDIA INC. (0001554818) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826005735/0001683168-26-005735-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T21:04:46.637303+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NextBoat Inc. (0002067767) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226034429/0001493152-26-034429-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T21:04:46.637307+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INTELLIGENT BIO SOLUTIONS INC. (0001725430) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1725430/000149315226034428/0001493152-26-034428-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T21:04:46.637312+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - InspireMD, Inc. (0001433607) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1433607/000149315226034430/0001493152-26-034430-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T21:04:46.637342+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Victory Capital Holdings, Inc. (0001570827) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1570827/000119312526314260/0001193125-26-314260-index.htm"
+  },
+  {
     "time_utc": "2026-07-23T19:50:55.383808+00:00",
     "region": "US",
     "source": "SEC",
@@ -21921,82 +21998,5 @@
     "percent": "",
     "title": "8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1895249/000110465926022613/0001104659-26-022613-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T14:04:08.466395+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - RAPT Therapeutics, Inc. (0001673772) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1673772/000119312526086878/0001193125-26-086878-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T14:04:08.466413+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000047/0001331754-26-000047-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T14:04:08.466435+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Prairie Operating Co. (0001162896) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1162896/000114036126007456/0001140361-26-007456-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T14:04:08.466440+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Microbot Medical Inc. (0000883975) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/883975/000149315226008658/0001493152-26-008658-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T14:04:08.466453+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SELECT MEDICAL HOLDINGS CORP (0001320414) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1320414/000110465926022577/0001104659-26-022577-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T13:00:18.567602+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PINTEREST, INC. (0001506293) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1506293/000119312526086731/0001193125-26-086731-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T13:00:18.567646+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Civeo Corp (0001590584) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1590584/000159058426000017/0001590584-26-000017-index.htm"
   }
 ]
