@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-07-23T13:11:30.524572+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1330399/000133039926000084/0001330399-26-000084-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T13:11:30.524621+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sintx Technologies, Inc. (0001269026) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1269026/000149315226034343/0001493152-26-034343-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T13:11:30.524639+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Axalta Coating Systems Ltd. (0001616862) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1616862/000119312526313418/0001193125-26-313418-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T13:11:30.524653+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CS Disco, Inc. (0001625641) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1625641/000162564126000152/0001625641-26-000152-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T13:11:30.524668+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Carter Bankshares, Inc. (0001829576) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829576/000182957626000071/0001829576-26-000071-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T13:11:30.524672+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ECB Bancorp, Inc. /MD/ (0001914605) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1914605/000143774926024237/0001437749-26-024237-index.htm"
+  },
+  {
     "time_utc": "2026-07-23T11:32:22.156870+00:00",
     "region": "US",
     "source": "SEC",
@@ -21932,71 +21998,5 @@
     "percent": "",
     "title": "8-K - Atlantic Union Bankshares Corp (0000883948) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/883948/000088394826000023/0000883948-26-000023-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T11:53:57.962422+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ONITY GROUP INC. (0000873860) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/873860/000149315226008637/0001493152-26-008637-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T11:53:57.962438+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WYNDHAM HOTELS & RESORTS, INC. (0001722684) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1722684/000114036126007444/0001140361-26-007444-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T11:53:57.962443+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - THOR INDUSTRIES INC (0000730263) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/730263/000073026326000008/0000730263-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T11:53:57.962450+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Chiron Real Estate Inc. (0001533615) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1533615/000110465926022515/0001104659-26-022515-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T11:53:57.962457+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP (0000943452) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/943452/000114036126007441/0001140361-26-007441-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T11:20:37.401723+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - HYCROFT MINING HOLDING CORP (0001718405) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1718405/000149315226008631/0001493152-26-008631-index.htm"
   }
 ]
