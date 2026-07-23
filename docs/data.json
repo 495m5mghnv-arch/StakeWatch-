@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-07-23T19:50:55.383808+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EVI INDUSTRIES, INC. (0000065312) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/65312/000143774926024286/0001437749-26-024286-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T19:50:55.383840+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BRANDYWINE OPERATING PARTNERSHIP, L.P. (0001060386) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1060386/000079081626000025/0000790816-26-000025-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T19:50:55.383845+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BRANDYWINE REALTY TRUST (0000790816) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000025/0000790816-26-000025-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T19:50:55.383859+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CSB Financial Inc. (0002114521) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2114521/000110465926086235/0001104659-26-086235-index.htm"
+  },
+  {
+    "time_utc": "2026-07-23T19:50:55.383877+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GREENE COUNTY BANCORP INC (0001070524) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1070524/000114036126029411/0001140361-26-029411-index.htm"
+  },
+  {
     "time_utc": "2026-07-23T18:18:09.757105+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Civeo Corp (0001590584) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1590584/000159058426000017/0001590584-26-000017-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T13:00:18.567654+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PMGC Holdings Inc. (0001840563) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1840563/000121390026022704/0001213900-26-022704-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T13:00:18.567659+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MARKETWISE, INC. (0001805651) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1805651/000180565126000011/0001805651-26-000011-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T13:00:18.567666+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SAIA INC (0001177702) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1177702/000119312526086706/0001193125-26-086706-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T13:00:18.567671+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Cigna Group (0001739940) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126007450/0001140361-26-007450-index.htm"
-  },
-  {
-    "time_utc": "2026-03-03T13:00:18.567680+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ANTERO RESOURCES Corp (0001433270) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1433270/000110465926022558/0001104659-26-022558-index.htm"
   }
 ]
