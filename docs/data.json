@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-07-24T21:18:12.620912+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - StratCap Digital Infrastructure REIT, Inc. (0001868516) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1868516/000110465926086698/0001104659-26-086698-index.htm"
+  },
+  {
+    "time_utc": "2026-07-24T21:18:12.620925+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CREDIT ACCEPTANCE CORP (0000885550) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/885550/000088555026000173/0000885550-26-000173-index.htm"
+  },
+  {
+    "time_utc": "2026-07-24T21:18:12.620929+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cycurion, Inc. (0001868419) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1868419/000162828026049641/0001628280-26-049641-index.htm"
+  },
+  {
+    "time_utc": "2026-07-24T21:18:12.620932+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tianci International, Inc. (0001557798) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1557798/000168316826005765/0001683168-26-005765-index.htm"
+  },
+  {
+    "time_utc": "2026-07-24T21:18:12.620941+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INVO Fertility, Inc. (0001417926) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1417926/000149315226034616/0001493152-26-034616-index.htm"
+  },
+  {
     "time_utc": "2026-07-24T20:05:58.616131+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Aimfinity Investment Corp. I (0001903464) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1903464/000121390026023615/0001213900-26-023615-index.htm"
-  },
-  {
-    "time_utc": "2026-03-04T19:52:28.634487+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Regen BioPharma Inc (0001589150) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1589150/000149315226008837/0001493152-26-008837-index.htm"
-  },
-  {
-    "time_utc": "2026-03-04T18:25:58.587929+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AMEREN CORP (0001002910) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1002910/000110465926023352/0001104659-26-023352-index.htm"
-  },
-  {
-    "time_utc": "2026-03-04T17:39:48.698531+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - STURM RUGER & CO INC (0000095029) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/95029/000117494726000276/0001174947-26-000276-index.htm"
-  },
-  {
-    "time_utc": "2026-03-04T16:52:34.015728+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - VISTA CREDIT STRATEGIC LENDING CORP. (0001919369) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1919369/000119312526090506/0001193125-26-090506-index.htm"
-  },
-  {
-    "time_utc": "2026-03-04T15:04:41.889541+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Invech Holdings, Inc. (0001009919) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1009919/000168316826001462/0001683168-26-001462-index.htm"
   }
 ]
