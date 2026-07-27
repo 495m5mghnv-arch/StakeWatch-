@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-07-27T17:52:56.906281+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1895249/000110465926086996/0001104659-26-086996-index.htm"
+  },
+  {
+    "time_utc": "2026-07-27T17:52:56.906368+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ford Credit Auto Lease Trust 2026-B (0002144097) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2144097/000110465926086981/0001104659-26-086981-index.htm"
+  },
+  {
+    "time_utc": "2026-07-27T17:52:56.906374+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ford Credit Auto Lease Two LLC (0001519881) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1519881/000110465926086981/0001104659-26-086981-index.htm"
+  },
+  {
     "time_utc": "2026-07-27T16:03:49.991446+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - MIDDLEBY Corp (0000769520) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/769520/000119312526092460/0001193125-26-092460-index.htm"
-  },
-  {
-    "time_utc": "2026-03-05T11:22:48.941862+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Palladyne AI Corp. (0001826681) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1826681/000119312526092435/0001193125-26-092435-index.htm"
-  },
-  {
-    "time_utc": "2026-03-04T22:16:44.166196+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Antares Private Credit Fund (0001976336) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1976336/000119312526091868/0001193125-26-091868-index.htm"
-  },
-  {
-    "time_utc": "2026-03-04T22:16:44.166215+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - InspireMD, Inc. (0001433607) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1433607/000149315226008894/0001493152-26-008894-index.htm"
   }
 ]
