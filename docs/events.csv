@@ -1,4 +1,5 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-07-27T16:03:49.991446+00:00,US,SEC,8-K,,,,"8-K - AB Commercial Real Estate Private Debt Fund, LLC (0001876255) (Filer)",https://www.sec.gov/Archives/edgar/data/1876255/000119312526317597/0001193125-26-317597-index.htm
 2026-07-27T10:57:05.112576+00:00,US,SEC,8-K,,,,"8-K - SPX Technologies, Inc. (0000088205) (Filer)",https://www.sec.gov/Archives/edgar/data/88205/000008820526000045/0000088205-26-000045-index.htm
 2026-07-27T10:57:05.112642+00:00,US,SEC,8-K,,,,"8-K - Profusa, Inc. (0001859807) (Filer)",https://www.sec.gov/Archives/edgar/data/1859807/000121390026081560/0001213900-26-081560-index.htm
 2026-07-27T10:57:05.112650+00:00,US,SEC,8-K,,,,"8-K - ENSIGN GROUP, INC (0001125376) (Filer)",https://www.sec.gov/Archives/edgar/data/1125376/000112537626000036/0001125376-26-000036-index.htm
@@ -1998,4 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-05T11:22:48.941862+00:00,US,SEC,8-K,,,,8-K - Palladyne AI Corp. (0001826681) (Filer),https://www.sec.gov/Archives/edgar/data/1826681/000119312526092435/0001193125-26-092435-index.htm
 2026-03-04T22:16:44.166196+00:00,US,SEC,8-K,,,,8-K - Antares Private Credit Fund (0001976336) (Filer),https://www.sec.gov/Archives/edgar/data/1976336/000119312526091868/0001193125-26-091868-index.htm
 2026-03-04T22:16:44.166215+00:00,US,SEC,8-K,,,,"8-K - InspireMD, Inc. (0001433607) (Filer)",https://www.sec.gov/Archives/edgar/data/1433607/000149315226008894/0001493152-26-008894-index.htm
-2026-03-04T21:47:49.473632+00:00,US,SEC,8-K,,,,"8-K - VIEMED HEALTHCARE, INC. (0001729149) (Filer)",https://www.sec.gov/Archives/edgar/data/1729149/000172914926000008/0001729149-26-000008-index.htm
