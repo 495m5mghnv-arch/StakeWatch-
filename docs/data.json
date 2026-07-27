@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-27T20:50:26.628169+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BROOKFIELD REAL ESTATE INCOME TRUST INC. (0001713407) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1713407/000171340726000074/0001713407-26-000074-index.htm"
+  },
+  {
     "time_utc": "2026-07-27T17:52:56.906281+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - FERRELLGAS PARTNERS L P (0000922358) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/922358/000110465926023782/0001104659-26-023782-index.htm"
-  },
-  {
-    "time_utc": "2026-03-05T11:55:43.209721+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MIDDLEBY Corp (0000769520) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/769520/000119312526092460/0001193125-26-092460-index.htm"
   }
 ]
