@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-07-28T21:21:08.495690+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SkyWater Technology, Inc (0001819974) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1819974/000119312526321272/0001193125-26-321272-index.htm"
+  },
+  {
+    "time_utc": "2026-07-28T21:21:08.495718+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Freshworks Inc. (0001544522) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1544522/000154452226000125/0001544522-26-000125-index.htm"
+  },
+  {
+    "time_utc": "2026-07-28T21:21:08.495739+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Global Asset Management Group, Inc. (0000055234) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/55234/000147793226004567/0001477932-26-004567-index.htm"
+  },
+  {
+    "time_utc": "2026-07-28T21:21:08.495755+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Monroe Capital Income Plus Corp (0001742313) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1742313/000174231326000043/0001742313-26-000043-index.htm"
+  },
+  {
+    "time_utc": "2026-07-28T21:21:08.495777+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cenntro Inc. (0001707919) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1707919/000114036126029905/0001140361-26-029905-index.htm"
+  },
+  {
     "time_utc": "2026-07-28T20:07:54.640023+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - FTAI Aviation Ltd. (0001590364) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1590364/000114036126008165/0001140361-26-008165-index.htm"
-  },
-  {
-    "time_utc": "2026-03-06T11:37:25.261736+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MARKETWISE, INC. (0001805651) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1805651/000180565126000018/0001805651-26-000018-index.htm"
-  },
-  {
-    "time_utc": "2026-03-06T11:37:25.261748+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Andalusian Credit Company, LLC (0001979306) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1979306/000110465926024358/0001104659-26-024358-index.htm"
-  },
-  {
-    "time_utc": "2026-03-06T11:37:25.261798+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Adapti, Inc. (0001420924) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1420924/000149315226009046/0001493152-26-009046-index.htm"
-  },
-  {
-    "time_utc": "2026-03-05T21:41:06.732870+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - LAS VEGAS SANDS CORP (0001300514) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1300514/000130051426000021/0001300514-26-000021-index.htm"
-  },
-  {
-    "time_utc": "2026-03-05T21:41:06.732905+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Tennessee Valley Authority (0001376986) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000019/0001376986-26-000019-index.htm"
   }
 ]
