@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-07-28T13:10:33.760846+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CF BANKSHARES INC. (0001070680) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1070680/000119312526318995/0001193125-26-318995-index.htm"
+  },
+  {
+    "time_utc": "2026-07-28T13:10:33.760866+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ZIPRECRUITER, INC. (0001617553) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1617553/000161755326000040/0001617553-26-000040-index.htm"
+  },
+  {
+    "time_utc": "2026-07-28T13:10:33.760877+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIRST FINANCIAL CORP /IN/ (0000714562) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/714562/000071456226000050/0000714562-26-000050-index.htm"
+  },
+  {
+    "time_utc": "2026-07-28T13:10:33.760886+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Onfolio Holdings, Inc (0001825452) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1825452/000165495426006947/0001654954-26-006947-index.htm"
+  },
+  {
+    "time_utc": "2026-07-28T13:10:33.760889+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - John Marshall Bancorp, Inc. (0001710482) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926087344/0001104659-26-087344-index.htm"
+  },
+  {
     "time_utc": "2026-07-28T11:26:55.528090+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - WEBTOON Entertainment Inc. (0001997859) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1997859/000199785926000023/0001997859-26-000023-index.htm"
-  },
-  {
-    "time_utc": "2026-03-05T14:05:42.189880+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Quantum Computing Inc. (0001758009) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1758009/000121390026023896/0001213900-26-023896-index.htm"
-  },
-  {
-    "time_utc": "2026-03-05T14:05:42.189885+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Invech Holdings, Inc. (0001009919) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1009919/000168316826001511/0001683168-26-001511-index.htm"
-  },
-  {
-    "time_utc": "2026-03-05T14:05:42.189890+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - QuantumScape Corp (0001811414) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1811414/000119312526092692/0001193125-26-092692-index.htm"
-  },
-  {
-    "time_utc": "2026-03-05T14:05:42.189894+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Cuentas Inc. (0001424657) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1424657/000121390026023897/0001213900-26-023897-index.htm"
-  },
-  {
-    "time_utc": "2026-03-05T13:05:41.422985+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FLYEXCLUSIVE INC. (0001843973) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1843973/000184397326000014/0001843973-26-000014-index.htm"
   }
 ]
