@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-29T16:06:09.225959+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PENSKE AUTOMOTIVE GROUP, INC. (0001019849) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1019849/000162828026050469/0001628280-26-050469-index.htm"
+  },
+  {
     "time_utc": "2026-07-29T14:34:33.905773+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - NEWS CORP (0001564708) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000049/0001564708-26-000049-index.htm"
-  },
-  {
-    "time_utc": "2026-03-09T11:00:39.250471+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Jefferies Financial Group Inc. (0000096223) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/96223/000114036126008339/0001140361-26-008339-index.htm"
   }
 ]
