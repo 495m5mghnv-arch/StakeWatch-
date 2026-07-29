@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-29T14:34:33.905773+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMPHENOL CORP /DE/ (0000820313) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/820313/000110465926087904/0001104659-26-087904-index.htm"
+  },
+  {
     "time_utc": "2026-07-29T12:17:27.805671+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Jefferies Financial Group Inc. (0000096223) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/96223/000114036126008339/0001140361-26-008339-index.htm"
-  },
-  {
-    "time_utc": "2026-03-09T11:00:39.250476+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ALEXANDERS INC (0000003499) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/3499/000000349926000010/0000003499-26-000010-index.htm"
   }
 ]
