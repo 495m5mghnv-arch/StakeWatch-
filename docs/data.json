@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-07-29T18:36:45.326794+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Macquarie Infrastructure Fund, L.P. (0002079966) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2079966/000119312526323316/0001193125-26-323316-index.htm"
+  },
+  {
+    "time_utc": "2026-07-29T18:36:45.326816+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HIGHWATER ETHANOL LLC (0001371451) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1371451/000162828026050513/0001628280-26-050513-index.htm"
+  },
+  {
     "time_utc": "2026-07-29T17:34:11.342803+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - SPRUCE BIOSCIENCES, INC. (0001683553) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1683553/000119312526097561/0001193125-26-097561-index.htm"
-  },
-  {
-    "time_utc": "2026-03-09T11:00:39.250438+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - W&T OFFSHORE INC (0001288403) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1288403/000110465926024935/0001104659-26-024935-index.htm"
-  },
-  {
-    "time_utc": "2026-03-09T11:00:39.250460+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - KORN FERRY (0000056679) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/56679/000005667926000006/0000056679-26-000006-index.htm"
   }
 ]
