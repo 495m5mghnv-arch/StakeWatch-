@@ -1,4 +1,12 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-07-30T12:57:15.482227+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer),https://www.sec.gov/Archives/edgar/data/1331754/000133175426000155/0001331754-26-000155-index.htm
+2026-07-30T12:57:15.482248+00:00,US,SEC,8-K,,,,8-K - PATRICK INDUSTRIES INC (0000076605) (Filer),https://www.sec.gov/Archives/edgar/data/76605/000007660526000069/0000076605-26-000069-index.htm
+2026-07-30T12:57:15.482260+00:00,US,SEC,8-K,,,,8-K - SONIC AUTOMOTIVE INC (0001043509) (Filer),https://www.sec.gov/Archives/edgar/data/1043509/000162828026050837/0001628280-26-050837-index.htm
+2026-07-30T12:57:15.482271+00:00,US,SEC,8-K,,,,8-K - ADAMS STREET CREDIT SOLUTIONS FUND (0001772918) (Filer),https://www.sec.gov/Archives/edgar/data/1772918/000119312526325044/0001193125-26-325044-index.htm
+2026-07-30T12:57:15.482282+00:00,US,SEC,8-K,,,,8-K - NELNET INC (0001258602) (Filer),https://www.sec.gov/Archives/edgar/data/1258602/000125860226000037/0001258602-26-000037-index.htm
+2026-07-30T12:57:15.482288+00:00,US,SEC,8-K,,,,"8-K - Green Brick Partners, Inc. (0001373670) (Filer)",https://www.sec.gov/Archives/edgar/data/1373670/000162828026050835/0001628280-26-050835-index.htm
+2026-07-30T12:57:15.482310+00:00,US,SEC,8-K,,,,8-K - RED RIVER BANCSHARES INC (0001071236) (Filer),https://www.sec.gov/Archives/edgar/data/1071236/000107123626000053/0001071236-26-000053-index.htm
+2026-07-30T12:57:15.482329+00:00,US,SEC,8-K,,,,8-K - AGCO CORP /DE (0000880266) (Filer),https://www.sec.gov/Archives/edgar/data/880266/000088026626000066/0000880266-26-000066-index.htm
 2026-07-30T11:19:12.763490+00:00,US,SEC,8-K,,,,8-K - BAXTER INTERNATIONAL INC (0000010456) (Filer),https://www.sec.gov/Archives/edgar/data/10456/000162828026050795/0001628280-26-050795-index.htm
 2026-07-30T11:19:12.763506+00:00,US,SEC,8-K,,,,8-K - EXTREME NETWORKS INC (0001078271) (Filer),https://www.sec.gov/Archives/edgar/data/1078271/000119312526324888/0001193125-26-324888-index.htm
 2026-07-30T11:19:12.763520+00:00,US,SEC,8-K,,,,8-K - CCC Intelligent Solutions Holdings Inc. (0001818201) (Filer),https://www.sec.gov/Archives/edgar/data/1818201/000119312526324886/0001193125-26-324886-index.htm
@@ -1991,11 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-09T20:41:55.613774+00:00,US,SEC,8-K,,,,8-K - PRESIDIO PRODUCTION Co (0002083125) (Filer),https://www.sec.gov/Archives/edgar/data/2083125/000121390026025222/0001213900-26-025222-index.htm
 2026-03-09T20:41:55.613801+00:00,US,SEC,8-K,,,,"8-K - TRANSCONTINENTAL GAS PIPE LINE COMPANY, LLC (0000099250) (Filer)",https://www.sec.gov/Archives/edgar/data/99250/000119312526098705/0001193125-26-098705-index.htm
 2026-03-09T20:41:55.613827+00:00,US,SEC,8-K,,,,"8-K - Coherus Oncology, Inc. (0001512762) (Filer)",https://www.sec.gov/Archives/edgar/data/1512762/000110465926025293/0001104659-26-025293-index.htm
-2026-03-09T19:57:22.755907+00:00,US,SEC,8-K,,,,"8-K - Global Asset Management Group, Inc. (0000055234) (Filer)",https://www.sec.gov/Archives/edgar/data/55234/000147793226001244/0001477932-26-001244-index.htm
-2026-03-09T19:57:22.755976+00:00,US,SEC,8-K,,,,8-K - Brookfield Private Equity Fund LP (0002074065) (Filer),https://www.sec.gov/Archives/edgar/data/2074065/000110465926025179/0001104659-26-025179-index.htm
-2026-03-09T16:38:54.282847+00:00,US,SEC,8-K,,,,8-K - BMO 2023-C5 Mortgage Trust (0001972920) (Filer),https://www.sec.gov/Archives/edgar/data/1972920/000188852426003896/0001888524-26-003896-index.htm
-2026-03-09T14:37:36.036660+00:00,US,SEC,8-K,,,,8-K - ACCO BRANDS Corp (0000712034) (Filer),https://www.sec.gov/Archives/edgar/data/712034/000119312526097823/0001193125-26-097823-index.htm
-2026-03-09T13:46:03.637966+00:00,US,SEC,8-K,,,,8-K - Kioni Holdings Ltd (0002011134) (Filer),https://www.sec.gov/Archives/edgar/data/2011134/000201113426000002/0002011134-26-000002-index.htm
-2026-03-09T12:27:21.658605+00:00,US,SEC,8-K,,,,"8-K - Talkspace, Inc. (0001803901) (Filer)",https://www.sec.gov/Archives/edgar/data/1803901/000095015726000259/0000950157-26-000259-index.htm
-2026-03-09T12:27:21.658622+00:00,US,SEC,8-K,,,,"8-K - Plum Acquisition Corp, IV (0002030482) (Filer)",https://www.sec.gov/Archives/edgar/data/2030482/000121390026024933/0001213900-26-024933-index.htm
-2026-03-09T12:27:21.658630+00:00,US,SEC,8-K,,,,"8-K - Fidelity National Information Services, Inc. (0001136893) (Filer)",https://www.sec.gov/Archives/edgar/data/1136893/000119312526097627/0001193125-26-097627-index.htm
