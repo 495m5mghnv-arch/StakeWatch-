@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-07-31T14:58:16.559560+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TIAA REAL ESTATE ACCOUNT (0000946155) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/946155/000094615526000088/0000946155-26-000088-index.htm"
+  },
+  {
     "time_utc": "2026-07-31T12:20:40.254866+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - NEXTERA ENERGY INC (0000753308) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000022/0000753308-26-000022-index.htm"
-  },
-  {
-    "time_utc": "2026-03-10T11:54:48.865479+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - HARVARD BIOSCIENCE INC (0001123494) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1123494/000117184326001447/0001171843-26-001447-index.htm"
   }
 ]
