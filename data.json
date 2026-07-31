@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-07-31T21:07:58.450254+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Oxford Square Capital Corp. (0001259429) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1259429/000121390026084087/0001213900-26-084087-index.htm"
+  },
+  {
+    "time_utc": "2026-07-31T21:07:58.450282+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Agriculture & Natural Solutions Acquisition Corp (0001854149) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1854149/000119312526328831/0001193125-26-328831-index.htm"
+  },
+  {
     "time_utc": "2026-07-31T16:49:19.449635+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - SAB Biotherapeutics, Inc. (0001833214) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1833214/000119312526099376/0001193125-26-099376-index.htm"
-  },
-  {
-    "time_utc": "2026-03-10T11:54:48.865447+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TENAX THERAPEUTICS, INC. (0000034956) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/34956/000165495426002072/0001654954-26-002072-index.htm"
-  },
-  {
-    "time_utc": "2026-03-10T11:54:48.865465+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/64463/000149315226009444/0001493152-26-009444-index.htm"
   }
 ]
