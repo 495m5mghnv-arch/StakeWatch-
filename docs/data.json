@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-08-03T21:02:26.432582+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - VIEMED HEALTHCARE, INC. (0001729149) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1729149/000172914926000041/0001729149-26-000041-index.htm"
+  },
+  {
+    "time_utc": "2026-08-03T21:02:26.432648+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SUPERNUS PHARMACEUTICALS, INC. (0001356576) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1356576/000110465926089839/0001104659-26-089839-index.htm"
+  },
+  {
+    "time_utc": "2026-08-03T21:02:26.432668+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Venu Holding Corp (0001770501) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1770501/000149315226035846/0001493152-26-035846-index.htm"
+  },
+  {
     "time_utc": "2026-08-03T16:09:27.688959+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Encompass Health Corp (0000785161) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/785161/000078516126000100/0000785161-26-000100-index.htm"
-  },
-  {
-    "time_utc": "2026-03-10T20:18:38.704534+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - American Water Works Company, Inc. (0001410636) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1410636/000141063626000056/0001410636-26-000056-index.htm"
-  },
-  {
-    "time_utc": "2026-03-10T20:18:38.704571+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DOMO, INC. (0001505952) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1505952/000162828026016450/0001628280-26-016450-index.htm"
-  },
-  {
-    "time_utc": "2026-03-10T20:18:38.704584+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sound Point Meridian Capital, Inc. (0001930147) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1930147/000182912626002158/0001829126-26-002158-index.htm"
   }
 ]
