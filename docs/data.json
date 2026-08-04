@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-04T21:32:22.797973+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Z Squared Inc. (0001759186) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1759186/000118518526003263/0001185185-26-003263-index.htm"
+  },
+  {
+    "time_utc": "2026-08-04T21:32:22.798008+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EPLUS INC (0001022408) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1022408/000114036126031282/0001140361-26-031282-index.htm"
+  },
+  {
     "time_utc": "2026-08-04T20:03:05.481603+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Sprinklr, Inc. (0001569345) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1569345/000156934526000011/0001569345-26-000011-index.htm"
-  },
-  {
-    "time_utc": "2026-03-11T11:46:28.177927+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TSS, Inc. (0001320760) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1320760/000165495426002115/0001654954-26-002115-index.htm"
-  },
-  {
-    "time_utc": "2026-03-11T11:46:28.177936+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CRISPR Therapeutics AG (0001674416) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526101073/0001193125-26-101073-index.htm"
   }
 ]
