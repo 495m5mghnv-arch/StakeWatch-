@@ -1,5 +1,104 @@
 [
   {
+    "time_utc": "2026-08-05T20:47:40.349321+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ATMOS ENERGY CORP (0000731802) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/731802/000073180226000100/0000731802-26-000100-index.htm"
+  },
+  {
+    "time_utc": "2026-08-05T20:47:40.349364+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PROG Holdings, Inc. (0001808834) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1808834/000180883426000118/0001808834-26-000118-index.htm"
+  },
+  {
+    "time_utc": "2026-08-05T20:47:40.349373+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Seaport Entertainment Group Inc. (0002009684) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2009684/000110465926091195/0001104659-26-091195-index.htm"
+  },
+  {
+    "time_utc": "2026-08-05T20:47:40.349377+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TriplePoint Venture Growth BDC Corp. (0001580345) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1580345/000158034526000024/0001580345-26-000024-index.htm"
+  },
+  {
+    "time_utc": "2026-08-05T20:47:40.349387+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UMH PROPERTIES, INC. (0000752642) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/752642/000149315226036197/0001493152-26-036197-index.htm"
+  },
+  {
+    "time_utc": "2026-08-05T20:47:40.349391+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Heritage Insurance Holdings, Inc. (0001598665) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1598665/000119312526335334/0001193125-26-335334-index.htm"
+  },
+  {
+    "time_utc": "2026-08-05T20:47:40.349405+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - USA Compression Partners, LP (0001522727) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1522727/000152272726000060/0001522727-26-000060-index.htm"
+  },
+  {
+    "time_utc": "2026-08-05T20:47:40.349412+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CrossAmerica Partners LP (0001538849) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1538849/000119312526335332/0001193125-26-335332-index.htm"
+  },
+  {
+    "time_utc": "2026-08-05T20:47:40.349425+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CACI INTERNATIONAL INC /DE/ (0000016058) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/16058/000162828026053448/0001628280-26-053448-index.htm"
+  },
+  {
     "time_utc": "2026-08-05T16:19:09.343784+00:00",
     "region": "US",
     "source": "SEC",
@@ -21899,104 +21998,5 @@
     "percent": "",
     "title": "8-K - Seres Therapeutics, Inc. (0001609809) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1609809/000119312526103034/0001193125-26-103034-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T11:21:59.484783+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DICK'S SPORTING GOODS, INC. (0001089063) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000005/0001089063-26-000005-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T11:21:59.484787+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sleep Number Corp (0000827187) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/827187/000082718726000013/0000827187-26-000013-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T11:21:59.484800+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sleep Number Corp (0000827187) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/827187/000082718726000012/0000827187-26-000012-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T11:21:59.484806+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - RAPID MICRO BIOSYSTEMS, INC. (0001380106) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1380106/000138010626000029/0001380106-26-000029-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T11:21:59.484815+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Chicago Atlantic Real Estate Finance, Inc. (0001867949) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1867949/000121390026026631/0001213900-26-026631-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T11:21:59.484820+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Indivior Pharmaceuticals, Inc. (0001625297) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1625297/000162529726000008/0001625297-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T10:42:25.628082+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NEWS CORP (0001564708) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000052/0001564708-26-000052-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T10:42:25.628100+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GYRE THERAPEUTICS, INC. (0001124105) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1124105/000114036126009115/0001140361-26-009115-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T10:42:25.628109+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - KLA CORP (0000319201) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/319201/000119312526102999/0001193125-26-102999-index.htm"
   }
 ]
