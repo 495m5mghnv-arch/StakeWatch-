@@ -1,4 +1,8 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-06T13:15:04.839632+00:00,US,SEC,8-K,,,,8-K - Virtuix Holdings Inc. (0001606242) (Filer),https://www.sec.gov/Archives/edgar/data/1606242/000121390026085942/0001213900-26-085942-index.htm
+2026-08-06T13:15:04.839685+00:00,US,SEC,8-K,,,,8-K - Tronox Holdings plc (0001530804) (Filer),https://www.sec.gov/Archives/edgar/data/1530804/000114036126031551/0001140361-26-031551-index.htm
+2026-08-06T13:15:04.839705+00:00,US,SEC,8-K,,,,"8-K - Airship AI Holdings, Inc. (0001842566) (Filer)",https://www.sec.gov/Archives/edgar/data/1842566/000165495426007329/0001654954-26-007329-index.htm
+2026-08-06T13:15:04.839727+00:00,US,SEC,8-K,,,,8-K - TRACTOR SUPPLY CO /DE/ (0000916365) (Filer),https://www.sec.gov/Archives/edgar/data/916365/000091636526000055/0000916365-26-000055-index.htm
 2026-08-06T11:35:17.029606+00:00,US,SEC,8-K,,,,8-K - ITT INC. (0000216228) (Filer),https://www.sec.gov/Archives/edgar/data/216228/000021622826000061/0000216228-26-000061-index.htm
 2026-08-06T11:35:17.029630+00:00,US,SEC,8-K,,,,"8-K - LEXICON PHARMACEUTICALS, INC. (0001062822) (Filer)",https://www.sec.gov/Archives/edgar/data/1062822/000106282226000112/0001062822-26-000112-index.htm
 2026-08-06T11:35:17.029637+00:00,US,SEC,8-K,,,,"8-K - MACOM Technology Solutions Holdings, Inc. (0001493594) (Filer)",https://www.sec.gov/Archives/edgar/data/1493594/000149359426000036/0001493594-26-000036-index.htm
@@ -1995,7 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-12T12:26:55.742120+00:00,US,SEC,8-K,,,,"8-K - LIFETIME BRANDS, INC (0000874396) (Filer)",https://www.sec.gov/Archives/edgar/data/874396/000087439626000006/0000874396-26-000006-index.htm
 2026-03-12T12:26:55.742133+00:00,US,SEC,8-K,,,,8-K - MAYS J W INC (0000054187) (Filer),https://www.sec.gov/Archives/edgar/data/54187/000120677426000138/0001206774-26-000138-index.htm
 2026-03-12T11:49:17.598037+00:00,US,SEC,8-K,,,,"8-K - Sunrise Realty Trust, Inc. (0002012706) (Filer)",https://www.sec.gov/Archives/edgar/data/2012706/000162828026017021/0001628280-26-017021-index.htm
-2026-03-12T11:49:17.598062+00:00,US,SEC,8-K,,,,"8-K - Vera Bradley, Inc. (0001495320) (Filer)",https://www.sec.gov/Archives/edgar/data/1495320/000162828026017020/0001628280-26-017020-index.htm
-2026-03-12T11:49:17.598072+00:00,US,SEC,8-K,,,,8-K - Angi Inc. (0001705110) (Filer),https://www.sec.gov/Archives/edgar/data/1705110/000170511026000023/0001705110-26-000023-index.htm
-2026-03-12T11:49:17.598083+00:00,US,SEC,8-K,,,,"8-K - United Homes Group, Inc. (0001830188) (Filer)",https://www.sec.gov/Archives/edgar/data/1830188/000183018826000006/0001830188-26-000006-index.htm
-2026-03-12T11:49:17.598090+00:00,US,SEC,8-K,,,,8-K - G III APPAREL GROUP LTD /DE/ (0000821002) (Filer),https://www.sec.gov/Archives/edgar/data/821002/000110465926026716/0001104659-26-026716-index.htm
