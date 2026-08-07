@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-08-07T10:14:05.154398+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BEAZER HOMES USA INC (0000915840) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/915840/000110465926092299/0001104659-26-092299-index.htm"
+  },
+  {
+    "time_utc": "2026-08-07T10:14:05.154422+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BEAZER HOMES USA INC (0000915840) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/915840/000091584026000049/0000915840-26-000049-index.htm"
+  },
+  {
+    "time_utc": "2026-08-07T10:14:05.154433+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Dream Finders Homes, Inc. (0001825088) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026054558/0001628280-26-054558-index.htm"
+  },
+  {
+    "time_utc": "2026-08-07T10:14:05.154458+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LEVI STRAUSS & CO (0000094845) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/94845/000199937126017264/0001999371-26-017264-index.htm"
+  },
+  {
     "time_utc": "2026-08-06T15:36:09.354847+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - FILANA THERAPEUTICS, INC. (0001069530) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1069530/000117184326001506/0001171843-26-001506-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T12:26:55.742099+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Theriva Biologics, Inc. (0000894158) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/894158/000110465926026765/0001104659-26-026765-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T12:26:55.742104+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Atara Biotherapeutics, Inc. (0001604464) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1604464/000119312526103127/0001193125-26-103127-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T12:26:55.742108+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Candel Therapeutics, Inc. (0001841387) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526103126/0001193125-26-103126-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T12:26:55.742120+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - LIFETIME BRANDS, INC (0000874396) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/874396/000087439626000006/0000874396-26-000006-index.htm"
   }
 ]
