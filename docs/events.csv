@@ -1,4 +1,12 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-07T11:10:27.651798+00:00,US,SEC,8-K,,,,8-K - Embecta Corp. (0001872789) (Filer),https://www.sec.gov/Archives/edgar/data/1872789/000187278926000029/0001872789-26-000029-index.htm
+2026-08-07T11:10:27.651815+00:00,US,SEC,8-K,,,,8-K - Wendy's Co (0000030697) (Filer),https://www.sec.gov/Archives/edgar/data/30697/000119312526339132/0001193125-26-339132-index.htm
+2026-08-07T11:10:27.651820+00:00,US,SEC,8-K,,,,8-K - Canopy Growth Corp (0001737927) (Filer),https://www.sec.gov/Archives/edgar/data/1737927/000119312526339131/0001193125-26-339131-index.htm
+2026-08-07T11:10:27.651837+00:00,US,SEC,8-K,,,,8-K - KIORA PHARMACEUTICALS INC (0001372514) (Filer),https://www.sec.gov/Archives/edgar/data/1372514/000137251426000075/0001372514-26-000075-index.htm
+2026-08-07T11:10:27.651858+00:00,US,SEC,8-K,,,,8-K - Mobility Global Inc. (0002090312) (Filer),https://www.sec.gov/Archives/edgar/data/2090312/000209031226000013/0002090312-26-000013-index.htm
+2026-08-07T11:10:27.651865+00:00,US,SEC,8-K,,,,"8-K - RAPID MICRO BIOSYSTEMS, INC. (0001380106) (Filer)",https://www.sec.gov/Archives/edgar/data/1380106/000138010626000097/0001380106-26-000097-index.htm
+2026-08-07T11:10:27.651871+00:00,US,SEC,8-K,,,,8-K - LCI INDUSTRIES (0000763744) (Filer),https://www.sec.gov/Archives/edgar/data/763744/000076374426000077/0000763744-26-000077-index.htm
+2026-08-07T11:10:27.651882+00:00,US,SEC,8-K,,,,8-K - FLUOR CORP (0001124198) (Filer),https://www.sec.gov/Archives/edgar/data/1124198/000112419826000074/0001124198-26-000074-index.htm
 2026-08-07T10:14:05.154398+00:00,US,SEC,8-K,,,,8-K - BEAZER HOMES USA INC (0000915840) (Filer),https://www.sec.gov/Archives/edgar/data/915840/000110465926092299/0001104659-26-092299-index.htm
 2026-08-07T10:14:05.154422+00:00,US,SEC,8-K,,,,8-K - BEAZER HOMES USA INC (0000915840) (Filer),https://www.sec.gov/Archives/edgar/data/915840/000091584026000049/0000915840-26-000049-index.htm
 2026-08-07T10:14:05.154433+00:00,US,SEC,8-K,,,,"8-K - Dream Finders Homes, Inc. (0001825088) (Filer)",https://www.sec.gov/Archives/edgar/data/1825088/000162828026054558/0001628280-26-054558-index.htm
@@ -1991,11 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-12T14:36:01.018711+00:00,US,SEC,8-K,,,,8-K - American Resources Corp (0001590715) (Filer),https://www.sec.gov/Archives/edgar/data/1590715/000165495426002177/0001654954-26-002177-index.htm
 2026-03-12T14:36:01.018739+00:00,US,SEC,8-K,,,,8-K - ALEXANDER TECH CORP (0001347491) (Filer),https://www.sec.gov/Archives/edgar/data/1347491/000134749126000003/0001347491-26-000003-index.htm
 2026-03-12T13:43:05.206486+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of New York (0001329842) (Filer),https://www.sec.gov/Archives/edgar/data/1329842/000165495426002172/0001654954-26-002172-index.htm
-2026-03-12T13:43:05.206503+00:00,US,SEC,8-K,,,,8-K - Ondas Inc. (0001646188) (Filer),https://www.sec.gov/Archives/edgar/data/1646188/000121390026026689/0001213900-26-026689-index.htm
-2026-03-12T13:43:05.206515+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer),https://www.sec.gov/Archives/edgar/data/1330399/000133039926000026/0001330399-26-000026-index.htm
-2026-03-12T13:43:05.206528+00:00,US,SEC,8-K,,,,8-K - Syra Health Corp (0001922335) (Filer),https://www.sec.gov/Archives/edgar/data/1922335/000149315226009799/0001493152-26-009799-index.htm
-2026-03-12T13:43:05.206535+00:00,US,SEC,8-K,,,,8-K - OMNICOM GROUP INC. (0000029989) (Filer),https://www.sec.gov/Archives/edgar/data/29989/000119312526103214/0001193125-26-103214-index.htm
-2026-03-12T12:26:55.742025+00:00,US,SEC,8-K,,,,"8-K - Beeline Holdings, Inc. (0001534708) (Filer)",https://www.sec.gov/Archives/edgar/data/1534708/000149315226009781/0001493152-26-009781-index.htm
-2026-03-12T12:26:55.742052+00:00,US,SEC,8-K,,,,8-K - NXP Semiconductors N.V. (0001413447) (Filer),https://www.sec.gov/Archives/edgar/data/1413447/000141344726000010/0001413447-26-000010-index.htm
-2026-03-12T12:26:55.742068+00:00,US,SEC,8-K,,,,8-K - Aptera Motors Corp (0001786471) (Filer),https://www.sec.gov/Archives/edgar/data/1786471/000149315226009780/0001493152-26-009780-index.htm
-2026-03-12T12:26:55.742086+00:00,US,SEC,8-K,,,,"8-K - FILANA THERAPEUTICS, INC. (0001069530) (Filer)",https://www.sec.gov/Archives/edgar/data/1069530/000117184326001506/0001171843-26-001506-index.htm
