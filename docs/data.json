@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-07T20:57:10.734176+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - W&T OFFSHORE INC (0001288403) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1288403/000110465926092767/0001104659-26-092767-index.htm"
+  },
+  {
     "time_utc": "2026-08-07T20:08:39.322008+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Carvana Receivables Depositor LLC (0001770373) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1770373/000177037326000015/0001770373-26-000015-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T15:39:02.323651+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Carvana Auto Receivables Trust 2026-P1 (0001976111) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1976111/000177037326000013/0001770373-26-000013-index.htm"
   }
 ]
