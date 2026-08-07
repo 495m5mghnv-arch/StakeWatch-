@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-07T14:31:35.868342+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UNITED GUARDIAN INC (0000101295) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/101295/000117184326005349/0001171843-26-005349-index.htm"
+  },
+  {
     "time_utc": "2026-08-07T12:00:11.079871+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Carvana Receivables Depositor LLC (0001770373) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1770373/000177037326000013/0001770373-26-000013-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T15:39:02.323680+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - T3 Defense Inc. (0001787518) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026026732/0001213900-26-026732-index.htm"
   }
 ]
