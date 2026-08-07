@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-08-07T12:00:11.079871+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PPL Corp (0000922224) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/922224/000092222426000042/0000922224-26-000042-index.htm"
+  },
+  {
+    "time_utc": "2026-08-07T12:00:11.079893+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000260/0001527541-26-000260-index.htm"
+  },
+  {
+    "time_utc": "2026-08-07T12:00:11.079948+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ACM Research, Inc. (0001680062) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1680062/000162828026054581/0001628280-26-054581-index.htm"
+  },
+  {
+    "time_utc": "2026-08-07T12:00:11.079953+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TAKE TWO INTERACTIVE SOFTWARE INC (0000946581) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/946581/000162828026054580/0001628280-26-054580-index.htm"
+  },
+  {
     "time_utc": "2026-08-07T11:10:27.651798+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - T3 Defense Inc. (0001787518) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026026732/0001213900-26-026732-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T14:36:01.018682+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - IMMERSION CORP (0001058811) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1058811/000119312526103330/0001193125-26-103330-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T14:36:01.018711+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - American Resources Corp (0001590715) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1590715/000165495426002177/0001654954-26-002177-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T14:36:01.018739+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ALEXANDER TECH CORP (0001347491) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1347491/000134749126000003/0001347491-26-000003-index.htm"
-  },
-  {
-    "time_utc": "2026-03-12T13:43:05.206486+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426002172/0001654954-26-002172-index.htm"
   }
 ]
