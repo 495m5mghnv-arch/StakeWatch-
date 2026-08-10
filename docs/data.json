@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-08-10T20:04:00.903870+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - P3 Health Partners Inc. (0001832511) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1832511/000183251126000032/0001832511-26-000032-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T20:04:00.903899+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MESA LABORATORIES INC /CO/ (0000724004) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/724004/000143774926026769/0001437749-26-026769-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T20:04:00.903905+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BLACKBAUD INC (0001280058) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1280058/000128005826000027/0001280058-26-000027-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T20:04:00.903932+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Latigo Biotherapeutics, Inc. (0002056611) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2056611/000119312526342321/0001193125-26-342321-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T20:04:00.903939+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Public Policy Holding Company, Inc. (0001903508) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1903508/000162828026055194/0001628280-26-055194-index.htm"
+  },
+  {
     "time_utc": "2026-08-10T19:12:42.611069+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - NATIONAL BEVERAGE CORP (0000069891) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/69891/000143774926008252/0001437749-26-008252-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T20:01:17.140603+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BIOXYTRAN, INC (0001445815) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1445815/000149315226010045/0001493152-26-010045-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T20:01:17.140632+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NATIONAL FUEL GAS CO (0000070145) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/70145/000119312526106081/0001193125-26-106081-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T18:59:02.185463+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - VILLAGE SUPER MARKET INC (0000103595) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/103595/000010359526000006/0000103595-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T15:10:37.307549+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GOLDMAN SACHS GROUP INC (0000886982) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/886982/000119312526105328/0001193125-26-105328-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T15:10:37.307570+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Cyber App Solutions Corp. (0001851048) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1851048/000185104826000006/0001851048-26-000006-index.htm"
   }
 ]

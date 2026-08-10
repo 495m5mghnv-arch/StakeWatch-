@@ -1,4 +1,9 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-10T20:04:00.903870+00:00,US,SEC,8-K,,,,8-K - P3 Health Partners Inc. (0001832511) (Filer),https://www.sec.gov/Archives/edgar/data/1832511/000183251126000032/0001832511-26-000032-index.htm
+2026-08-10T20:04:00.903899+00:00,US,SEC,8-K,,,,8-K - MESA LABORATORIES INC /CO/ (0000724004) (Filer),https://www.sec.gov/Archives/edgar/data/724004/000143774926026769/0001437749-26-026769-index.htm
+2026-08-10T20:04:00.903905+00:00,US,SEC,8-K,,,,8-K - BLACKBAUD INC (0001280058) (Filer),https://www.sec.gov/Archives/edgar/data/1280058/000128005826000027/0001280058-26-000027-index.htm
+2026-08-10T20:04:00.903932+00:00,US,SEC,8-K,,,,"8-K - Latigo Biotherapeutics, Inc. (0002056611) (Filer)",https://www.sec.gov/Archives/edgar/data/2056611/000119312526342321/0001193125-26-342321-index.htm
+2026-08-10T20:04:00.903939+00:00,US,SEC,8-K,,,,"8-K - Public Policy Holding Company, Inc. (0001903508) (Filer)",https://www.sec.gov/Archives/edgar/data/1903508/000162828026055194/0001628280-26-055194-index.htm
 2026-08-10T19:12:42.611069+00:00,US,SEC,8-K,,,,"8-K - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer)",https://www.sec.gov/Archives/edgar/data/1959961/000119312526342185/0001193125-26-342185-index.htm
 2026-08-10T19:12:42.611087+00:00,US,SEC,8-K,,,,8-K - LINCOLN EDUCATIONAL SERVICES CORP (0001286613) (Filer),https://www.sec.gov/Archives/edgar/data/1286613/000114036126031997/0001140361-26-031997-index.htm
 2026-08-10T12:30:23.596860+00:00,US,SEC,8-K,,,,8-K - INNOVATE Corp. (0001006837) (Filer),https://www.sec.gov/Archives/edgar/data/1006837/000100683726000076/0001006837-26-000076-index.htm
@@ -1994,8 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-16T10:40:33.027855+00:00,US,SEC,8-K,,,,"8-K - DOLLAR TREE, INC. (0000935703) (Filer)",https://www.sec.gov/Archives/edgar/data/935703/000093570326000024/0000935703-26-000024-index.htm
 2026-03-13T21:34:41.314791+00:00,US,SEC,8-K,,,,"8-K - MultiSensor AI Holdings, Inc. (0001863990) (Filer)",https://www.sec.gov/Archives/edgar/data/1863990/000110465926027766/0001104659-26-027766-index.htm
 2026-03-13T20:51:18.064171+00:00,US,SEC,8-K,,,,8-K - NATIONAL BEVERAGE CORP (0000069891) (Filer),https://www.sec.gov/Archives/edgar/data/69891/000143774926008252/0001437749-26-008252-index.htm
-2026-03-13T20:01:17.140603+00:00,US,SEC,8-K,,,,"8-K - BIOXYTRAN, INC (0001445815) (Filer)",https://www.sec.gov/Archives/edgar/data/1445815/000149315226010045/0001493152-26-010045-index.htm
-2026-03-13T20:01:17.140632+00:00,US,SEC,8-K,,,,8-K - NATIONAL FUEL GAS CO (0000070145) (Filer),https://www.sec.gov/Archives/edgar/data/70145/000119312526106081/0001193125-26-106081-index.htm
-2026-03-13T18:59:02.185463+00:00,US,SEC,8-K,,,,8-K - VILLAGE SUPER MARKET INC (0000103595) (Filer),https://www.sec.gov/Archives/edgar/data/103595/000010359526000006/0000103595-26-000006-index.htm
-2026-03-13T15:10:37.307549+00:00,US,SEC,8-K,,,,8-K - GOLDMAN SACHS GROUP INC (0000886982) (Filer),https://www.sec.gov/Archives/edgar/data/886982/000119312526105328/0001193125-26-105328-index.htm
-2026-03-13T15:10:37.307570+00:00,US,SEC,8-K,,,,8-K - Cyber App Solutions Corp. (0001851048) (Filer),https://www.sec.gov/Archives/edgar/data/1851048/000185104826000006/0001851048-26-000006-index.htm
