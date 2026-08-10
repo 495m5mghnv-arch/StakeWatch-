@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-08-10T12:30:23.596860+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INNOVATE Corp. (0001006837) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1006837/000100683726000076/0001006837-26-000076-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T12:30:23.596876+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sight Sciences, Inc. (0001531177) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1531177/000119312526341346/0001193125-26-341346-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T12:30:23.596903+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ONTO INNOVATION INC. (0000704532) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/704532/000119312526341337/0001193125-26-341337-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T12:30:23.596913+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SHF Holdings, Inc. (0001854963) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1854963/000149315226036747/0001493152-26-036747-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T12:30:23.596924+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CoreCivic, Inc. (0001070985) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1070985/000119312526341335/0001193125-26-341335-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T12:30:23.596931+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Latch, Inc. (0001826000) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1826000/000182600026000050/0001826000-26-000050-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T12:30:23.596947+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Jerash Holdings (US), Inc. (0001696558) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1696558/000121390026086957/0001213900-26-086957-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T12:30:23.596959+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sphere 3D Corp. (0001591956) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1591956/000106299326004117/0001062993-26-004117-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T12:30:23.596965+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Powerfleet, Inc. (0001774170) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1774170/000149315226036746/0001493152-26-036746-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T12:30:23.596974+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Clene Inc. (0001822791) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1822791/000143774926026653/0001437749-26-026653-index.htm"
+  },
+  {
     "time_utc": "2026-08-10T11:37:55.441063+00:00",
     "region": "US",
     "source": "SEC",
@@ -21888,115 +21998,5 @@
     "percent": "",
     "title": "8-K - Evolution Global Acquisition Corp (0002077954) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2077954/000121390026027300/0001213900-26-027300-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T12:24:42.044628+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Avidbank Holdings, Inc. (0001443575) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1443575/000143774926008062/0001437749-26-008062-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T12:24:42.044651+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PEDEVCO CORP (0001141197) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426002217/0001654954-26-002217-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T12:24:42.044669+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Green Rain Energy Holdings Inc. (0001084937) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1084937/000168316826001747/0001683168-26-001747-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T12:24:42.044682+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Lifeward Ltd. (0001607962) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1607962/000117891326000875/0001178913-26-000875-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T12:24:42.044687+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Liberty Live Holdings, Inc. (0002078416) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2078416/000110465926027369/0001104659-26-027369-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T12:24:42.044692+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Equillium, Inc. (0001746466) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1746466/000119312526105083/0001193125-26-105083-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T12:24:42.044743+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Barinthus Biotherapeutics plc. (0001828185) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1828185/000182818526000011/0001828185-26-000011-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T11:43:15.447329+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Philip Morris International Inc. (0001413329) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026017497/0001628280-26-017497-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T11:43:15.447347+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ONE Group Hospitality, Inc. (0001399520) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1399520/000110465926027350/0001104659-26-027350-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T11:43:15.447368+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Douglas Elliman Inc. (0001878897) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1878897/000187889726000004/0001878897-26-000004-index.htm"
   }
 ]
