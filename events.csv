@@ -1,4 +1,10 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-10T10:49:50.449068+00:00,US,SEC,8-K,,,,8-K - Cherry Hill Mortgage Investment Corp (0001571776) (Filer),https://www.sec.gov/Archives/edgar/data/1571776/000114036126031930/0001140361-26-031930-index.htm
+2026-08-10T10:49:50.449083+00:00,US,SEC,8-K,,,,"8-K - BROWN & BROWN, INC. (0000079282) (Filer)",https://www.sec.gov/Archives/edgar/data/79282/000119312526341162/0001193125-26-341162-index.htm
+2026-08-10T10:49:50.449097+00:00,US,SEC,8-K,,,,8-K - ACCENDRA HEALTH INC/VA/ (0000075252) (Filer),https://www.sec.gov/Archives/edgar/data/75252/000110465926092973/0001104659-26-092973-index.htm
+2026-08-10T10:49:50.449101+00:00,US,SEC,8-K,,,,8-K - Churchill Capital Corp XI (0002074973) (Filer),https://www.sec.gov/Archives/edgar/data/2074973/000121390026086928/0001213900-26-086928-index.htm
+2026-08-10T10:49:50.449119+00:00,US,SEC,8-K,,,,8-K - JBG SMITH Properties (0001689796) (Filer),https://www.sec.gov/Archives/edgar/data/1689796/000110465926092962/0001104659-26-092962-index.htm
+2026-08-10T10:49:50.449131+00:00,US,SEC,8-K,,,,"8-K - Ryman Hospitality Properties, Inc. (0001040829) (Filer)",https://www.sec.gov/Archives/edgar/data/1040829/000110465926092958/0001104659-26-092958-index.htm
 2026-08-07T20:57:10.734176+00:00,US,SEC,8-K,,,,8-K - W&T OFFSHORE INC (0001288403) (Filer),https://www.sec.gov/Archives/edgar/data/1288403/000110465926092767/0001104659-26-092767-index.htm
 2026-08-07T20:08:39.322008+00:00,US,SEC,8-K,,,,"8-K - NI Holdings, Inc. (0001681206) (Filer)",https://www.sec.gov/Archives/edgar/data/1681206/000117494726000778/0001174947-26-000778-index.htm
 2026-08-07T14:31:35.868342+00:00,US,SEC,8-K,,,,8-K - UNITED GUARDIAN INC (0000101295) (Filer),https://www.sec.gov/Archives/edgar/data/101295/000117184326005349/0001171843-26-005349-index.htm
@@ -1993,9 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-12T19:27:50.897601+00:00,US,SEC,8-K,,,,8-K - BASSETT FURNITURE INDUSTRIES INC (0000010329) (Filer),https://www.sec.gov/Archives/edgar/data/10329/000143774926007938/0001437749-26-007938-index.htm
 2026-03-12T19:27:50.897629+00:00,US,SEC,8-K,,,,8-K - BASSETT FURNITURE INDUSTRIES INC (0000010329) (Filer),https://www.sec.gov/Archives/edgar/data/10329/000143774926007936/0001437749-26-007936-index.htm
 2026-03-12T18:30:53.707069+00:00,US,SEC,8-K,,,,"8-K - Zoomcar Holdings, Inc. (0001854275) (Filer)",https://www.sec.gov/Archives/edgar/data/1854275/000121390026026843/0001213900-26-026843-index.htm
-2026-03-12T18:30:53.707137+00:00,US,SEC,8-K,,,,8-K - McEwen Inc. (0000314203) (Filer),https://www.sec.gov/Archives/edgar/data/314203/000110465926026975/0001104659-26-026975-index.htm
-2026-03-12T18:30:53.707166+00:00,US,SEC,8-K,,,,"8-K - Global Indemnity Group, LLC (0001494904) (Filer)",https://www.sec.gov/Archives/edgar/data/1494904/000119312526103797/0001193125-26-103797-index.htm
-2026-03-12T17:36:54.506322+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer),https://www.sec.gov/Archives/edgar/data/1331465/000133146526000052/0001331465-26-000052-index.htm
-2026-03-12T16:41:42.902159+00:00,US,SEC,8-K,,,,8-K - Magnera Corp (0000041719) (Filer),https://www.sec.gov/Archives/edgar/data/41719/000004171926000037/0000041719-26-000037-index.htm
-2026-03-12T15:39:02.323622+00:00,US,SEC,8-K,,,,8-K - Carvana Auto Receivables Trust 2026-P1 (0001976111) (Filer),https://www.sec.gov/Archives/edgar/data/1976111/000177037326000015/0001770373-26-000015-index.htm
-2026-03-12T15:39:02.323641+00:00,US,SEC,8-K,,,,8-K - Carvana Receivables Depositor LLC (0001770373) (Filer),https://www.sec.gov/Archives/edgar/data/1770373/000177037326000015/0001770373-26-000015-index.htm
