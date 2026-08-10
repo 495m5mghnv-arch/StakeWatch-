@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-08-10T20:57:46.281460+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bain Capital Specialty Finance, Inc. (0001655050) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1655050/000119312526342607/0001193125-26-342607-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T20:57:46.281522+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Purple Innovation, Inc. (0001643953) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1643953/000121390026087318/0001213900-26-087318-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T20:57:46.281531+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Commercial Vehicle Group, Inc. (0001290900) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1290900/000162828026055322/0001628280-26-055322-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T20:57:46.281552+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Arq, Inc. (0001515156) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1515156/000151515626000116/0001515156-26-000116-index.htm"
+  },
+  {
     "time_utc": "2026-08-10T20:04:00.903870+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - Sable Offshore Corp. (0001831481) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1831481/000183148126000030/0001831481-26-000030-index.htm"
-  },
-  {
-    "time_utc": "2026-03-16T10:40:33.027825+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Forgent Power Solutions, Inc. (0002080126) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2080126/000208012626000010/0002080126-26-000010-index.htm"
-  },
-  {
-    "time_utc": "2026-03-16T10:40:33.027855+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DOLLAR TREE, INC. (0000935703) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000024/0000935703-26-000024-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T21:34:41.314791+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MultiSensor AI Holdings, Inc. (0001863990) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1863990/000110465926027766/0001104659-26-027766-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T20:51:18.064171+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NATIONAL BEVERAGE CORP (0000069891) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/69891/000143774926008252/0001437749-26-008252-index.htm"
   }
 ]
