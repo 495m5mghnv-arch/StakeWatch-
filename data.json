@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-10T19:12:42.611069+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1959961/000119312526342185/0001193125-26-342185-index.htm"
+  },
+  {
+    "time_utc": "2026-08-10T19:12:42.611087+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LINCOLN EDUCATIONAL SERVICES CORP (0001286613) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1286613/000114036126031997/0001140361-26-031997-index.htm"
+  },
+  {
     "time_utc": "2026-08-10T12:30:23.596860+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Cyber App Solutions Corp. (0001851048) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1851048/000185104826000006/0001851048-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T14:27:18.245706+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TYLER TECHNOLOGIES INC (0000860731) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000018/0000860731-26-000018-index.htm"
-  },
-  {
-    "time_utc": "2026-03-13T13:39:03.426217+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Evolution Global Acquisition Corp (0002077954) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2077954/000121390026027300/0001213900-26-027300-index.htm"
   }
 ]
