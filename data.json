@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-08-11T20:21:42.123847+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NUSCALE POWER Corp (0001822966) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1822966/000110465926094073/0001104659-26-094073-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T20:21:42.123901+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kilroy Realty, L.P. (0001493976) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1493976/000119312526344730/0001193125-26-344730-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T20:21:42.123907+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KILROY REALTY CORP (0001025996) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000119312526344730/0001193125-26-344730-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T20:21:42.123917+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ASTRONICS CORP (0000008063) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/8063/000000806326000037/0000008063-26-000037-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T20:21:42.123921+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - New Mountain Guardian IV BDC, L.L.C. (0001925531) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1925531/000192553126000016/0001925531-26-000016-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T20:21:42.123926+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ARBOR REALTY TRUST INC (0001253986) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1253986/000125398626000053/0001253986-26-000053-index.htm"
+  },
+  {
     "time_utc": "2026-08-11T19:37:32.044487+00:00",
     "region": "US",
     "source": "SEC",
@@ -21932,71 +21998,5 @@
     "percent": "",
     "title": "8-K - Nuwellis, Inc. (0001506492) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1506492/000114036126009745/0001140361-26-009745-index.htm"
-  },
-  {
-    "time_utc": "2026-03-17T13:14:35.264747+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Public Storage (0001393311) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1393311/000119312526109593/0001193125-26-109593-index.htm"
-  },
-  {
-    "time_utc": "2026-03-17T11:54:15.352032+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GALECTIN THERAPEUTICS INC (0001133416) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1133416/000114036126009735/0001140361-26-009735-index.htm"
-  },
-  {
-    "time_utc": "2026-03-17T11:54:15.352066+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Frontdoor, Inc. (0001727263) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1727263/000172726326000003/0001727263-26-000003-index.htm"
-  },
-  {
-    "time_utc": "2026-03-17T11:07:02.114964+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BICYCLE THERAPEUTICS PLC (0001761612) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1761612/000110465926028954/0001104659-26-028954-index.htm"
-  },
-  {
-    "time_utc": "2026-03-17T11:07:02.114985+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Monte Rosa Therapeutics, Inc. (0001826457) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1826457/000119312526109353/0001193125-26-109353-index.htm"
-  },
-  {
-    "time_utc": "2026-03-17T11:07:02.115016+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - JETBLUE AIRWAYS CORP (0001158463) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1158463/000115846326000030/0001158463-26-000030-index.htm"
   }
 ]
