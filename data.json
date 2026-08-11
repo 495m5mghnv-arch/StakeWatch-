@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-11T14:24:18.942470+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CURTISS WRIGHT CORP (0000026324) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/26324/000162828026055536/0001628280-26-055536-index.htm"
+  },
+  {
     "time_utc": "2026-08-11T13:05:22.511710+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Sally Beauty Holdings, Inc. (0001368458) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1368458/000119312526109350/0001193125-26-109350-index.htm"
-  },
-  {
-    "time_utc": "2026-03-17T10:06:48.131399+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001465/0001062993-26-001465-index.htm"
   }
 ]
