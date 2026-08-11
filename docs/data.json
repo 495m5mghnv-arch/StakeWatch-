@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-08-11T11:53:29.460904+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ClearSign Technologies Corp (0001434524) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926093758/0001104659-26-093758-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T11:53:29.460933+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INTENSITY THERAPEUTICS, INC. (0001567264) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1567264/000156726426000061/0001567264-26-000061-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T11:53:29.460956+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bicara Therapeutics Inc. (0002023658) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2023658/000162828026055500/0001628280-26-055500-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T11:53:29.460972+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Zura Bio Ltd (0001855644) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1855644/000185564426000007/0001855644-26-000007-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T11:53:29.460979+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sagimet Biosciences Inc. (0001400118) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1400118/000119312526343446/0001193125-26-343446-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T11:53:29.460990+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LITTELFUSE INC /DE (0000889331) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/889331/000088933126000010/0000889331-26-000010-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T11:53:29.460997+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Autolus Therapeutics plc (0001730463) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000119/0001730463-26-000119-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T11:53:29.461007+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Neurogene Inc. (0001404644) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1404644/000140464426000056/0001404644-26-000056-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T11:53:29.461013+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ambiq Micro, Inc. (0001500412) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1500412/000119312526343443/0001193125-26-343443-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T11:53:29.461028+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Incannex Healthcare Inc. (0001873875) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1873875/000121390026087493/0001213900-26-087493-index.htm"
+  },
+  {
     "time_utc": "2026-08-11T11:02:02.313665+00:00",
     "region": "US",
     "source": "SEC",
@@ -21888,115 +21998,5 @@
     "percent": "",
     "title": "8-K - Grayscale Ethereum Staking Mini ETF (0002020455) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2020455/000119312526108396/0001193125-26-108396-index.htm"
-  },
-  {
-    "time_utc": "2026-03-16T20:22:34.635928+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Zomedica Corp. (0001684144) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1684144/000165495426002304/0001654954-26-002304-index.htm"
-  },
-  {
-    "time_utc": "2026-03-16T19:40:22.656262+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Barnes & Noble Education, Inc. (0001634117) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1634117/000163411726000050/0001634117-26-000050-index.htm"
-  },
-  {
-    "time_utc": "2026-03-16T18:37:34.494354+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Noble Corp plc (0001895262) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1895262/000189526226000099/0001895262-26-000099-index.htm"
-  },
-  {
-    "time_utc": "2026-03-16T16:32:42.394068+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Greenland Mines Ltd (0001907223) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1907223/000121390026028158/0001213900-26-028158-index.htm"
-  },
-  {
-    "time_utc": "2026-03-16T15:16:10.985174+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Tianci International, Inc. (0001557798) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1557798/000168316826001823/0001683168-26-001823-index.htm"
-  },
-  {
-    "time_utc": "2026-03-16T14:03:10.952409+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - U. S. Premium Beef, LLC (0001289237) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1289237/000168316826001814/0001683168-26-001814-index.htm"
-  },
-  {
-    "time_utc": "2026-03-16T14:03:10.952459+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000055/0001331463-26-000055-index.htm"
-  },
-  {
-    "time_utc": "2026-03-16T12:33:37.512821+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Varex Imaging Corp (0001681622) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1681622/000168162226000035/0001681622-26-000035-index.htm"
-  },
-  {
-    "time_utc": "2026-03-16T12:33:37.512842+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Spirit Aviation Holdings, Inc. (0001498710) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/0000950103-26-003790-index.htm"
-  },
-  {
-    "time_utc": "2026-03-16T12:33:37.512855+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TALPHERA, INC. (0001427925) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1427925/000143774926008318/0001437749-26-008318-index.htm"
   }
 ]
