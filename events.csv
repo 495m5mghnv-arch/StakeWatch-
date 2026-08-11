@@ -1,4 +1,7 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-11T13:05:22.511710+00:00,US,SEC,8-K,,,,8-K - REGIONS FINANCIAL CORP (0001281761) (Filer),https://www.sec.gov/Archives/edgar/data/1281761/000128176126000060/0001281761-26-000060-index.htm
+2026-08-11T13:05:22.511733+00:00,US,SEC,8-K,,,,8-K - SURF AIR MOBILITY INC. (0001936224) (Filer),https://www.sec.gov/Archives/edgar/data/1936224/000119312526343559/0001193125-26-343559-index.htm
+2026-08-11T13:05:22.511781+00:00,US,SEC,8-K,,,,"8-K - Stabilis Solutions, Inc. (0001043186) (Filer)",https://www.sec.gov/Archives/edgar/data/1043186/000143774926026867/0001437749-26-026867-index.htm
 2026-08-11T11:53:29.460904+00:00,US,SEC,8-K,,,,8-K - ClearSign Technologies Corp (0001434524) (Filer),https://www.sec.gov/Archives/edgar/data/1434524/000110465926093758/0001104659-26-093758-index.htm
 2026-08-11T11:53:29.460933+00:00,US,SEC,8-K,,,,"8-K - INTENSITY THERAPEUTICS, INC. (0001567264) (Filer)",https://www.sec.gov/Archives/edgar/data/1567264/000156726426000061/0001567264-26-000061-index.htm
 2026-08-11T11:53:29.460956+00:00,US,SEC,8-K,,,,8-K - Bicara Therapeutics Inc. (0002023658) (Filer),https://www.sec.gov/Archives/edgar/data/2023658/000162828026055500/0001628280-26-055500-index.htm
@@ -1996,6 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-17T11:07:02.115032+00:00,US,SEC,8-K,,,,8-K - Vireo Growth Inc. (0001771706) (Filer),https://www.sec.gov/Archives/edgar/data/1771706/000110465926028946/0001104659-26-028946-index.htm
 2026-03-17T11:07:02.115039+00:00,US,SEC,8-K,,,,"8-K - Sally Beauty Holdings, Inc. (0001368458) (Filer)",https://www.sec.gov/Archives/edgar/data/1368458/000119312526109350/0001193125-26-109350-index.htm
 2026-03-17T10:06:48.131399+00:00,US,SEC,8-K,,,,8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer),https://www.sec.gov/Archives/edgar/data/1498148/000106299326001465/0001062993-26-001465-index.htm
-2026-03-16T21:05:06.263462+00:00,US,SEC,8-K,,,,8-K - California Resources Corp (0001609253) (Filer),https://www.sec.gov/Archives/edgar/data/1609253/000160925326000079/0001609253-26-000079-index.htm
-2026-03-16T20:22:34.635842+00:00,US,SEC,8-K,,,,8-K - BENCHMARK ELECTRONICS INC (0000863436) (Filer),https://www.sec.gov/Archives/edgar/data/863436/000119312526108398/0001193125-26-108398-index.htm
-2026-03-16T20:22:34.635865+00:00,US,SEC,8-K,,,,8-K - Grayscale Ethereum Staking Mini ETF (0002020455) (Filer),https://www.sec.gov/Archives/edgar/data/2020455/000119312526108396/0001193125-26-108396-index.htm
