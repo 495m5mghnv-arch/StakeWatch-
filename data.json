@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-11T15:28:38.530772+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LataMed AI Corp. (0001477960) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1477960/000147793226004859/0001477932-26-004859-index.htm"
+  },
+  {
+    "time_utc": "2026-08-11T15:28:38.530813+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MUNCY COLUMBIA FINANCIAL Corp (0000731122) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/731122/000117494726000787/0001174947-26-000787-index.htm"
+  },
+  {
     "time_utc": "2026-08-11T14:24:18.942470+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - URBAN ONE, INC. (0001041657) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1041657/000104165726000010/0001041657-26-000010-index.htm"
-  },
-  {
-    "time_utc": "2026-03-17T11:07:02.115032+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Vireo Growth Inc. (0001771706) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926028946/0001104659-26-028946-index.htm"
-  },
-  {
-    "time_utc": "2026-03-17T11:07:02.115039+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sally Beauty Holdings, Inc. (0001368458) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1368458/000119312526109350/0001193125-26-109350-index.htm"
   }
 ]

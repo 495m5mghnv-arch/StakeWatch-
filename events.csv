@@ -1,4 +1,6 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-11T15:28:38.530772+00:00,US,SEC,8-K,,,,8-K - LataMed AI Corp. (0001477960) (Filer),https://www.sec.gov/Archives/edgar/data/1477960/000147793226004859/0001477932-26-004859-index.htm
+2026-08-11T15:28:38.530813+00:00,US,SEC,8-K,,,,8-K - MUNCY COLUMBIA FINANCIAL Corp (0000731122) (Filer),https://www.sec.gov/Archives/edgar/data/731122/000117494726000787/0001174947-26-000787-index.htm
 2026-08-11T14:24:18.942470+00:00,US,SEC,8-K,,,,8-K - CURTISS WRIGHT CORP (0000026324) (Filer),https://www.sec.gov/Archives/edgar/data/26324/000162828026055536/0001628280-26-055536-index.htm
 2026-08-11T13:05:22.511710+00:00,US,SEC,8-K,,,,8-K - REGIONS FINANCIAL CORP (0001281761) (Filer),https://www.sec.gov/Archives/edgar/data/1281761/000128176126000060/0001281761-26-000060-index.htm
 2026-08-11T13:05:22.511733+00:00,US,SEC,8-K,,,,8-K - SURF AIR MOBILITY INC. (0001936224) (Filer),https://www.sec.gov/Archives/edgar/data/1936224/000119312526343559/0001193125-26-343559-index.htm
@@ -1997,5 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-17T11:07:02.114985+00:00,US,SEC,8-K,,,,"8-K - Monte Rosa Therapeutics, Inc. (0001826457) (Filer)",https://www.sec.gov/Archives/edgar/data/1826457/000119312526109353/0001193125-26-109353-index.htm
 2026-03-17T11:07:02.115016+00:00,US,SEC,8-K,,,,8-K - JETBLUE AIRWAYS CORP (0001158463) (Filer),https://www.sec.gov/Archives/edgar/data/1158463/000115846326000030/0001158463-26-000030-index.htm
 2026-03-17T11:07:02.115021+00:00,US,SEC,8-K,,,,"8-K - URBAN ONE, INC. (0001041657) (Filer)",https://www.sec.gov/Archives/edgar/data/1041657/000104165726000010/0001041657-26-000010-index.htm
-2026-03-17T11:07:02.115032+00:00,US,SEC,8-K,,,,8-K - Vireo Growth Inc. (0001771706) (Filer),https://www.sec.gov/Archives/edgar/data/1771706/000110465926028946/0001104659-26-028946-index.htm
-2026-03-17T11:07:02.115039+00:00,US,SEC,8-K,,,,"8-K - Sally Beauty Holdings, Inc. (0001368458) (Filer)",https://www.sec.gov/Archives/edgar/data/1368458/000119312526109350/0001193125-26-109350-index.htm
