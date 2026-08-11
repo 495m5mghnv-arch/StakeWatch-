@@ -1,4 +1,5 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-11T19:37:32.044487+00:00,US,SEC,8-K,,,,8-K - SPRUCE POWER HOLDING CORP (0001772720) (Filer),https://www.sec.gov/Archives/edgar/data/1772720/000162828026055655/0001628280-26-055655-index.htm
 2026-08-11T15:28:38.530772+00:00,US,SEC,8-K,,,,8-K - LataMed AI Corp. (0001477960) (Filer),https://www.sec.gov/Archives/edgar/data/1477960/000147793226004859/0001477932-26-004859-index.htm
 2026-08-11T15:28:38.530813+00:00,US,SEC,8-K,,,,8-K - MUNCY COLUMBIA FINANCIAL Corp (0000731122) (Filer),https://www.sec.gov/Archives/edgar/data/731122/000117494726000787/0001174947-26-000787-index.htm
 2026-08-11T14:24:18.942470+00:00,US,SEC,8-K,,,,8-K - CURTISS WRIGHT CORP (0000026324) (Filer),https://www.sec.gov/Archives/edgar/data/26324/000162828026055536/0001628280-26-055536-index.htm
@@ -1998,4 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-17T11:07:02.114964+00:00,US,SEC,8-K,,,,8-K - BICYCLE THERAPEUTICS PLC (0001761612) (Filer),https://www.sec.gov/Archives/edgar/data/1761612/000110465926028954/0001104659-26-028954-index.htm
 2026-03-17T11:07:02.114985+00:00,US,SEC,8-K,,,,"8-K - Monte Rosa Therapeutics, Inc. (0001826457) (Filer)",https://www.sec.gov/Archives/edgar/data/1826457/000119312526109353/0001193125-26-109353-index.htm
 2026-03-17T11:07:02.115016+00:00,US,SEC,8-K,,,,8-K - JETBLUE AIRWAYS CORP (0001158463) (Filer),https://www.sec.gov/Archives/edgar/data/1158463/000115846326000030/0001158463-26-000030-index.htm
-2026-03-17T11:07:02.115021+00:00,US,SEC,8-K,,,,"8-K - URBAN ONE, INC. (0001041657) (Filer)",https://www.sec.gov/Archives/edgar/data/1041657/000104165726000010/0001041657-26-000010-index.htm

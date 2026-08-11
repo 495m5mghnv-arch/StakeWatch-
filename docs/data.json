@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-11T19:37:32.044487+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SPRUCE POWER HOLDING CORP (0001772720) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1772720/000162828026055655/0001628280-26-055655-index.htm"
+  },
+  {
     "time_utc": "2026-08-11T15:28:38.530772+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - JETBLUE AIRWAYS CORP (0001158463) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1158463/000115846326000030/0001158463-26-000030-index.htm"
-  },
-  {
-    "time_utc": "2026-03-17T11:07:02.115021+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - URBAN ONE, INC. (0001041657) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1041657/000104165726000010/0001041657-26-000010-index.htm"
   }
 ]
