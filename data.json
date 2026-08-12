@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-08-12T20:59:49.122001+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Orchid Island Capital, Inc. (0001518621) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1518621/000143774926027362/0001437749-26-027362-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T20:59:49.122025+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Dolphin Entertainment, Inc. (0001282224) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1282224/000107997326001070/0001079973-26-001070-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T20:59:49.122070+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TECOGEN INC. (0001537435) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1537435/000153743526000063/0001537435-26-000063-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T20:59:49.122077+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CuriosityStream Inc. (0001776909) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1776909/000162828026056318/0001628280-26-056318-index.htm"
+  },
+  {
     "time_utc": "2026-08-12T20:06:14.617670+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - Humacyte, Inc. (0001818382) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1818382/000110465926031780/0001104659-26-031780-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T12:31:30.102864+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MICRO IMAGING TECHNOLOGY, INC. (0000808015) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/808015/000149315226011240/0001493152-26-011240-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T12:31:30.102889+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Picard Medical, Inc. (0002030617) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2030617/000182912626002490/0001829126-26-002490-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T12:31:30.102897+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Worksport Ltd (0001096275) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226011531/0001493152-26-011531-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T12:31:30.102910+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Hughes Satellite Systems Corp (0001533758) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1533758/000141540426000006/0001415404-26-000006-index.htm"
   }
 ]

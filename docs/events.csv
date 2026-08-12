@@ -1,4 +1,8 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-12T20:59:49.122001+00:00,US,SEC,8-K,,,,"8-K - Orchid Island Capital, Inc. (0001518621) (Filer)",https://www.sec.gov/Archives/edgar/data/1518621/000143774926027362/0001437749-26-027362-index.htm
+2026-08-12T20:59:49.122025+00:00,US,SEC,8-K,,,,"8-K - Dolphin Entertainment, Inc. (0001282224) (Filer)",https://www.sec.gov/Archives/edgar/data/1282224/000107997326001070/0001079973-26-001070-index.htm
+2026-08-12T20:59:49.122070+00:00,US,SEC,8-K,,,,8-K - TECOGEN INC. (0001537435) (Filer),https://www.sec.gov/Archives/edgar/data/1537435/000153743526000063/0001537435-26-000063-index.htm
+2026-08-12T20:59:49.122077+00:00,US,SEC,8-K,,,,8-K - CuriosityStream Inc. (0001776909) (Filer),https://www.sec.gov/Archives/edgar/data/1776909/000162828026056318/0001628280-26-056318-index.htm
 2026-08-12T20:06:14.617670+00:00,US,SEC,8-K,,,,8-K - PORTLAND GENERAL ELECTRIC CO /OR/ (0000784977) (Filer),https://www.sec.gov/Archives/edgar/data/784977/000119312526346816/0001193125-26-346816-index.htm
 2026-08-12T20:06:14.617686+00:00,US,SEC,8-K,,,,"8-K - Minerva Neurosciences, Inc. (0001598646) (Filer)",https://www.sec.gov/Archives/edgar/data/1598646/000119312526346817/0001193125-26-346817-index.htm
 2026-08-12T20:06:14.617693+00:00,US,SEC,8-K,,,,8-K - Blue Water Acquisition Corp. III (0002050501) (Filer),https://www.sec.gov/Archives/edgar/data/2050501/000110465926094858/0001104659-26-094858-index.htm
@@ -1995,7 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-19T12:31:30.102840+00:00,US,SEC,8-K,,,,8-K - TEJON RANCH CO (0000096869) (Filer),https://www.sec.gov/Archives/edgar/data/96869/000119312526115200/0001193125-26-115200-index.htm
 2026-03-19T12:31:30.102847+00:00,US,SEC,8-K,,,,8-K - TWO HARBORS INVESTMENT CORP. (0001465740) (Filer),https://www.sec.gov/Archives/edgar/data/1465740/000110465926031787/0001104659-26-031787-index.htm
 2026-03-19T12:31:30.102860+00:00,US,SEC,8-K,,,,"8-K - Humacyte, Inc. (0001818382) (Filer)",https://www.sec.gov/Archives/edgar/data/1818382/000110465926031780/0001104659-26-031780-index.htm
-2026-03-19T12:31:30.102864+00:00,US,SEC,8-K,,,,"8-K - MICRO IMAGING TECHNOLOGY, INC. (0000808015) (Filer)",https://www.sec.gov/Archives/edgar/data/808015/000149315226011240/0001493152-26-011240-index.htm
-2026-03-19T12:31:30.102889+00:00,US,SEC,8-K,,,,"8-K - Picard Medical, Inc. (0002030617) (Filer)",https://www.sec.gov/Archives/edgar/data/2030617/000182912626002490/0001829126-26-002490-index.htm
-2026-03-19T12:31:30.102897+00:00,US,SEC,8-K,,,,8-K - Worksport Ltd (0001096275) (Filer),https://www.sec.gov/Archives/edgar/data/1096275/000149315226011531/0001493152-26-011531-index.htm
-2026-03-19T12:31:30.102910+00:00,US,SEC,8-K,,,,8-K - Hughes Satellite Systems Corp (0001533758) (Filer),https://www.sec.gov/Archives/edgar/data/1533758/000141540426000006/0001415404-26-000006-index.htm
