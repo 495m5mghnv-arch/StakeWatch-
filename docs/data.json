@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-12T10:44:39.999125+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BIO-TECHNE Corp (0000842023) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/842023/000110465926094391/0001104659-26-094391-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T10:44:39.999138+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Annexon, Inc. (0001528115) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1528115/000119312526345672/0001193125-26-345672-index.htm"
+  },
+  {
     "time_utc": "2026-08-11T21:21:12.894626+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Goldman Sachs BDC, Inc. (0001572694) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1572694/000119312526110886/0001193125-26-110886-index.htm"
-  },
-  {
-    "time_utc": "2026-03-17T17:46:41.256251+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - HNO International, Inc. (0001342916) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1342916/000134291626000011/0001342916-26-000011-index.htm"
-  },
-  {
-    "time_utc": "2026-03-17T16:47:35.582350+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000039/0001325814-26-000039-index.htm"
   }
 ]
