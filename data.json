@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-08-12T15:06:15.128392+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Curaleaf Holdings, Inc. (0001756770) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1756770/000162828026056012/0001628280-26-056012-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T15:06:15.128420+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NATURAL GAS SERVICES GROUP INC (0001084991) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1084991/000108499126000086/0001084991-26-000086-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T15:06:15.128446+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - U. S. Premium Beef, LLC (0001289237) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1289237/000168316826006247/0001683168-26-006247-index.htm"
+  },
+  {
     "time_utc": "2026-08-12T12:28:49.548545+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Intuitive Machines, Inc. (0001844452) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1844452/000162828026019633/0001628280-26-019633-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T11:50:19.662989+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Cornerstone Building Brands, Inc. (0000883902) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/883902/000088390226000009/0000883902-26-000009-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T11:50:19.662999+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ONE Group Hospitality, Inc. (0001399520) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1399520/000110465926031731/0001104659-26-031731-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T11:50:19.663013+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Acrivon Therapeutics, Inc. (0001781174) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526115139/0001193125-26-115139-index.htm"
   }
 ]

@@ -1,4 +1,7 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-12T15:06:15.128392+00:00,US,SEC,8-K,,,,"8-K - Curaleaf Holdings, Inc. (0001756770) (Filer)",https://www.sec.gov/Archives/edgar/data/1756770/000162828026056012/0001628280-26-056012-index.htm
+2026-08-12T15:06:15.128420+00:00,US,SEC,8-K,,,,8-K - NATURAL GAS SERVICES GROUP INC (0001084991) (Filer),https://www.sec.gov/Archives/edgar/data/1084991/000108499126000086/0001084991-26-000086-index.htm
+2026-08-12T15:06:15.128446+00:00,US,SEC,8-K,,,,"8-K - U. S. Premium Beef, LLC (0001289237) (Filer)",https://www.sec.gov/Archives/edgar/data/1289237/000168316826006247/0001683168-26-006247-index.htm
 2026-08-12T12:28:49.548545+00:00,US,SEC,8-K,,,,"8-K - MADRIGAL PHARMACEUTICALS, INC. (0001157601) (Filer)",https://www.sec.gov/Archives/edgar/data/1157601/000162828026055962/0001628280-26-055962-index.htm
 2026-08-12T12:28:49.548582+00:00,US,SEC,8-K,,,,"8-K - Century Therapeutics, Inc. (0001850119) (Filer)",https://www.sec.gov/Archives/edgar/data/1850119/000110465926094533/0001104659-26-094533-index.htm
 2026-08-12T12:28:49.548594+00:00,US,SEC,8-K,,,,8-K - Madison Square Garden Entertainment Corp. (0001952073) (Filer),https://www.sec.gov/Archives/edgar/data/1952073/000162828026055960/0001628280-26-055960-index.htm
@@ -1996,6 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-19T11:50:19.662973+00:00,US,SEC,8-K,,,,8-K - Horizon Technology Finance Corp (0001487428) (Filer),https://www.sec.gov/Archives/edgar/data/1487428/000143774926008936/0001437749-26-008936-index.htm
 2026-03-19T11:50:19.662978+00:00,US,SEC,8-K,,,,8-K - Mount Logan Capital Inc. (0002051820) (Filer),https://www.sec.gov/Archives/edgar/data/2051820/000205182026000035/0002051820-26-000035-index.htm
 2026-03-19T11:50:19.662983+00:00,US,SEC,8-K,,,,"8-K - Intuitive Machines, Inc. (0001844452) (Filer)",https://www.sec.gov/Archives/edgar/data/1844452/000162828026019633/0001628280-26-019633-index.htm
-2026-03-19T11:50:19.662989+00:00,US,SEC,8-K,,,,"8-K - Cornerstone Building Brands, Inc. (0000883902) (Filer)",https://www.sec.gov/Archives/edgar/data/883902/000088390226000009/0000883902-26-000009-index.htm
-2026-03-19T11:50:19.662999+00:00,US,SEC,8-K,,,,"8-K - ONE Group Hospitality, Inc. (0001399520) (Filer)",https://www.sec.gov/Archives/edgar/data/1399520/000110465926031731/0001104659-26-031731-index.htm
-2026-03-19T11:50:19.663013+00:00,US,SEC,8-K,,,,"8-K - Acrivon Therapeutics, Inc. (0001781174) (Filer)",https://www.sec.gov/Archives/edgar/data/1781174/000119312526115139/0001193125-26-115139-index.htm
