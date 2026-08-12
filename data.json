@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-08-12T20:06:14.617670+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PORTLAND GENERAL ELECTRIC CO /OR/ (0000784977) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/784977/000119312526346816/0001193125-26-346816-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T20:06:14.617686+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Minerva Neurosciences, Inc. (0001598646) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1598646/000119312526346817/0001193125-26-346817-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T20:06:14.617693+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blue Water Acquisition Corp. III (0002050501) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2050501/000110465926094858/0001104659-26-094858-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T20:06:14.617698+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GameSquare Holdings, Inc. (0001714562) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226037336/0001493152-26-037336-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T20:06:14.617703+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Earth Science Tech, Inc. (0001538495) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1538495/000149315226037339/0001493152-26-037339-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T20:06:14.617707+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NORTECH SYSTEMS INC (0000722313) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/722313/000149315226037337/0001493152-26-037337-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T20:06:14.617712+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AmpliTech Group, Inc. (0001518461) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1518461/000149315226037338/0001493152-26-037338-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T20:06:14.617737+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMERICAN AIRLINES, INC. (0000004515) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/4515/000119312526346815/0001193125-26-346815-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T20:06:14.617741+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Lumexa Imaging Holdings, Inc. (0002071288) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2071288/000119312526346813/0001193125-26-346813-index.htm"
+  },
+  {
+    "time_utc": "2026-08-12T20:06:14.617762+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INTEL CORP (0000050863) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/50863/000119312526346806/0001193125-26-346806-index.htm"
+  },
+  {
     "time_utc": "2026-08-12T15:06:15.128392+00:00",
     "region": "US",
     "source": "SEC",
@@ -21888,115 +21998,5 @@
     "percent": "",
     "title": "8-K - Hughes Satellite Systems Corp (0001533758) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1533758/000141540426000006/0001415404-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T12:31:30.102914+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - EchoStar CORP (0001415404) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1415404/000141540426000006/0001415404-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T12:31:30.102918+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DISH DBS CORP (0001042642) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1042642/000141540426000006/0001415404-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T12:31:30.102922+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DISH Network CORP (0001001082) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1001082/000141540426000006/0001415404-26-000006-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T12:31:30.102926+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Datavault AI Inc. (0001682149) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926031770/0001104659-26-031770-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T11:50:19.662903+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Datavault AI Inc. (0001682149) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926031736/0001104659-26-031736-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T11:50:19.662934+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Aptose Biosciences Inc. (0000882361) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/882361/000117184326001777/0001171843-26-001777-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T11:50:19.662943+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Mount Logan Capital Inc. (0002051820) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2051820/000205182026000037/0002051820-26-000037-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T11:50:19.662973+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Horizon Technology Finance Corp (0001487428) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1487428/000143774926008936/0001437749-26-008936-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T11:50:19.662978+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Mount Logan Capital Inc. (0002051820) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2051820/000205182026000035/0002051820-26-000035-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T11:50:19.662983+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Intuitive Machines, Inc. (0001844452) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1844452/000162828026019633/0001628280-26-019633-index.htm"
   }
 ]
