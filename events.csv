@@ -1,4 +1,14 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-12T11:34:07.980425+00:00,US,SEC,8-K,,,,8-K - Arbutus Biopharma Corp (0001447028) (Filer),https://www.sec.gov/Archives/edgar/data/1447028/000117184326005442/0001171843-26-005442-index.htm
+2026-08-12T11:34:07.980440+00:00,US,SEC,8-K,,,,8-K - Local Bounti Corporation/DE (0001840780) (Filer),https://www.sec.gov/Archives/edgar/data/1840780/000162828026055950/0001628280-26-055950-index.htm
+2026-08-12T11:34:07.980460+00:00,US,SEC,8-K,,,,"8-K - CTT PHARMACEUTICAL HOLDINGS, INC. (0001035422) (Filer)",https://www.sec.gov/Archives/edgar/data/1035422/000117152026000225/0001171520-26-000225-index.htm
+2026-08-12T11:34:07.980465+00:00,US,SEC,8-K,,,,8-K - Capstone Holding Corp. (0000887151) (Filer),https://www.sec.gov/Archives/edgar/data/887151/000143774926027149/0001437749-26-027149-index.htm
+2026-08-12T11:34:07.980483+00:00,US,SEC,8-K,,,,8-K - Milestone Pharmaceuticals Inc. (0001408443) (Filer),https://www.sec.gov/Archives/edgar/data/1408443/000110465926094466/0001104659-26-094466-index.htm
+2026-08-12T11:34:07.980488+00:00,US,SEC,8-K,,,,"8-K - Applied Aerospace & Defense, Inc. (0002118195) (Filer)",https://www.sec.gov/Archives/edgar/data/2118195/000162828026055948/0001628280-26-055948-index.htm
+2026-08-12T11:34:07.980515+00:00,US,SEC,8-K,,,,8-K - ZION OIL & GAS INC (0001131312) (Filer),https://www.sec.gov/Archives/edgar/data/1131312/000143774926027148/0001437749-26-027148-index.htm
+2026-08-12T11:34:07.980522+00:00,US,SEC,8-K,,,,8-K - AMCON DISTRIBUTING CO (0000928465) (Filer),https://www.sec.gov/Archives/edgar/data/928465/000110465926094451/0001104659-26-094451-index.htm
+2026-08-12T11:34:07.980530+00:00,US,SEC,8-K,,,,"8-K - SUTRO BIOPHARMA, INC. (0001382101) (Filer)",https://www.sec.gov/Archives/edgar/data/1382101/000119312526345733/0001193125-26-345733-index.htm
+2026-08-12T11:34:07.980534+00:00,US,SEC,8-K,,,,"8-K - TScan Therapeutics, Inc. (0001783328) (Filer)",https://www.sec.gov/Archives/edgar/data/1783328/000119312526345732/0001193125-26-345732-index.htm
 2026-08-12T10:44:39.999125+00:00,US,SEC,8-K,,,,8-K - BIO-TECHNE Corp (0000842023) (Filer),https://www.sec.gov/Archives/edgar/data/842023/000110465926094391/0001104659-26-094391-index.htm
 2026-08-12T10:44:39.999138+00:00,US,SEC,8-K,,,,"8-K - Annexon, Inc. (0001528115) (Filer)",https://www.sec.gov/Archives/edgar/data/1528115/000119312526345672/0001193125-26-345672-index.htm
 2026-08-11T21:21:12.894626+00:00,US,SEC,8-K,,,,"8-K - Snail, Inc. (0001886894) (Filer)",https://www.sec.gov/Archives/edgar/data/1886894/000149315226037190/0001493152-26-037190-index.htm
@@ -1989,13 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-19T11:09:24.018154+00:00,US,SEC,8-K,,,,"8-K - Larimar Therapeutics, Inc. (0001374690) (Filer)",https://www.sec.gov/Archives/edgar/data/1374690/000119312526115119/0001193125-26-115119-index.htm
 2026-03-19T11:09:24.018171+00:00,US,SEC,8-K,,,,8-K - Aebi Schmidt Holding AG (0002048519) (Filer),https://www.sec.gov/Archives/edgar/data/2048519/000117184326001771/0001171843-26-001771-index.htm
 2026-03-19T11:09:24.018178+00:00,US,SEC,8-K,,,,"8-K - Aveanna Healthcare Holdings, Inc. (0001832332) (Filer)",https://www.sec.gov/Archives/edgar/data/1832332/000119312526115114/0001193125-26-115114-index.htm
-2026-03-19T11:09:24.018198+00:00,US,SEC,8-K,,,,8-K - SIGNET JEWELERS LTD (0000832988) (Filer),https://www.sec.gov/Archives/edgar/data/832988/000083298826000054/0000832988-26-000054-index.htm
-2026-03-19T11:09:24.018211+00:00,US,SEC,8-K,,,,"8-K - LANDS' END, INC. (0000799288) (Filer)",https://www.sec.gov/Archives/edgar/data/799288/000119312526115102/0001193125-26-115102-index.htm
-2026-03-19T11:09:24.018233+00:00,US,SEC,8-K,,,,8-K - Accenture plc (0001467373) (Filer),https://www.sec.gov/Archives/edgar/data/1467373/000146737326000013/0001467373-26-000013-index.htm
-2026-03-19T11:09:24.018242+00:00,US,SEC,8-K,,,,8-K - Vine Hill Capital Investment Corp. (0002025396) (Filer),https://www.sec.gov/Archives/edgar/data/2025396/000121390026031521/0001213900-26-031521-index.htm
-2026-03-19T11:09:24.018246+00:00,US,SEC,8-K,,,,8-K - LITHIUM AMERICAS CORP. (0001966983) (Filer),https://www.sec.gov/Archives/edgar/data/1966983/000119312526115091/0001193125-26-115091-index.htm
-2026-03-19T11:09:24.018253+00:00,US,SEC,8-K,,,,8-K - Pelthos Therapeutics Inc. (0001919246) (Filer),https://www.sec.gov/Archives/edgar/data/1919246/000191924626000014/0001919246-26-000014-index.htm
-2026-03-18T21:36:35.010473+00:00,US,SEC,8-K,,,,"8-K - CATALYST PHARMACEUTICALS, INC. (0001369568) (Filer)",https://www.sec.gov/Archives/edgar/data/1369568/000119312526114306/0001193125-26-114306-index.htm
-2026-03-18T20:03:53.137401+00:00,US,SEC,8-K,,,,"8-K - Heartflow, Inc. (0001464521) (Filer)",https://www.sec.gov/Archives/edgar/data/1464521/000146452126000040/0001464521-26-000040-index.htm
-2026-03-18T12:07:00.471694+00:00,US,SEC,8-K,,,,8-K - MetaVia Inc. (0001638287) (Filer),https://www.sec.gov/Archives/edgar/data/1638287/000110465926029912/0001104659-26-029912-index.htm
-2026-03-17T20:24:05.355089+00:00,US,SEC,8-K,,,,"8-K - Goldman Sachs BDC, Inc. (0001572694) (Filer)",https://www.sec.gov/Archives/edgar/data/1572694/000119312526110886/0001193125-26-110886-index.htm
