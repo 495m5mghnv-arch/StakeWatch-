@@ -1,4 +1,14 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-13T12:02:32.241890+00:00,US,SEC,8-K,,,,"8-K - MONRO, INC. (0000876427) (Filer)",https://www.sec.gov/Archives/edgar/data/876427/000119312526347931/0001193125-26-347931-index.htm
+2026-08-13T12:02:32.241911+00:00,US,SEC,8-K,,,,"8-K - Grace Therapeutics, Inc. (0001444192) (Filer)",https://www.sec.gov/Archives/edgar/data/1444192/000114036126032644/0001140361-26-032644-index.htm
+2026-08-13T12:02:32.241929+00:00,US,SEC,8-K,,,,8-K - Venu Holding Corp (0001770501) (Filer),https://www.sec.gov/Archives/edgar/data/1770501/000149315226037587/0001493152-26-037587-index.htm
+2026-08-13T12:02:32.241934+00:00,US,SEC,8-K,,,,8-K - HEALTHY CHOICE WELLNESS CORP. (0001948864) (Filer),https://www.sec.gov/Archives/edgar/data/1948864/000149315226037586/0001493152-26-037586-index.htm
+2026-08-13T12:02:32.241939+00:00,US,SEC,8-K,,,,8-K - Artius II Acquisition Inc. (0002034334) (Filer),https://www.sec.gov/Archives/edgar/data/2034334/000114036126032643/0001140361-26-032643-index.htm
+2026-08-13T12:02:32.241946+00:00,US,SEC,8-K,,,,"8-K - Rekor Systems, Inc. (0001697851) (Filer)",https://www.sec.gov/Archives/edgar/data/1697851/000143774926027481/0001437749-26-027481-index.htm
+2026-08-13T12:02:32.241951+00:00,US,SEC,8-K,,,,"8-K - SCI Engineered Materials, Inc. (0000830616) (Filer)",https://www.sec.gov/Archives/edgar/data/830616/000110465926095488/0001104659-26-095488-index.htm
+2026-08-13T12:02:32.241973+00:00,US,SEC,8-K,,,,8-K - Accelerant Holdings (0001997350) (Filer),https://www.sec.gov/Archives/edgar/data/1997350/000119312526347925/0001193125-26-347925-index.htm
+2026-08-13T12:02:32.241980+00:00,US,SEC,8-K,,,,"8-K - Bluejay Diagnostics, Inc. (0001704287) (Filer)",https://www.sec.gov/Archives/edgar/data/1704287/000121390026088701/0001213900-26-088701-index.htm
+2026-08-13T12:02:32.242013+00:00,US,SEC,8-K,,,,8-K - IREN Ltd (0001878848) (Filer),https://www.sec.gov/Archives/edgar/data/1878848/000114036126032638/0001140361-26-032638-index.htm
 2026-08-13T11:12:43.876419+00:00,US,SEC,8-K,,,,8-K - Alliance Laundry Holdings Inc. (0001317685) (Filer),https://www.sec.gov/Archives/edgar/data/1317685/000162828026056465/0001628280-26-056465-index.htm
 2026-08-13T11:12:43.876449+00:00,US,SEC,8-K,,,,8-K - Rocket Lab Corp (0001819994) (Filer),https://www.sec.gov/Archives/edgar/data/1819994/000175392626001463/0001753926-26-001463-index.htm
 2026-08-13T11:12:43.876458+00:00,US,SEC,8-K,,,,"8-K - LENSAR, Inc. (0001320350) (Filer)",https://www.sec.gov/Archives/edgar/data/1320350/000119312526347859/0001193125-26-347859-index.htm
@@ -1989,13 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-20T11:48:23.250951+00:00,US,SEC,8-K,,,,8-K - Milestone Pharmaceuticals Inc. (0001408443) (Filer),https://www.sec.gov/Archives/edgar/data/1408443/000110465926032427/0001104659-26-032427-index.htm
 2026-03-20T11:17:59.807477+00:00,US,SEC,8-K,,,,8-K - Bowman Consulting Group Ltd. (0001847590) (Filer),https://www.sec.gov/Archives/edgar/data/1847590/000162828026019980/0001628280-26-019980-index.htm
 2026-03-20T11:17:59.807511+00:00,US,SEC,8-K,,,,8-K - AIR INDUSTRIES GROUP (0001009891) (Filer),https://www.sec.gov/Archives/edgar/data/1009891/000121390026032061/0001213900-26-032061-index.htm
-2026-03-20T10:39:09.688929+00:00,US,SEC,8-K,,,,8-K - Prestige Consumer Healthcare Inc. (0001295947) (Filer),https://www.sec.gov/Archives/edgar/data/1295947/000110465926032332/0001104659-26-032332-index.htm
-2026-03-19T21:36:49.570997+00:00,US,SEC,8-K,,,,"8-K - CIVISTA BANCSHARES, INC. (0000944745) (Filer)",https://www.sec.gov/Archives/edgar/data/944745/000119312526116251/0001193125-26-116251-index.htm
-2026-03-19T21:36:49.571029+00:00,US,SEC,8-K,,,,8-K - Odysight.ai Inc. (0001577445) (Filer),https://www.sec.gov/Archives/edgar/data/1577445/000149315226011695/0001493152-26-011695-index.htm
-2026-03-19T21:36:49.571041+00:00,US,SEC,8-K,,,,"8-K - SmartStop Self Storage REIT, Inc. (0001585389) (Filer)",https://www.sec.gov/Archives/edgar/data/1585389/000119312526116245/0001193125-26-116245-index.htm
-2026-03-19T21:36:49.571046+00:00,US,SEC,8-K,,,,8-K - ALLIANT ENERGY CORP (0000352541) (Filer),https://www.sec.gov/Archives/edgar/data/352541/000119312526116244/0001193125-26-116244-index.htm
-2026-03-19T21:36:49.571059+00:00,US,SEC,8-K,,,,8-K - RUSH ENTERPRISES INC \TX\ (0001012019) (Filer),https://www.sec.gov/Archives/edgar/data/1012019/000143774926009094/0001437749-26-009094-index.htm
-2026-03-19T21:36:49.571066+00:00,US,SEC,8-K,,,,8-K - Blue Acquisition Corp/Cayman (0002059654) (Filer),https://www.sec.gov/Archives/edgar/data/2059654/000118518526000991/0001185185-26-000991-index.htm
-2026-03-19T21:36:49.571070+00:00,US,SEC,8-K,,,,8-K - ON24 INC. (0001110611) (Filer),https://www.sec.gov/Archives/edgar/data/1110611/000119312526116242/0001193125-26-116242-index.htm
-2026-03-19T20:53:44.031840+00:00,US,SEC,8-K,,,,8-K - GENELUX Corp (0001231457) (Filer),https://www.sec.gov/Archives/edgar/data/1231457/000149315226011649/0001493152-26-011649-index.htm
-2026-03-19T20:04:27.168839+00:00,US,SEC,8-K,,,,8-K - QUALCOMM INC/DE (0000804328) (Filer),https://www.sec.gov/Archives/edgar/data/804328/000080432826000041/0000804328-26-000041-index.htm

@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-08-13T12:02:32.241890+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MONRO, INC. (0000876427) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/876427/000119312526347931/0001193125-26-347931-index.htm"
+  },
+  {
+    "time_utc": "2026-08-13T12:02:32.241911+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Grace Therapeutics, Inc. (0001444192) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1444192/000114036126032644/0001140361-26-032644-index.htm"
+  },
+  {
+    "time_utc": "2026-08-13T12:02:32.241929+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Venu Holding Corp (0001770501) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1770501/000149315226037587/0001493152-26-037587-index.htm"
+  },
+  {
+    "time_utc": "2026-08-13T12:02:32.241934+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HEALTHY CHOICE WELLNESS CORP. (0001948864) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1948864/000149315226037586/0001493152-26-037586-index.htm"
+  },
+  {
+    "time_utc": "2026-08-13T12:02:32.241939+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artius II Acquisition Inc. (0002034334) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2034334/000114036126032643/0001140361-26-032643-index.htm"
+  },
+  {
+    "time_utc": "2026-08-13T12:02:32.241946+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rekor Systems, Inc. (0001697851) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1697851/000143774926027481/0001437749-26-027481-index.htm"
+  },
+  {
+    "time_utc": "2026-08-13T12:02:32.241951+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SCI Engineered Materials, Inc. (0000830616) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/830616/000110465926095488/0001104659-26-095488-index.htm"
+  },
+  {
+    "time_utc": "2026-08-13T12:02:32.241973+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Accelerant Holdings (0001997350) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1997350/000119312526347925/0001193125-26-347925-index.htm"
+  },
+  {
+    "time_utc": "2026-08-13T12:02:32.241980+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bluejay Diagnostics, Inc. (0001704287) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1704287/000121390026088701/0001213900-26-088701-index.htm"
+  },
+  {
+    "time_utc": "2026-08-13T12:02:32.242013+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IREN Ltd (0001878848) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1878848/000114036126032638/0001140361-26-032638-index.htm"
+  },
+  {
     "time_utc": "2026-08-13T11:12:43.876419+00:00",
     "region": "US",
     "source": "SEC",
@@ -21888,115 +21998,5 @@
     "percent": "",
     "title": "8-K - AIR INDUSTRIES GROUP (0001009891) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1009891/000121390026032061/0001213900-26-032061-index.htm"
-  },
-  {
-    "time_utc": "2026-03-20T10:39:09.688929+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Prestige Consumer Healthcare Inc. (0001295947) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1295947/000110465926032332/0001104659-26-032332-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T21:36:49.570997+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CIVISTA BANCSHARES, INC. (0000944745) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/944745/000119312526116251/0001193125-26-116251-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T21:36:49.571029+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Odysight.ai Inc. (0001577445) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1577445/000149315226011695/0001493152-26-011695-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T21:36:49.571041+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SmartStop Self Storage REIT, Inc. (0001585389) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1585389/000119312526116245/0001193125-26-116245-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T21:36:49.571046+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ALLIANT ENERGY CORP (0000352541) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/352541/000119312526116244/0001193125-26-116244-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T21:36:49.571059+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - RUSH ENTERPRISES INC \\TX\\ (0001012019) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1012019/000143774926009094/0001437749-26-009094-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T21:36:49.571066+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Blue Acquisition Corp/Cayman (0002059654) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2059654/000118518526000991/0001185185-26-000991-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T21:36:49.571070+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ON24 INC. (0001110611) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1110611/000119312526116242/0001193125-26-116242-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T20:53:44.031840+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GENELUX Corp (0001231457) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1231457/000149315226011649/0001493152-26-011649-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T20:04:27.168839+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - QUALCOMM INC/DE (0000804328) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000041/0000804328-26-000041-index.htm"
   }
 ]
