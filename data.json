@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-13T10:13:55.958845+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rocket Lab Corp (0001819994) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1819994/000175392626001454/0001753926-26-001454-index.htm"
+  },
+  {
+    "time_utc": "2026-08-13T10:13:55.958891+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - 22nd Century Group, Inc. (0001347858) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1347858/000149315226037524/0001493152-26-037524-index.htm"
+  },
+  {
     "time_utc": "2026-08-12T20:59:49.122001+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - TEJON RANCH CO (0000096869) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/96869/000119312526115200/0001193125-26-115200-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T12:31:30.102847+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TWO HARBORS INVESTMENT CORP. (0001465740) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1465740/000110465926031787/0001104659-26-031787-index.htm"
-  },
-  {
-    "time_utc": "2026-03-19T12:31:30.102860+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Humacyte, Inc. (0001818382) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1818382/000110465926031780/0001104659-26-031780-index.htm"
   }
 ]
