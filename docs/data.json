@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-13T21:20:46.646515+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HOULIHAN LOKEY, INC. (0001302215) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1302215/000119312526349634/0001193125-26-349634-index.htm"
+  },
+  {
     "time_utc": "2026-08-13T20:23:14.648714+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Aquestive Therapeutics, Inc. (0001398733) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1398733/000139873326000020/0001398733-26-000020-index.htm"
-  },
-  {
-    "time_utc": "2026-03-20T11:48:23.250942+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Aveanna Healthcare Holdings, Inc. (0001832332) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1832332/000183233226000002/0001832332-26-000002-index.htm"
   }
 ]
