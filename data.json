@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-08-14T11:25:47.500688+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sotera Health Co (0001822479) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1822479/000182247926000050/0001822479-26-000050-index.htm"
+  },
+  {
+    "time_utc": "2026-08-14T11:25:47.500718+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Neumora Therapeutics, Inc. (0001885522) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1885522/000119312526350349/0001193125-26-350349-index.htm"
+  },
+  {
+    "time_utc": "2026-08-14T11:25:47.500730+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Teamshares Inc (0002048951) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2048951/000204895126000013/0002048951-26-000013-index.htm"
+  },
+  {
     "time_utc": "2026-08-13T21:20:46.646515+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - PEDEVCO CORP (0001141197) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426002521/0001654954-26-002521-index.htm"
-  },
-  {
-    "time_utc": "2026-03-20T11:48:23.250879+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GENUINE PARTS CO (0000040987) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/40987/000119312526116742/0001193125-26-116742-index.htm"
-  },
-  {
-    "time_utc": "2026-03-20T11:48:23.250926+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Blackstone Private Credit Fund (0001803498) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1803498/000180349826000017/0001803498-26-000017-index.htm"
-  },
-  {
-    "time_utc": "2026-03-20T11:48:23.250935+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Aquestive Therapeutics, Inc. (0001398733) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1398733/000139873326000020/0001398733-26-000020-index.htm"
   }
 ]
