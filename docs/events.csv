@@ -1,4 +1,6 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-17T11:56:19.309399+00:00,US,SEC,8-K,,,,"8-K - Nuo Therapeutics, Inc. (0001091596) (Filer)",https://www.sec.gov/Archives/edgar/data/1091596/000143774926028109/0001437749-26-028109-index.htm
+2026-08-17T11:56:19.309490+00:00,US,SEC,8-K,,,,"8-K - QumulusAI, Inc. (0002084026) (Filer)",https://www.sec.gov/Archives/edgar/data/2084026/000143774926028108/0001437749-26-028108-index.htm
 2026-08-17T11:35:50.411652+00:00,US,SEC,8-K,,,,8-K - NEWS CORP (0001564708) (Filer),https://www.sec.gov/Archives/edgar/data/1564708/000156470826000181/0001564708-26-000181-index.htm
 2026-08-17T11:35:50.411668+00:00,US,SEC,8-K,,,,"8-K - BREAD FINANCIAL HOLDINGS, INC. (0001101215) (Filer)",https://www.sec.gov/Archives/edgar/data/1101215/000110121526000076/0001101215-26-000076-index.htm
 2026-08-17T11:35:50.411676+00:00,US,SEC,8-K,,,,"8-K - L3HARRIS TECHNOLOGIES, INC. /DE/ (0000202058) (Filer)",https://www.sec.gov/Archives/edgar/data/202058/000020205826000066/0000202058-26-000066-index.htm
@@ -1997,5 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-23T11:30:05.915905+00:00,US,SEC,8-K,,,,"8-K - Coeur Mining, Inc. (0000215466) (Filer)",https://www.sec.gov/Archives/edgar/data/215466/000114036126010650/0001140361-26-010650-index.htm
 2026-03-23T10:38:44.447899+00:00,US,SEC,8-K,,,,"8-K - Apogee Therapeutics, Inc. (0001974640) (Filer)",https://www.sec.gov/Archives/edgar/data/1974640/000110465926032950/0001104659-26-032950-index.htm
 2026-03-23T10:38:44.447967+00:00,US,SEC,8-K,,,,8-K - NEWS CORP (0001564708) (Filer),https://www.sec.gov/Archives/edgar/data/1564708/000156470826000062/0001564708-26-000062-index.htm
-2026-03-23T10:38:44.447973+00:00,US,SEC,8-K,,,,8-K - 1606 CORP. (0001877461) (Filer),https://www.sec.gov/Archives/edgar/data/1877461/000147793226001521/0001477932-26-001521-index.htm
-2026-03-23T10:38:44.447978+00:00,US,SEC,8-K,,,,8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer),https://www.sec.gov/Archives/edgar/data/1805521/000121390026032538/0001213900-26-032538-index.htm
