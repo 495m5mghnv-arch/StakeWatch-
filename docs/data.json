@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-17T20:54:45.730911+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BANNER CORP (0000946673) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/946673/000094667326000179/0000946673-26-000179-index.htm"
+  },
+  {
     "time_utc": "2026-08-17T20:26:27.644750+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Serina Therapeutics, Inc. (0001708599) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1708599/000170859926000010/0001708599-26-000010-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T20:07:44.774826+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Solo Brands, Inc. (0001870600) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1870600/000187060026000016/0001870600-26-000016-index.htm"
   }
 ]
