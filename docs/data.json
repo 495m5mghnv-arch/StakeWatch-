@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-17T16:31:54.007767+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - GENERATION INCOME PROPERTIES, INC. (0001651721) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1651721/000119312526353639/0001193125-26-353639-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T16:31:54.007842+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - VISTA GOLD CORP (0000783324) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/783324/000078332426000043/0000783324-26-000043-index.htm"
+  },
+  {
     "time_utc": "2026-08-17T15:56:43.055972+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Liberty Live Holdings, Inc. (0002078416) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2078416/000110465926033049/0001104659-26-033049-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T12:05:51.599206+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Aurinia Pharmaceuticals Inc. (0001600620) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1600620/000160062026000026/0001600620-26-000026-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T12:05:51.599225+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Okta, Inc. (0001660134) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000029/0001660134-26-000029-index.htm"
   }
 ]
