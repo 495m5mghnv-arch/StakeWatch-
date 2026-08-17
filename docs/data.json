@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-17T15:56:43.055972+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Narragansett Bancorp, Inc. (0002138186) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2138186/000119312526353578/0001193125-26-353578-index.htm"
+  },
+  {
     "time_utc": "2026-08-17T15:01:18.540609+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Okta, Inc. (0001660134) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000029/0001660134-26-000029-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T12:05:51.599235+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Ridgepost Capital, Inc. (0001841968) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1841968/000119312526118587/0001193125-26-118587-index.htm"
   }
 ]
