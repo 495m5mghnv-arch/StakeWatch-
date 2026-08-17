@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-08-17T11:00:31.328762+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ACCENDRA HEALTH INC/VA/ (0000075252) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/75252/000110465926097517/0001104659-26-097517-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T11:00:31.328785+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PERPETUA RESOURCES CORP. (0001526243) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1526243/000110465926097512/0001104659-26-097512-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T11:00:31.328803+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MOSAIC CO (0001285785) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1285785/000119312526353193/0001193125-26-353193-index.htm"
+  },
+  {
     "time_utc": "2026-08-17T10:33:49.926352+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - United States Natural Gas Fund, LP (0001376227) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1376227/000110465926032669/0001104659-26-032669-index.htm"
-  },
-  {
-    "time_utc": "2026-03-20T19:55:31.076018+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - United States Oil Fund, LP (0001327068) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1327068/000110465926032666/0001104659-26-032666-index.htm"
-  },
-  {
-    "time_utc": "2026-03-20T19:20:55.172720+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORP /DC/ (0000070502) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/70502/000007050226000236/0000070502-26-000236-index.htm"
-  },
-  {
-    "time_utc": "2026-03-20T17:46:26.907704+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Overland Advantage (0001965934) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1965934/000119312526117288/0001193125-26-117288-index.htm"
   }
 ]
