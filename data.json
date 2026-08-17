@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-08-17T12:50:38.358457+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226038652/0001493152-26-038652-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T12:50:38.358485+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMASS BRANDS (0001851491) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1851491/000157587226000587/0001575872-26-000587-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T12:50:38.358493+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NVIDIA CORP (0001045810) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/0001045810-26-000069-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T12:50:38.358518+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Corebridge Financial, Inc. (0001889539) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1889539/000162828026057231/0001628280-26-057231-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T12:50:38.358536+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TMC the metals Co Inc. (0001798562) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1798562/000110465926097581/0001104659-26-097581-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T12:50:38.358543+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BLUE RIDGE BANKSHARES, INC. (0000842717) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/842717/000119312526353285/0001193125-26-353285-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T12:50:38.358547+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INVO Fertility, Inc. (0001417926) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1417926/000149315226038648/0001493152-26-038648-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T12:50:38.358552+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Dare Bioscience, Inc. (0001401914) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1401914/000149315226038649/0001493152-26-038649-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T12:50:38.358558+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Profound Medical Corp. (0001628808) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1628808/000117184326005580/0001171843-26-005580-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T12:50:38.358563+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Axe Compute Inc. (0001446159) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1446159/000117184326005581/0001171843-26-005581-index.htm"
+  },
+  {
     "time_utc": "2026-08-17T11:56:19.309399+00:00",
     "region": "US",
     "source": "SEC",
@@ -21888,115 +21998,5 @@
     "percent": "",
     "title": "8-K - Ensysce Biosciences, Inc. (0001716947) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1716947/000149315226012062/0001493152-26-012062-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T12:05:51.599269+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Byrna Technologies Inc. (0001354866) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1354866/000143774926009296/0001437749-26-009296-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T12:05:51.599273+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Strategy Inc (0001050446) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526118584/0001193125-26-118584-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T12:05:51.599304+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GYRE THERAPEUTICS, INC. (0001124105) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1124105/000114036126010654/0001140361-26-010654-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T11:30:05.915848+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Victory Capital Holdings, Inc. (0001570827) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1570827/000110465926032996/0001104659-26-032996-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T11:30:05.915864+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Pyxis Oncology, Inc. (0001782223) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1782223/000119312526118525/0001193125-26-118525-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T11:30:05.915886+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Avalo Therapeutics, Inc. (0001534120) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1534120/000153412026000010/0001534120-26-000010-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T11:30:05.915897+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - RenovoRx, Inc. (0001574094) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1574094/000149315226012058/0001493152-26-012058-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T11:30:05.915905+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Coeur Mining, Inc. (0000215466) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/215466/000114036126010650/0001140361-26-010650-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T10:38:44.447899+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Apogee Therapeutics, Inc. (0001974640) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1974640/000110465926032950/0001104659-26-032950-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T10:38:44.447967+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NEWS CORP (0001564708) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000062/0001564708-26-000062-index.htm"
   }
 ]
