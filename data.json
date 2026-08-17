@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-17T20:26:27.644750+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DocGo Inc. (0001822359) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1822359/000162828026057387/0001628280-26-057387-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T20:26:27.644804+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MASTEC INC (0000015615) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/15615/000119312526354111/0001193125-26-354111-index.htm"
+  },
+  {
     "time_utc": "2026-08-17T19:52:26.027243+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Solo Brands, Inc. (0001870600) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1870600/000187060026000016/0001870600-26-000016-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T20:07:44.774836+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PARKERVISION INC (0000914139) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/914139/000143774926009390/0001437749-26-009390-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T20:07:44.774841+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Fathom Holdings Inc. (0001753162) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1753162/000162828026020494/0001628280-26-020494-index.htm"
   }
 ]
