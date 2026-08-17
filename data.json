@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-17T15:01:18.540609+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TIAA REAL ESTATE ACCOUNT (0000946155) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/946155/000094615526000100/0000946155-26-000100-index.htm"
+  },
+  {
     "time_utc": "2026-08-17T14:40:15.347893+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Ridgepost Capital, Inc. (0001841968) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1841968/000119312526118587/0001193125-26-118587-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T12:05:51.599255+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Digi Power X Inc. (0001854368) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026032629/0001213900-26-032629-index.htm"
   }
 ]
