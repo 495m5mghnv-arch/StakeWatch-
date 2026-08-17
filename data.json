@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-17T10:33:49.926352+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Prairie Operating Co. (0001162896) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1162896/000114036126033259/0001140361-26-033259-index.htm"
+  },
+  {
+    "time_utc": "2026-08-17T10:33:49.926371+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ulta Beauty, Inc. (0001403568) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1403568/000110465926097497/0001104659-26-097497-index.htm"
+  },
+  {
     "time_utc": "2026-08-14T20:43:08.841046+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Overland Advantage (0001965934) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1965934/000119312526117288/0001193125-26-117288-index.htm"
-  },
-  {
-    "time_utc": "2026-03-20T16:05:53.603337+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - HUGOTON ROYALTY TRUST (0000862022) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/862022/000119312526117087/0001193125-26-117087-index.htm"
-  },
-  {
-    "time_utc": "2026-03-20T16:05:53.603388+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PERMIAN BASIN ROYALTY TRUST (0000319654) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/319654/000119312526117074/0001193125-26-117074-index.htm"
   }
 ]
