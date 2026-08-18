@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-18T18:37:32.106794+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BBCMS Mortgage Trust 2025-5C37 (0002077702) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2077702/000188852426014607/0001888524-26-014607-index.htm"
+  },
+  {
+    "time_utc": "2026-08-18T18:37:32.106817+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Benchmark 2025-V17 Mortgage Trust (0002063065) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2063065/000188852426014606/0001888524-26-014606-index.htm"
+  },
+  {
     "time_utc": "2026-08-18T13:59:35.469913+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Picard Medical, Inc. (0002030617) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2030617/000182912626002663/0001829126-26-002663-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T11:24:12.895837+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Maze Therapeutics, Inc. (0001842295) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1842295/000119312526122774/0001193125-26-122774-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T11:24:12.895849+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Energous Corp (0001575793) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1575793/000110465926034125/0001104659-26-034125-index.htm"
   }
 ]
