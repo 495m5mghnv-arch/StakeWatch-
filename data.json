@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-08-18T11:12:29.950893+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Amylyx Pharmaceuticals, Inc. (0001658551) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1658551/000119312526354716/0001193125-26-354716-index.htm"
+  },
+  {
+    "time_utc": "2026-08-18T11:12:29.950916+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FLOTEK INDUSTRIES INC/CN/ (0000928054) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/928054/000092805426000082/0000928054-26-000082-index.htm"
+  },
+  {
+    "time_utc": "2026-08-18T11:12:29.950926+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CYPHERPUNK TECHNOLOGIES INC. (0001509745) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926098120/0001104659-26-098120-index.htm"
+  },
+  {
+    "time_utc": "2026-08-18T11:12:29.950933+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Genprex, Inc. (0001595248) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1595248/000143774926028250/0001437749-26-028250-index.htm"
+  },
+  {
+    "time_utc": "2026-08-18T11:12:29.950938+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - D-Wave Quantum Inc. (0001907982) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000135/0001907982-26-000135-index.htm"
+  },
+  {
     "time_utc": "2026-08-18T10:11:56.133355+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Rezolute, Inc. (0001509261) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1509261/000110465926033592/0001104659-26-033592-index.htm"
-  },
-  {
-    "time_utc": "2026-03-24T11:08:05.032862+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ACHIEVE LIFE SCIENCES, INC. (0000949858) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/949858/000119312526120687/0001193125-26-120687-index.htm"
-  },
-  {
-    "time_utc": "2026-03-24T11:08:05.032886+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Camp4 Therapeutics Corp (0001736730) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1736730/000173673026000021/0001736730-26-000021-index.htm"
-  },
-  {
-    "time_utc": "2026-03-24T11:08:05.032907+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Cartesian Growth Corp III (0002049662) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2049662/000110465926033579/0001104659-26-033579-index.htm"
-  },
-  {
-    "time_utc": "2026-03-24T11:08:05.032912+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FS KKR Capital Corp (0001422183) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1422183/000110465926033578/0001104659-26-033578-index.htm"
-  },
-  {
-    "time_utc": "2026-03-24T11:08:05.032916+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - QuidelOrtho Corp (0001906324) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1906324/000119312526120684/0001193125-26-120684-index.htm"
   }
 ]
