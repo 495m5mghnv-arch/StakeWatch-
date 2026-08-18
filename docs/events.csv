@@ -1,4 +1,11 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-18T12:14:02.415845+00:00,US,SEC,8-K,,,,8-K - INNOVATE Corp. (0001006837) (Filer),https://www.sec.gov/Archives/edgar/data/1006837/000100683726000090/0001006837-26-000090-index.htm
+2026-08-18T12:14:02.415868+00:00,US,SEC,8-K,,,,8-K - Newbury Street II Acquisition Corp (0002028027) (Filer),https://www.sec.gov/Archives/edgar/data/2028027/000121390026090994/0001213900-26-090994-index.htm
+2026-08-18T12:14:02.415874+00:00,US,SEC,8-K,,,,8-K - ASP Isotopes Inc. (0001921865) (Filer),https://www.sec.gov/Archives/edgar/data/1921865/000119312526354745/0001193125-26-354745-index.htm
+2026-08-18T12:14:02.415884+00:00,US,SEC,8-K,,,,8-K - Entera Bio Ltd. (0001638097) (Filer),https://www.sec.gov/Archives/edgar/data/1638097/000117891326004178/0001178913-26-004178-index.htm
+2026-08-18T12:14:02.415900+00:00,US,SEC,8-K,,,,8-K - Nano Dimension Ltd. (0001643303) (Filer),https://www.sec.gov/Archives/edgar/data/1643303/000119312526354738/0001193125-26-354738-index.htm
+2026-08-18T12:14:02.415918+00:00,US,SEC,8-K,,,,8-K - Iron Horse Acquisition II Corp. (0002051985) (Filer),https://www.sec.gov/Archives/edgar/data/2051985/000121390026090983/0001213900-26-090983-index.htm
+2026-08-18T12:14:02.415926+00:00,US,SEC,8-K,,,,8-K - SYPRIS SOLUTIONS INC (0000864240) (Filer),https://www.sec.gov/Archives/edgar/data/864240/000143774926028251/0001437749-26-028251-index.htm
 2026-08-18T11:44:27.642158+00:00,US,SEC,8-K,,,,"8-K - DataMeds AI, Inc. (0002030763) (Filer)",https://www.sec.gov/Archives/edgar/data/2030763/000149315226038891/0001493152-26-038891-index.htm
 2026-08-18T11:44:27.642205+00:00,US,SEC,8-K,,,,8-K - COLUMBUS MCKINNON CORP (0001005229) (Filer),https://www.sec.gov/Archives/edgar/data/1005229/000100522926000052/0001005229-26-000052-index.htm
 2026-08-18T11:44:27.642218+00:00,US,SEC,8-K,,,,8-K - Future Vision II Acquisition Corp. (0002010653) (Filer),https://www.sec.gov/Archives/edgar/data/2010653/000182912626008992/0001829126-26-008992-index.htm
@@ -1992,10 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-24T17:42:36.902707+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer),https://www.sec.gov/Archives/edgar/data/1325814/000132581426000043/0001325814-26-000043-index.htm
 2026-03-24T16:43:52.212926+00:00,US,SEC,8-K,,,,8-K - UNION BANKSHARES INC (0000706863) (Filer),https://www.sec.gov/Archives/edgar/data/706863/000070686326000031/0000706863-26-000031-index.htm
 2026-03-24T15:45:26.174620+00:00,US,SEC,8-K,,,,8-K - MANNATECH INC (0001056358) (Filer),https://www.sec.gov/Archives/edgar/data/1056358/000143774926009518/0001437749-26-009518-index.htm
-2026-03-24T15:45:26.174660+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer),https://www.sec.gov/Archives/edgar/data/1331451/000133145126000055/0001331451-26-000055-index.htm
-2026-03-24T14:38:02.634655+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer),https://www.sec.gov/Archives/edgar/data/1331754/000133175426000071/0001331754-26-000071-index.htm
-2026-03-24T13:17:43.790791+00:00,US,SEC,8-K,,,,"8-K - BioAge Labs, Inc. (0001709941) (Filer)",https://www.sec.gov/Archives/edgar/data/1709941/000119312526120864/0001193125-26-120864-index.htm
-2026-03-24T13:17:43.790816+00:00,US,SEC,8-K,,,,8-K - Vertiv Holdings Co (0001674101) (Filer),https://www.sec.gov/Archives/edgar/data/1674101/000119312526120863/0001193125-26-120863-index.htm
-2026-03-24T13:17:43.790827+00:00,US,SEC,8-K,,,,8-K - Silexion Therapeutics Corp (0002022416) (Filer),https://www.sec.gov/Archives/edgar/data/2022416/000117891326001615/0001178913-26-001615-index.htm
-2026-03-24T13:17:43.790836+00:00,US,SEC,8-K,,,,"8-K - Keysight Technologies, Inc. (0001601046) (Filer)",https://www.sec.gov/Archives/edgar/data/1601046/000160104626000015/0001601046-26-000015-index.htm
-2026-03-24T13:17:43.790843+00:00,US,SEC,8-K,,,,8-K - DOLLAR GENERAL CORP (0000029534) (Filer),https://www.sec.gov/Archives/edgar/data/29534/000110465926033643/0001104659-26-033643-index.htm
