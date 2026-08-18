@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-18T19:43:39.821760+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Super League Enterprise, Inc. (0001621672) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1621672/000143774926028348/0001437749-26-028348-index.htm"
+  },
+  {
     "time_utc": "2026-08-18T18:37:32.106794+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Cipher Digital Inc. (0001819989) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1819989/000095010326004609/0000950103-26-004609-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T11:24:12.895828+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Picard Medical, Inc. (0002030617) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2030617/000182912626002663/0001829126-26-002663-index.htm"
   }
 ]
