@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-08-18T10:11:56.133355+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HOME DEPOT, INC. (0000354950) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000145/0000354950-26-000145-index.htm"
+  },
+  {
+    "time_utc": "2026-08-18T10:11:56.133446+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HAEMONETICS CORP (0000313143) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/313143/000031314326000135/0000313143-26-000135-index.htm"
+  },
+  {
+    "time_utc": "2026-08-18T10:11:56.133464+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326004471/0001062993-26-004471-index.htm"
+  },
+  {
     "time_utc": "2026-08-17T20:54:45.730911+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - QuidelOrtho Corp (0001906324) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1906324/000119312526120684/0001193125-26-120684-index.htm"
-  },
-  {
-    "time_utc": "2026-03-24T10:07:24.448520+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001578/0001062993-26-001578-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T20:53:49.443069+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - STARTENGINE CROWDFUNDING, INC. (0001661779) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1661779/000110465926033376/0001104659-26-033376-index.htm"
-  },
-  {
-    "time_utc": "2026-03-23T20:07:44.774781+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Serina Therapeutics, Inc. (0001708599) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1708599/000170859926000010/0001708599-26-000010-index.htm"
   }
 ]

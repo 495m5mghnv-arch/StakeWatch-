@@ -1,4 +1,7 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-18T10:11:56.133355+00:00,US,SEC,8-K,,,,"8-K - HOME DEPOT, INC. (0000354950) (Filer)",https://www.sec.gov/Archives/edgar/data/354950/000035495026000145/0000354950-26-000145-index.htm
+2026-08-18T10:11:56.133446+00:00,US,SEC,8-K,,,,8-K - HAEMONETICS CORP (0000313143) (Filer),https://www.sec.gov/Archives/edgar/data/313143/000031314326000135/0000313143-26-000135-index.htm
+2026-08-18T10:11:56.133464+00:00,US,SEC,8-K,,,,8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer),https://www.sec.gov/Archives/edgar/data/1498148/000106299326004471/0001062993-26-004471-index.htm
 2026-08-17T20:54:45.730911+00:00,US,SEC,8-K,,,,8-K - BANNER CORP (0000946673) (Filer),https://www.sec.gov/Archives/edgar/data/946673/000094667326000179/0000946673-26-000179-index.htm
 2026-08-17T20:26:27.644750+00:00,US,SEC,8-K,,,,8-K - DocGo Inc. (0001822359) (Filer),https://www.sec.gov/Archives/edgar/data/1822359/000162828026057387/0001628280-26-057387-index.htm
 2026-08-17T20:26:27.644804+00:00,US,SEC,8-K,,,,8-K - MASTEC INC (0000015615) (Filer),https://www.sec.gov/Archives/edgar/data/15615/000119312526354111/0001193125-26-354111-index.htm
@@ -1996,6 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-24T11:08:05.032907+00:00,US,SEC,8-K,,,,8-K - Cartesian Growth Corp III (0002049662) (Filer),https://www.sec.gov/Archives/edgar/data/2049662/000110465926033579/0001104659-26-033579-index.htm
 2026-03-24T11:08:05.032912+00:00,US,SEC,8-K,,,,8-K - FS KKR Capital Corp (0001422183) (Filer),https://www.sec.gov/Archives/edgar/data/1422183/000110465926033578/0001104659-26-033578-index.htm
 2026-03-24T11:08:05.032916+00:00,US,SEC,8-K,,,,8-K - QuidelOrtho Corp (0001906324) (Filer),https://www.sec.gov/Archives/edgar/data/1906324/000119312526120684/0001193125-26-120684-index.htm
-2026-03-24T10:07:24.448520+00:00,US,SEC,8-K,,,,8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer),https://www.sec.gov/Archives/edgar/data/1498148/000106299326001578/0001062993-26-001578-index.htm
-2026-03-23T20:53:49.443069+00:00,US,SEC,8-K,,,,"8-K - STARTENGINE CROWDFUNDING, INC. (0001661779) (Filer)",https://www.sec.gov/Archives/edgar/data/1661779/000110465926033376/0001104659-26-033376-index.htm
-2026-03-23T20:07:44.774781+00:00,US,SEC,8-K,,,,"8-K - Serina Therapeutics, Inc. (0001708599) (Filer)",https://www.sec.gov/Archives/edgar/data/1708599/000170859926000010/0001708599-26-000010-index.htm
