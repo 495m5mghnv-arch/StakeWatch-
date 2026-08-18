@@ -1,4 +1,6 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-18T20:36:23.894443+00:00,US,SEC,8-K,,,,"8-K - Transglobal Management Group, Inc. (0001434601) (Filer)",https://www.sec.gov/Archives/edgar/data/1434601/000168316826006568/0001683168-26-006568-index.htm
+2026-08-18T20:36:23.894484+00:00,US,SEC,8-K,,,,8-K - Legence Corp. (0002052568) (Filer),https://www.sec.gov/Archives/edgar/data/2052568/000119312526355583/0001193125-26-355583-index.htm
 2026-08-18T19:43:39.821760+00:00,US,SEC,8-K,,,,"8-K - Super League Enterprise, Inc. (0001621672) (Filer)",https://www.sec.gov/Archives/edgar/data/1621672/000143774926028348/0001437749-26-028348-index.htm
 2026-08-18T18:37:32.106794+00:00,US,SEC,8-K,,,,8-K - BBCMS Mortgage Trust 2025-5C37 (0002077702) (Filer),https://www.sec.gov/Archives/edgar/data/2077702/000188852426014607/0001888524-26-014607-index.htm
 2026-08-18T18:37:32.106817+00:00,US,SEC,8-K,,,,8-K - Benchmark 2025-V17 Mortgage Trust (0002063065) (Filer),https://www.sec.gov/Archives/edgar/data/2063065/000188852426014606/0001888524-26-014606-index.htm
@@ -1997,5 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-25T12:02:43.020614+00:00,US,SEC,8-K,,,,8-K - WINNEBAGO INDUSTRIES INC (0000107687) (Filer),https://www.sec.gov/Archives/edgar/data/107687/000162828026020907/0001628280-26-020907-index.htm
 2026-03-25T12:02:43.020624+00:00,US,SEC,8-K,,,,8-K - Local Bounti Corporation/DE (0001840780) (Filer),https://www.sec.gov/Archives/edgar/data/1840780/000162828026020903/0001628280-26-020903-index.htm
 2026-03-25T11:24:12.895794+00:00,US,SEC,8-K,,,,"8-K - Terns Pharmaceuticals, Inc. (0001831363) (Filer)",https://www.sec.gov/Archives/edgar/data/1831363/000119312526122785/0001193125-26-122785-index.htm
-2026-03-25T11:24:12.895810+00:00,US,SEC,8-K,,,,"8-K - KalVista Pharmaceuticals, Inc. (0001348911) (Filer)",https://www.sec.gov/Archives/edgar/data/1348911/000119312526122784/0001193125-26-122784-index.htm
-2026-03-25T11:24:12.895817+00:00,US,SEC,8-K,,,,8-K - Cipher Digital Inc. (0001819989) (Filer),https://www.sec.gov/Archives/edgar/data/1819989/000095010326004609/0000950103-26-004609-index.htm

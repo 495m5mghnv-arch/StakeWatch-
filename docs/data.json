@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-18T20:36:23.894443+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Transglobal Management Group, Inc. (0001434601) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1434601/000168316826006568/0001683168-26-006568-index.htm"
+  },
+  {
+    "time_utc": "2026-08-18T20:36:23.894484+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Legence Corp. (0002052568) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2052568/000119312526355583/0001193125-26-355583-index.htm"
+  },
+  {
     "time_utc": "2026-08-18T19:43:39.821760+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Terns Pharmaceuticals, Inc. (0001831363) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1831363/000119312526122785/0001193125-26-122785-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T11:24:12.895810+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - KalVista Pharmaceuticals, Inc. (0001348911) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1348911/000119312526122784/0001193125-26-122784-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T11:24:12.895817+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Cipher Digital Inc. (0001819989) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1819989/000095010326004609/0000950103-26-004609-index.htm"
   }
 ]
