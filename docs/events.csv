@@ -1,4 +1,15 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-18T13:12:01.673347+00:00,US,SEC,8-K,,,,8-K - UNIVERSAL TECHNICAL INSTITUTE INC (0001261654) (Filer),https://www.sec.gov/Archives/edgar/data/1261654/000119312526354799/0001193125-26-354799-index.htm
+2026-08-18T13:12:01.673369+00:00,US,SEC,8-K,,,,"8-K - DYNARESOURCE, INC. (0001111741) (Filer)",https://www.sec.gov/Archives/edgar/data/1111741/000119312526354798/0001193125-26-354798-index.htm
+2026-08-18T13:12:01.673378+00:00,US,SEC,8-K,,,,"8-K - Super League Enterprise, Inc. (0001621672) (Filer)",https://www.sec.gov/Archives/edgar/data/1621672/000143774926028267/0001437749-26-028267-index.htm
+2026-08-18T13:12:01.673382+00:00,US,SEC,8-K,,,,"8-K - Virgin Galactic Holdings, Inc (0001706946) (Filer)",https://www.sec.gov/Archives/edgar/data/1706946/000170694626000130/0001706946-26-000130-index.htm
+2026-08-18T13:12:01.673387+00:00,US,SEC,8-K,,,,"8-K - Inspired Entertainment, Inc. (0001615063) (Filer)",https://www.sec.gov/Archives/edgar/data/1615063/000149315226038911/0001493152-26-038911-index.htm
+2026-08-18T13:12:01.673406+00:00,US,SEC,8-K,,,,"8-K - Amylyx Pharmaceuticals, Inc. (0001658551) (Filer)",https://www.sec.gov/Archives/edgar/data/1658551/000119312526354793/0001193125-26-354793-index.htm
+2026-08-18T13:12:01.673411+00:00,US,SEC,8-K,,,,8-K - Xylem Inc. (0001524472) (Filer),https://www.sec.gov/Archives/edgar/data/1524472/000152447226000123/0001524472-26-000123-index.htm
+2026-08-18T13:12:01.673415+00:00,US,SEC,8-K,,,,"8-K - Privia Health Group, Inc. (0001759655) (Filer)",https://www.sec.gov/Archives/edgar/data/1759655/000175965526000068/0001759655-26-000068-index.htm
+2026-08-18T13:12:01.673419+00:00,US,SEC,8-K,,,,8-K - ONCOLYTICS BIOTECH INC (0001129928) (Filer),https://www.sec.gov/Archives/edgar/data/1129928/000112992826000053/0001129928-26-000053-index.htm
+2026-08-18T13:12:01.673423+00:00,US,SEC,8-K,,,,8-K - GE HealthCare Technologies Inc. (0001932393) (Filer),https://www.sec.gov/Archives/edgar/data/1932393/000193239326000050/0001932393-26-000050-index.htm
+2026-08-18T13:12:01.673443+00:00,US,SEC,8-K,,,,"8-K - Weave Communications, Inc. (0001609151) (Filer)",https://www.sec.gov/Archives/edgar/data/1609151/000160915126000083/0001609151-26-000083-index.htm
 2026-08-18T12:14:02.415845+00:00,US,SEC,8-K,,,,8-K - INNOVATE Corp. (0001006837) (Filer),https://www.sec.gov/Archives/edgar/data/1006837/000100683726000090/0001006837-26-000090-index.htm
 2026-08-18T12:14:02.415868+00:00,US,SEC,8-K,,,,8-K - Newbury Street II Acquisition Corp (0002028027) (Filer),https://www.sec.gov/Archives/edgar/data/2028027/000121390026090994/0001213900-26-090994-index.htm
 2026-08-18T12:14:02.415874+00:00,US,SEC,8-K,,,,8-K - ASP Isotopes Inc. (0001921865) (Filer),https://www.sec.gov/Archives/edgar/data/1921865/000119312526354745/0001193125-26-354745-index.htm
@@ -1988,14 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-25T11:24:12.895849+00:00,US,SEC,8-K,,,,8-K - Energous Corp (0001575793) (Filer),https://www.sec.gov/Archives/edgar/data/1575793/000110465926034125/0001104659-26-034125-index.htm
 2026-03-25T11:24:12.895853+00:00,US,SEC,8-K,,,,"8-K - Chewy, Inc. (0001766502) (Filer)",https://www.sec.gov/Archives/edgar/data/1766502/000176650226000033/0001766502-26-000033-index.htm
 2026-03-25T11:24:12.895864+00:00,US,SEC,8-K,,,,8-K - KIORA PHARMACEUTICALS INC (0001372514) (Filer),https://www.sec.gov/Archives/edgar/data/1372514/000137251426000025/0001372514-26-000025-index.htm
-2026-03-25T11:24:12.895873+00:00,US,SEC,8-K,,,,8-K - DANA Inc (0000026780) (Filer),https://www.sec.gov/Archives/edgar/data/26780/000119312526122764/0001193125-26-122764-index.htm
-2026-03-25T11:24:12.895883+00:00,US,SEC,8-K,,,,"8-K - Apimeds Pharmaceuticals US, Inc. (0001894525) (Filer)",https://www.sec.gov/Archives/edgar/data/1894525/000121390026033832/0001213900-26-033832-index.htm
-2026-03-24T21:05:53.920137+00:00,US,SEC,8-K,,,,8-K - PPL Corp (0000922224) (Filer),https://www.sec.gov/Archives/edgar/data/922224/000092222426000022/0000922224-26-000022-index.htm
-2026-03-24T21:05:53.920228+00:00,US,SEC,8-K,,,,8-K - TRIMBLE INC. (0000864749) (Filer),https://www.sec.gov/Archives/edgar/data/864749/000086474926000024/0000864749-26-000024-index.htm
-2026-03-24T19:43:09.270594+00:00,US,SEC,8-K,,,,"8-K - CNL Strategic Capital, LLC (0001684682) (Filer)",https://www.sec.gov/Archives/edgar/data/1684682/000199937126006806/0001999371-26-006806-index.htm
-2026-03-24T18:41:53.757208+00:00,US,SEC,8-K,,,,8-K - Exeter Automobile Receivables Trust 2026-2 (0002114382) (Filer),https://www.sec.gov/Archives/edgar/data/2114382/000092963826001121/0000929638-26-001121-index.htm
-2026-03-24T18:41:53.757227+00:00,US,SEC,8-K,,,,"8-K - EFCAR, LLC (0001654238) (Filer)",https://www.sec.gov/Archives/edgar/data/1654238/000092963826001121/0000929638-26-001121-index.htm
-2026-03-24T17:42:36.902659+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer),https://www.sec.gov/Archives/edgar/data/1331465/000133146526000056/0001331465-26-000056-index.htm
-2026-03-24T17:42:36.902707+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer),https://www.sec.gov/Archives/edgar/data/1325814/000132581426000043/0001325814-26-000043-index.htm
-2026-03-24T16:43:52.212926+00:00,US,SEC,8-K,,,,8-K - UNION BANKSHARES INC (0000706863) (Filer),https://www.sec.gov/Archives/edgar/data/706863/000070686326000031/0000706863-26-000031-index.htm
-2026-03-24T15:45:26.174620+00:00,US,SEC,8-K,,,,8-K - MANNATECH INC (0001056358) (Filer),https://www.sec.gov/Archives/edgar/data/1056358/000143774926009518/0001437749-26-009518-index.htm
