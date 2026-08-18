@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-08-18T20:57:37.854283+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CENTRUS ENERGY CORP (0001065059) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026057731/0001628280-26-057731-index.htm"
+  },
+  {
+    "time_utc": "2026-08-18T20:57:37.854323+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sezzle Inc. (0001662991) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000144/0001662991-26-000144-index.htm"
+  },
+  {
+    "time_utc": "2026-08-18T20:57:37.854328+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Foxx Development Holdings Inc. (0002013807) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2013807/000121390026091276/0001213900-26-091276-index.htm"
+  },
+  {
     "time_utc": "2026-08-18T20:36:23.894443+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Incannex Healthcare Inc. (0001873875) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1873875/000121390026033842/0001213900-26-033842-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T12:02:43.020614+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WINNEBAGO INDUSTRIES INC (0000107687) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/107687/000162828026020907/0001628280-26-020907-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T12:02:43.020624+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Local Bounti Corporation/DE (0001840780) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1840780/000162828026020903/0001628280-26-020903-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T11:24:12.895794+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Terns Pharmaceuticals, Inc. (0001831363) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1831363/000119312526122785/0001193125-26-122785-index.htm"
   }
 ]
