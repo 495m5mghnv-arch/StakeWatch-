@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-18T13:59:35.469913+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000150/0001331757-26-000150-index.htm"
+  },
+  {
+    "time_utc": "2026-08-18T13:59:35.469942+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Safe Pro Group Inc. (0002011208) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2011208/000149315226038924/0001493152-26-038924-index.htm"
+  },
+  {
     "time_utc": "2026-08-18T13:12:01.673347+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Energous Corp (0001575793) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1575793/000110465926034125/0001104659-26-034125-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T11:24:12.895853+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Chewy, Inc. (0001766502) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1766502/000176650226000033/0001766502-26-000033-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T11:24:12.895864+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - KIORA PHARMACEUTICALS INC (0001372514) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000025/0001372514-26-000025-index.htm"
   }
 ]
