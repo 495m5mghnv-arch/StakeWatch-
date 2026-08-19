@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-19T20:29:02.729470+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - C & F FINANCIAL CORP (0000913341) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/913341/000091334126000045/0000913341-26-000045-index.htm"
+  },
+  {
     "time_utc": "2026-08-19T19:05:18.324138+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - SEMPRA (0001032208) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1032208/000103220826000016/0001032208-26-000016-index.htm"
-  },
-  {
-    "time_utc": "2026-03-26T20:21:19.238567+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SAN DIEGO GAS & ELECTRIC CO (0000086521) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/86521/000103220826000016/0001032208-26-000016-index.htm"
   }
 ]
