@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-19T10:48:44.528278+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Avery Dennison Corp (0000008818) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/8818/000000881826000141/0000008818-26-000141-index.htm"
+  },
+  {
     "time_utc": "2026-08-19T10:11:32.271972+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Trio Petroleum Corp (0001898766) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1898766/000149315226012535/0001493152-26-012535-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T12:02:43.020569+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Gentherm Inc (0000903129) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/903129/000119312526122833/0001193125-26-122833-index.htm"
   }
 ]
