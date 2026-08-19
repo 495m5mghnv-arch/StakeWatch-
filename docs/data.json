@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-19T18:34:52.614245+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1330399/000133039926000101/0001330399-26-000101-index.htm"
+  },
+  {
+    "time_utc": "2026-08-19T18:34:52.614290+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Stepstone Private Credit Fund LLC (0001950803) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1950803/000119312526356685/0001193125-26-356685-index.htm"
+  },
+  {
     "time_utc": "2026-08-19T17:26:16.240061+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Xos, Inc. (0001819493) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1819493/000181949326000004/0001819493-26-000004-index.htm"
-  },
-  {
-    "time_utc": "2026-03-26T17:47:03.091890+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CF BANKSHARES INC. (0001070680) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070680/000119312526125864/0001193125-26-125864-index.htm"
-  },
-  {
-    "time_utc": "2026-03-26T17:47:03.091932+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BROOKFIELD REAL ESTATE INCOME TRUST INC. (0001713407) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1713407/000171340726000029/0001713407-26-000029-index.htm"
   }
 ]
