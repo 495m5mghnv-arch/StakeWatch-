@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-19T17:26:16.240061+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CHEMUNG FINANCIAL CORP (0000763563) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/763563/000117184326005651/0001171843-26-005651-index.htm"
+  },
+  {
     "time_utc": "2026-08-19T14:43:55.432420+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - BROOKFIELD REAL ESTATE INCOME TRUST INC. (0001713407) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1713407/000171340726000029/0001713407-26-000029-index.htm"
-  },
-  {
-    "time_utc": "2026-03-26T16:47:35.517975+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000045/0001325814-26-000045-index.htm"
   }
 ]
