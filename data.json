@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-08-19T11:43:48.759831+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NORTHERN OIL & GAS, INC. (0001104485) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1104485/000119312526356160/0001193125-26-356160-index.htm"
+  },
+  {
+    "time_utc": "2026-08-19T11:43:48.759865+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Stock Yards Bancorp, Inc. (0000835324) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/835324/000117184326005642/0001171843-26-005642-index.htm"
+  },
+  {
+    "time_utc": "2026-08-19T11:43:48.759872+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MEDICINOVA INC (0001226616) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1226616/000119312526356146/0001193125-26-356146-index.htm"
+  },
+  {
     "time_utc": "2026-08-19T11:11:11.751033+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Six Flags Entertainment Corporation/NEW (0001999001) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1999001/000119312526124392/0001193125-26-124392-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T21:22:52.732859+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Annovis Bio, Inc. (0001477845) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1477845/000110465926034611/0001104659-26-034611-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T20:43:26.975885+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - RECURSION PHARMACEUTICALS, INC. (0001601830) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000054/0001601830-26-000054-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T20:43:26.975940+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Saba Capital Income & Opportunities Fund (0000826020) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/826020/000139834426005637/0001398344-26-005637-index.htm"
   }
 ]
