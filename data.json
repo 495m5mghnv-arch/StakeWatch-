@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-08-19T10:11:32.271972+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - First Choice Healthcare Solutions, Inc. (0001416876) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1416876/000149315226039089/0001493152-26-039089-index.htm"
+  },
+  {
+    "time_utc": "2026-08-19T10:11:32.272010+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Datavault AI Inc. (0001682149) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926098494/0001104659-26-098494-index.htm"
+  },
+  {
+    "time_utc": "2026-08-19T10:11:32.272020+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EDAP TMS SA (0001041934) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1041934/000110465926098487/0001104659-26-098487-index.htm"
+  },
+  {
     "time_utc": "2026-08-18T20:57:37.854283+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Gentherm Inc (0000903129) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/903129/000119312526122833/0001193125-26-122833-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T12:02:43.020582+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MiniMed Group, Inc. (0002062583) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2062583/000110465926034156/0001104659-26-034156-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T12:02:43.020596+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MIDDLEBY Corp (0000769520) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/769520/000119312526122831/0001193125-26-122831-index.htm"
-  },
-  {
-    "time_utc": "2026-03-25T12:02:43.020600+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Incannex Healthcare Inc. (0001873875) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1873875/000121390026033842/0001213900-26-033842-index.htm"
   }
 ]
