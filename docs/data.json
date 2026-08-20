@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-20T17:41:47.122697+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Barings Private Credit Corp (0001859919) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1859919/000185991926000078/0001859919-26-000078-index.htm"
+  },
+  {
     "time_utc": "2026-08-20T17:03:59.455615+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Terrestrial Energy Inc. /DE/ (0002019804) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2019804/000110465926036467/0001104659-26-036467-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T11:42:57.272130+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Vine Hill Capital Investment Corp. (0002025396) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2025396/000121390026035962/0001213900-26-035962-index.htm"
   }
 ]
