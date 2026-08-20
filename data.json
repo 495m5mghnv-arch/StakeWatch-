@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-20T17:03:59.455615+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rise Companies Corp (0001640967) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1640967/000162828026058194/0001628280-26-058194-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T17:03:59.455633+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000156/0001331451-26-000156-index.htm"
+  },
+  {
     "time_utc": "2026-08-20T16:34:40.773341+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Vine Hill Capital Investment Corp. (0002025396) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2025396/000121390026035962/0001213900-26-035962-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T11:42:57.272141+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Unicycive Therapeutics, Inc. (0001766140) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1766140/000121390026035961/0001213900-26-035961-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T10:49:04.308652+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sable Offshore Corp. (0001831481) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1831481/000183148126000032/0001831481-26-000032-index.htm"
   }
 ]
