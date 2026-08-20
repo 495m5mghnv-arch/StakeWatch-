@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-20T10:59:59.770327+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WEBSTER FINANCIAL CORP (0000801337) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/801337/000119312526357758/0001193125-26-357758-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T10:59:59.770354+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ADVANCE AUTO PARTS INC (0001158449) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1158449/000119312526357755/0001193125-26-357755-index.htm"
+  },
+  {
     "time_utc": "2026-08-20T10:30:03.930808+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Adagio Medical Holdings, Inc. (0002006986) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2006986/000110465926035699/0001104659-26-035699-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T12:02:39.856829+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Incannex Healthcare Inc. (0001873875) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1873875/000121390026035161/0001213900-26-035161-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T12:02:39.856871+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NCL CORP Ltd. (0001318742) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1318742/000110465926035691/0001104659-26-035691-index.htm"
   }
 ]

@@ -1,4 +1,6 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-20T10:59:59.770327+00:00,US,SEC,8-K,,,,8-K - WEBSTER FINANCIAL CORP (0000801337) (Filer),https://www.sec.gov/Archives/edgar/data/801337/000119312526357758/0001193125-26-357758-index.htm
+2026-08-20T10:59:59.770354+00:00,US,SEC,8-K,,,,8-K - ADVANCE AUTO PARTS INC (0001158449) (Filer),https://www.sec.gov/Archives/edgar/data/1158449/000119312526357755/0001193125-26-357755-index.htm
 2026-08-20T10:30:03.930808+00:00,US,SEC,8-K,,,,8-K - INNSUITES HOSPITALITY TRUST (0000082473) (Filer),https://www.sec.gov/Archives/edgar/data/82473/000149315226039352/0001493152-26-039352-index.htm
 2026-08-20T10:30:03.930833+00:00,US,SEC,8-K,,,,8-K - Transocean Ltd. (0001451505) (Filer),https://www.sec.gov/Archives/edgar/data/1451505/000145150526000064/0001451505-26-000064-index.htm
 2026-08-20T10:30:03.930844+00:00,US,SEC,8-K,,,,8-K - DEERE JOHN CAPITAL CORP (0000027673) (Filer),https://www.sec.gov/Archives/edgar/data/27673/000110465926098950/0001104659-26-098950-index.htm
@@ -1997,5 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-27T12:02:39.856812+00:00,US,SEC,8-K,,,,8-K - BTCS Inc. (0001436229) (Filer),https://www.sec.gov/Archives/edgar/data/1436229/000149315226013089/0001493152-26-013089-index.htm
 2026-03-27T12:02:39.856818+00:00,US,SEC,8-K,,,,"8-K - MAIA Biotechnology, Inc. (0001878313) (Filer)",https://www.sec.gov/Archives/edgar/data/1878313/000149315226013088/0001493152-26-013088-index.htm
 2026-03-27T12:02:39.856823+00:00,US,SEC,8-K,,,,"8-K - Adagio Medical Holdings, Inc. (0002006986) (Filer)",https://www.sec.gov/Archives/edgar/data/2006986/000110465926035699/0001104659-26-035699-index.htm
-2026-03-27T12:02:39.856829+00:00,US,SEC,8-K,,,,8-K - Incannex Healthcare Inc. (0001873875) (Filer),https://www.sec.gov/Archives/edgar/data/1873875/000121390026035161/0001213900-26-035161-index.htm
-2026-03-27T12:02:39.856871+00:00,US,SEC,8-K,,,,8-K - NCL CORP Ltd. (0001318742) (Filer),https://www.sec.gov/Archives/edgar/data/1318742/000110465926035691/0001104659-26-035691-index.htm
