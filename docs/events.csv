@@ -1,4 +1,6 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-20T11:34:37.429433+00:00,US,SEC,8-K,,,,8-K - JACK IN THE BOX INC (0000807882) (Filer),https://www.sec.gov/Archives/edgar/data/807882/000080788226000094/0000807882-26-000094-index.htm
+2026-08-20T11:34:37.429486+00:00,US,SEC,8-K,,,,8-K - G III APPAREL GROUP LTD /DE/ (0000821002) (Filer),https://www.sec.gov/Archives/edgar/data/821002/000110465926098992/0001104659-26-098992-index.htm
 2026-08-20T10:59:59.770327+00:00,US,SEC,8-K,,,,8-K - WEBSTER FINANCIAL CORP (0000801337) (Filer),https://www.sec.gov/Archives/edgar/data/801337/000119312526357758/0001193125-26-357758-index.htm
 2026-08-20T10:59:59.770354+00:00,US,SEC,8-K,,,,8-K - ADVANCE AUTO PARTS INC (0001158449) (Filer),https://www.sec.gov/Archives/edgar/data/1158449/000119312526357755/0001193125-26-357755-index.htm
 2026-08-20T10:30:03.930808+00:00,US,SEC,8-K,,,,8-K - INNSUITES HOSPITALITY TRUST (0000082473) (Filer),https://www.sec.gov/Archives/edgar/data/82473/000149315226039352/0001493152-26-039352-index.htm
@@ -1997,5 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-03-27T12:02:39.856791+00:00,US,SEC,8-K,,,,"8-K - United States Oil Fund, LP (0001327068) (Filer)",https://www.sec.gov/Archives/edgar/data/1327068/000110465926035702/0001104659-26-035702-index.htm
 2026-03-27T12:02:39.856796+00:00,US,SEC,8-K,,,,8-K - Next Technology Holding Inc. (0001784970) (Filer),https://www.sec.gov/Archives/edgar/data/1784970/000121390026035163/0001213900-26-035163-index.htm
 2026-03-27T12:02:39.856812+00:00,US,SEC,8-K,,,,8-K - BTCS Inc. (0001436229) (Filer),https://www.sec.gov/Archives/edgar/data/1436229/000149315226013089/0001493152-26-013089-index.htm
-2026-03-27T12:02:39.856818+00:00,US,SEC,8-K,,,,"8-K - MAIA Biotechnology, Inc. (0001878313) (Filer)",https://www.sec.gov/Archives/edgar/data/1878313/000149315226013088/0001493152-26-013088-index.htm
-2026-03-27T12:02:39.856823+00:00,US,SEC,8-K,,,,"8-K - Adagio Medical Holdings, Inc. (0002006986) (Filer)",https://www.sec.gov/Archives/edgar/data/2006986/000110465926035699/0001104659-26-035699-index.htm

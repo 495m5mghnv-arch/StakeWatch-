@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-20T11:34:37.429433+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - JACK IN THE BOX INC (0000807882) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/807882/000080788226000094/0000807882-26-000094-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T11:34:37.429486+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - G III APPAREL GROUP LTD /DE/ (0000821002) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/821002/000110465926098992/0001104659-26-098992-index.htm"
+  },
+  {
     "time_utc": "2026-08-20T10:59:59.770327+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - BTCS Inc. (0001436229) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226013089/0001493152-26-013089-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T12:02:39.856818+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MAIA Biotechnology, Inc. (0001878313) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1878313/000149315226013088/0001493152-26-013088-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T12:02:39.856823+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Adagio Medical Holdings, Inc. (0002006986) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2006986/000110465926035699/0001104659-26-035699-index.htm"
   }
 ]
