@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-08-20T21:14:03.357336+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cosmos Health Inc. (0001474167) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1474167/000147793226005195/0001477932-26-005195-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T21:14:03.357358+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Hennessy Capital Investment Corp. VII (0001846416) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226039511/0001493152-26-039511-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T21:14:03.357373+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RE/MAX Holdings, Inc. (0001581091) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1581091/000110465926099272/0001104659-26-099272-index.htm"
+  },
+  {
     "time_utc": "2026-08-20T20:49:43.658829+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Willow Tree Capital Corp (0001944831) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1944831/000194483126000009/0001944831-26-000009-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T20:26:29.190456+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Perfect Moment Ltd. (0001849221) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1849221/000149315226013556/0001493152-26-013556-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T18:38:44.895075+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SLM Student Loan Trust 2006-7 (0001370218) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1370218/000114036126011949/0001140361-26-011949-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T14:19:22.398623+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Stone Point Credit Corp (0001825384) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1825384/000110465926036581/0001104659-26-036581-index.htm"
   }
 ]
