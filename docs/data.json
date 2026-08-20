@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-20T19:41:19.423482+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - North Haven Net REIT (0001999784) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000064/0001999784-26-000064-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T19:41:19.423554+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Monroe Capital Income Plus Corp (0001742313) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1742313/000174231326000052/0001742313-26-000052-index.htm"
+  },
+  {
     "time_utc": "2026-08-20T19:04:00.110592+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - ENERGY FOCUS, INC/DE (0000924168) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/924168/000162828026021873/0001628280-26-021873-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T12:42:27.577958+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SS Innovations International, Inc. (0001676163) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1676163/000121390026036006/0001213900-26-036006-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T12:42:27.577971+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Tempest Therapeutics, Inc. (0001544227) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1544227/000119312526130480/0001193125-26-130480-index.htm"
   }
 ]
