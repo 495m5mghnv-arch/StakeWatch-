@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-20T19:04:00.110592+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Array Technologies, Inc. (0001820721) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1820721/000162828026058225/0001628280-26-058225-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T19:04:00.110629+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EBR Systems, Inc. (0001347123) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1347123/000121465926010643/0001214659-26-010643-index.htm"
+  },
+  {
     "time_utc": "2026-08-20T18:14:44.048417+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Tempest Therapeutics, Inc. (0001544227) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1544227/000119312526130480/0001193125-26-130480-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T11:42:57.272088+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ProCap Financial, Inc. (0002076163) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2076163/000149315226013469/0001493152-26-013469-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T11:42:57.272104+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sensei Biotherapeutics, Inc. (0001829802) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1829802/000119312526130419/0001193125-26-130419-index.htm"
   }
 ]
