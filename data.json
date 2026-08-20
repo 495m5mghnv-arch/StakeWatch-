@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-08-20T10:30:03.930808+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INNSUITES HOSPITALITY TRUST (0000082473) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/82473/000149315226039352/0001493152-26-039352-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T10:30:03.930833+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Transocean Ltd. (0001451505) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1451505/000145150526000064/0001451505-26-000064-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T10:30:03.930844+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DEERE JOHN CAPITAL CORP (0000027673) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/27673/000110465926098950/0001104659-26-098950-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T10:30:03.930859+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BOXABL Inc. (0001906364) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1906364/000149315226039342/0001493152-26-039342-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T10:30:03.930865+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Santander Holdings USA, Inc. (0000811830) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/811830/000095010326012673/0000950103-26-012673-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T10:30:03.930876+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Odysight.ai Inc. (0001577445) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1577445/000149315226039335/0001493152-26-039335-index.htm"
+  },
+  {
     "time_utc": "2026-08-19T21:27:17.150730+00:00",
     "region": "US",
     "source": "SEC",
@@ -21932,71 +21998,5 @@
     "percent": "",
     "title": "8-K - NCL CORP Ltd. (0001318742) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1318742/000110465926035691/0001104659-26-035691-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T11:22:48.596534+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TWO HARBORS INVESTMENT CORP. (0001465740) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1465740/000110465926035663/0001104659-26-035663-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T11:22:48.596557+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BioXcel Therapeutics, Inc. (0001720893) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1720893/000110465926035661/0001104659-26-035661-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T11:22:48.596566+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Clear Channel Outdoor Holdings, Inc. (0001334978) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1334978/000121390026035140/0001213900-26-035140-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T11:22:48.596571+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Legence Corp. (0002052568) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2052568/000119312526127539/0001193125-26-127539-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T11:22:48.596617+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Trilogy Metals Inc. (0001543418) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1543418/000127956926000235/0001279569-26-000235-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T11:22:48.596626+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Werewolf Therapeutics, Inc. (0001785530) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1785530/000178553026000005/0001785530-26-000005-index.htm"
   }
 ]
