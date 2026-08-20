@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-20T18:14:44.048417+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Alternus Clean Energy, Inc. (0001883984) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1883984/000143774926028619/0001437749-26-028619-index.htm"
+  },
+  {
     "time_utc": "2026-08-20T17:41:47.122697+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Sensei Biotherapeutics, Inc. (0001829802) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1829802/000119312526130419/0001193125-26-130419-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T11:42:57.272120+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Terrestrial Energy Inc. /DE/ (0002019804) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2019804/000110465926036467/0001104659-26-036467-index.htm"
   }
 ]
