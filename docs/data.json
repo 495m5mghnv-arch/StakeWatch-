@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-20T13:55:25.705350+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Exyn Technologies, Inc. (0001960355) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1960355/000110465926099041/0001104659-26-099041-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T13:55:25.705372+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Stone Point Credit Income Fund (0002031283) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2031283/000110465926099040/0001104659-26-099040-index.htm"
+  },
+  {
     "time_utc": "2026-08-20T13:03:15.224418+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - SYSCO CORP (0000096021) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/96021/000095014226000899/0000950142-26-000899-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T21:35:35.495974+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Contango ORE, Inc. (0001502377) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1502377/000119312526129496/0001193125-26-129496-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T20:50:55.943746+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NATIONAL FUEL GAS CO (0000070145) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/70145/000119312526129271/0001193125-26-129271-index.htm"
   }
 ]
