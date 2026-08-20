@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-08-20T20:11:02.869862+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Corebridge Financial, Inc. (0001889539) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1889539/000162828026058245/0001628280-26-058245-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T20:11:02.869912+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FLOWERS FOODS INC (0001128928) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1128928/000119312526359191/0001193125-26-359191-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T20:11:02.869924+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EVOLUTION PETROLEUM CORP (0001006655) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1006655/000110465926099227/0001104659-26-099227-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T20:11:02.869943+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ENSIGN GROUP, INC (0001125376) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1125376/000112537626000038/0001125376-26-000038-index.htm"
+  },
+  {
     "time_utc": "2026-08-20T19:41:19.423482+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - Kezar Life Sciences, Inc. (0001645666) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1645666/000119312526130486/0001193125-26-130486-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T12:42:27.577930+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Terra Innovatum Global N.V. (0002067627) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2067627/000121390026036007/0001213900-26-036007-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T12:42:27.577937+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Trio Petroleum Corp (0001898766) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1898766/000149315226013482/0001493152-26-013482-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T12:42:27.577942+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CROSS COUNTRY HEALTHCARE INC (0001141103) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1141103/000092963826001241/0000929638-26-001241-index.htm"
-  },
-  {
-    "time_utc": "2026-03-30T12:42:27.577946+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ENERGY FOCUS, INC/DE (0000924168) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/924168/000162828026021873/0001628280-26-021873-index.htm"
   }
 ]
