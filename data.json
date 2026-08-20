@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-08-20T13:03:15.224418+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BullFrog AI Holdings, Inc. (0001829247) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829247/000162828026058143/0001628280-26-058143-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T13:03:15.224442+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PATHWARD FINANCIAL, INC. (0000907471) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/907471/000090747126000037/0000907471-26-000037-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T13:03:15.224451+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEONC TECHNOLOGIES HOLDINGS, INC. (0001979414) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626009103/0001829126-26-009103-index.htm"
+  },
+  {
+    "time_utc": "2026-08-20T13:03:15.224470+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ocean Power Technologies, Inc. (0001378140) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1378140/000149315226039393/0001493152-26-039393-index.htm"
+  },
+  {
     "time_utc": "2026-08-20T11:58:25.050341+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - NATIONAL FUEL GAS CO (0000070145) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/70145/000119312526129271/0001193125-26-129271-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T20:50:55.943770+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FORUM MARKETS Inc (0001690080) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1690080/000121390026035601/0001213900-26-035601-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T12:02:39.856751+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - United States Natural Gas Fund, LP (0001376227) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1376227/000110465926035704/0001104659-26-035704-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T12:02:39.856769+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Autolus Therapeutics plc (0001730463) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000032/0001730463-26-000032-index.htm"
-  },
-  {
-    "time_utc": "2026-03-27T12:02:39.856779+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Senti Biosciences, Inc. (0001854270) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1854270/000162828026021578/0001628280-26-021578-index.htm"
   }
 ]
