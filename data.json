@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-21T19:01:12.443877+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Woodward, Inc. (0000108312) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/108312/000119312526360911/0001193125-26-360911-index.htm"
+  },
+  {
     "time_utc": "2026-08-21T15:37:26.527134+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000043/0001018164-26-000043-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T11:13:41.746091+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Charlotte's Web Holdings, Inc. (0001750155) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1750155/000175015526000028/0001750155-26-000028-index.htm"
   }
 ]
