@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-08-21T21:10:38.458298+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Edgemode, Inc. (0001652958) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1652958/000168316826006657/0001683168-26-006657-index.htm"
+  },
+  {
+    "time_utc": "2026-08-21T21:10:38.458328+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BOEING CO (0000012927) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/12927/000162828026058481/0001628280-26-058481-index.htm"
+  },
+  {
+    "time_utc": "2026-08-21T21:10:38.458356+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NORTHROP GRUMMAN CORP /DE/ (0001133421) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1133421/000162828026058480/0001628280-26-058480-index.htm"
+  },
+  {
+    "time_utc": "2026-08-21T21:10:38.458380+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Pasithea Therapeutics Corp. (0001841330) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1841330/000121390026092672/0001213900-26-092672-index.htm"
+  },
+  {
     "time_utc": "2026-08-21T20:25:18.809289+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - SiteOne Landscape Supply, Inc. (0001650729) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1650729/000110465926037375/0001104659-26-037375-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T12:02:40.943836+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - 1606 CORP. (0001877461) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1877461/000147793226001757/0001477932-26-001757-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T12:02:40.943841+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BTCS Inc. (0001436229) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226013812/0001493152-26-013812-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T12:02:40.943845+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PALVELLA THERAPEUTICS, INC. (0001583648) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1583648/000119312526133332/0001193125-26-133332-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T12:02:40.943850+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ENTREPRENEUR UNIVERSE BRIGHT GROUP (0001171326) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1171326/000121390026036884/0001213900-26-036884-index.htm"
   }
 ]
