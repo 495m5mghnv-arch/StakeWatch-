@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-21T15:37:26.527134+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MGE ENERGY INC (0001161728) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1161728/000119312526360327/0001193125-26-360327-index.htm"
+  },
+  {
     "time_utc": "2026-08-21T13:34:16.924360+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Charlotte's Web Holdings, Inc. (0001750155) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1750155/000175015526000028/0001750155-26-000028-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T11:13:41.746105+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AlTi Global, Inc. (0001838615) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1838615/000162828026022205/0001628280-26-022205-index.htm"
   }
 ]
