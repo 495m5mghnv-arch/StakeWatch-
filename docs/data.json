@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-21T11:52:31.196254+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Uniti Group Inc. (0002020795) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2020795/000095010326012737/0000950103-26-012737-index.htm"
+  },
+  {
+    "time_utc": "2026-08-21T11:52:31.196273+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Intercontinental Exchange, Inc. (0001571949) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526359930/0001193125-26-359930-index.htm"
+  },
+  {
     "time_utc": "2026-08-21T11:25:39.194905+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - SCYNEXIS INC (0001178253) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1178253/000119312526133250/0001193125-26-133250-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T11:13:41.746157+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Telomir Pharmaceuticals, Inc. (0001971532) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1971532/000149315226013785/0001493152-26-013785-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T11:13:41.746163+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Iterum Therapeutics plc (0001659323) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1659323/000119312526133247/0001193125-26-133247-index.htm"
   }
 ]
