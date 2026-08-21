@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-21T21:42:22.195965+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Peraso Inc. (0000890394) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/890394/000121390026092719/0001213900-26-092719-index.htm"
+  },
+  {
+    "time_utc": "2026-08-21T21:42:22.196002+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Vivos Therapeutics, Inc. (0001716166) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226039736/0001493152-26-039736-index.htm"
+  },
+  {
     "time_utc": "2026-08-21T21:10:38.458298+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Ares Core Infrastructure Fund (0002031750) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2031750/000203175026000019/0002031750-26-000019-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T12:02:40.943808+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Emmaus Life Sciences, Inc. (0000822370) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/822370/000121390026036886/0001213900-26-036886-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T12:02:40.943825+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SiteOne Landscape Supply, Inc. (0001650729) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1650729/000110465926037375/0001104659-26-037375-index.htm"
   }
 ]
