@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-08-21T19:53:15.945466+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KKR FS Income Trust Select (0001975736) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1975736/000110465926099658/0001104659-26-099658-index.htm"
+  },
+  {
+    "time_utc": "2026-08-21T19:53:15.945486+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KKR FS Income Trust (0001930679) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1930679/000110465926099657/0001104659-26-099657-index.htm"
+  },
+  {
+    "time_utc": "2026-08-21T19:53:15.945513+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TRICO BANCSHARES / (0000356171) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/356171/000035617126000111/0000356171-26-000111-index.htm"
+  },
+  {
     "time_utc": "2026-08-21T19:01:12.443877+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - IO Biotech, Inc. (0001865494) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1865494/000119312526133331/0001193125-26-133331-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T12:02:40.943891+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CINTAS CORP (0000723254) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000010/0000723254-26-000010-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T12:02:40.943895+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GALECTIN THERAPEUTICS INC (0001133416) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1133416/000114036126012158/0001140361-26-012158-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T11:13:41.746049+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000043/0001018164-26-000043-index.htm"
   }
 ]
