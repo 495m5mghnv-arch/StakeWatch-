@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-08-21T12:47:23.668473+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SPLASH BEVERAGE GROUP, INC. (0001553788) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1553788/000173112226001120/0001731122-26-001120-index.htm"
+  },
+  {
+    "time_utc": "2026-08-21T12:47:23.668498+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ALLIANT ENERGY CORP (0000352541) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/352541/000119312526360020/0001193125-26-360020-index.htm"
+  },
+  {
+    "time_utc": "2026-08-21T12:47:23.668506+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INTERSTATE POWER & LIGHT CO (0000052485) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/52485/000119312526360020/0001193125-26-360020-index.htm"
+  },
+  {
+    "time_utc": "2026-08-21T12:47:23.668521+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Latham Group, Inc. (0001833197) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1833197/000183319726000036/0001833197-26-000036-index.htm"
+  },
+  {
+    "time_utc": "2026-08-21T12:47:23.668613+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000303/0001527541-26-000303-index.htm"
+  },
+  {
     "time_utc": "2026-08-21T11:52:31.196254+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Tonix Pharmaceuticals Holding Corp. (0001430306) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1430306/000199937126007254/0001999371-26-007254-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T11:13:41.746115+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Xtant Medical Holdings, Inc. (0001453593) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1453593/000149315226013788/0001493152-26-013788-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T11:13:41.746119+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SCYNEXIS INC (0001178253) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1178253/000119312526133259/0001193125-26-133259-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T11:13:41.746124+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TD SYNNEX CORP (0001177394) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1177394/000162828026022204/0001628280-26-022204-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T11:13:41.746137+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AlTi Global, Inc. (0001838615) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1838615/000114036126012146/0001140361-26-012146-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T11:13:41.746149+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SCYNEXIS INC (0001178253) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1178253/000119312526133250/0001193125-26-133250-index.htm"
   }
 ]
