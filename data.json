@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-08-24T11:13:33.942391+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Philip Morris International Inc. (0001413329) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026058513/0001628280-26-058513-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T11:13:33.942406+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ANI PHARMACEUTICALS INC (0001023024) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1023024/000102302426000071/0001023024-26-000071-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T11:13:33.942411+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PRECISION BIOSCIENCES INC (0001357874) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1357874/000162828026058512/0001628280-26-058512-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T11:13:33.942415+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BioXcel Therapeutics, Inc. (0001720893) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1720893/000110465926099900/0001104659-26-099900-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T11:13:33.942424+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEWS CORP (0001564708) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000186/0001564708-26-000186-index.htm"
+  },
+  {
     "time_utc": "2026-08-24T10:45:59.966213+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - Global Net Lease, Inc. (0001526113) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926038141/0001104659-26-038141-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T10:17:16.297918+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1805521/000121390026037931/0001213900-26-037931-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T10:17:16.297939+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SHF Holdings, Inc. (0001854963) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1854963/000149315226014460/0001493152-26-014460-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T10:17:16.297946+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CAL-MAINE FOODS INC (0000016160) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/16160/000156276226000044/0001562762-26-000044-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T21:03:03.069079+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ZeroStack Corp. (0001790169) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1790169/000106299326001764/0001062993-26-001764-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T21:03:03.069159+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - International Seaways, Inc. (0001679049) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1679049/000110465926037866/0001104659-26-037866-index.htm"
   }
 ]
