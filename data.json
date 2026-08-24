@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-24T20:02:09.571907+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Blackstone Private Real Estate Credit & Income Fund (0002049733) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2049733/000204973326000040/0002049733-26-000040-index.htm"
+  },
+  {
     "time_utc": "2026-08-24T15:03:25.564855+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Rimini Street, Inc. (0001635282) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1635282/000163528226000027/0001635282-26-000027-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T12:04:30.568230+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MIDDLEBY Corp (0000769520) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/769520/000119312526135768/0001193125-26-135768-index.htm"
   }
 ]

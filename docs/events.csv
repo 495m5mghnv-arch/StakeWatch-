@@ -1,4 +1,5 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-24T20:02:09.571907+00:00,US,SEC,8-K,,,,8-K - Blackstone Private Real Estate Credit & Income Fund (0002049733) (Filer),https://www.sec.gov/Archives/edgar/data/2049733/000204973326000040/0002049733-26-000040-index.htm
 2026-08-24T15:03:25.564855+00:00,US,SEC,8-K,,,,8-K - WISCONSIN ELECTRIC POWER CO (0000107815) (Filer),https://www.sec.gov/Archives/edgar/data/107815/000110465926100160/0001104659-26-100160-index.htm
 2026-08-24T14:10:37.946660+00:00,US,SEC,8-K,,,,8-K - UFP TECHNOLOGIES INC (0000914156) (Filer),https://www.sec.gov/Archives/edgar/data/914156/000162828026058536/0001628280-26-058536-index.htm
 2026-08-24T12:16:37.691449+00:00,US,SEC,8-K,,,,"8-K - Erasca, Inc. (0001761918) (Filer)",https://www.sec.gov/Archives/edgar/data/1761918/000119312526361895/0001193125-26-361895-index.htm
@@ -1998,4 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-04-01T12:04:30.568217+00:00,US,SEC,8-K,,,,8-K - NOVAGOLD RESOURCES INC (0001173420) (Filer),https://www.sec.gov/Archives/edgar/data/1173420/000117184326002143/0001171843-26-002143-index.htm
 2026-04-01T12:04:30.568222+00:00,US,SEC,8-K,,,,"8-K - Penguin Solutions, Inc. (0001616533) (Filer)",https://www.sec.gov/Archives/edgar/data/1616533/000119312526135770/0001193125-26-135770-index.htm
 2026-04-01T12:04:30.568226+00:00,US,SEC,8-K,,,,"8-K - Rimini Street, Inc. (0001635282) (Filer)",https://www.sec.gov/Archives/edgar/data/1635282/000163528226000027/0001635282-26-000027-index.htm
-2026-04-01T12:04:30.568230+00:00,US,SEC,8-K,,,,8-K - MIDDLEBY Corp (0000769520) (Filer),https://www.sec.gov/Archives/edgar/data/769520/000119312526135768/0001193125-26-135768-index.htm
