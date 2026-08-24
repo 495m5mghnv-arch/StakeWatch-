@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-08-24T10:45:59.966213+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Extra Space Storage Inc. (0001289490) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1289490/000128949026000058/0001289490-26-000058-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T10:45:59.966237+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Comstock Inc. (0001120970) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1120970/000143774926028777/0001437749-26-028777-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T10:45:59.966251+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KLX Energy Services Holdings, Inc. (0001738827) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1738827/000119312526361735/0001193125-26-361735-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T10:45:59.966263+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sable Offshore Corp. (0001831481) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1831481/000183148126000108/0001831481-26-000108-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T10:45:59.966267+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ecovyst Inc. (0001708035) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1708035/000119312526361724/0001193125-26-361724-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T10:45:59.966271+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2032545/000149315226039761/0001493152-26-039761-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T10:45:59.966279+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BRC Inc. (0001891101) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1891101/000189110126000043/0001891101-26-000043-index.htm"
+  },
+  {
     "time_utc": "2026-08-21T21:42:22.195965+00:00",
     "region": "US",
     "source": "SEC",
@@ -21921,82 +21998,5 @@
     "percent": "",
     "title": "8-K - International Seaways, Inc. (0001679049) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1679049/000110465926037866/0001104659-26-037866-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T21:03:03.069171+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - M2i Global, Inc. (0001753373) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1753373/000149315226014288/0001493152-26-014288-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T21:03:03.069177+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DSS, INC. (0000771999) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/771999/000149315226014289/0001493152-26-014289-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T20:22:16.058122+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Snail, Inc. (0001886894) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1886894/000149315226014209/0001493152-26-014209-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T20:22:16.058174+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - RH (0001528849) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1528849/000110465926037775/0001104659-26-037775-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T20:22:16.058189+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AgEagle Aerial Systems Inc. (0000008504) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/8504/000149315226014207/0001493152-26-014207-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T20:22:16.058194+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - XMax Inc. (0001473334) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1473334/000149315226014208/0001493152-26-014208-index.htm"
-  },
-  {
-    "time_utc": "2026-03-31T19:30:20.233604+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Ares Core Infrastructure Fund (0002031750) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2031750/000203175026000019/0002031750-26-000019-index.htm"
   }
 ]
