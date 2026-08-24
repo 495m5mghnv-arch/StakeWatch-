@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-24T14:10:37.946660+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UFP TECHNOLOGIES INC (0000914156) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/914156/000162828026058536/0001628280-26-058536-index.htm"
+  },
+  {
     "time_utc": "2026-08-24T12:16:37.691449+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - FITLIFE BRANDS, INC. (0001374328) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1374328/000143774926010811/0001437749-26-010811-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T12:04:30.568239+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Strategy Inc (0001050446) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526135765/0001193125-26-135765-index.htm"
   }
 ]
