@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-08-24T12:16:37.691449+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Erasca, Inc. (0001761918) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1761918/000119312526361895/0001193125-26-361895-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T12:16:37.691491+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kimbell Royalty Partners, LP (0001657788) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1657788/000110465926099989/0001104659-26-099989-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T12:16:37.691520+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - JUPITER NEUROSCIENCES, INC. (0001679628) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1679628/000149315226039785/0001493152-26-039785-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T12:16:37.691526+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Datacentrex, Inc. (0001853825) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1853825/000149315226039786/0001493152-26-039786-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T12:16:37.691533+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Azenta, Inc. (0000933974) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/933974/000162828026058519/0001628280-26-058519-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T12:16:37.691556+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Adia Nutrition, Inc. (0001160420) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1160420/000168316826006679/0001683168-26-006679-index.htm"
+  },
+  {
+    "time_utc": "2026-08-24T12:16:37.691565+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Strategy Inc (0001050446) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526361845/0001193125-26-361845-index.htm"
+  },
+  {
     "time_utc": "2026-08-24T11:46:41.038068+00:00",
     "region": "US",
     "source": "SEC",
@@ -21921,82 +21998,5 @@
     "percent": "",
     "title": "8-K - Strategy Inc (0001050446) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526135765/0001193125-26-135765-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T12:04:30.568244+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TuHURA Biosciences, Inc./NV (0001498382) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1498382/000119312526135766/0001193125-26-135766-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T12:04:30.568248+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Forte Biosciences, Inc. (0001419041) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1419041/000119312526135767/0001193125-26-135767-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T11:16:45.293846+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Atlas Energy Solutions Inc. (0001984060) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1984060/000119312526135688/0001193125-26-135688-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T11:16:45.293905+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - RYTHM, Inc. (0001800637) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1800637/000121390026037996/0001213900-26-037996-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T11:16:45.293911+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Green Thumb Industries Inc. (0001795139) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1795139/000119312526135668/0001193125-26-135668-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T11:16:45.293916+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Axsome Therapeutics, Inc. (0001579428) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1579428/000119312526135669/0001193125-26-135669-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T11:16:45.293948+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - IMMUNIC, INC. (0001280776) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1280776/000119380526000382/0001193805-26-000382-index.htm"
   }
 ]
