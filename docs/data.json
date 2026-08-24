@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-24T15:03:25.564855+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WISCONSIN ELECTRIC POWER CO (0000107815) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/107815/000110465926100160/0001104659-26-100160-index.htm"
+  },
+  {
     "time_utc": "2026-08-24T14:10:37.946660+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - MIDDLEBY Corp (0000769520) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/769520/000119312526135768/0001193125-26-135768-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T12:04:30.568234+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FITLIFE BRANDS, INC. (0001374328) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1374328/000143774926010811/0001437749-26-010811-index.htm"
   }
 ]
