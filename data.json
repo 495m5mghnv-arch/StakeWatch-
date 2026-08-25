@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-25T10:46:05.328053+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Bleichroeder Acquisition Corp. III (0002128045) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2128045/000121390026093229/0001213900-26-093229-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T10:46:05.328077+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226001134/0001731122-26-001134-index.htm"
+  },
+  {
     "time_utc": "2026-08-24T20:44:51.783261+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Arq, Inc. (0001515156) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1515156/000151515626000041/0001515156-26-000041-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T12:04:30.568196+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Inhibitor Therapeutics, Inc. (0001042418) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1042418/000149315226014517/0001493152-26-014517-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T12:04:30.568203+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Allegro Merger Corp. (0001720025) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1720025/000121390026038016/0001213900-26-038016-index.htm"
   }
 ]
