@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-08-25T11:12:24.896311+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000072/0001018164-26-000072-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:12:24.896339+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SelectQuote, Inc. (0001794783) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1794783/000179478326000056/0001794783-26-000056-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:12:24.896350+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DICK'S SPORTING GOODS, INC. (0001089063) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000033/0001089063-26-000033-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:12:24.896355+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Safe Pro Group Inc. (0002011208) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2011208/000149315226039954/0001493152-26-039954-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:12:24.896362+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Madison Air Solutions Corp (0002098430) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2098430/000162828026058764/0001628280-26-058764-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:12:24.896367+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BEST SPAC I Acquisition Corp. (0002051587) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2051587/000121390026093238/0001213900-26-093238-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:12:24.896371+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Targa Resources Corp. (0001389170) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1389170/000119312526364099/0001193125-26-364099-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:12:24.896382+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Citi Trends Inc (0001318484) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1318484/000110465926100524/0001104659-26-100524-index.htm"
+  },
+  {
     "time_utc": "2026-08-25T10:46:05.328053+00:00",
     "region": "US",
     "source": "SEC",
@@ -21910,93 +21998,5 @@
     "percent": "",
     "title": "8-K - Flutter Entertainment plc (0001635327) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1635327/000119312526138935/0001193125-26-138935-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T21:10:52.934773+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WESTWATER RESOURCES, INC. (0000839470) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/839470/000110465926038606/0001104659-26-038606-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T20:29:02.993882+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BASSETT FURNITURE INDUSTRIES INC (0000010329) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/10329/000143774926010906/0001437749-26-010906-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T18:35:08.467895+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - First Foundation Inc. (0001413837) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1413837/000110465926038418/0001104659-26-038418-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T18:35:08.467953+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Koil Energy Solutions, Inc. (0001110607) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1110607/000168316826002573/0001683168-26-002573-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T14:02:11.737011+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ASCENT INDUSTRIES CO. (0000095953) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/95953/000009595326000059/0000095953-26-000059-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T14:02:11.737072+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SCI Engineered Materials, Inc. (0000830616) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/830616/000110465926038300/0001104659-26-038300-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T12:04:30.568164+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CLOROX CO /DE/ (0000021076) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/21076/000120677426000173/0001206774-26-000173-index.htm"
-  },
-  {
-    "time_utc": "2026-04-01T12:04:30.568183+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Arq, Inc. (0001515156) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1515156/000151515626000041/0001515156-26-000041-index.htm"
   }
 ]
