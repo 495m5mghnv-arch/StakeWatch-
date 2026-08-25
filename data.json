@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-25T19:42:14.813102+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Stewards, Inc. (0001795851) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1795851/000179585126000008/0001795851-26-000008-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T19:42:14.813150+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Netcapital Inc. (0001414767) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1414767/000149315226040042/0001493152-26-040042-index.htm"
+  },
+  {
     "time_utc": "2026-08-25T17:14:31.193825+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Braemar Hotels & Resorts Inc. (0001574085) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1574085/000157408526000054/0001574085-26-000054-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T10:43:52.727395+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Stone Point Credit Corp (0001825384) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1825384/000110465926039411/0001104659-26-039411-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T10:43:52.727432+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Galera Therapeutics, Inc. (0001563577) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1563577/000119312526141187/0001193125-26-141187-index.htm"
   }
 ]
