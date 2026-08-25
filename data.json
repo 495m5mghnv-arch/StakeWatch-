@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-25T15:55:35.099214+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DAVEY TREE EXPERT CO (0000277638) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/277638/000162828026058800/0001628280-26-058800-index.htm"
+  },
+  {
     "time_utc": "2026-08-25T14:08:33.479917+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - DATASEA INC. (0001631282) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1631282/000121390026039327/0001213900-26-039327-index.htm"
-  },
-  {
-    "time_utc": "2026-04-02T20:06:06.649252+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DIAMOND HILL INVESTMENT GROUP INC (0000909108) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/909108/000119312526140054/0001193125-26-140054-index.htm"
   }
 ]
