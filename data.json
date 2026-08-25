@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-08-25T17:14:31.193825+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000153/0001331465-26-000153-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T17:14:31.193859+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426007853/0001654954-26-007853-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T17:14:31.193868+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426007851/0001654954-26-007851-index.htm"
+  },
+  {
     "time_utc": "2026-08-25T16:37:40.615546+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Galera Therapeutics, Inc. (0001563577) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1563577/000119312526141187/0001193125-26-141187-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T10:43:52.727452+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SPRUCE POWER HOLDING CORP (0001772720) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1772720/000121390026039687/0001213900-26-039687-index.htm"
-  },
-  {
-    "time_utc": "2026-04-02T20:06:06.649209+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - EDAP TMS SA (0001041934) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1041934/000117184326002218/0001171843-26-002218-index.htm"
-  },
-  {
-    "time_utc": "2026-04-02T20:06:06.649240+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BioAtla, Inc. (0001826892) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1826892/000119312526140053/0001193125-26-140053-index.htm"
   }
 ]
