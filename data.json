@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-08-25T11:47:27.323944+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MARZETTI CO (0000057515) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/57515/000005751526000018/0000057515-26-000018-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:47:27.323968+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DYCOM INDUSTRIES INC (0000067215) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/67215/000006721526000036/0000067215-26-000036-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:47:27.323977+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Incannex Healthcare Inc. (0001873875) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1873875/000121390026093244/0001213900-26-093244-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:47:27.323982+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UNITED STATES ANTIMONY CORP (0000101538) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/101538/000110465926100539/0001104659-26-100539-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:47:27.323987+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nova Minerals Corp (0001852551) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226039965/0001493152-26-039965-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:47:27.323991+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/64463/000149315226039964/0001493152-26-039964-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:47:27.324030+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BioXcel Therapeutics, Inc. (0001720893) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1720893/000110465926100532/0001104659-26-100532-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T11:47:27.324046+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Boxlight Corp (0001624512) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1624512/000121390026093241/0001213900-26-093241-index.htm"
+  },
+  {
     "time_utc": "2026-08-25T11:12:24.896311+00:00",
     "region": "US",
     "source": "SEC",
@@ -21910,93 +21998,5 @@
     "percent": "",
     "title": "8-K - Context Therapeutics Inc. (0001842952) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1842952/000162828026022931/0001628280-26-022931-index.htm"
-  },
-  {
-    "time_utc": "2026-04-02T11:57:07.298284+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ANGIODYNAMICS INC (0001275187) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1275187/000114036126012891/0001140361-26-012891-index.htm"
-  },
-  {
-    "time_utc": "2026-04-02T11:57:07.298301+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/64463/000149315226014800/0001493152-26-014800-index.htm"
-  },
-  {
-    "time_utc": "2026-04-02T11:57:07.298306+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TScan Therapeutics, Inc. (0001783328) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1783328/000119312526138973/0001193125-26-138973-index.htm"
-  },
-  {
-    "time_utc": "2026-04-02T11:57:07.298310+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Oportun Financial Corp (0001538716) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1538716/000119312526138972/0001193125-26-138972-index.htm"
-  },
-  {
-    "time_utc": "2026-04-02T11:57:07.298323+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ACUITY INC. (DE) (0001144215) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1144215/000114421526000023/0001144215-26-000023-index.htm"
-  },
-  {
-    "time_utc": "2026-04-02T11:08:38.392470+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Roivant Sciences Ltd. (0001635088) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1635088/000114036126012885/0001140361-26-012885-index.htm"
-  },
-  {
-    "time_utc": "2026-04-02T11:08:38.392492+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Cytosorbents Corp (0001175151) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1175151/000110465926038859/0001104659-26-038859-index.htm"
-  },
-  {
-    "time_utc": "2026-04-02T11:08:38.392518+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Flutter Entertainment plc (0001635327) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1635327/000119312526138935/0001193125-26-138935-index.htm"
   }
 ]
