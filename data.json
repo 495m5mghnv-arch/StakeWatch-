@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-08-25T20:09:42.540513+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - North Haven Private Income Fund A LLC (0001973476) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1973476/000119312526365126/0001193125-26-365126-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T20:09:42.540558+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PDS Biotechnology Corp (0001472091) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126034320/0001140361-26-034320-index.htm"
+  },
+  {
+    "time_utc": "2026-08-25T20:09:42.540578+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SMITH MIDLAND CORP (0000924719) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/924719/000165495426007861/0001654954-26-007861-index.htm"
+  },
+  {
     "time_utc": "2026-08-25T19:42:14.813102+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - United Homes Group, Inc. (0001830188) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000012/0001830188-26-000012-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T12:01:42.596172+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Village Farms International, Inc. (0001584549) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1584549/000119312526141251/0001193125-26-141251-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T11:26:46.660568+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ALTA EQUIPMENT GROUP INC. (0001759824) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1759824/000119312526141224/0001193125-26-141224-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T10:43:52.727349+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Braemar Hotels & Resorts Inc. (0001574085) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1574085/000157408526000054/0001574085-26-000054-index.htm"
   }
 ]
