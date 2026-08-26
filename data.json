@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-08-26T10:44:52.668743+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Biohaven Ltd. (0001935979) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1935979/000193597926000072/0001935979-26-000072-index.htm"
+  },
+  {
+    "time_utc": "2026-08-26T10:44:52.668786+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BeOne Medicines Ltd. (0001651308) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1651308/000165130826000025/0001651308-26-000025-index.htm"
+  },
+  {
+    "time_utc": "2026-08-26T10:44:52.668794+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SharonAI Holdings Inc. (0002068385) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2068385/000149315226040152/0001493152-26-040152-index.htm"
+  },
+  {
+    "time_utc": "2026-08-26T10:44:52.668803+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KEWAUNEE SCIENTIFIC CORP /DE/ (0000055529) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/55529/000005552926000025/0000055529-26-000025-index.htm"
+  },
+  {
+    "time_utc": "2026-08-26T10:44:52.668823+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BOSTON SCIENTIFIC CORP (0000885725) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000056/0000885725-26-000056-index.htm"
+  },
+  {
+    "time_utc": "2026-08-26T10:44:52.668851+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - WESTERN DIGITAL CORP (0000106040) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/106040/000119312526365796/0001193125-26-365796-index.htm"
+  },
+  {
+    "time_utc": "2026-08-26T10:44:52.668855+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326004629/0001062993-26-004629-index.htm"
+  },
+  {
     "time_utc": "2026-08-25T21:11:26.232102+00:00",
     "region": "US",
     "source": "SEC",
@@ -21921,82 +21998,5 @@
     "percent": "",
     "title": "8-K - CITIGROUP COMMERCIAL MORTGAGE TRUST 2016-C3 (0001687605) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1687605/000119312526141700/0001193125-26-141700-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T16:41:57.176827+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CITIGROUP COMMERCIAL MORTGAGE TRUST 2016-P6 (0001690255) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1690255/000119312526141698/0001193125-26-141698-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T16:41:57.176851+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TOYOTA MOTOR CREDIT CORP (0000834071) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/834071/000095010326005331/0000950103-26-005331-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T15:54:05.384454+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CFCRE 2016-C7 Mortgage Trust (0001690110) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1690110/000188852426006717/0001888524-26-006717-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T15:54:05.384495+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CFCRE 2016-C6 Mortgage Trust (0001685854) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1685854/000188852426006715/0001888524-26-006715-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T14:25:28.062654+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SouthState Bank Corp (0000764038) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/764038/000110465926039475/0001104659-26-039475-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T12:01:42.596058+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BLOOMIA HOLDINGS, INC. (0000875355) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/875355/000110465926039450/0001104659-26-039450-index.htm"
-  },
-  {
-    "time_utc": "2026-04-03T12:01:42.596090+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Instil Bio, Inc. (0001789769) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1789769/000178976926000024/0001789769-26-000024-index.htm"
   }
 ]
