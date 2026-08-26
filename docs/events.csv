@@ -1,4 +1,13 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-08-26T11:14:14.236594+00:00,US,SEC,8-K,,,,8-K - PHOTRONICS INC (0000810136) (Filer),https://www.sec.gov/Archives/edgar/data/810136/000081013626000006/0000810136-26-000006-index.htm
+2026-08-26T11:14:14.236619+00:00,US,SEC,8-K,,,,8-K - DYCOM INDUSTRIES INC (0000067215) (Filer),https://www.sec.gov/Archives/edgar/data/67215/000006721526000039/0000067215-26-000039-index.htm
+2026-08-26T11:14:14.236628+00:00,US,SEC,8-K,,,,8-K - J M SMUCKER Co (0000091419) (Filer),https://www.sec.gov/Archives/edgar/data/91419/000009141926000079/0000091419-26-000079-index.htm
+2026-08-26T11:14:14.236635+00:00,US,SEC,8-K,,,,8-K - Senmiao Technology Ltd (0001711012) (Filer),https://www.sec.gov/Archives/edgar/data/1711012/000121390026093717/0001213900-26-093717-index.htm
+2026-08-26T11:14:14.236639+00:00,US,SEC,8-K,,,,8-K - MOVADO GROUP INC (0000072573) (Filer),https://www.sec.gov/Archives/edgar/data/72573/000095014226002427/0000950142-26-002427-index.htm
+2026-08-26T11:14:14.236645+00:00,US,SEC,8-K,,,,8-K - KOHLS Corp (0000885639) (Filer),https://www.sec.gov/Archives/edgar/data/885639/000119312526365860/0001193125-26-365860-index.htm
+2026-08-26T11:14:14.236651+00:00,US,SEC,8-K,,,,8-K - Avalanche Treasury Corp (0002092446) (Filer),https://www.sec.gov/Archives/edgar/data/2092446/000110465926101037/0001104659-26-101037-index.htm
+2026-08-26T11:14:14.236654+00:00,US,SEC,8-K,,,,8-K - Avalanche Treasury Corp (0002092446) (Filer),https://www.sec.gov/Archives/edgar/data/2092446/000110465926101035/0001104659-26-101035-index.htm
+2026-08-26T11:14:14.236663+00:00,US,SEC,8-K,,,,8-K - Target Hospitality Corp. (0001712189) (Filer),https://www.sec.gov/Archives/edgar/data/1712189/000110465926101033/0001104659-26-101033-index.htm
 2026-08-26T10:44:52.668743+00:00,US,SEC,8-K,,,,8-K - Biohaven Ltd. (0001935979) (Filer),https://www.sec.gov/Archives/edgar/data/1935979/000193597926000072/0001935979-26-000072-index.htm
 2026-08-26T10:44:52.668786+00:00,US,SEC,8-K,,,,8-K - BeOne Medicines Ltd. (0001651308) (Filer),https://www.sec.gov/Archives/edgar/data/1651308/000165130826000025/0001651308-26-000025-index.htm
 2026-08-26T10:44:52.668794+00:00,US,SEC,8-K,,,,8-K - SharonAI Holdings Inc. (0002068385) (Filer),https://www.sec.gov/Archives/edgar/data/2068385/000149315226040152/0001493152-26-040152-index.htm
@@ -1990,12 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-04-06T11:54:11.058517+00:00,US,SEC,8-K,,,,8-K - PMGC Holdings Inc. (0001840563) (Filer),https://www.sec.gov/Archives/edgar/data/1840563/000121390026040150/0001213900-26-040150-index.htm
 2026-04-06T11:54:11.058523+00:00,US,SEC,8-K,,,,8-K - Anterix Inc. (0001304492) (Filer),https://www.sec.gov/Archives/edgar/data/1304492/000130449226000016/0001304492-26-000016-index.htm
 2026-04-06T11:54:11.058543+00:00,US,SEC,8-K,,,,8-K - Atlas Energy Solutions Inc. (0001984060) (Filer),https://www.sec.gov/Archives/edgar/data/1984060/000114036126013230/0001140361-26-013230-index.htm
-2026-04-06T11:54:11.058559+00:00,US,SEC,8-K,,,,"8-K - Clear Channel Outdoor Holdings, Inc. (0001334978) (Filer)",https://www.sec.gov/Archives/edgar/data/1334978/000121390026040144/0001213900-26-040144-index.htm
-2026-04-06T11:54:11.058576+00:00,US,SEC,8-K,,,,"8-K - INOVIO PHARMACEUTICALS, INC. (0001055726) (Filer)",https://www.sec.gov/Archives/edgar/data/1055726/000119312526142885/0001193125-26-142885-index.htm
-2026-04-06T10:57:51.449884+00:00,US,SEC,8-K,,,,"8-K - Cycurion, Inc. (0001868419) (Filer)",https://www.sec.gov/Archives/edgar/data/1868419/000186841926000014/0001868419-26-000014-index.htm
-2026-04-06T10:57:51.449905+00:00,US,SEC,8-K,,,,8-K - Playtika Holding Corp. (0001828016) (Filer),https://www.sec.gov/Archives/edgar/data/1828016/000182801626000015/0001828016-26-000015-index.htm
-2026-04-06T10:57:51.449920+00:00,US,SEC,8-K,,,,8-K - BIOGEN INC. (0000875045) (Filer),https://www.sec.gov/Archives/edgar/data/875045/000087504526000039/0000875045-26-000039-index.htm
-2026-04-06T10:57:51.449966+00:00,US,SEC,8-K,,,,8-K - Greenpro Capital Corp. (0001597846) (Filer),https://www.sec.gov/Archives/edgar/data/1597846/000149315226015220/0001493152-26-015220-index.htm
-2026-04-03T20:37:32.819086+00:00,US,SEC,8-K,,,,8-K - Blue Owl Digital Infrastructure Trust (0002069692) (Filer),https://www.sec.gov/Archives/edgar/data/2069692/000206969226000022/0002069692-26-000022-index.htm
-2026-04-03T19:02:49.003467+00:00,US,SEC,8-K,,,,"8-K - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer)",https://www.sec.gov/Archives/edgar/data/1959961/000119312526141992/0001193125-26-141992-index.htm
-2026-04-03T16:41:57.176791+00:00,US,SEC,8-K,,,,8-K - CITIGROUP COMMERCIAL MORTGAGE TRUST 2016-C3 (0001687605) (Filer),https://www.sec.gov/Archives/edgar/data/1687605/000119312526141700/0001193125-26-141700-index.htm
