@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-08-26T13:29:28.010265+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SPRUCE POWER HOLDING CORP (0001772720) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1772720/000162828026059001/0001628280-26-059001-index.htm"
+  },
+  {
     "time_utc": "2026-08-26T12:20:07.575119+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Enertopia Corp. (0001346022) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1346022/000106299326001851/0001062993-26-001851-index.htm"
-  },
-  {
-    "time_utc": "2026-04-06T13:13:35.931141+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Nerdy Inc. (0001819404) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1819404/000181940426000035/0001819404-26-000035-index.htm"
   }
 ]
