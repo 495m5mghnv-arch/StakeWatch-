@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-08-27T12:53:12.081448+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Evolution Metals & Technologies Corp. (0001866226) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026094170/0001213900-26-094170-index.htm"
+  },
+  {
+    "time_utc": "2026-08-27T12:53:12.081492+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Glucotrack, Inc. (0001506983) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226040332/0001493152-26-040332-index.htm"
+  },
+  {
     "time_utc": "2026-08-26T13:29:28.010265+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - BITGO HOLDINGS, INC. (0001740604) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1740604/000174060426000024/0001740604-26-000024-index.htm"
-  },
-  {
-    "time_utc": "2026-04-06T13:13:35.931125+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FuboTV Inc. (0001484769) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1484769/000149315226015252/0001493152-26-015252-index.htm"
-  },
-  {
-    "time_utc": "2026-04-06T13:13:35.931134+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Enertopia Corp. (0001346022) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1346022/000106299326001851/0001062993-26-001851-index.htm"
   }
 ]
