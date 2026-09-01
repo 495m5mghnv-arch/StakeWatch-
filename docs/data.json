@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-09-01T11:47:35.810835+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Keurig Dr Pepper Inc. (0001418135) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000055/0001418135-26-000055-index.htm"
+  },
+  {
+    "time_utc": "2026-09-01T11:47:35.810854+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Indaptus Therapeutics, Inc. (0001857044) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1857044/000149315226040926/0001493152-26-040926-index.htm"
+  },
+  {
+    "time_utc": "2026-09-01T11:47:35.810863+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HUMANA INC (0000049071) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/49071/000004907126000052/0000049071-26-000052-index.htm"
+  },
+  {
+    "time_utc": "2026-09-01T11:47:35.810868+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Yum China Holdings, Inc. (0001673358) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526377525/0001193125-26-377525-index.htm"
+  },
+  {
+    "time_utc": "2026-09-01T11:47:35.810928+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Invivyd, Inc. (0001832038) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1832038/000119312526377493/0001193125-26-377493-index.htm"
+  },
+  {
     "time_utc": "2026-08-27T12:53:12.081448+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - BRINKS CO (0000078890) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/78890/000007889026000021/0000078890-26-000021-index.htm"
-  },
-  {
-    "time_utc": "2026-04-06T20:52:50.906979+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GEOSPACE TECHNOLOGIES CORP (0001001115) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1001115/000143774926011402/0001437749-26-011402-index.htm"
-  },
-  {
-    "time_utc": "2026-04-06T19:16:45.884906+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sculptor Diversified Real Estate Income Trust, Inc. (0001914496) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1914496/000191449626000048/0001914496-26-000048-index.htm"
-  },
-  {
-    "time_utc": "2026-04-06T17:03:24.592825+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DONEGAL GROUP INC (0000800457) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/800457/000117184326002252/0001171843-26-002252-index.htm"
-  },
-  {
-    "time_utc": "2026-04-06T13:13:35.931089+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Unicycive Therapeutics, Inc. (0001766140) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1766140/000121390026040179/0001213900-26-040179-index.htm"
-  },
-  {
-    "time_utc": "2026-04-06T13:13:35.931119+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BITGO HOLDINGS, INC. (0001740604) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1740604/000174060426000024/0001740604-26-000024-index.htm"
   }
 ]
