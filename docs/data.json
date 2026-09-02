@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-09-02T10:53:28.964946+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - U.S. GoldMining Inc. (0001947244) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1947244/000149315226041149/0001493152-26-041149-index.htm"
+  },
+  {
+    "time_utc": "2026-09-02T10:53:28.964991+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Vertiv Holdings Co (0001674101) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1674101/000119312526379306/0001193125-26-379306-index.htm"
+  },
+  {
     "time_utc": "2026-09-01T18:48:27.734026+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - WW INTERNATIONAL, INC. (0000105319) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/105319/000119312526144543/0001193125-26-144543-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T11:38:12.914064+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Boxlight Corp (0001624512) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1624512/000162828026023984/0001628280-26-023984-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T11:38:12.914133+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PALVELLA THERAPEUTICS, INC. (0001583648) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1583648/000119312526144540/0001193125-26-144540-index.htm"
   }
 ]
