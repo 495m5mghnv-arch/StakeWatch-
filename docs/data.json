@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-09-02T14:58:59.965131+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Exascale Labs Holdings Inc. (0002109869) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2109869/000182912626009632/0001829126-26-009632-index.htm"
+  },
+  {
     "time_utc": "2026-09-02T10:53:28.964946+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Prairie Operating Co. (0001162896) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1162896/000114036126013492/0001140361-26-013492-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T11:38:12.914036+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - WW INTERNATIONAL, INC. (0000105319) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/105319/000119312526144543/0001193125-26-144543-index.htm"
   }
 ]
