@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-09-04T19:52:01.269436+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - King Resources, Inc. (0000774415) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/774415/000168316826006960/0001683168-26-006960-index.htm"
+  },
+  {
     "time_utc": "2026-09-04T14:18:23.541636+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - bioAffinity Technologies, Inc. (0001712762) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1712762/000149315226015445/0001493152-26-015445-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T12:41:55.300668+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Azenta, Inc. (0000933974) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/933974/000143774926011542/0001437749-26-011542-index.htm"
   }
 ]
