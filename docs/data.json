@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-09-08T13:51:20.742142+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1330399/000133039926000113/0001330399-26-000113-index.htm"
+  },
+  {
+    "time_utc": "2026-09-08T13:51:20.742159+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Philip Morris International Inc. (0001413329) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026060822/0001628280-26-060822-index.htm"
+  },
+  {
+    "time_utc": "2026-09-08T13:51:20.742216+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - QNB CORP. (0000750558) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/750558/000119312526384550/0001193125-26-384550-index.htm"
+  },
+  {
     "time_utc": "2026-09-04T19:52:01.269436+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000091/0001527541-26-000091-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T12:41:55.300650+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - T3 Defense Inc. (0001787518) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026040713/0001213900-26-040713-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T12:41:55.300655+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226015446/0001493152-26-015446-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T12:41:55.300660+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - bioAffinity Technologies, Inc. (0001712762) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1712762/000149315226015445/0001493152-26-015445-index.htm"
   }
 ]
