@@ -1,5 +1,104 @@
 [
   {
+    "time_utc": "2026-09-08T20:19:42.457634+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - BridgeBio Oncology Therapeutics, Inc. (0001869105) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1869105/000119312526385225/0001193125-26-385225-index.htm"
+  },
+  {
+    "time_utc": "2026-09-08T20:19:42.457661+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ESTEE LAUDER COMPANIES INC (0001001250) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1001250/000100125026000045/0001001250-26-000045-index.htm"
+  },
+  {
+    "time_utc": "2026-09-08T20:19:42.457670+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Copper Property CTL Pass Through Trust (0001837671) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1837671/000183767126000075/0001837671-26-000075-index.htm"
+  },
+  {
+    "time_utc": "2026-09-08T20:19:42.457678+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Satellogic Inc. (0001874315) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1874315/000187431526000042/0001874315-26-000042-index.htm"
+  },
+  {
+    "time_utc": "2026-09-08T20:19:42.457680+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Shutterstock, Inc. (0001549346) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1549346/000114036126035918/0001140361-26-035918-index.htm"
+  },
+  {
+    "time_utc": "2026-09-08T20:19:42.457693+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Mission Produce, Inc. (0001802974) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1802974/000180297426000042/0001802974-26-000042-index.htm"
+  },
+  {
+    "time_utc": "2026-09-08T20:19:42.457696+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Invesco Commercial Real Estate Finance Trust, Inc. (0001976927) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1976927/000197692726000069/0001976927-26-000069-index.htm"
+  },
+  {
+    "time_utc": "2026-09-08T20:19:42.457699+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Adicet Bio, Inc. (0001720580) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1720580/000172058026000056/0001720580-26-000056-index.htm"
+  },
+  {
+    "time_utc": "2026-09-08T20:19:42.457702+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CBRE GLOBAL REAL ESTATE INCOME FUND (0001268884) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1268884/000119312526385219/0001193125-26-385219-index.htm"
+  },
+  {
     "time_utc": "2026-09-08T13:51:20.742142+00:00",
     "region": "US",
     "source": "SEC",
@@ -21899,104 +21998,5 @@
     "percent": "",
     "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426003291/0001654954-26-003291-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T17:43:44.157857+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000082/0001331754-26-000082-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T17:43:44.157870+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MEXICO FUND INC (0000065433) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/65433/000165495426003289/0001654954-26-003289-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T15:49:49.226988+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AI Era Corp. (0001605331) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1605331/000166357726000096/0001663577-26-000096-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T12:41:55.300557+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Rithm Perpetual Life Residential Trust (0002081628) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2081628/000162828026023988/0001628280-26-023988-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T12:41:55.300593+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ABEONA THERAPEUTICS INC. (0000318306) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/318306/000149315226015451/0001493152-26-015451-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T12:41:55.300600+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Jaguar Health, Inc. (0001585608) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1585608/000119312526144604/0001193125-26-144604-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T12:41:55.300605+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Transcode Therapeutics, Inc. (0001829635) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1829635/000110465926040171/0001104659-26-040171-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T12:41:55.300614+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SS Innovations International, Inc. (0001676163) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1676163/000121390026040714/0001213900-26-040714-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T12:41:55.300641+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000091/0001527541-26-000091-index.htm"
   }
 ]
