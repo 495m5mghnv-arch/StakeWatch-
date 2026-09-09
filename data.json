@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-09-09T14:25:52.176589+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Barinthus Biotherapeutics plc. (0001828185) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1828185/000110465926106183/0001104659-26-106183-index.htm"
+  },
+  {
+    "time_utc": "2026-09-09T14:25:52.176621+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NorthWestern Energy Group, Inc. (0001993004) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1993004/000199300426000054/0001993004-26-000054-index.htm"
+  },
+  {
+    "time_utc": "2026-09-09T14:25:52.176692+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Lexaria Bioscience Corp. (0001348362) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1348362/000164033426001468/0001640334-26-001468-index.htm"
+  },
+  {
     "time_utc": "2026-09-08T20:19:42.457634+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - FENNEC PHARMACEUTICALS INC. (0001211583) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1211583/000110465926040414/0001104659-26-040414-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T19:45:37.298328+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NutriBand Inc. (0001676047) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1676047/000121390026041006/0001213900-26-041006-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T19:45:37.298376+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - EQT Exeter Real Estate Income Trust, Inc. (0001946997) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1946997/000119312526145443/0001193125-26-145443-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T17:43:44.157829+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426003291/0001654954-26-003291-index.htm"
   }
 ]
