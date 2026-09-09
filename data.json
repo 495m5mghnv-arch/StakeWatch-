@@ -1,5 +1,71 @@
 [
   {
+    "time_utc": "2026-09-09T20:33:29.291275+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ALICO, INC. (0000003545) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/3545/000000354526000047/0000003545-26-000047-index.htm"
+  },
+  {
+    "time_utc": "2026-09-09T20:33:29.291311+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMERICOLD REALTY TRUST (0001455863) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1455863/000162828026061151/0001628280-26-061151-index.htm"
+  },
+  {
+    "time_utc": "2026-09-09T20:33:29.291316+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CENTERPOINT ENERGY INC (0001130310) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1130310/000110465926106356/0001104659-26-106356-index.htm"
+  },
+  {
+    "time_utc": "2026-09-09T20:33:29.291320+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CENTERPOINT ENERGY RESOURCES CORP (0001042773) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1042773/000110465926106356/0001104659-26-106356-index.htm"
+  },
+  {
+    "time_utc": "2026-09-09T20:33:29.291324+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CENTERPOINT ENERGY HOUSTON ELECTRIC LLC (0000048732) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/48732/000110465926106356/0001104659-26-106356-index.htm"
+  },
+  {
+    "time_utc": "2026-09-09T20:33:29.291331+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tianci International, Inc. (0001557798) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1557798/000168316826007038/0001683168-26-007038-index.htm"
+  },
+  {
     "time_utc": "2026-09-09T17:55:10.628046+00:00",
     "region": "US",
     "source": "SEC",
@@ -21932,71 +21998,5 @@
     "percent": "",
     "title": "8-K - EXXON MOBIL CORP (0000034088) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000056/0000034088-26-000056-index.htm"
-  },
-  {
-    "time_utc": "2026-04-08T10:57:47.317533+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Brookfield Asset Management Ltd. (0001937926) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1937926/000117184326002317/0001171843-26-002317-index.htm"
-  },
-  {
-    "time_utc": "2026-04-08T10:57:47.317568+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DELTA AIR LINES, INC. (0000027904) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000020/0000027904-26-000020-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T21:25:41.107492+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - VISIUM TECHNOLOGIES, INC. (0001082733) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1082733/000165495426003315/0001654954-26-003315-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T20:29:52.953399+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PSQ Holdings, Inc. (0001847064) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1847064/000110465926040415/0001104659-26-040415-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T20:29:52.953436+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Editas Medicine, Inc. (0001650664) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1650664/000165066426000030/0001650664-26-000030-index.htm"
-  },
-  {
-    "time_utc": "2026-04-07T20:29:52.953460+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AEHR TEST SYSTEMS (0001040470) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1040470/000165495426003310/0001654954-26-003310-index.htm"
   }
 ]

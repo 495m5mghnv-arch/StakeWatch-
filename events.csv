@@ -1,4 +1,10 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-09-09T20:33:29.291275+00:00,US,SEC,8-K,,,,"8-K - ALICO, INC. (0000003545) (Filer)",https://www.sec.gov/Archives/edgar/data/3545/000000354526000047/0000003545-26-000047-index.htm
+2026-09-09T20:33:29.291311+00:00,US,SEC,8-K,,,,8-K - AMERICOLD REALTY TRUST (0001455863) (Filer),https://www.sec.gov/Archives/edgar/data/1455863/000162828026061151/0001628280-26-061151-index.htm
+2026-09-09T20:33:29.291316+00:00,US,SEC,8-K,,,,8-K - CENTERPOINT ENERGY INC (0001130310) (Filer),https://www.sec.gov/Archives/edgar/data/1130310/000110465926106356/0001104659-26-106356-index.htm
+2026-09-09T20:33:29.291320+00:00,US,SEC,8-K,,,,8-K - CENTERPOINT ENERGY RESOURCES CORP (0001042773) (Filer),https://www.sec.gov/Archives/edgar/data/1042773/000110465926106356/0001104659-26-106356-index.htm
+2026-09-09T20:33:29.291324+00:00,US,SEC,8-K,,,,8-K - CENTERPOINT ENERGY HOUSTON ELECTRIC LLC (0000048732) (Filer),https://www.sec.gov/Archives/edgar/data/48732/000110465926106356/0001104659-26-106356-index.htm
+2026-09-09T20:33:29.291331+00:00,US,SEC,8-K,,,,"8-K - Tianci International, Inc. (0001557798) (Filer)",https://www.sec.gov/Archives/edgar/data/1557798/000168316826007038/0001683168-26-007038-index.htm
 2026-09-09T17:55:10.628046+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer),https://www.sec.gov/Archives/edgar/data/1325814/000132581426000142/0001325814-26-000142-index.htm
 2026-09-09T14:25:52.176589+00:00,US,SEC,8-K,,,,8-K - Barinthus Biotherapeutics plc. (0001828185) (Filer),https://www.sec.gov/Archives/edgar/data/1828185/000110465926106183/0001104659-26-106183-index.htm
 2026-09-09T14:25:52.176621+00:00,US,SEC,8-K,,,,"8-K - NorthWestern Energy Group, Inc. (0001993004) (Filer)",https://www.sec.gov/Archives/edgar/data/1993004/000199300426000054/0001993004-26-000054-index.htm
@@ -1993,9 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-04-08T11:57:53.553052+00:00,US,SEC,8-K,,,,"8-K - REGENERON PHARMACEUTICALS, INC. (0000872589) (Filer)",https://www.sec.gov/Archives/edgar/data/872589/000110465926040661/0001104659-26-040661-index.htm
 2026-04-08T11:57:53.553087+00:00,US,SEC,8-K,,,,8-K - RPM INTERNATIONAL INC/DE/ (0000110621) (Filer),https://www.sec.gov/Archives/edgar/data/110621/000119312526146312/0001193125-26-146312-index.htm
 2026-04-08T10:57:47.317510+00:00,US,SEC,8-K,,,,8-K - EXXON MOBIL CORP (0000034088) (Filer),https://www.sec.gov/Archives/edgar/data/34088/000003408826000056/0000034088-26-000056-index.htm
-2026-04-08T10:57:47.317533+00:00,US,SEC,8-K,,,,8-K - Brookfield Asset Management Ltd. (0001937926) (Filer),https://www.sec.gov/Archives/edgar/data/1937926/000117184326002317/0001171843-26-002317-index.htm
-2026-04-08T10:57:47.317568+00:00,US,SEC,8-K,,,,"8-K - DELTA AIR LINES, INC. (0000027904) (Filer)",https://www.sec.gov/Archives/edgar/data/27904/000002790426000020/0000027904-26-000020-index.htm
-2026-04-07T21:25:41.107492+00:00,US,SEC,8-K,,,,"8-K - VISIUM TECHNOLOGIES, INC. (0001082733) (Filer)",https://www.sec.gov/Archives/edgar/data/1082733/000165495426003315/0001654954-26-003315-index.htm
-2026-04-07T20:29:52.953399+00:00,US,SEC,8-K,,,,"8-K - PSQ Holdings, Inc. (0001847064) (Filer)",https://www.sec.gov/Archives/edgar/data/1847064/000110465926040415/0001104659-26-040415-index.htm
-2026-04-07T20:29:52.953436+00:00,US,SEC,8-K,,,,"8-K - Editas Medicine, Inc. (0001650664) (Filer)",https://www.sec.gov/Archives/edgar/data/1650664/000165066426000030/0001650664-26-000030-index.htm
-2026-04-07T20:29:52.953460+00:00,US,SEC,8-K,,,,8-K - AEHR TEST SYSTEMS (0001040470) (Filer),https://www.sec.gov/Archives/edgar/data/1040470/000165495426003310/0001654954-26-003310-index.htm
