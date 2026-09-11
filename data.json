@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-09-11T20:00:35.494305+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - VILLAGE SUPER MARKET INC (0000103595) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/103595/000010359526000014/0000103595-26-000014-index.htm"
+  },
+  {
     "time_utc": "2026-09-11T13:53:35.142836+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - PLUS THERAPEUTICS, INC. (0001095981) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1095981/000119312526146335/0001193125-26-146335-index.htm"
-  },
-  {
-    "time_utc": "2026-04-08T11:57:53.553048+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FACTSET RESEARCH SYSTEMS INC (0001013237) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1013237/000095010326005447/0000950103-26-005447-index.htm"
   }
 ]
