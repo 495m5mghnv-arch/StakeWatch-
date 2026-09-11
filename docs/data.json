@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-09-11T13:53:35.142836+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Reliance Global Group, Inc. (0001812727) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1812727/000149315226042319/0001493152-26-042319-index.htm"
+  },
+  {
     "time_utc": "2026-09-10T20:05:01.056162+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - FACTSET RESEARCH SYSTEMS INC (0001013237) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1013237/000095010326005447/0000950103-26-005447-index.htm"
-  },
-  {
-    "time_utc": "2026-04-08T11:57:53.553052+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - REGENERON PHARMACEUTICALS, INC. (0000872589) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/872589/000110465926040661/0001104659-26-040661-index.htm"
   }
 ]
