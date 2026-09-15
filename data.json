@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-09-15T19:16:11.361604+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Veradigm Inc. (0001124804) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1124804/000119312526391794/0001193125-26-391794-index.htm"
+  },
+  {
     "time_utc": "2026-09-15T15:41:07.654036+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - VALMONT INDUSTRIES INC (0000102729) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/102729/000110465926041226/0001104659-26-041226-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T11:41:18.650325+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DAKTRONICS INC /SD/ (0000915779) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/915779/000162828026024340/0001628280-26-024340-index.htm"
   }
 ]
