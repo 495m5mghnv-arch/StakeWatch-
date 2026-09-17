@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-09-17T14:10:24.657972+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000183/0001331754-26-000183-index.htm"
+  },
+  {
     "time_utc": "2026-09-16T21:44:37.237127+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - COLGATE PALMOLIVE CO (0000021665) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/21665/000002166526000015/0000021665-26-000015-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T11:41:18.650270+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PMGC Holdings Inc. (0001840563) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1840563/000121390026041738/0001213900-26-041738-index.htm"
   }
 ]
