@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-09-17T21:28:49.440608+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DataMeds AI, Inc. (0002030763) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226043169/0001493152-26-043169-index.htm"
+  },
+  {
     "time_utc": "2026-09-17T14:10:24.657972+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - SCOTTS MIRACLE-GRO CO (0000825542) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/825542/000082554226000017/0000825542-26-000017-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T12:49:06.827160+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - COLGATE PALMOLIVE CO (0000021665) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/21665/000002166526000015/0000021665-26-000015-index.htm"
   }
 ]
