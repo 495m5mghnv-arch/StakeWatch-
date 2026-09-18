@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-09-18T21:13:37.517342+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - InMed Pharmaceuticals Inc. (0001728328) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1728328/000121390026101492/0001213900-26-101492-index.htm"
+  },
+  {
+    "time_utc": "2026-09-18T21:13:37.517368+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Glucotrack, Inc. (0001506983) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226043389/0001493152-26-043389-index.htm"
+  },
+  {
+    "time_utc": "2026-09-18T21:13:37.517428+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Paradium.AI, Inc. (0000894871) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/894871/000149315226043382/0001493152-26-043382-index.htm"
+  },
+  {
     "time_utc": "2026-09-18T11:46:58.140248+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226015825/0001493152-26-015825-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T12:49:06.827075+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SEALED AIR CORP/DE (0001012100) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1012100/000119312526148959/0001193125-26-148959-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T12:49:06.827115+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Eos Energy Enterprises, Inc. (0001805077) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026024345/0001628280-26-024345-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T12:49:06.827130+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Prairie Operating Co. (0001162896) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1162896/000114036126013932/0001140361-26-013932-index.htm"
   }
 ]
