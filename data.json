@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-09-18T11:46:58.140248+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Beneficient (0001775734) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1775734/000149315226043234/0001493152-26-043234-index.htm"
+  },
+  {
+    "time_utc": "2026-09-18T11:46:58.140279+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Ready Capital Corp (0001527590) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1527590/000162828026062620/0001628280-26-062620-index.htm"
+  },
+  {
     "time_utc": "2026-09-17T21:28:49.440608+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Prairie Operating Co. (0001162896) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1162896/000114036126013932/0001140361-26-013932-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T12:49:06.827135+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sonoma Pharmaceuticals, Inc. (0001367083) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1367083/000168316826002761/0001683168-26-002761-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T12:49:06.827151+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SCOTTS MIRACLE-GRO CO (0000825542) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/825542/000082554226000017/0000825542-26-000017-index.htm"
   }
 ]
