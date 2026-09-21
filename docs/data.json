@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-09-21T18:45:54.269571+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Barings Private Credit Corp (0001859919) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1859919/000185991926000084/0001859919-26-000084-index.htm"
+  },
+  {
     "time_utc": "2026-09-21T13:15:00.019572+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - New ERA Energy & Digital, Inc. (0002028336) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2028336/000121390026042161/0001213900-26-042161-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T20:36:40.061705+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TPG Inc. (0001880661) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1880661/000188066126000019/0001880661-26-000019-index.htm"
   }
 ]
