@@ -1,5 +1,104 @@
 [
   {
+    "time_utc": "2026-09-21T13:15:00.019572+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - DICK'S SPORTING GOODS, INC. (0001089063) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1089063/000114036126037192/0001140361-26-037192-index.htm"
+  },
+  {
+    "time_utc": "2026-09-21T13:15:00.019594+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - InspireMD, Inc. (0001433607) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1433607/000149315226043488/0001493152-26-043488-index.htm"
+  },
+  {
+    "time_utc": "2026-09-21T13:15:00.019604+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1805521/000121390026101673/0001213900-26-101673-index.htm"
+  },
+  {
+    "time_utc": "2026-09-21T13:15:00.019608+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - RECURSION PHARMACEUTICALS, INC. (0001601830) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000112/0001601830-26-000112-index.htm"
+  },
+  {
+    "time_utc": "2026-09-21T13:15:00.019660+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Coursera, Inc. (0001651562) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1651562/000114036126037189/0001140361-26-037189-index.htm"
+  },
+  {
+    "time_utc": "2026-09-21T13:15:00.019664+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - STRATS SM TRUST FOR WAL-MART STORES, INC. SECURITIES, SERIES 2005-4 (0001340909) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1340909/000199937126020928/0001999371-26-020928-index.htm"
+  },
+  {
+    "time_utc": "2026-09-21T13:15:00.019677+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - STRATS SM TRUST FOR Goldman Sachs Cap I SEC SERIES 2005-3 (0001339920) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1339920/000199937126020925/0001999371-26-020925-index.htm"
+  },
+  {
+    "time_utc": "2026-09-21T13:15:00.019685+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - STRATS(SM) TRUST FOR DOMINION RESOURCES, INC. SECURITIES, SERIES 2005-6 (0001343491) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1343491/000199937126020923/0001999371-26-020923-index.htm"
+  },
+  {
+    "time_utc": "2026-09-21T13:15:00.019695+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - STRATS(SM) Trust For Goldman Sachs Capital I Securities, Series 2005-1 (0001328989) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1328989/000199937126020922/0001999371-26-020922-index.htm"
+  },
+  {
     "time_utc": "2026-09-18T21:13:37.517342+00:00",
     "region": "US",
     "source": "SEC",
@@ -21899,104 +21998,5 @@
     "percent": "",
     "title": "8-K - TPG Inc. (0001880661) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1880661/000188066126000019/0001880661-26-000019-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T20:36:40.061732+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Wellgistics Health, Inc. (0002030763) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226015898/0001493152-26-015898-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T20:36:40.061758+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FS KKR Capital Corp (0001422183) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1422183/000110465926041534/0001104659-26-041534-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T20:36:40.061807+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Atlas Energy Solutions Inc. (0001984060) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1984060/000114036126014025/0001140361-26-014025-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T18:32:33.531365+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000068/0001331463-26-000068-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T16:07:33.475364+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NATIONAL BANKSHARES INC (0000796534) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/796534/000119312526149194/0001193125-26-149194-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T16:07:33.475410+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000074/0001325878-26-000074-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T14:45:20.204937+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PURE CYCLE CORP (0000276720) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/276720/000110465926041286/0001104659-26-041286-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T14:45:20.204952+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000065/0001331451-26-000065-index.htm"
-  },
-  {
-    "time_utc": "2026-04-09T12:49:06.827061+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226015825/0001493152-26-015825-index.htm"
   }
 ]
