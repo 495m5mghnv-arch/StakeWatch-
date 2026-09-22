@@ -1,5 +1,137 @@
 [
   {
+    "time_utc": "2026-09-22T11:05:03.017139+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COGNEX CORP (0000851205) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/851205/000085120526000071/0000851205-26-000071-index.htm"
+  },
+  {
+    "time_utc": "2026-09-22T11:05:03.017161+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PERMA FIX ENVIRONMENTAL SERVICES INC (0000891532) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/891532/000149315226043642/0001493152-26-043642-index.htm"
+  },
+  {
+    "time_utc": "2026-09-22T11:05:03.017168+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PetVivo Holdings, Inc. (0001512922) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1512922/000149315226043639/0001493152-26-043639-index.htm"
+  },
+  {
+    "time_utc": "2026-09-22T11:05:03.017173+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PetVivo Holdings, Inc. (0001512922) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1512922/000149315226043641/0001493152-26-043641-index.htm"
+  },
+  {
+    "time_utc": "2026-09-22T11:05:03.017182+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AUTOZONE INC (0000866787) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/866787/000117184326006159/0001171843-26-006159-index.htm"
+  },
+  {
+    "time_utc": "2026-09-22T11:05:03.017194+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Circle Internet Group, Inc. (0001876042) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000276/0001876042-26-000276-index.htm"
+  },
+  {
+    "time_utc": "2026-09-22T11:05:03.017201+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PENTAIR plc (0000077360) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/77360/000007736026000050/0000077360-26-000050-index.htm"
+  },
+  {
+    "time_utc": "2026-09-22T11:05:03.017216+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - U.S. GoldMining Inc. (0001947244) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1947244/000149315226043635/0001493152-26-043635-index.htm"
+  },
+  {
+    "time_utc": "2026-09-22T11:05:03.017220+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CNX Resources Corp (0001070412) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1070412/000107041226000061/0001070412-26-000061-index.htm"
+  },
+  {
+    "time_utc": "2026-09-22T11:05:03.017231+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - THOR INDUSTRIES INC (0000730263) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/730263/000073026326000028/0000730263-26-000028-index.htm"
+  },
+  {
+    "time_utc": "2026-09-22T11:05:03.017237+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HENRY SCHEIN INC (0001000228) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1000228/000119312526397208/0001193125-26-397208-index.htm"
+  },
+  {
+    "time_utc": "2026-09-22T11:05:03.017252+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aon plc (0000315293) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/315293/000119312526397203/0001193125-26-397203-index.htm"
+  },
+  {
     "time_utc": "2026-09-21T18:45:54.269571+00:00",
     "region": "US",
     "source": "SEC",
@@ -21866,137 +21998,5 @@
     "percent": "",
     "title": "8-K - UNIVERSAL INSURANCE HOLDINGS, INC. (0000891166) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/891166/000089116626000039/0000891166-26-000039-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T13:48:52.899372+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Upland Software, Inc. (0001505155) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1505155/000150515526000015/0001505155-26-000015-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T12:08:34.971530+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Trio Petroleum Corp (0001898766) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1898766/000149315226016048/0001493152-26-016048-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T12:08:34.971551+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Invesco Ltd. (0000914208) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000097/0000914208-26-000097-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T12:08:34.971567+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CUMULUS MEDIA INC (0001058623) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1058623/000105862326000017/0001058623-26-000017-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T12:08:34.971577+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Lantern Pharma Inc. (0001763950) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226016047/0001493152-26-016047-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T12:08:34.971592+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Core & Main, Inc. (0001856525) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1856525/000119312526150369/0001193125-26-150369-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T12:08:34.971596+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Trinity Capital Inc. (0001786108) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1786108/000119312526150368/0001193125-26-150368-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T11:29:52.248933+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Angel Studios, Inc. (0001865200) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1865200/000110465926041758/0001104659-26-041758-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T11:29:52.248976+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BRINKS CO (0000078890) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/78890/000007889026000031/0000078890-26-000031-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T11:29:52.248983+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - C4 Therapeutics, Inc. (0001662579) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026024583/0001628280-26-024583-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T11:29:52.248990+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - OCCIDENTAL PETROLEUM CORP /DE/ (0000797468) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/797468/000162828026024581/0001628280-26-024581-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T10:33:58.423937+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - New ERA Energy & Digital, Inc. (0002028336) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2028336/000121390026042161/0001213900-26-042161-index.htm"
   }
 ]
