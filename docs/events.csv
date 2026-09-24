@@ -1,4 +1,7 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-09-24T18:33:48.054222+00:00,US,SEC,8-K,,,,8-K - CarMax Select Receivables Trust 2026-C (0002150707) (Filer),https://www.sec.gov/Archives/edgar/data/2150707/000119312526400886/0001193125-26-400886-index.htm
+2026-09-24T18:33:48.054245+00:00,US,SEC,8-K,,,,8-K - CARMAX AUTO FUNDING LLC (0001259380) (Filer),https://www.sec.gov/Archives/edgar/data/1259380/000119312526400886/0001193125-26-400886-index.htm
+2026-09-24T18:33:48.054308+00:00,US,SEC,8-K,,,,8-K - Exeter Select Automobile Receivables Trust 2026-2 (0002153522) (Filer),https://www.sec.gov/Archives/edgar/data/2153522/000092963826003629/0000929638-26-003629-index.htm
 2026-09-23T21:49:37.272215+00:00,US,SEC,8-K,,,,"8-K - Tri-State Generation & Transmission Association, Inc. (0001637880) (Filer)",https://www.sec.gov/Archives/edgar/data/1637880/000163788026000044/0001637880-26-000044-index.htm
 2026-09-23T18:40:37.169367+00:00,US,SEC,8-K,,,,8-K - Columbus Acquisition Corp/Cayman Islands (0002028201) (Filer),https://www.sec.gov/Archives/edgar/data/2028201/000121390026102547/0001213900-26-102547-index.htm
 2026-09-23T14:45:29.293152+00:00,US,SEC,8-K,,,,8-K - Ondas Inc. (0001646188) (Filer),https://www.sec.gov/Archives/edgar/data/1646188/000121390026102458/0001213900-26-102458-index.htm
@@ -1996,6 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-04-13T10:20:17.741732+00:00,US,SEC,8-K,,,,"8-K - IDEAYA Biosciences, Inc. (0001676725) (Filer)",https://www.sec.gov/Archives/edgar/data/1676725/000119312526151893/0001193125-26-151893-index.htm
 2026-04-10T21:38:44.353910+00:00,US,SEC,8-K,,,,8-K - Contango Silver & Gold Inc. (0001502377) (Filer),https://www.sec.gov/Archives/edgar/data/1502377/000150237726000003/0001502377-26-000003-index.htm
 2026-04-10T20:53:03.845603+00:00,US,SEC,8-K,,,,8-K - GM Financial Consumer Automobile Receivables Trust 2026-2 (0002116462) (Filer),https://www.sec.gov/Archives/edgar/data/2116462/000119312526151404/0001193125-26-151404-index.htm
-2026-04-10T20:53:03.845625+00:00,US,SEC,8-K,,,,8-K - AFS SENSUB CORP. (0001347185) (Filer),https://www.sec.gov/Archives/edgar/data/1347185/000119312526151404/0001193125-26-151404-index.htm
-2026-04-10T20:53:03.845663+00:00,US,SEC,8-K,,,,8-K - Longeveron Inc. (0001721484) (Filer),https://www.sec.gov/Archives/edgar/data/1721484/000121390026042565/0001213900-26-042565-index.htm
-2026-04-10T20:53:03.845668+00:00,US,SEC,8-K,,,,8-K - ACP Holdings Acquisition Corp. (0002111542) (Filer),https://www.sec.gov/Archives/edgar/data/2111542/000121390026042564/0001213900-26-042564-index.htm
