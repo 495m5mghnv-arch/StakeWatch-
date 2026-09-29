@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-09-29T19:55:22.181237+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1959961/000119312526407222/0001193125-26-407222-index.htm"
+  },
+  {
     "time_utc": "2026-09-24T18:33:48.054222+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Contango Silver & Gold Inc. (0001502377) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1502377/000150237726000003/0001502377-26-000003-index.htm"
-  },
-  {
-    "time_utc": "2026-04-10T20:53:03.845603+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GM Financial Consumer Automobile Receivables Trust 2026-2 (0002116462) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2116462/000119312526151404/0001193125-26-151404-index.htm"
   }
 ]
