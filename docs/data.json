@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-10-05T11:46:26.731053+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Distribution Solutions Group, Inc. (0000703604) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/703604/000119312526413150/0001193125-26-413150-index.htm"
+  },
+  {
+    "time_utc": "2026-10-05T11:46:26.731076+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Matador Resources Co (0001520006) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1520006/000152000626000050/0001520006-26-000050-index.htm"
+  },
+  {
+    "time_utc": "2026-10-05T11:46:26.731093+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HARROW, INC. (0001360214) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1360214/000162828026064749/0001628280-26-064749-index.htm"
+  },
+  {
+    "time_utc": "2026-10-05T11:46:26.731123+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PTC INC. (0000857005) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/857005/000119312526413124/0001193125-26-413124-index.htm"
+  },
+  {
+    "time_utc": "2026-10-05T11:46:26.731142+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEIGHBORHOOD INTELLIGENCE, INC. (0001130713) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1130713/000114036126038532/0001140361-26-038532-index.htm"
+  },
+  {
     "time_utc": "2026-10-01T11:30:54.839190+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - HERBALIFE LTD. (0001180262) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1180262/000121390026043269/0001213900-26-043269-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T11:56:57.464452+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - HPS Corporate Lending Fund (0001838126) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1838126/000162828026024994/0001628280-26-024994-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T11:56:57.464470+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Lucid Group, Inc. (0001811210) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1811210/000110465926042873/0001104659-26-042873-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T11:56:57.464504+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - JOHNSON & JOHNSON (0000200406) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000076/0000200406-26-000076-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T11:56:57.464512+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Profound Medical Corp. (0001628808) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1628808/000117184326002426/0001171843-26-002426-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T11:56:57.464523+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Albertsons Companies, Inc. (0001646972) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1646972/000164697226000028/0001646972-26-000028-index.htm"
   }
 ]
