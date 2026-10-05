@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-10-05T19:51:17.247142+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2035428/000203542826000064/0002035428-26-000064-index.htm"
+  },
+  {
     "time_utc": "2026-10-05T11:46:26.731053+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - CITIGROUP INC (0000831001) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/831001/000110465926042942/0001104659-26-042942-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T13:58:27.064897+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - HERBALIFE LTD. (0001180262) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1180262/000121390026043269/0001213900-26-043269-index.htm"
   }
 ]
