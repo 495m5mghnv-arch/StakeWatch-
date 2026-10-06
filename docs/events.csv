@@ -1,4 +1,5 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-10-06T14:24:33.541958+00:00,US,SEC,8-K,,,,8-K - Rithm Perpetual Life Residential Trust (0002081628) (Filer),https://www.sec.gov/Archives/edgar/data/2081628/000162828026065197/0001628280-26-065197-index.htm
 2026-10-05T19:51:17.247142+00:00,US,SEC,8-K,,,,"8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer)",https://www.sec.gov/Archives/edgar/data/2035428/000203542826000064/0002035428-26-000064-index.htm
 2026-10-05T11:46:26.731053+00:00,US,SEC,8-K,,,,"8-K - Distribution Solutions Group, Inc. (0000703604) (Filer)",https://www.sec.gov/Archives/edgar/data/703604/000119312526413150/0001193125-26-413150-index.htm
 2026-10-05T11:46:26.731076+00:00,US,SEC,8-K,,,,8-K - Matador Resources Co (0001520006) (Filer),https://www.sec.gov/Archives/edgar/data/1520006/000152000626000050/0001520006-26-000050-index.htm
@@ -1998,4 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-04-14T17:47:23.823059+00:00,US,SEC,8-K,,,,8-K - Benchmark 2018-B7 Mortgage Trust (0001757018) (Filer),https://www.sec.gov/Archives/edgar/data/1757018/000188852426006740/0001888524-26-006740-index.htm
 2026-04-14T15:19:48.996687+00:00,US,SEC,8-K,,,,"8-K - Perma-Pipe International Holdings, Inc. (0000914122) (Filer)",https://www.sec.gov/Archives/edgar/data/914122/000143774926012209/0001437749-26-012209-index.htm
 2026-04-14T13:58:27.064821+00:00,US,SEC,8-K,,,,8-K - BeOne Medicines Ltd. (0001651308) (Filer),https://www.sec.gov/Archives/edgar/data/1651308/000165130826000008/0001651308-26-000008-index.htm
-2026-04-14T13:58:27.064884+00:00,US,SEC,8-K,,,,8-K - CITIGROUP INC (0000831001) (Filer),https://www.sec.gov/Archives/edgar/data/831001/000110465926042942/0001104659-26-042942-index.htm

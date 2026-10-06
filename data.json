@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-10-06T14:24:33.541958+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Rithm Perpetual Life Residential Trust (0002081628) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2081628/000162828026065197/0001628280-26-065197-index.htm"
+  },
+  {
     "time_utc": "2026-10-05T19:51:17.247142+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - BeOne Medicines Ltd. (0001651308) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1651308/000165130826000008/0001651308-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T13:58:27.064884+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CITIGROUP INC (0000831001) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/831001/000110465926042942/0001104659-26-042942-index.htm"
   }
 ]
