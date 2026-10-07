@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-10-07T21:33:58.538248+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CTT PHARMACEUTICAL HOLDINGS, INC. (0001035422) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1035422/000147793226006099/0001477932-26-006099-index.htm"
+  },
+  {
+    "time_utc": "2026-10-07T21:33:58.538281+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Scienture Holdings, Inc. (0001382574) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1382574/000149315226046176/0001493152-26-046176-index.htm"
+  },
+  {
+    "time_utc": "2026-10-07T21:33:58.538304+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CNL Strategic Capital, LLC (0001684682) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1684682/000199937126022381/0001999371-26-022381-index.htm"
+  },
+  {
     "time_utc": "2026-10-06T14:24:33.541958+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2026738/000119312526154537/0001193125-26-154537-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T17:47:23.823059+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Benchmark 2018-B7 Mortgage Trust (0001757018) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1757018/000188852426006740/0001888524-26-006740-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T15:19:48.996687+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Perma-Pipe International Holdings, Inc. (0000914122) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/914122/000143774926012209/0001437749-26-012209-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T13:58:27.064821+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BeOne Medicines Ltd. (0001651308) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1651308/000165130826000008/0001651308-26-000008-index.htm"
   }
 ]
