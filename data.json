@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-10-08T20:31:06.158951+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Lifeward Ltd. (0001607962) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1607962/000117891326004746/0001178913-26-004746-index.htm"
+  },
+  {
+    "time_utc": "2026-10-08T20:31:06.158966+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Childrens Place, Inc. (0001041859) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1041859/000110465926114716/0001104659-26-114716-index.htm"
+  },
+  {
+    "time_utc": "2026-10-08T20:31:06.158972+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Innovative Eyewear Inc (0001808377) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1808377/000182912626010910/0001829126-26-010910-index.htm"
+  },
+  {
+    "time_utc": "2026-10-08T20:31:06.158977+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OpenWorld, Inc. (0001104038) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926012713/0001214659-26-012713-index.htm"
+  },
+  {
+    "time_utc": "2026-10-08T20:31:06.158982+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Terra Innovatum Global N.V. (0002067627) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2067627/000121390026107990/0001213900-26-107990-index.htm"
+  },
+  {
+    "time_utc": "2026-10-08T20:31:06.159017+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MFA FINANCIAL, INC. (0001055160) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1055160/000110465926114714/0001104659-26-114714-index.htm"
+  },
+  {
+    "time_utc": "2026-10-08T20:31:06.159037+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CAPITAL ONE MULTI ASSET EXECUTION TRUST (0001163321) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1163321/000119312526417978/0001193125-26-417978-index.htm"
+  },
+  {
+    "time_utc": "2026-10-08T20:31:06.159042+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CAPITAL ONE FUNDING, LLC (0001162387) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1162387/000119312526417978/0001193125-26-417978-index.htm"
+  },
+  {
+    "time_utc": "2026-10-08T20:31:06.159046+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CAPITAL ONE MASTER TRUST (0000922869) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/922869/000119312526417978/0001193125-26-417978-index.htm"
+  },
+  {
+    "time_utc": "2026-10-08T20:31:06.159055+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Calisa Acquisition Corp (0002026767) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2026767/000149315226046343/0001493152-26-046343-index.htm"
+  },
+  {
     "time_utc": "2026-10-07T21:33:58.538248+00:00",
     "region": "US",
     "source": "SEC",
@@ -21888,115 +21998,5 @@
     "percent": "",
     "title": "8-K - Blaize Holdings, Inc. (0001871638) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1871638/000187163826000019/0001871638-26-000019-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T20:05:08.454909+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FIRST BUSEY CORP /NV/ (0000314489) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/314489/000031448926000024/0000314489-26-000024-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T20:05:08.454922+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - New Concept Energy, Inc. (0000105744) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/105744/000121465926004653/0001214659-26-004653-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T20:05:08.454931+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FIRST BUSINESS FINANCIAL SERVICES, INC. (0001521951) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1521951/000119312526154867/0001193125-26-154867-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T20:05:08.454943+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CERO THERAPEUTICS HOLDINGS, INC. (0001870404) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1870404/000121390026043519/0001213900-26-043519-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T20:05:08.454947+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CODEXIS, INC. (0001200375) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1200375/000119312526154866/0001193125-26-154866-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T18:52:05.463959+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PUBLIC CO MANAGEMENT CORP (0001141964) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1141964/000121465926004635/0001214659-26-004635-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T18:52:05.463980+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000056/0001326771-26-000056-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T17:47:23.822964+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426003493/0001654954-26-003493-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T17:47:23.822986+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Benchmark 2018-B4 Mortgage Trust (0001740849) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1740849/000188852426006742/0001888524-26-006742-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T17:47:23.822998+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2026738/000119312526154537/0001193125-26-154537-index.htm"
   }
 ]
