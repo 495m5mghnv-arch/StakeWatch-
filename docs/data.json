@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-10-13T20:23:11.341676+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HERTZ GLOBAL HOLDINGS, INC (0001657853) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1657853/000165785326000070/0001657853-26-000070-index.htm"
+  },
+  {
+    "time_utc": "2026-10-13T20:23:11.341690+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HERTZ CORP (0000047129) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/47129/000165785326000070/0001657853-26-000070-index.htm"
+  },
+  {
+    "time_utc": "2026-10-13T20:23:11.341709+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Enova International, Inc. (0001529864) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1529864/000119312526420462/0001193125-26-420462-index.htm"
+  },
+  {
+    "time_utc": "2026-10-13T20:23:11.341718+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - EQT Corp (0000033213) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000046/0000033213-26-000046-index.htm"
+  },
+  {
     "time_utc": "2026-10-08T20:31:06.158951+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - Meta Platforms, Inc. (0001326801) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025108/0001628280-26-025108-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T21:05:18.782950+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Illumination Acquisition Corp. I (0002101135) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2101135/000120677426000213/0001206774-26-000213-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T21:05:18.782966+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - York Space Systems Inc. (0002086587) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2086587/000119312526155061/0001193125-26-155061-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T20:05:08.454841+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SUMISHO AIR LEASE CORP (0001487712) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1487712/000119312526154873/0001193125-26-154873-index.htm"
-  },
-  {
-    "time_utc": "2026-04-14T20:05:08.454888+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Blaize Holdings, Inc. (0001871638) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1871638/000187163826000019/0001871638-26-000019-index.htm"
   }
 ]
