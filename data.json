@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-10-15T14:17:40.418502+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - QUAINT OAK BANCORP, INC. (0001391933) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1391933/000092708926000174/0000927089-26-000174-index.htm"
+  },
+  {
     "time_utc": "2026-10-14T13:06:23.021388+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - VINCE HOLDING CORP. (0001579157) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1579157/000119312526155934/0001193125-26-155934-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T11:29:47.159232+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Keen Vision Acquisition Corp. (0001889983) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1889983/000121390026043759/0001213900-26-043759-index.htm"
   }
 ]
