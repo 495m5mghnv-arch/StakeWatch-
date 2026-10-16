@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-10-16T20:04:24.530938+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Edgemode, Inc. (0001652958) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1652958/000168316826007930/0001683168-26-007930-index.htm"
+  },
+  {
+    "time_utc": "2026-10-16T20:04:24.530968+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Carlyle Credit Income Fund (0001517767) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1517767/000162828026066123/0001628280-26-066123-index.htm"
+  },
+  {
+    "time_utc": "2026-10-16T20:04:24.530990+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - aTYR PHARMA INC (0001339970) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1339970/000133997026000068/0001339970-26-000068-index.htm"
+  },
+  {
+    "time_utc": "2026-10-16T20:04:24.531003+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COPART INC (0000900075) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/900075/000119312526424052/0001193125-26-424052-index.htm"
+  },
+  {
     "time_utc": "2026-10-16T17:38:24.012999+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - ONE STOP SYSTEMS, INC. (0001394056) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1394056/000119312526156057/0001193125-26-156057-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T12:40:38.758901+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - COMMUNITY TRUST BANCORP INC /KY/ (0000350852) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/350852/000035085226000039/0000350852-26-000039-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T12:40:38.758910+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MOODYS CORP /DE/ (0001059556) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1059556/000105955626000028/0001059556-26-000028-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T11:29:47.159178+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Stereotaxis, Inc. (0001289340) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1289340/000149315226016685/0001493152-26-016685-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T11:29:47.159194+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ENTEGRIS INC (0001101302) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1101302/000110130226000095/0001101302-26-000095-index.htm"
   }
 ]
