@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-10-16T17:38:24.012999+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - LAGO Evergreen Credit (0002043759) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2043759/000119312526423790/0001193125-26-423790-index.htm"
+  },
+  {
     "time_utc": "2026-10-16T13:27:16.061222+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - ENTEGRIS INC (0001101302) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1101302/000110130226000095/0001101302-26-000095-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T11:29:47.159200+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TransDigm Group INC (0001260221) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000036/0001260221-26-000036-index.htm"
   }
 ]
