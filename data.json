@@ -1,5 +1,126 @@
 [
   {
+    "time_utc": "2026-10-19T20:06:56.656747+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000399/0001527541-26-000399-index.htm"
+  },
+  {
+    "time_utc": "2026-10-19T20:06:56.656773+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Seneca Bancorp, Inc. (0002072421) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2072421/000094337426000447/0000943374-26-000447-index.htm"
+  },
+  {
+    "time_utc": "2026-10-19T20:06:56.656793+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Torrid Holdings Inc. (0001792781) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1792781/000179278126000042/0001792781-26-000042-index.htm"
+  },
+  {
+    "time_utc": "2026-10-19T20:06:56.656802+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ENERPAC TOOL GROUP CORP (0000006955) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/6955/000114036126040100/0001140361-26-040100-index.htm"
+  },
+  {
+    "time_utc": "2026-10-19T20:06:56.656813+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Host Digital Inc. (0001948864) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1948864/000149315226047581/0001493152-26-047581-index.htm"
+  },
+  {
+    "time_utc": "2026-10-19T20:06:56.656818+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Nexentis Technologies Inc. (0001789192) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1789192/000149315226047578/0001493152-26-047578-index.htm"
+  },
+  {
+    "time_utc": "2026-10-19T20:06:56.656832+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Glucotrack, Inc. (0001506983) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226047582/0001493152-26-047582-index.htm"
+  },
+  {
+    "time_utc": "2026-10-19T20:06:56.656836+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Scienture Holdings, Inc. (0001382574) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1382574/000149315226047579/0001493152-26-047579-index.htm"
+  },
+  {
+    "time_utc": "2026-10-19T20:06:56.656843+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Polomar Health Services, Inc. (0001265521) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1265521/000149315226047580/0001493152-26-047580-index.htm"
+  },
+  {
+    "time_utc": "2026-10-19T20:06:56.656853+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - COLLEGIUM PHARMACEUTICAL, INC (0001267565) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1267565/000110465926116876/0001104659-26-116876-index.htm"
+  },
+  {
+    "time_utc": "2026-10-19T20:06:56.656864+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ServisFirst Bancshares, Inc. (0001430723) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1430723/000117184326006691/0001171843-26-006691-index.htm"
+  },
+  {
     "time_utc": "2026-10-19T14:27:55.962902+00:00",
     "region": "US",
     "source": "SEC",
@@ -21877,126 +21998,5 @@
     "percent": "",
     "title": "8-K - Global Net Lease, Inc. (0001526113) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926043986/0001104659-26-043986-index.htm"
-  },
-  {
-    "time_utc": "2026-04-16T10:15:58.095297+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Katapult Holdings, Inc. (0001785424) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1785424/000095010326005778/0000950103-26-005778-index.htm"
-  },
-  {
-    "time_utc": "2026-04-16T10:15:58.095361+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CareDx, Inc. (0001217234) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1217234/000110465926043970/0001104659-26-043970-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T21:09:09.374786+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Customers Bancorp, Inc. (0001488813) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1488813/000148881326000053/0001488813-26-000053-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T21:09:09.374813+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - YORK WATER CO (0000108985) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/108985/000114036126014830/0001140361-26-014830-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T21:09:09.374838+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Global Water Resources, Inc. (0001434728) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1434728/000162828026025290/0001628280-26-025290-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T21:09:09.374905+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Concrete Pumping Holdings, Inc. (0001703956) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1703956/000143774926012429/0001437749-26-012429-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T20:11:14.563768+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PARSONS CORP (0000275880) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/275880/000119312526157010/0001193125-26-157010-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T20:11:14.563784+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - American Strategic Investment Co. (0001595527) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1595527/000110465926043798/0001104659-26-043798-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T15:41:57.841708+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Moleculin Biotech, Inc. (0001659617) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926012325/0001437749-26-012325-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T14:18:52.982515+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TRANS LUX Corp (0000099106) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/99106/000110465926043581/0001104659-26-043581-index.htm"
-  },
-  {
-    "time_utc": "2026-04-15T14:18:52.982529+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226000575/0001731122-26-000575-index.htm"
   }
 ]
