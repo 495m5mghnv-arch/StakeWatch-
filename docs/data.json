@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-10-20T20:54:45.197862+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Host Digital Inc. (0001948864) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1948864/000149315226047777/0001493152-26-047777-index.htm"
+  },
+  {
+    "time_utc": "2026-10-20T20:54:45.197899+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Monroe Capital Enhanced Corporate Lending Fund (0002061670) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2061670/000206167026000094/0002061670-26-000094-index.htm"
+  },
+  {
+    "time_utc": "2026-10-20T20:54:45.197925+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Quartzsea Acquisition Corp (0002047455) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2047455/000182912626011353/0001829126-26-011353-index.htm"
+  },
+  {
     "time_utc": "2026-10-20T12:53:29.875123+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - DELMARVA POWER & LIGHT CO /DE/ (0000027879) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/27879/000110935726000046/0001109357-26-000046-index.htm"
-  },
-  {
-    "time_utc": "2026-04-16T16:08:03.119351+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BALTIMORE GAS & ELECTRIC CO (0000009466) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/9466/000110935726000046/0001109357-26-000046-index.htm"
-  },
-  {
-    "time_utc": "2026-04-16T16:08:03.119404+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - STAR GROUP, L.P. (0001002590) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1002590/000117184326002508/0001171843-26-002508-index.htm"
-  },
-  {
-    "time_utc": "2026-04-16T12:46:48.139445+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Onfolio Holdings, Inc (0001825452) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1825452/000165495426003581/0001654954-26-003581-index.htm"
   }
 ]
