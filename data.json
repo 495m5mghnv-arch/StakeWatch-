@@ -1,5 +1,104 @@
 [
   {
+    "time_utc": "2026-10-21T13:12:10.489265+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Banzai International, Inc. (0001826011) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1826011/000143774926033069/0001437749-26-033069-index.htm"
+  },
+  {
+    "time_utc": "2026-10-21T13:12:10.489323+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SMITH & WESSON BRANDS, INC. (0001092796) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1092796/000119312526427316/0001193125-26-427316-index.htm"
+  },
+  {
+    "time_utc": "2026-10-21T13:12:10.489330+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PLUMAS BANCORP (0001168455) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1168455/000143774926033067/0001437749-26-033067-index.htm"
+  },
+  {
+    "time_utc": "2026-10-21T13:12:10.489337+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HomeTrust Bancshares, Inc. (0001538263) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1538263/000153826326000115/0001538263-26-000115-index.htm"
+  },
+  {
+    "time_utc": "2026-10-21T13:12:10.489367+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Inmune Bio, Inc. (0001711754) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1711754/000121390026111207/0001213900-26-111207-index.htm"
+  },
+  {
+    "time_utc": "2026-10-21T13:12:10.489372+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kearny Financial Corp. (0001617242) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1617242/000094337426000450/0000943374-26-000450-index.htm"
+  },
+  {
+    "time_utc": "2026-10-21T13:12:10.489376+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NightFood Holdings, Inc. (0001593001) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1593001/000149315226047853/0001493152-26-047853-index.htm"
+  },
+  {
+    "time_utc": "2026-10-21T13:12:10.489381+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PLUMAS BANCORP (0001168455) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1168455/000143774926033066/0001437749-26-033066-index.htm"
+  },
+  {
+    "time_utc": "2026-10-21T13:12:10.489385+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Galaxy Gaming, Inc. (0000013156) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/13156/000119312526427304/0001193125-26-427304-index.htm"
+  },
+  {
     "time_utc": "2026-10-20T20:54:45.197862+00:00",
     "region": "US",
     "source": "SEC",
@@ -21899,104 +21998,5 @@
     "percent": "",
     "title": "8-K - TRUIST FINANCIAL CORP (0000092230) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000039/0000092230-26-000039-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T10:21:55.413899+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AUTOLIV INC (0001034670) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1034670/000119312526160203/0001193125-26-160203-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T10:21:55.413969+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - REGIONS FINANCIAL CORP (0001281761) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1281761/000128176126000032/0001281761-26-000032-index.htm"
-  },
-  {
-    "time_utc": "2026-04-16T20:59:40.475865+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - INTERNATIONAL BATTERY METALS LTD. (0001786318) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1786318/000119312526159235/0001193125-26-159235-index.htm"
-  },
-  {
-    "time_utc": "2026-04-16T19:59:29.143109+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Securetech Innovations, Inc. (0001703157) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1703157/000101738626000052/0001017386-26-000052-index.htm"
-  },
-  {
-    "time_utc": "2026-04-16T16:08:03.119315+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PEPCO HOLDINGS LLC (0001135971) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1135971/000110935726000046/0001109357-26-000046-index.htm"
-  },
-  {
-    "time_utc": "2026-04-16T16:08:03.119331+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - EXELON CORP (0001109357) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1109357/000110935726000046/0001109357-26-000046-index.htm"
-  },
-  {
-    "time_utc": "2026-04-16T16:08:03.119337+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - POTOMAC ELECTRIC POWER CO (0000079732) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/79732/000110935726000046/0001109357-26-000046-index.htm"
-  },
-  {
-    "time_utc": "2026-04-16T16:08:03.119342+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PECO ENERGY CO (0000078100) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/78100/000110935726000046/0001109357-26-000046-index.htm"
-  },
-  {
-    "time_utc": "2026-04-16T16:08:03.119347+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DELMARVA POWER & LIGHT CO /DE/ (0000027879) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/27879/000110935726000046/0001109357-26-000046-index.htm"
   }
 ]
