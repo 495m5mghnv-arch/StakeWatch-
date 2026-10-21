@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-10-21T21:37:02.209031+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Liberty Energy Inc. (0001694028) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1694028/000169402826000055/0001694028-26-000055-index.htm"
+  },
+  {
     "time_utc": "2026-10-21T13:12:10.489265+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - QVC INC (0001254699) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1254699/000110465926044600/0001104659-26-044600-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T11:30:14.042869+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - TRUIST FINANCIAL CORP (0000092230) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000039/0000092230-26-000039-index.htm"
   }
 ]

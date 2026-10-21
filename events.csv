@@ -1,4 +1,5 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-10-21T21:37:02.209031+00:00,US,SEC,8-K,,,,8-K - Liberty Energy Inc. (0001694028) (Filer),https://www.sec.gov/Archives/edgar/data/1694028/000169402826000055/0001694028-26-000055-index.htm
 2026-10-21T13:12:10.489265+00:00,US,SEC,8-K,,,,"8-K - Banzai International, Inc. (0001826011) (Filer)",https://www.sec.gov/Archives/edgar/data/1826011/000143774926033069/0001437749-26-033069-index.htm
 2026-10-21T13:12:10.489323+00:00,US,SEC,8-K,,,,"8-K - SMITH & WESSON BRANDS, INC. (0001092796) (Filer)",https://www.sec.gov/Archives/edgar/data/1092796/000119312526427316/0001193125-26-427316-index.htm
 2026-10-21T13:12:10.489330+00:00,US,SEC,8-K,,,,8-K - PLUMAS BANCORP (0001168455) (Filer),https://www.sec.gov/Archives/edgar/data/1168455/000143774926033067/0001437749-26-033067-index.htm
@@ -1998,4 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-04-17T11:30:14.042811+00:00,US,SEC,8-K,,,,8-K - Ally Financial Inc. (0000040729) (Filer),https://www.sec.gov/Archives/edgar/data/40729/000119312526160281/0001193125-26-160281-index.htm
 2026-04-17T11:30:14.042818+00:00,US,SEC,8-K,,,,"8-K - ROCKWELL AUTOMATION, INC (0001024478) (Filer)",https://www.sec.gov/Archives/edgar/data/1024478/000102447826000014/0001024478-26-000014-index.htm
 2026-04-17T11:30:14.042822+00:00,US,SEC,8-K,,,,8-K - QVC INC (0001254699) (Filer),https://www.sec.gov/Archives/edgar/data/1254699/000110465926044600/0001104659-26-044600-index.htm
-2026-04-17T11:30:14.042869+00:00,US,SEC,8-K,,,,8-K - TRUIST FINANCIAL CORP (0000092230) (Filer),https://www.sec.gov/Archives/edgar/data/92230/000009223026000039/0000092230-26-000039-index.htm
