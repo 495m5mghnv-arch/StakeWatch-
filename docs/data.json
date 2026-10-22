@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-10-22T19:15:48.265341+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - UTAH MEDICAL PRODUCTS INC (0000706698) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/706698/000109690626001602/0001096906-26-001602-index.htm"
+  },
+  {
+    "time_utc": "2026-10-22T19:15:48.265400+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ALLSPRING GLOBAL DIVIDEND OPPORTUNITY FUND (0001386067) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1386067/000138606726000004/0001386067-26-000004-index.htm"
+  },
+  {
     "time_utc": "2026-10-22T10:05:53.377850+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - DANAHER CORP /DE/ (0000313616) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/313616/000119312526160383/0001193125-26-160383-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T11:30:14.042756+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Global Interactive Technologies, Inc. (0001911545) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1911545/000149315226017155/0001493152-26-017155-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T11:30:14.042777+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ACM Research, Inc. (0001680062) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1680062/000162828026025599/0001628280-26-025599-index.htm"
   }
 ]
