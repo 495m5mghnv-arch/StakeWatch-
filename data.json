@@ -1,5 +1,60 @@
 [
   {
+    "time_utc": "2026-10-22T10:05:53.377850+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Allegion plc (0001579241) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1579241/000157924126000032/0001579241-26-000032-index.htm"
+  },
+  {
+    "time_utc": "2026-10-22T10:05:53.377867+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TTM TECHNOLOGIES INC (0001116942) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526428263/0001193125-26-428263-index.htm"
+  },
+  {
+    "time_utc": "2026-10-22T10:05:53.377877+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HONEYWELL INTERNATIONAL INC (0000773840) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/773840/000077384026000141/0000773840-26-000141-index.htm"
+  },
+  {
+    "time_utc": "2026-10-22T10:05:53.377884+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326005474/0001062993-26-005474-index.htm"
+  },
+  {
+    "time_utc": "2026-10-22T10:05:53.377889+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CVB FINANCIAL CORP (0000354647) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/354647/000119312526428238/0001193125-26-428238-index.htm"
+  },
+  {
     "time_utc": "2026-10-21T21:37:02.209031+00:00",
     "region": "US",
     "source": "SEC",
@@ -21943,60 +21998,5 @@
     "percent": "",
     "title": "8-K - ACM Research, Inc. (0001680062) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1680062/000162828026025599/0001628280-26-025599-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T11:30:14.042801+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Compass, Inc. (0001563190) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1563190/000156319026000089/0001563190-26-000089-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T11:30:14.042807+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - KUSTOM ENTERTAINMENT, INC. (0001342958) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1342958/000149315226017152/0001493152-26-017152-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T11:30:14.042811+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Ally Financial Inc. (0000040729) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/40729/000119312526160281/0001193125-26-160281-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T11:30:14.042818+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ROCKWELL AUTOMATION, INC (0001024478) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1024478/000102447826000014/0001024478-26-000014-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T11:30:14.042822+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - QVC INC (0001254699) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1254699/000110465926044600/0001104659-26-044600-index.htm"
   }
 ]
