@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-10-23T10:33:26.508864+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FIRST CITIZENS BANCSHARES INC /DE/ (0000798941) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/798941/000079894126000041/0000798941-26-000041-index.htm"
+  },
+  {
+    "time_utc": "2026-10-23T10:33:26.508884+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FTAI Infrastructure Inc. (0001899883) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1899883/000114036126040580/0001140361-26-040580-index.htm"
+  },
+  {
+    "time_utc": "2026-10-23T10:33:26.508896+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MARKETAXESS HOLDINGS INC (0001278021) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1278021/000119312526429420/0001193125-26-429420-index.htm"
+  },
+  {
+    "time_utc": "2026-10-23T10:33:26.508910+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AUTOLIV INC (0001034670) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1034670/000119312526429404/0001193125-26-429404-index.htm"
+  },
+  {
+    "time_utc": "2026-10-23T10:33:26.508921+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Zymeworks Inc. (0001937653) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1937653/000193765326000055/0001937653-26-000055-index.htm"
+  },
+  {
+    "time_utc": "2026-10-23T10:33:26.508930+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Zai Lab Ltd (0001704292) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1704292/000162828026066969/0001628280-26-066969-index.htm"
+  },
+  {
+    "time_utc": "2026-10-23T10:33:26.508935+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - S&P Global Inc. (0000064040) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000049/0000064040-26-000049-index.htm"
+  },
+  {
+    "time_utc": "2026-10-23T10:33:26.508946+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Limitless X Holdings Inc. (0001803977) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1803977/000149315226048160/0001493152-26-048160-index.htm"
+  },
+  {
+    "time_utc": "2026-10-23T10:33:26.508950+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - FLAGSTAR BANK, NATIONAL ASSOCIATION (0000910073) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/910073/000091007326000080/0000910073-26-000080-index.htm"
+  },
+  {
+    "time_utc": "2026-10-23T10:33:26.508965+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Primis Financial Corp. (0001325670) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1325670/000110465926118258/0001104659-26-118258-index.htm"
+  },
+  {
     "time_utc": "2026-10-22T19:15:48.265341+00:00",
     "region": "US",
     "source": "SEC",
@@ -21888,115 +21998,5 @@
     "percent": "",
     "title": "8-K - Zentalis Pharmaceuticals, Inc. (0001725160) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1725160/000172516026000020/0001725160-26-000020-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T16:15:10.500707+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SRx Health Solutions, Inc. (0001471727) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1471727/000149315226017736/0001493152-26-017736-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T12:38:42.412563+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Lumen Technologies, Inc. (0000018926) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/18926/000001892626000029/0000018926-26-000029-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T12:38:42.412581+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Nauticus Robotics, Inc. (0001849820) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1849820/000184982026000057/0001849820-26-000057-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T12:38:42.412590+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CHEMUNG FINANCIAL CORP (0000763563) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/763563/000117184326002529/0001171843-26-002529-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T12:38:42.412609+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PARKE BANCORP, INC. (0001315399) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1315399/000143774926012624/0001437749-26-012624-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T12:38:42.412613+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BADGER METER INC (0000009092) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/9092/000119312526160389/0001193125-26-160389-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T12:38:42.412620+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PureCycle Technologies, Inc. (0001830033) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1830033/000183003326000007/0001830033-26-000007-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T12:38:42.412627+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Vaxart, Inc. (0000072444) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/72444/000143774926012623/0001437749-26-012623-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T12:38:42.412632+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Tri Pointe Homes, Inc. (0001561680) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1561680/000119312526160387/0001193125-26-160387-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T12:38:42.412648+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - DANAHER CORP /DE/ (0000313616) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/313616/000119312526160383/0001193125-26-160383-index.htm"
   }
 ]
