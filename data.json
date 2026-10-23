@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-10-23T15:26:22.427104+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AB Private Credit Investors Corp (0001634452) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1634452/000119312526429794/0001193125-26-429794-index.htm"
+  },
+  {
     "time_utc": "2026-10-23T10:33:26.508864+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Madison Air Solutions Corp (0002098430) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2098430/000119312526161509/0001193125-26-161509-index.htm"
-  },
-  {
-    "time_utc": "2026-04-17T19:19:22.589793+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Zentalis Pharmaceuticals, Inc. (0001725160) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1725160/000172516026000020/0001725160-26-000020-index.htm"
   }
 ]
