@@ -1,4 +1,16 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-10-26T11:14:04.389215+00:00,US,SEC,8-K,,,,"8-K - Acumen Pharmaceuticals, Inc. (0001576885) (Filer)",https://www.sec.gov/Archives/edgar/data/1576885/000162828026067129/0001628280-26-067129-index.htm
+2026-10-26T11:14:04.389231+00:00,US,SEC,8-K,,,,8-K - RANGE RESOURCES CORP (0000315852) (Filer),https://www.sec.gov/Archives/edgar/data/315852/000119312526431025/0001193125-26-431025-index.htm
+2026-10-26T11:14:04.389249+00:00,US,SEC,8-K,,,,8-K - UNITED STATES ANTIMONY CORP (0000101538) (Filer),https://www.sec.gov/Archives/edgar/data/101538/000110465926118600/0001104659-26-118600-index.htm
+2026-10-26T11:14:04.389254+00:00,US,SEC,8-K,,,,8-K - VERIZON COMMUNICATIONS INC (0000732712) (Filer),https://www.sec.gov/Archives/edgar/data/732712/000073271226000049/0000732712-26-000049-index.htm
+2026-10-26T11:14:04.389259+00:00,US,SEC,8-K,,,,"8-K - HBT Financial, Inc. (0000775215) (Filer)",https://www.sec.gov/Archives/edgar/data/775215/000077521526000085/0000775215-26-000085-index.htm
+2026-10-26T11:14:04.389264+00:00,US,SEC,8-K,,,,"8-K - Getty Images Holdings, Inc. (0001898496) (Filer)",https://www.sec.gov/Archives/edgar/data/1898496/000121390026112265/0001213900-26-112265-index.htm
+2026-10-26T11:14:04.389269+00:00,US,SEC,8-K,,,,8-K - AUTOZONE INC (0000866787) (Filer),https://www.sec.gov/Archives/edgar/data/866787/000117184326006805/0001171843-26-006805-index.htm
+2026-10-26T11:14:04.389273+00:00,US,SEC,8-K,,,,"8-K - Zeo ScientifiX, Inc. (0001557376) (Filer)",https://www.sec.gov/Archives/edgar/data/1557376/000182912626011497/0001829126-26-011497-index.htm
+2026-10-26T11:14:04.389284+00:00,US,SEC,8-K,,,,8-K - LAKELAND FINANCIAL CORP (0000721994) (Filer),https://www.sec.gov/Archives/edgar/data/721994/000072199426000075/0000721994-26-000075-index.htm
+2026-10-26T11:14:04.389288+00:00,US,SEC,8-K,,,,8-K - LAKELAND FINANCIAL CORP (0000721994) (Filer),https://www.sec.gov/Archives/edgar/data/721994/000072199426000074/0000721994-26-000074-index.htm
+2026-10-26T11:14:04.389302+00:00,US,SEC,8-K,,,,8-K - Ovintiv Inc. (0001792580) (Filer),https://www.sec.gov/Archives/edgar/data/1792580/000095014226002834/0000950142-26-002834-index.htm
+2026-10-26T11:14:04.389314+00:00,US,SEC,8-K,,,,"8-K - Easterly Government Properties, Inc. (0001622194) (Filer)",https://www.sec.gov/Archives/edgar/data/1622194/000162219426000032/0001622194-26-000032-index.htm
 2026-10-23T19:28:16.527855+00:00,US,SEC,8-K,,,,8-K - Zevia PBC (0001854139) (Filer),https://www.sec.gov/Archives/edgar/data/1854139/000143774926033400/0001437749-26-033400-index.htm
 2026-10-23T19:28:16.527889+00:00,US,SEC,8-K,,,,8-K - Golub Capital Private Income Fund I (0002082559) (Filer),https://www.sec.gov/Archives/edgar/data/2082559/000208255926000095/0002082559-26-000095-index.htm
 2026-10-23T19:28:16.527904+00:00,US,SEC,8-K,,,,8-K - Golub Capital Private Income Fund S (0002082557) (Filer),https://www.sec.gov/Archives/edgar/data/2082557/000208255726000067/0002082557-26-000067-index.htm
@@ -1987,15 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-04-20T10:15:48.803860+00:00,US,SEC,8-K,,,,8-K - Investar Holding Corp (0001602658) (Filer),https://www.sec.gov/Archives/edgar/data/1602658/000143774926012741/0001437749-26-012741-index.htm
 2026-04-20T10:15:48.803870+00:00,US,SEC,8-K,,,,8-K - NEWS CORP (0001564708) (Filer),https://www.sec.gov/Archives/edgar/data/1564708/000156470826000081/0001564708-26-000081-index.htm
 2026-04-17T21:01:28.152401+00:00,US,SEC,8-K,,,,"8-K - BioXcel Therapeutics, Inc. (0001720893) (Filer)",https://www.sec.gov/Archives/edgar/data/1720893/000110465926044952/0001104659-26-044952-index.htm
-2026-04-17T21:01:28.152421+00:00,US,SEC,8-K,,,,8-K - Bayview Acquisition Corp (0001969475) (Filer),https://www.sec.gov/Archives/edgar/data/1969475/000149315226017906/0001493152-26-017906-index.htm
-2026-04-17T21:01:28.152428+00:00,US,SEC,8-K,,,,"8-K - Earth Science Tech, Inc. (0001538495) (Filer)",https://www.sec.gov/Archives/edgar/data/1538495/000149315226017907/0001493152-26-017907-index.htm
-2026-04-17T21:01:28.152433+00:00,US,SEC,8-K,,,,8-K - VOLITIONRX LTD (0000093314) (Filer),https://www.sec.gov/Archives/edgar/data/93314/000147793226002373/0001477932-26-002373-index.htm
-2026-04-17T21:01:28.152438+00:00,US,SEC,8-K,,,,8-K - Pearl Diver Credit Co Inc. (0001998043) (Filer),https://www.sec.gov/Archives/edgar/data/1998043/000121465926004813/0001214659-26-004813-index.htm
-2026-04-17T21:01:28.152465+00:00,US,SEC,8-K,,,,"8-K - WW INTERNATIONAL, INC. (0000105319) (Filer)",https://www.sec.gov/Archives/edgar/data/105319/000119312526161747/0001193125-26-161747-index.htm
-2026-04-17T21:01:28.152483+00:00,US,SEC,8-K,,,,8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer),https://www.sec.gov/Archives/edgar/data/1805521/000121390026045237/0001213900-26-045237-index.htm
-2026-04-17T20:06:36.496755+00:00,US,SEC,8-K,,,,"8-K - LIXTE BIOTECHNOLOGY HOLDINGS, INC. (0001335105) (Filer)",https://www.sec.gov/Archives/edgar/data/1335105/000149315226017833/0001493152-26-017833-index.htm
-2026-04-17T20:06:36.496778+00:00,US,SEC,8-K,,,,8-K - TopBuild Corp (0001633931) (Filer),https://www.sec.gov/Archives/edgar/data/1633931/000110465926044899/0001104659-26-044899-index.htm
-2026-04-17T20:06:36.496786+00:00,US,SEC,8-K,,,,8-K - Sizzle Acquisition Corp. II (0002030663) (Filer),https://www.sec.gov/Archives/edgar/data/2030663/000121390026045154/0001213900-26-045154-index.htm
-2026-04-17T20:06:36.496795+00:00,US,SEC,8-K,,,,8-K - SUMISHO AIR LEASE CORP (0001487712) (Filer),https://www.sec.gov/Archives/edgar/data/1487712/000119312526161515/0001193125-26-161515-index.htm
-2026-04-17T20:06:36.496808+00:00,US,SEC,8-K,,,,8-K - Zeo Energy Corp. (0001865506) (Filer),https://www.sec.gov/Archives/edgar/data/1865506/000121390026045152/0001213900-26-045152-index.htm
-2026-04-17T20:06:36.496813+00:00,US,SEC,8-K,,,,"8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer)",https://www.sec.gov/Archives/edgar/data/1895249/000110465926044897/0001104659-26-044897-index.htm
