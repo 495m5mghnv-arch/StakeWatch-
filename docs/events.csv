@@ -1,4 +1,14 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-10-27T12:02:27.276263+00:00,US,SEC,8-K,,,,8-K - Entera Bio Ltd. (0001638097) (Filer),https://www.sec.gov/Archives/edgar/data/1638097/000117891326004854/0001178913-26-004854-index.htm
+2026-10-27T12:02:27.276282+00:00,US,SEC,8-K,,,,8-K - SMITHFIELD FOODS INC (0000091388) (Filer),https://www.sec.gov/Archives/edgar/data/91388/000009138826000070/0000091388-26-000070-index.htm
+2026-10-27T12:02:27.276299+00:00,US,SEC,8-K,,,,8-K - CTS CORP (0000026058) (Filer),https://www.sec.gov/Archives/edgar/data/26058/000119312526432724/0001193125-26-432724-index.htm
+2026-10-27T12:02:27.276304+00:00,US,SEC,8-K,,,,"8-K - Central Bancompany, Inc. (0002065601) (Filer)",https://www.sec.gov/Archives/edgar/data/2065601/000162828026067416/0001628280-26-067416-index.htm
+2026-10-27T12:02:27.276309+00:00,US,SEC,8-K,,,,"8-K - Skyline Bankshares, Inc. (0001657642) (Filer)",https://www.sec.gov/Archives/edgar/data/1657642/000143774926033561/0001437749-26-033561-index.htm
+2026-10-27T12:02:27.276333+00:00,US,SEC,8-K,,,,8-K - Terrestrial Energy Inc. /DE/ (0002019804) (Filer),https://www.sec.gov/Archives/edgar/data/2019804/000201980426000030/0002019804-26-000030-index.htm
+2026-10-27T12:02:27.276337+00:00,US,SEC,8-K,,,,8-K - COMMVAULT SYSTEMS INC (0001169561) (Filer),https://www.sec.gov/Archives/edgar/data/1169561/000116956126000032/0001169561-26-000032-index.htm
+2026-10-27T12:02:27.276342+00:00,US,SEC,8-K,,,,8-K - NORWOOD FINANCIAL CORP (0001013272) (Filer),https://www.sec.gov/Archives/edgar/data/1013272/000101327226000024/0001013272-26-000024-index.htm
+2026-10-27T12:02:27.276349+00:00,US,SEC,8-K,,,,8-K - Zura Bio Ltd (0001855644) (Filer),https://www.sec.gov/Archives/edgar/data/1855644/000185564426000012/0001855644-26-000012-index.htm
+2026-10-27T12:02:27.276364+00:00,US,SEC,8-K,,,,"8-K - Wave Life Sciences, Inc. (0001631574) (Filer)",https://www.sec.gov/Archives/edgar/data/1631574/000119312526432690/0001193125-26-432690-index.htm
 2026-10-26T11:14:04.389215+00:00,US,SEC,8-K,,,,"8-K - Acumen Pharmaceuticals, Inc. (0001576885) (Filer)",https://www.sec.gov/Archives/edgar/data/1576885/000162828026067129/0001628280-26-067129-index.htm
 2026-10-26T11:14:04.389231+00:00,US,SEC,8-K,,,,8-K - RANGE RESOURCES CORP (0000315852) (Filer),https://www.sec.gov/Archives/edgar/data/315852/000119312526431025/0001193125-26-431025-index.htm
 2026-10-26T11:14:04.389249+00:00,US,SEC,8-K,,,,8-K - UNITED STATES ANTIMONY CORP (0000101538) (Filer),https://www.sec.gov/Archives/edgar/data/101538/000110465926118600/0001104659-26-118600-index.htm
@@ -1989,13 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-04-20T11:45:48.031085+00:00,US,SEC,8-K,,,,8-K - OPEN TEXT CORP (0001002638) (Filer),https://www.sec.gov/Archives/edgar/data/1002638/000100263826000031/0001002638-26-000031-index.htm
 2026-04-20T11:45:48.031089+00:00,US,SEC,8-K,,,,"8-K - STANLEY BLACK & DECKER, INC. (0000093556) (Filer)",https://www.sec.gov/Archives/edgar/data/93556/000119312526162675/0001193125-26-162675-index.htm
 2026-04-20T11:45:48.031098+00:00,US,SEC,8-K,,,,8-K - CENTRUS ENERGY CORP (0001065059) (Filer),https://www.sec.gov/Archives/edgar/data/1065059/000162828026025916/0001628280-26-025916-index.htm
-2026-04-20T11:45:48.031102+00:00,US,SEC,8-K,,,,"8-K - Cabaletta Bio, Inc. (0001759138) (Filer)",https://www.sec.gov/Archives/edgar/data/1759138/000175913826000016/0001759138-26-000016-index.htm
-2026-04-20T11:45:48.031109+00:00,US,SEC,8-K,,,,8-K - US ENERGY CORP (0000101594) (Filer),https://www.sec.gov/Archives/edgar/data/101594/000143774926012760/0001437749-26-012760-index.htm
-2026-04-20T11:45:48.031113+00:00,US,SEC,8-K,,,,"8-K - Mission Produce, Inc. (0001802974) (Filer)",https://www.sec.gov/Archives/edgar/data/1802974/000119312526162671/0001193125-26-162671-index.htm
-2026-04-20T11:45:48.031122+00:00,US,SEC,8-K,,,,8-K - NEOGEN CORP (0000711377) (Filer),https://www.sec.gov/Archives/edgar/data/711377/000119312526162667/0001193125-26-162667-index.htm
-2026-04-20T10:15:48.803810+00:00,US,SEC,8-K,,,,"8-K - GLOBAL TECH INDUSTRIES GROUP, INC. (0000356590) (Filer)",https://www.sec.gov/Archives/edgar/data/356590/000149315226017979/0001493152-26-017979-index.htm
-2026-04-20T10:15:48.803829+00:00,US,SEC,8-K,,,,"8-K - QXO, Inc. (0001236275) (Filer)",https://www.sec.gov/Archives/edgar/data/1236275/000110465926045111/0001104659-26-045111-index.htm
-2026-04-20T10:15:48.803852+00:00,US,SEC,8-K,,,,"8-K - Perspective Therapeutics, Inc. (0000728387) (Filer)",https://www.sec.gov/Archives/edgar/data/728387/000119312526162578/0001193125-26-162578-index.htm
-2026-04-20T10:15:48.803860+00:00,US,SEC,8-K,,,,8-K - Investar Holding Corp (0001602658) (Filer),https://www.sec.gov/Archives/edgar/data/1602658/000143774926012741/0001437749-26-012741-index.htm
-2026-04-20T10:15:48.803870+00:00,US,SEC,8-K,,,,8-K - NEWS CORP (0001564708) (Filer),https://www.sec.gov/Archives/edgar/data/1564708/000156470826000081/0001564708-26-000081-index.htm
-2026-04-17T21:01:28.152401+00:00,US,SEC,8-K,,,,"8-K - BioXcel Therapeutics, Inc. (0001720893) (Filer)",https://www.sec.gov/Archives/edgar/data/1720893/000110465926044952/0001104659-26-044952-index.htm
