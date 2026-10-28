@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-10-28T13:35:11.847631+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OSR Health, Inc. (0001840425) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1840425/000121390026113126/0001213900-26-113126-index.htm"
+  },
+  {
     "time_utc": "2026-10-27T12:02:27.276263+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - STANLEY BLACK & DECKER, INC. (0000093556) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/93556/000119312526162675/0001193125-26-162675-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T11:45:48.031098+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CENTRUS ENERGY CORP (0001065059) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026025916/0001628280-26-025916-index.htm"
   }
 ]
