@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-10-28T19:04:57.016363+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Curaleaf Holdings, Inc. (0001756770) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1756770/000162828026067856/0001628280-26-067856-index.htm"
+  },
+  {
     "time_utc": "2026-10-28T13:35:11.847631+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - OPEN TEXT CORP (0001002638) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1002638/000100263826000031/0001002638-26-000031-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T11:45:48.031089+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - STANLEY BLACK & DECKER, INC. (0000093556) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/93556/000119312526162675/0001193125-26-162675-index.htm"
   }
 ]
