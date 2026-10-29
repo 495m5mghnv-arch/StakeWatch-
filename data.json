@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-10-29T15:37:39.655691+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000193/0001331757-26-000193-index.htm"
+  },
+  {
     "time_utc": "2026-10-28T19:04:57.016363+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - SMARTFINANCIAL INC. (0001038773) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1038773/000110465926045196/0001104659-26-045196-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T11:45:48.031085+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - OPEN TEXT CORP (0001002638) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1002638/000100263826000031/0001002638-26-000031-index.htm"
   }
 ]

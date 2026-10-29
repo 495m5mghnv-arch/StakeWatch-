@@ -1,4 +1,5 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-10-29T15:37:39.655691+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer),https://www.sec.gov/Archives/edgar/data/1331757/000133175726000193/0001331757-26-000193-index.htm
 2026-10-28T19:04:57.016363+00:00,US,SEC,8-K,,,,"8-K - Curaleaf Holdings, Inc. (0001756770) (Filer)",https://www.sec.gov/Archives/edgar/data/1756770/000162828026067856/0001628280-26-067856-index.htm
 2026-10-28T13:35:11.847631+00:00,US,SEC,8-K,,,,"8-K - OSR Health, Inc. (0001840425) (Filer)",https://www.sec.gov/Archives/edgar/data/1840425/000121390026113126/0001213900-26-113126-index.htm
 2026-10-27T12:02:27.276263+00:00,US,SEC,8-K,,,,8-K - Entera Bio Ltd. (0001638097) (Filer),https://www.sec.gov/Archives/edgar/data/1638097/000117891326004854/0001178913-26-004854-index.htm
@@ -1998,4 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-04-20T11:45:48.031064+00:00,US,SEC,8-K,,,,8-K - enCore Energy Corp. (0001500881) (Filer),https://www.sec.gov/Archives/edgar/data/1500881/000119312526162680/0001193125-26-162680-index.htm
 2026-04-20T11:45:48.031073+00:00,US,SEC,8-K,,,,8-K - BICYCLE THERAPEUTICS PLC (0001761612) (Filer),https://www.sec.gov/Archives/edgar/data/1761612/000110465926045198/0001104659-26-045198-index.htm
 2026-04-20T11:45:48.031080+00:00,US,SEC,8-K,,,,8-K - SMARTFINANCIAL INC. (0001038773) (Filer),https://www.sec.gov/Archives/edgar/data/1038773/000110465926045196/0001104659-26-045196-index.htm
-2026-04-20T11:45:48.031085+00:00,US,SEC,8-K,,,,8-K - OPEN TEXT CORP (0001002638) (Filer),https://www.sec.gov/Archives/edgar/data/1002638/000100263826000031/0001002638-26-000031-index.htm
