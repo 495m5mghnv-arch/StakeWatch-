@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-10-29T20:34:56.358587+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - QUAKER CHEMICAL CORP (0000081362) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/81362/000162828026068281/0001628280-26-068281-index.htm"
+  },
+  {
+    "time_utc": "2026-10-29T20:34:56.358648+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - New Fortress Energy Inc. (0001749723) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1749723/000174972326000172/0001749723-26-000172-index.htm"
+  },
+  {
     "time_utc": "2026-10-29T15:37:39.655691+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - enCore Energy Corp. (0001500881) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1500881/000119312526162680/0001193125-26-162680-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T11:45:48.031073+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BICYCLE THERAPEUTICS PLC (0001761612) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1761612/000110465926045198/0001104659-26-045198-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T11:45:48.031080+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - SMARTFINANCIAL INC. (0001038773) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1038773/000110465926045196/0001104659-26-045196-index.htm"
   }
 ]
