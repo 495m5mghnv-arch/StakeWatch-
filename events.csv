@@ -1,4 +1,15 @@
 time_utc,region,source,event,buyer,target,percent,title,link
+2026-10-30T12:45:19.525688+00:00,US,SEC,8-K,,,,8-K - NELNET INC (0001258602) (Filer),https://www.sec.gov/Archives/edgar/data/1258602/000125860226000047/0001258602-26-000047-index.htm
+2026-10-30T12:45:19.525714+00:00,US,SEC,8-K,,,,8-K - IRADIMED CORP (0001325618) (Filer),https://www.sec.gov/Archives/edgar/data/1325618/000162828026068454/0001628280-26-068454-index.htm
+2026-10-30T12:45:19.525720+00:00,US,SEC,8-K,,,,8-K - VERRA MOBILITY Corp (0001682745) (Filer),https://www.sec.gov/Archives/edgar/data/1682745/000162828026068453/0001628280-26-068453-index.htm
+2026-10-30T12:45:19.525724+00:00,US,SEC,8-K,,,,"8-K - OpenWorld, Inc. (0001104038) (Filer)",https://www.sec.gov/Archives/edgar/data/1104038/000121465926013480/0001214659-26-013480-index.htm
+2026-10-30T12:45:19.525729+00:00,US,SEC,8-K,,,,8-K - Hilton Grand Vacations Inc. (0001674168) (Filer),https://www.sec.gov/Archives/edgar/data/1674168/000114036126041230/0001140361-26-041230-index.htm
+2026-10-30T12:45:19.525743+00:00,US,SEC,8-K,,,,8-K - Starwood Credit Real Estate Income Trust (0001986395) (Filer),https://www.sec.gov/Archives/edgar/data/1986395/000119312526439957/0001193125-26-439957-index.htm
+2026-10-30T12:45:19.525754+00:00,US,SEC,8-K,,,,"8-K - TerraVolt Holdings, Inc. (0001174891) (Filer)",https://www.sec.gov/Archives/edgar/data/1174891/000149315226049362/0001493152-26-049362-index.htm
+2026-10-30T12:45:19.525758+00:00,US,SEC,8-K,,,,8-K - Oxford Square Capital Corp. (0001259429) (Filer),https://www.sec.gov/Archives/edgar/data/1259429/000121390026114080/0001213900-26-114080-index.htm
+2026-10-30T12:45:19.525765+00:00,US,SEC,8-K,,,,8-K - Pluri Inc. (0001158780) (Filer),https://www.sec.gov/Archives/edgar/data/1158780/000121390026114079/0001213900-26-114079-index.htm
+2026-10-30T12:45:19.525769+00:00,US,SEC,8-K,,,,"8-K - Zeo ScientifiX, Inc. (0001557376) (Filer)",https://www.sec.gov/Archives/edgar/data/1557376/000182912626011800/0001829126-26-011800-index.htm
+2026-10-30T12:45:19.525781+00:00,US,SEC,8-K,,,,8-K - OPPENHEIMER HOLDINGS INC (0000791963) (Filer),https://www.sec.gov/Archives/edgar/data/791963/000162828026068451/0001628280-26-068451-index.htm
 2026-10-29T20:34:56.358587+00:00,US,SEC,8-K,,,,8-K - QUAKER CHEMICAL CORP (0000081362) (Filer),https://www.sec.gov/Archives/edgar/data/81362/000162828026068281/0001628280-26-068281-index.htm
 2026-10-29T20:34:56.358648+00:00,US,SEC,8-K,,,,8-K - New Fortress Energy Inc. (0001749723) (Filer),https://www.sec.gov/Archives/edgar/data/1749723/000174972326000172/0001749723-26-000172-index.htm
 2026-10-29T15:37:39.655691+00:00,US,SEC,8-K,,,,8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer),https://www.sec.gov/Archives/edgar/data/1331757/000133175726000193/0001331757-26-000193-index.htm
@@ -1988,14 +1999,3 @@ time_utc,region,source,event,buyer,target,percent,title,link
 2026-04-20T12:54:31.700410+00:00,US,SEC,8-K,,,,"8-K - Sila Realty Trust, Inc. (0001567925) (Filer)",https://www.sec.gov/Archives/edgar/data/1567925/000114036126015496/0001140361-26-015496-index.htm
 2026-04-20T12:54:31.700427+00:00,US,SEC,8-K,,,,8-K - YHN Acquisition I Ltd (0002020987) (Filer),https://www.sec.gov/Archives/edgar/data/2020987/000168316826003067/0001683168-26-003067-index.htm
 2026-04-20T12:54:31.700440+00:00,US,SEC,8-K,,,,"8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",https://www.sec.gov/Archives/edgar/data/1829311/000149315226018015/0001493152-26-018015-index.htm
-2026-04-20T12:54:31.700465+00:00,US,SEC,8-K,,,,8-K - Worksport Ltd (0001096275) (Filer),https://www.sec.gov/Archives/edgar/data/1096275/000149315226018013/0001493152-26-018013-index.htm
-2026-04-20T12:54:31.700470+00:00,US,SEC,8-K,,,,"8-K - AST SpaceMobile, Inc. (0001780312) (Filer)",https://www.sec.gov/Archives/edgar/data/1780312/000149315226018012/0001493152-26-018012-index.htm
-2026-04-20T12:54:31.700474+00:00,US,SEC,8-K,,,,8-K - BIO KEY INTERNATIONAL INC (0001019034) (Filer),https://www.sec.gov/Archives/edgar/data/1019034/000143774926012772/0001437749-26-012772-index.htm
-2026-04-20T12:54:31.700483+00:00,US,SEC,8-K,,,,8-K - Bristow Group Inc. (0001525221) (Filer),https://www.sec.gov/Archives/edgar/data/1525221/000152522126000068/0001525221-26-000068-index.htm
-2026-04-20T12:54:31.700490+00:00,US,SEC,8-K,,,,"8-K - Virgin Galactic Holdings, Inc (0001706946) (Filer)",https://www.sec.gov/Archives/edgar/data/1706946/000170694626000032/0001706946-26-000032-index.htm
-2026-04-20T11:45:48.031004+00:00,US,SEC,8-K,,,,8-K - Fermi Inc. (0002071778) (Filer),https://www.sec.gov/Archives/edgar/data/2071778/000121390026045351/0001213900-26-045351-index.htm
-2026-04-20T11:45:48.031028+00:00,US,SEC,8-K,,,,8-K - Owens Corning (0001370946) (Filer),https://www.sec.gov/Archives/edgar/data/1370946/000137094626000132/0001370946-26-000132-index.htm
-2026-04-20T11:45:48.031034+00:00,US,SEC,8-K,,,,"8-K - WW INTERNATIONAL, INC. (0000105319) (Filer)",https://www.sec.gov/Archives/edgar/data/105319/000119312526162712/0001193125-26-162712-index.htm
-2026-04-20T11:45:48.031038+00:00,US,SEC,8-K,,,,8-K - Neurogene Inc. (0001404644) (Filer),https://www.sec.gov/Archives/edgar/data/1404644/000140464426000030/0001404644-26-000030-index.htm
-2026-04-20T11:45:48.031055+00:00,US,SEC,8-K,,,,"8-K - Passage BIO, Inc. (0001787297) (Filer)",https://www.sec.gov/Archives/edgar/data/1787297/000110465926045219/0001104659-26-045219-index.htm
-2026-04-20T11:45:48.031064+00:00,US,SEC,8-K,,,,8-K - enCore Energy Corp. (0001500881) (Filer),https://www.sec.gov/Archives/edgar/data/1500881/000119312526162680/0001193125-26-162680-index.htm
