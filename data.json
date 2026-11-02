@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-11-02T18:41:13.094665+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - PUBLIX SUPER MARKETS INC (0000081061) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/81061/000008106126000097/0000081061-26-000097-index.htm"
+  },
+  {
     "time_utc": "2026-10-30T12:45:19.525688+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - YHN Acquisition I Ltd (0002020987) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2020987/000168316826003067/0001683168-26-003067-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T12:54:31.700440+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226018015/0001493152-26-018015-index.htm"
   }
 ]
