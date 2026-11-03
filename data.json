@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-11-03T16:08:42.576227+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - OMNIQ Corp. (0000278165) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/278165/000117184326007061/0001171843-26-007061-index.htm"
+  },
+  {
     "time_utc": "2026-11-02T18:41:13.094665+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Sila Realty Trust, Inc. (0001567925) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1567925/000114036126015496/0001140361-26-015496-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T12:54:31.700427+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - YHN Acquisition I Ltd (0002020987) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2020987/000168316826003067/0001683168-26-003067-index.htm"
   }
 ]
