@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-11-03T21:45:40.745439+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KADANT INC (0000886346) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/886346/000088634626000059/0000886346-26-000059-index.htm"
+  },
+  {
     "time_utc": "2026-11-03T16:08:42.576227+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - NEXT-ChemX Corporation. (0001657045) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1657045/000149315226018063/0001493152-26-018063-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T12:54:31.700410+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sila Realty Trust, Inc. (0001567925) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1567925/000114036126015496/0001140361-26-015496-index.htm"
   }
 ]
