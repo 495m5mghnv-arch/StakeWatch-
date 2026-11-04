@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-11-04T21:57:19.404877+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INDEPENDENT BANK CORP /MI/ (0000039311) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/39311/000003931126000069/0000039311-26-000069-index.htm"
+  },
+  {
     "time_utc": "2026-11-04T16:14:48.897171+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Bridgecrest Auto Funding LLC (0001974820) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1974820/000110465926045464/0001104659-26-045464-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T18:39:30.856475+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - 1 800 FLOWERS COM INC (0001084869) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1084869/000108486926000009/0001084869-26-000009-index.htm"
   }
 ]
