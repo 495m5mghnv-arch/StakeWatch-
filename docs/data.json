@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-11-06T17:38:49.619176+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Tri-State Generation & Transmission Association, Inc. (0001637880) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1637880/000163788026000054/0001637880-26-000054-index.htm"
+  },
+  {
     "time_utc": "2026-11-05T17:33:52.968797+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Bridgecrest Auto Funding LLC (0001974820) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1974820/000110465926045466/0001104659-26-045466-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T19:44:45.886493+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Bridgecrest Lending Auto Securitization Trust 2026-2 (0002121064) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2121064/000110465926045464/0001104659-26-045464-index.htm"
   }
 ]
