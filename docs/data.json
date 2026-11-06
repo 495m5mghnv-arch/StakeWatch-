@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-11-06T22:23:29.768642+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Quoin Pharmaceuticals Ltd. (0001671502) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926123960/0001104659-26-123960-index.htm"
+  },
+  {
     "time_utc": "2026-11-06T17:38:49.619176+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Bridgecrest Lending Auto Securitization Trust 2026-2 (0002121064) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/2121064/000110465926045466/0001104659-26-045466-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T19:44:45.886456+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Bridgecrest Auto Funding LLC (0001974820) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1974820/000110465926045466/0001104659-26-045466-index.htm"
   }
 ]
