@@ -1,5 +1,115 @@
 [
   {
+    "time_utc": "2026-11-09T13:44:42.620916+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - INNOVATIVE INDUSTRIAL PROPERTIES INC (0001677576) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1677576/000110465926124214/0001104659-26-124214-index.htm"
+  },
+  {
+    "time_utc": "2026-11-09T13:44:42.620936+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SS&C Technologies Holdings Inc (0001402436) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1402436/000119312526452749/0001193125-26-452749-index.htm"
+  },
+  {
+    "time_utc": "2026-11-09T13:44:42.620948+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - SONOCO PRODUCTS CO (0000091767) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/91767/000009176726000054/0000091767-26-000054-index.htm"
+  },
+  {
+    "time_utc": "2026-11-09T13:44:42.620954+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Fervo Energy Co (0001853868) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1853868/000162828026071911/0001628280-26-071911-index.htm"
+  },
+  {
+    "time_utc": "2026-11-09T13:44:42.620973+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aptevo Therapeutics Inc. (0001671584) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526452737/0001193125-26-452737-index.htm"
+  },
+  {
+    "time_utc": "2026-11-09T13:44:42.620977+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - ContextLogic Holdings Inc. (0002064307) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2064307/000119312526452736/0001193125-26-452736-index.htm"
+  },
+  {
+    "time_utc": "2026-11-09T13:44:42.620980+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - NEWELL BRANDS INC. (0000814453) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/814453/000081445326000043/0000814453-26-000043-index.htm"
+  },
+  {
+    "time_utc": "2026-11-09T13:44:42.620984+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Vistagen Therapeutics, Inc. (0001411685) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026071910/0001628280-26-071910-index.htm"
+  },
+  {
+    "time_utc": "2026-11-09T13:44:42.621001+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Vir Biotechnology, Inc. (0001706431) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1706431/000162828026071908/0001628280-26-071908-index.htm"
+  },
+  {
+    "time_utc": "2026-11-09T13:44:42.621013+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Empery Digital Inc. (0001829794) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826008412/0001683168-26-008412-index.htm"
+  },
+  {
     "time_utc": "2026-11-06T22:23:29.768642+00:00",
     "region": "US",
     "source": "SEC",
@@ -21888,115 +21998,5 @@
     "percent": "",
     "title": "8-K - GENERAL ELECTRIC CO (0000040545) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/40545/000004054526000026/0000040545-26-000026-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T10:50:12.163102+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PEOPLES BANCORP INC (0000318300) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/318300/000031830026000142/0000318300-26-000142-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T21:29:37.750727+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AEHR TEST SYSTEMS (0001040470) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1040470/000165495426003746/0001654954-26-003746-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T21:29:37.750755+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - FOXO TECHNOLOGIES INC. (0001812360) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1812360/000149315226018141/0001493152-26-018141-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T21:29:37.750768+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Allbirds, Inc. (0001653909) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1653909/000119312526164338/0001193125-26-164338-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T21:29:37.750780+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - AB Private Lending Fund (0001982701) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1982701/000119312526164335/0001193125-26-164335-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T21:29:37.750801+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ANAPTYSBIO, INC (0001370053) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1370053/000119312526164330/0001193125-26-164330-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T21:29:37.750827+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - First Tracks Biotherapeutics, Inc. (0002091349) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2091349/000119312526164328/0001193125-26-164328-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T20:30:14.170669+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Westrock Coffee Co (0001806347) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1806347/000110465926045523/0001104659-26-045523-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T20:30:14.170710+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Allegiant Travel CO (0001362468) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1362468/000114036126015676/0001140361-26-015676-index.htm"
-  },
-  {
-    "time_utc": "2026-04-20T19:44:45.886442+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Bridgecrest Lending Auto Securitization Trust 2026-2 (0002121064) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2121064/000110465926045466/0001104659-26-045466-index.htm"
   }
 ]
