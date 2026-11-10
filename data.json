@@ -1,5 +1,49 @@
 [
   {
+    "time_utc": "2026-11-10T12:58:48.795982+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Alliance Laundry Holdings Inc. (0001317685) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1317685/000162828026072509/0001628280-26-072509-index.htm"
+  },
+  {
+    "time_utc": "2026-11-10T12:58:48.796027+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - HIVE Digital Technologies Ltd. (0001720424) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1720424/000106299326005856/0001062993-26-005856-index.htm"
+  },
+  {
+    "time_utc": "2026-11-10T12:58:48.796037+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Kalaris Therapeutics, Inc. (0001754068) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1754068/000119312526454454/0001193125-26-454454-index.htm"
+  },
+  {
+    "time_utc": "2026-11-10T12:58:48.796042+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Mirum Pharmaceuticals, Inc. (0001759425) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000064/0001759425-26-000064-index.htm"
+  },
+  {
     "time_utc": "2026-11-09T13:44:42.620916+00:00",
     "region": "US",
     "source": "SEC",
@@ -21954,49 +21998,5 @@
     "percent": "",
     "title": "8-K - Sow Good Inc. (0001490161) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1490161/000182912626003683/0001829126-26-003683-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T10:50:12.163033+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - 3M CO (0000066740) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000171/0000066740-26-000171-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T10:50:12.163038+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - EQUIFAX INC (0000033185) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000016/0000033185-26-000016-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T10:50:12.163062+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Hyperscale Data, Inc. (0000896493) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/896493/000121465926004856/0001214659-26-004856-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T10:50:12.163074+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GENERAL ELECTRIC CO (0000040545) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/40545/000004054526000026/0000040545-26-000026-index.htm"
   }
 ]
