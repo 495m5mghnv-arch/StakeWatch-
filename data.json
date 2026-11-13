@@ -1,5 +1,93 @@
 [
   {
+    "time_utc": "2026-11-13T13:20:45.304312+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Quantum Cyber N.V. (0001874252) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1874252/000121390026119227/0001213900-26-119227-index.htm"
+  },
+  {
+    "time_utc": "2026-11-13T13:20:45.304333+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Aardvark Therapeutics, Inc. (0001774857) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1774857/000119312526459373/0001193125-26-459373-index.htm"
+  },
+  {
+    "time_utc": "2026-11-13T13:20:45.304351+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Cineverse Corp. (0001173204) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1173204/000119312526459364/0001193125-26-459364-index.htm"
+  },
+  {
+    "time_utc": "2026-11-13T13:20:45.304361+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - TITAN INTERNATIONAL INC (0000899751) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/899751/000089975126000088/0000899751-26-000088-index.htm"
+  },
+  {
+    "time_utc": "2026-11-13T13:20:45.304364+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Transglobal Management Group, Inc. (0001434601) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1434601/000168316826008649/0001683168-26-008649-index.htm"
+  },
+  {
+    "time_utc": "2026-11-13T13:20:45.304368+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Biofrontera Inc. (0001858685) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1858685/000149315226051546/0001493152-26-051546-index.htm"
+  },
+  {
+    "time_utc": "2026-11-13T13:20:45.304371+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - REVVITY, INC. (0000031791) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/31791/000162828026073578/0001628280-26-073578-index.htm"
+  },
+  {
+    "time_utc": "2026-11-13T13:20:45.304378+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Owlet, Inc. (0001816708) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1816708/000181670826000099/0001816708-26-000099-index.htm"
+  },
+  {
     "time_utc": "2026-11-10T12:58:48.795982+00:00",
     "region": "US",
     "source": "SEC",
@@ -21910,93 +21998,5 @@
     "percent": "",
     "title": "8-K - CITIZENS FINANCIAL SERVICES INC (0000739421) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/739421/000073942126000021/0000739421-26-000021-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T11:50:47.591481+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - GENUINE PARTS CO (0000040987) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000015/0000040987-26-000015-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T11:50:47.591485+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - VICOR CORP (0000751978) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/751978/000119312526165105/0001193125-26-165105-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T11:50:47.591489+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - VALMONT INDUSTRIES INC (0000102729) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/102729/000110465926045698/0001104659-26-045698-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T10:50:12.162978+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MSCI Inc. (0001408198) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1408198/000140819826000032/0001408198-26-000032-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T10:50:12.162995+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - QUEST DIAGNOSTICS INC (0001022079) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1022079/000102207926000040/0001022079-26-000040-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T10:50:12.163002+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Atlantic Union Bankshares Corp (0000883948) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/883948/000088394826000030/0000883948-26-000030-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T10:50:12.163012+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NORTHROP GRUMMAN CORP /DE/ (0001133421) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000015/0001133421-26-000015-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T10:50:12.163019+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Sow Good Inc. (0001490161) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1490161/000182912626003683/0001829126-26-003683-index.htm"
   }
 ]
