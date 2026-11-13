@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-11-13T20:35:35.481068+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Core University Living Real Estate Income Trust (0002119505) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2119505/000119312526460457/0001193125-26-460457-index.htm"
+  },
+  {
     "time_utc": "2026-11-13T13:20:45.304312+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - Zeo ScientifiX, Inc. (0001557376) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1557376/000182912626003684/0001829126-26-003684-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T11:50:47.591472+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - CITIZENS FINANCIAL SERVICES INC (0000739421) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/739421/000073942126000021/0000739421-26-000021-index.htm"
   }
 ]
