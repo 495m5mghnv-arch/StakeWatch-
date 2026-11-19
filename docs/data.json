@@ -1,5 +1,27 @@
 [
   {
+    "time_utc": "2026-11-19T16:50:49.788917+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000186/0001326771-26-000186-index.htm"
+  },
+  {
+    "time_utc": "2026-11-19T16:50:49.788951+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - CROSS TIMBERS ROYALTY TRUST (0000881787) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/881787/000119312526468044/0001193125-26-468044-index.htm"
+  },
+  {
     "time_utc": "2026-11-17T19:24:30.202045+00:00",
     "region": "US",
     "source": "SEC",
@@ -21976,27 +21998,5 @@
     "percent": "",
     "title": "8-K - Simply Good Foods Co (0001702744) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1702744/000110465926045701/0001104659-26-045701-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T11:50:47.591454+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Blackstone Private Credit Fund (0001803498) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1803498/000180349826000021/0001803498-26-000021-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T11:50:47.591458+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/64463/000149315226018192/0001493152-26-018192-index.htm"
   }
 ]
