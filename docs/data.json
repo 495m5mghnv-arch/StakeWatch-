@@ -1,5 +1,82 @@
 [
   {
+    "time_utc": "2026-11-23T13:10:21.142966+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - AMERICAN TOWER CORP /MA/ (0001053507) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000169/0001053507-26-000169-index.htm"
+  },
+  {
+    "time_utc": "2026-11-23T13:10:21.142992+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Deep Isolation Nuclear, Inc. (0001918080) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026122920/0001213900-26-122920-index.htm"
+  },
+  {
+    "time_utc": "2026-11-23T13:10:21.142997+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Advanced Flower Capital Inc. (0001822523) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1822523/000162828026075373/0001628280-26-075373-index.htm"
+  },
+  {
+    "time_utc": "2026-11-23T13:10:21.143004+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Inflection Point Acquisition Corp. VII (0002088805) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026122915/0001213900-26-122915-index.htm"
+  },
+  {
+    "time_utc": "2026-11-23T13:10:21.143023+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - My Size, Inc. (0001211805) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1211805/000149315226053647/0001493152-26-053647-index.htm"
+  },
+  {
+    "time_utc": "2026-11-23T13:10:21.143026+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - KIDZ AI Inc. (0002022308) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2022308/000147793226007222/0001477932-26-007222-index.htm"
+  },
+  {
+    "time_utc": "2026-11-23T13:10:21.143029+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Childrens Place, Inc. (0001041859) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1041859/000110465926130861/0001104659-26-130861-index.htm"
+  },
+  {
     "time_utc": "2026-11-20T12:52:29.863024+00:00",
     "region": "US",
     "source": "SEC",
@@ -21921,82 +21998,5 @@
     "percent": "",
     "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000082/0001325878-26-000082-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T16:19:34.930719+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - NORTHERN TRUST CORP (0000073124) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/73124/000007312426000029/0000073124-26-000029-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T16:19:34.930758+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - HORTON D R INC /DE/ (0000882184) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/882184/000088218426000062/0000882184-26-000062-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T16:19:34.930799+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - PCS Edventures!, Inc. (0001122020) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1122020/000149315226018247/0001493152-26-018247-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T15:02:18.903301+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000070/0001331757-26-000070-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T15:02:18.903338+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000059/0001325814-26-000059-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T15:02:18.903382+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - COMMUNITY BANCORP /VT (0000718413) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/718413/000165495426003762/0001654954-26-003762-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T13:43:02.597940+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - MainStreet Bancshares, Inc. (0001693577) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1693577/000143774926012891/0001437749-26-012891-index.htm"
   }
 ]
