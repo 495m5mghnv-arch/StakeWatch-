@@ -1,5 +1,38 @@
 [
   {
+    "time_utc": "2026-11-25T14:05:50.606686+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Meridian Holdings Inc./NV (0001437925) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1437925/000147793226007297/0001477932-26-007297-index.htm"
+  },
+  {
+    "time_utc": "2026-11-25T14:05:50.606710+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - MAYS J W INC (0000054187) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/54187/000120677426000614/0001206774-26-000614-index.htm"
+  },
+  {
+    "time_utc": "2026-11-25T14:05:50.606718+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - Axos Financial, Inc. (0001299709) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1299709/000129970926000092/0001299709-26-000092-index.htm"
+  },
+  {
     "time_utc": "2026-11-24T20:53:38.390188+00:00",
     "region": "US",
     "source": "SEC",
@@ -21965,38 +21998,5 @@
     "percent": "",
     "title": "8-K - ATLANTIC AMERICAN CORP (0000008177) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/8177/000114036126015929/0001140361-26-015929-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T18:42:27.356944+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ENIGMA-BULWARK, LTD (0001379245) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1379245/000137924526000008/0001379245-26-000008-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T18:42:27.356974+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - APEX Tech Acquisition Inc. (0002085485) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2085485/000147793226002443/0001477932-26-002443-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T17:31:23.486792+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000060/0001326771-26-000060-index.htm"
   }
 ]
