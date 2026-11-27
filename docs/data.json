@@ -1,5 +1,16 @@
 [
   {
+    "time_utc": "2026-11-27T15:20:30.228304+00:00",
+    "region": "US",
+    "source": "SEC",
+    "event": "8-K",
+    "buyer": "",
+    "target": "",
+    "percent": "",
+    "title": "8-K - QHSLab, Inc. (0000856984) (Filer)",
+    "link": "https://www.sec.gov/Archives/edgar/data/856984/000149315226054448/0001493152-26-054448-index.htm"
+  },
+  {
     "time_utc": "2026-11-25T14:05:50.606686+00:00",
     "region": "US",
     "source": "SEC",
@@ -21987,16 +21998,5 @@
     "percent": "",
     "title": "8-K - PREAXIA HEALTH CARE PAYMENT SYSTEMS INC. (0001350156) (Filer)",
     "link": "https://www.sec.gov/Archives/edgar/data/1350156/000107997326000518/0001079973-26-000518-index.htm"
-  },
-  {
-    "time_utc": "2026-04-21T20:54:23.747974+00:00",
-    "region": "US",
-    "source": "SEC",
-    "event": "8-K",
-    "buyer": "",
-    "target": "",
-    "percent": "",
-    "title": "8-K - ATLANTIC AMERICAN CORP (0000008177) (Filer)",
-    "link": "https://www.sec.gov/Archives/edgar/data/8177/000114036126015929/0001140361-26-015929-index.htm"
   }
 ]
